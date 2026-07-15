@@ -24,7 +24,7 @@ describe('renderSpotList', () => {
     renderSpotList(container, [
       {
         id: 'y',
-        name: 'Tokyo & Kyoto Secret Spot',
+        name: 'Tokyo <Secret> & Kyoto Spot',
         description: 'Explore <hidden> corners and "authentic" backstreets',
       },
     ]);
@@ -32,8 +32,9 @@ describe('renderSpotList', () => {
     const h3Html = card.querySelector('h3').innerHTML;
     const pHtml = card.querySelector('p').innerHTML;
 
+    expect(h3Html).toContain('&lt;Secret&gt;');
+    expect(h3Html).not.toContain('<Secret>');
     expect(h3Html).toContain('&amp;');
-    expect(h3Html).not.toContain('Tokyo & Kyoto');
     expect(pHtml).toContain('&lt;');
     expect(pHtml).toContain('&gt;');
     expect(pHtml).not.toContain('<hidden>');
