@@ -27,4 +27,20 @@ describe('renderAffiliateLinkHtml', () => {
     expect(html).toContain('Book a tour (Klook)');
     expect(html).toContain('[PR]');
   });
+
+  it('escapes HTML entities in label, url, and provider to prevent XSS', () => {
+    const html = renderAffiliateLinkHtml({
+      label: 'Book a "great" tour <now>',
+      url: 'https://example.com/x?a=1&b="<script>',
+      provider: 'Klook & Co<img src=x>',
+    });
+    // Verify escaped forms are present
+    expect(html).toContain('&quot;');
+    expect(html).toContain('&lt;');
+    expect(html).toContain('&gt;');
+    expect(html).toContain('&amp;');
+    // Verify raw unescaped < and " are NOT in the rendered HTML
+    expect(html).not.toMatch(/href="[^"]*<[^"]*"/);
+    expect(html).not.toMatch(/>Book[^<]*<script/i);
+  });
 });
