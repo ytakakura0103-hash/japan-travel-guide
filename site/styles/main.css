@@ -228,6 +228,10 @@ nav a:hover {
   margin-bottom: var(--space-2);
 }
 
+.itinerary-links {
+  margin-top: var(--space-1);
+}
+
 /* Hanko stamp (hidden gem cards) */
 
 .hanko {

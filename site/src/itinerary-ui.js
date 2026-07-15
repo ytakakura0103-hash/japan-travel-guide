@@ -14,7 +14,7 @@ function escapeHtml(value) {
 function renderRouteHtml(days) {
   const stops = Array.from({ length: days || 0 }, (_, index) => index + 1);
   return `
-    <div class="route" role="img" aria-label="${days}-day route">
+    <div class="route" role="img" aria-label="${days}-stop route">
       ${stops
         .map(
           (stop, index) => `
