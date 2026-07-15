@@ -45,4 +45,15 @@ describe('renderItineraryResults', () => {
     expect(pHtml).toContain('&gt;');
     expect(pHtml).not.toContain('<temples>');
   });
+
+  it('renders one route stop marker per day, numbered from 1', () => {
+    const container = document.createElement('div');
+    renderItineraryResults(container, [
+      { id: 'a', title: 'Trip', summary: 'Summary', days: 3, affiliateLinks: [] },
+    ]);
+    const markers = container.querySelectorAll('.route-marker');
+    expect(markers).toHaveLength(3);
+    expect(markers[0].textContent).toBe('1');
+    expect(markers[2].textContent).toBe('3');
+  });
 });

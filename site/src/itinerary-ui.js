@@ -11,9 +11,27 @@ function escapeHtml(value) {
     .replace(/"/g, '&quot;');
 }
 
+function renderRouteHtml(days) {
+  const stops = Array.from({ length: days || 0 }, (_, index) => index + 1);
+  return `
+    <div class="route" role="img" aria-label="${days}-day route">
+      ${stops
+        .map(
+          (stop, index) => `
+            <span class="route-stop">
+              <span class="route-marker">${stop}</span>
+              ${index < stops.length - 1 ? '<span class="route-line" aria-hidden="true"></span>' : ''}
+            </span>
+          `
+        )
+        .join('')}
+    </div>
+  `;
+}
+
 export function renderItineraryResults(container, itineraries) {
   if (itineraries.length === 0) {
-    container.innerHTML = '<p class="no-results">No itineraries match your filters yet. Try widening your search.</p>';
+    container.innerHTML = '<p class="no-results">No routes match your filters yet. Try widening your search.</p>';
     return;
   }
 
@@ -22,6 +40,8 @@ export function renderItineraryResults(container, itineraries) {
       const links = (itinerary.affiliateLinks || []).map(renderAffiliateLinkHtml).join('');
       return `
         <article class="itinerary-card">
+          <span class="route-label">${itinerary.days}-Stop Route</span>
+          ${renderRouteHtml(itinerary.days)}
           <h3>${escapeHtml(itinerary.title)}</h3>
           <p>${escapeHtml(itinerary.summary)}</p>
           <div class="itinerary-links">${links}</div>
