@@ -39,4 +39,12 @@ describe('renderSpotList', () => {
     expect(pHtml).toContain('&gt;');
     expect(pHtml).not.toContain('<hidden>');
   });
+
+  it('marks each spot with a locally-verified hanko stamp', () => {
+    const container = document.createElement('div');
+    renderSpotList(container, [{ id: 'x', name: 'Spot', description: 'Desc' }]);
+    const hanko = container.querySelector('.hanko');
+    expect(hanko).not.toBeNull();
+    expect(hanko.textContent).toBe('認');
+  });
 });

@@ -11,7 +11,7 @@ function escapeHtml(value) {
 
 export function renderSpotList(container, spots) {
   if (spots.length === 0) {
-    container.innerHTML = '<p class="no-results">No hidden gems match your filters yet. Try widening your search.</p>';
+    container.innerHTML = '<p class="no-results">No verified picks match your filters yet. Try widening your search.</p>';
     return;
   }
 
@@ -19,6 +19,7 @@ export function renderSpotList(container, spots) {
     .map(
       (spot) => `
         <article class="spot-card">
+          <span class="hanko" aria-label="Locally verified pick">認</span>
           <h3>${escapeHtml(spot.name)}</h3>
           <p>${escapeHtml(spot.description)}</p>
         </article>
