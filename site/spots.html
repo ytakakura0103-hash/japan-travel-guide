@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hidden Gems in Japan - Off the Beaten Path</title>
+  <link rel="stylesheet" href="styles/main.css" />
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="itinerary.html">Itinerary Planner</a>
+    <a href="spots.html">Hidden Gems</a>
+    <a href="privacy.html">Privacy</a>
+  </nav>
+  <main>
+    <h1>Hidden Gems, Curated by Locals</h1>
+    <div class="map-embed">
+      <iframe src="https://www.google.com/maps/d/embed?mid=REPLACE_WITH_MY_MAPS_ID" loading="lazy"></iframe>
+    </div>
+    <form id="spots-form">
+      <label>
+        Area
+        <select name="area">
+          <option value="">Any</option>
+          <option value="Tokyo">Tokyo</option>
+          <option value="Kyoto">Kyoto</option>
+          <option value="Osaka">Osaka</option>
+        </select>
+      </label>
+      <button type="submit">Filter</button>
+    </form>
+    <div id="results"></div>
+  </main>
+  <script type="module" src="src/spots-page.js"></script>
+</body>
+</html>
