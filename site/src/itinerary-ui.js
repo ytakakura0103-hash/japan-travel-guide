@@ -1,5 +1,16 @@
 import { renderAffiliateLinkHtml } from './affiliate.js';
 
+function escapeHtml(value) {
+  if (typeof value !== 'string') {
+    return value;
+  }
+  return value
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
 export function renderItineraryResults(container, itineraries) {
   if (itineraries.length === 0) {
     container.innerHTML = '<p class="no-results">No itineraries match your filters yet. Try widening your search.</p>';
@@ -11,8 +22,8 @@ export function renderItineraryResults(container, itineraries) {
       const links = (itinerary.affiliateLinks || []).map(renderAffiliateLinkHtml).join('');
       return `
         <article class="itinerary-card">
-          <h3>${itinerary.title}</h3>
-          <p>${itinerary.summary}</p>
+          <h3>${escapeHtml(itinerary.title)}</h3>
+          <p>${escapeHtml(itinerary.summary)}</p>
           <div class="itinerary-links">${links}</div>
         </article>
       `;
