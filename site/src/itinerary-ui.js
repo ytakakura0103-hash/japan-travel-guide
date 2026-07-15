@@ -38,10 +38,15 @@ export function renderItineraryResults(container, itineraries) {
   container.innerHTML = itineraries
     .map((itinerary) => {
       const links = (itinerary.affiliateLinks || []).map(renderAffiliateLinkHtml).join('');
-      return `
-        <article class="itinerary-card">
+      const routeSection = itinerary.days
+        ? `
           <span class="route-label">${itinerary.days}-Stop Route</span>
           ${renderRouteHtml(itinerary.days)}
+        `
+        : '';
+      return `
+        <article class="itinerary-card">
+          ${routeSection}
           <h3>${escapeHtml(itinerary.title)}</h3>
           <p>${escapeHtml(itinerary.summary)}</p>
           <div class="itinerary-links">${links}</div>

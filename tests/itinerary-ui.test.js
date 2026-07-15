@@ -56,4 +56,15 @@ describe('renderItineraryResults', () => {
     expect(markers[0].textContent).toBe('1');
     expect(markers[2].textContent).toBe('3');
   });
+
+  it('omits the route section when days is missing', () => {
+    const container = document.createElement('div');
+    renderItineraryResults(container, [
+      { id: 'c', title: 'No Days Trip', summary: 'Summary', affiliateLinks: [] },
+    ]);
+    const card = container.querySelector('.itinerary-card');
+    expect(card.querySelector('.route-label')).toBeNull();
+    expect(card.querySelector('.route')).toBeNull();
+    expect(card.innerHTML).not.toContain('undefined');
+  });
 });
