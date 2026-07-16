@@ -1,6 +1,6 @@
 import { renderAffiliateLinkHtml } from './affiliate.js';
 
-function escapeHtml(value) {
+export function escapeHtml(value) {
   if (typeof value !== 'string') {
     return value;
   }
@@ -11,7 +11,7 @@ function escapeHtml(value) {
     .replace(/"/g, '&quot;');
 }
 
-const INTEREST_LABELS = {
+export const INTEREST_LABELS = {
   sightseeing: 'Sightseeing Spots',
   history: 'History',
   food: 'Food & Dining',
@@ -34,23 +34,23 @@ const INTEREST_LABELS = {
   'seasonal-nature': 'Seasonal Nature (Cherry Blossoms / Autumn Leaves)',
 };
 
-function renderTagsHtml(interests) {
+export function renderTagsHtml(interests) {
   return (interests || [])
     .map((interest) => `<span class="tag">${escapeHtml(INTEREST_LABELS[interest] || interest)}</span>`)
     .join('');
 }
 
-function renderPhotoHtml(activity) {
+export function renderPhotoHtml(activity) {
   if (activity.imageUrl) {
     return `<img class="activity-photo" src="${escapeHtml(activity.imageUrl)}" alt="${escapeHtml(activity.title)}" loading="lazy" />`;
   }
   return '<div class="activity-photo activity-photo-placeholder" aria-hidden="true"></div>';
 }
 
-function buildGoogleMapsUrl(activity) {
-  const query = activity.address
-    ? `${activity.title}, ${activity.address}`
-    : `${activity.title}, ${activity.city}`;
+export function buildGoogleMapsUrl(activity) {
+  const query =
+    activity.mapsQuery ||
+    (activity.address ? `${activity.title}, ${activity.address}` : `${activity.title}, ${activity.city}`);
   return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
 }
 
@@ -62,24 +62,15 @@ export function renderActivityResults(container, activities) {
 
   container.innerHTML = activities
     .map((activity) => {
-      const links = (activity.affiliateLinks || []).map(renderAffiliateLinkHtml).join('');
-      const officialLink = activity.officialUrl
-        ? `<a class="official-link" href="${escapeHtml(activity.officialUrl)}" target="_blank" rel="noopener">Official site</a>`
-        : '';
-      const mapsLink = `<a class="maps-link" href="${escapeHtml(buildGoogleMapsUrl(activity))}" target="_blank" rel="noopener">Open in Google Maps</a>`;
       const localPickBadge = activity.isLocalPick ? '<span class="local-pick-badge">Local Pick</span>' : '';
       return `
         <article class="activity-card">
           ${renderPhotoHtml(activity)}
           <div class="activity-card-body">
             ${localPickBadge}
-            <h3>${escapeHtml(activity.title)}</h3>
+            <h3><a href="spots/${escapeHtml(activity.id)}.html">${escapeHtml(activity.title)}</a></h3>
             <p>${escapeHtml(activity.summary)}</p>
-            <p class="activity-address">${escapeHtml(activity.address)}</p>
-            <p class="activity-maps">${mapsLink}</p>
-            <p class="activity-access">${escapeHtml(activity.access)}</p>
             <div class="activity-tags">${renderTagsHtml(activity.interests)}</div>
-            <div class="activity-links">${links}${officialLink}</div>
           </div>
         </article>
       `;
