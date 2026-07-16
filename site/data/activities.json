@@ -1,0 +1,96 @@
+[
+  {
+    "id": "senso-ji-temple",
+    "title": "Senso-ji Temple",
+    "city": "Tokyo",
+    "interests": ["temples-shrines", "history", "sightseeing"],
+    "summary": "Tokyo's oldest temple, founded in 645 AD, with the iconic Kaminarimon gate and a lively approach street.",
+    "access": "5-minute walk from Asakusa Station (Tokyo Metro Ginza Line)",
+    "imageUrl": null,
+    "officialUrl": "https://www.senso-ji.jp/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a guided Asakusa tour", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "yanaka-ginza",
+    "title": "Yanaka Ginza",
+    "city": "Tokyo",
+    "interests": ["backstreets", "local-markets", "food"],
+    "summary": "An old-town shopping street with local snacks and a relaxed, un-touristy atmosphere.",
+    "access": "7-minute walk from Nippori Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "tsukiji-outer-market",
+    "title": "Tsukiji Outer Market Food Tour",
+    "city": "Tokyo",
+    "interests": ["food", "local-markets"],
+    "summary": "Fresh seafood, street food stalls, and knife shops in Tokyo's famous market district.",
+    "access": "2-minute walk from Tsukijishijo Station (Toei Oedo Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Tsukiji food tour", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "fushimi-inari-shrine",
+    "title": "Fushimi Inari Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "history", "nature", "photo-spots"],
+    "summary": "Thousands of vermilion torii gates winding up the mountain — most visitors turn back early, but the upper trail is quiet and forested.",
+    "access": "5-minute walk from Inari Station (JR Nara Line)",
+    "imageUrl": null,
+    "officialUrl": "https://inari.jp/en/",
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book an Arashiyama & Fushimi Inari day tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "arashiyama-bamboo-grove",
+    "title": "Arashiyama Bamboo Grove",
+    "city": "Kyoto",
+    "interests": ["nature", "photo-spots", "sightseeing"],
+    "summary": "A soaring bamboo forest path, best visited early morning before the crowds arrive.",
+    "access": "5-minute walk from Saga-Arashiyama Station (JR Sagano Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book an Arashiyama bamboo grove tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "dotonbori-food-crawl",
+    "title": "Dotonbori Food Crawl",
+    "city": "Osaka",
+    "interests": ["food", "nightlife", "sightseeing"],
+    "summary": "Neon signs, street food stalls, and Osaka's famous canal-side dining strip.",
+    "access": "3-minute walk from Namba Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Dotonbori food tour", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "shimokitazawa-backstreets",
+    "title": "Shimokitazawa Backstreets",
+    "city": "Tokyo",
+    "interests": ["backstreets", "nightlife", "shopping"],
+    "summary": "Vintage shops and standing bars packed into narrow streets, popular with local students rather than tour groups.",
+    "access": "1-minute walk from Shimokitazawa Station (Odakyu / Keio Inokashira Lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  }
+]
