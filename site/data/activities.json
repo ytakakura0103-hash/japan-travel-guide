@@ -40,6 +40,448 @@
     ]
   },
   {
+    "id": "shimokitazawa-backstreets",
+    "title": "Shimokitazawa Backstreets",
+    "city": "Tokyo",
+    "interests": ["backstreets", "nightlife", "shopping"],
+    "summary": "Vintage shops and standing bars packed into narrow streets, popular with local students rather than tour groups.",
+    "access": "1-minute walk from Shimokitazawa Station (Odakyu / Keio Inokashira Lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "meiji-jingu-shrine",
+    "title": "Meiji Jingu Shrine",
+    "city": "Tokyo",
+    "interests": ["temples-shrines", "nature", "history"],
+    "summary": "A forested shrine at the edge of Harajuku, built for Emperor Meiji, where a ten-minute walk through 100,000 donated trees replaces the city noise with birdsong.",
+    "access": "1-minute walk from Harajuku Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": "https://www.meijijingu.or.jp/en/",
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "shibuya-scramble-crossing",
+    "title": "Shibuya Scramble Crossing",
+    "city": "Tokyo",
+    "interests": ["sightseeing", "photo-spots", "nightlife"],
+    "summary": "The famously chaotic pedestrian crossing where up to 3,000 people cross at once — best viewed from the Shibuya Sky observatory or a window seat in a nearby cafe.",
+    "access": "Directly outside Shibuya Station's Hachiko Exit (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Shibuya Sky observatory tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "takeshita-street-harajuku",
+    "title": "Takeshita Street",
+    "city": "Tokyo",
+    "interests": ["shopping", "pop-culture", "family"],
+    "summary": "A narrow pedestrian street packed with crepe stands, pastel fashion boutiques, and character goods stores — the birthplace of Harajuku's youth fashion scene.",
+    "access": "1-minute walk from Harajuku Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "ginza-shopping-district",
+    "title": "Ginza",
+    "city": "Tokyo",
+    "interests": ["shopping", "architecture", "cafes-sweets"],
+    "summary": "Tokyo's most polished shopping district, lined with flagship department stores and architect-designed boutiques; on weekend afternoons the main avenue closes to cars entirely.",
+    "access": "1-minute walk from Ginza Station (Tokyo Metro Ginza/Marunouchi/Hibiya Lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "akihabara-electric-town",
+    "title": "Akihabara Electric Town",
+    "city": "Tokyo",
+    "interests": ["pop-culture", "shopping"],
+    "summary": "Multi-storey electronics and anime shops stacked on top of each other, plus retro arcades and maid cafes — the center of Tokyo's otaku culture.",
+    "access": "1-minute walk from Akihabara Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "ueno-park-and-zoo",
+    "title": "Ueno Park & Ueno Zoo",
+    "city": "Tokyo",
+    "interests": ["nature", "family", "seasonal-nature"],
+    "summary": "A sprawling public park that turns into one of Tokyo's most popular cherry blossom spots each spring, home to Japan's oldest zoo, a lotus pond, and several museums.",
+    "access": "2-minute walk from Ueno Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": "https://www.tokyo-zoo.net/english/ueno/",
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "tokyo-national-museum",
+    "title": "Tokyo National Museum",
+    "city": "Tokyo",
+    "interests": ["art-museums", "history"],
+    "summary": "Japan's oldest and largest museum, holding samurai armor, ukiyo-e prints, and Buddhist sculpture spanning thousands of years across several galleries inside Ueno Park.",
+    "access": "10-minute walk from Ueno Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": "https://www.tnm.jp/?lang=en",
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "ameyoko-market",
+    "title": "Ameyoko Market",
+    "city": "Tokyo",
+    "interests": ["local-markets", "food", "shopping"],
+    "summary": "A loud, crowded market street under the train tracks near Ueno, selling everything from fresh fish and dried snacks to discount sneakers and imported spices.",
+    "access": "1-minute walk from Ueno Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "ryogoku-sumo-district",
+    "title": "Ryogoku Sumo District",
+    "city": "Tokyo",
+    "interests": ["traditional-culture", "sightseeing"],
+    "summary": "Home to the Ryogoku Kokugikan sumo arena and dozens of sumo stables — visit during a tournament month to hear the crowd roar, or just wander past chanko-nabe restaurants year-round.",
+    "access": "1-minute walk from Ryogoku Station (JR Sobu Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a sumo tournament ticket experience", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "tokyo-skytree",
+    "title": "Tokyo Skytree",
+    "city": "Tokyo",
+    "interests": ["sightseeing", "photo-spots", "architecture"],
+    "summary": "At 634 meters, one of the tallest towers in the world, with two observation decks looking out over the entire Kanto plain on a clear day.",
+    "access": "Directly connected to Tokyo Skytree Station (Tobu Skytree Line)",
+    "imageUrl": null,
+    "officialUrl": "https://www.tokyo-skytree.jp/en/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Tokyo Skytree observation deck tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "teamlab-planets-toyosu",
+    "title": "teamLab Planets",
+    "city": "Tokyo",
+    "interests": ["art-museums", "photo-spots", "family"],
+    "summary": "A barefoot, walk-through digital art museum where visitors wade through knee-deep water and mirrored rooms full of projected flowers and light.",
+    "access": "5-minute walk from Shin-Toyosu Station (Yurikamome Line)",
+    "imageUrl": null,
+    "officialUrl": "https://www.teamlab.art/e/planets/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book teamLab Planets tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "roppongi-hills-mori-art-museum",
+    "title": "Roppongi Hills & Mori Art Museum",
+    "city": "Tokyo",
+    "interests": ["art-museums", "nightlife", "architecture"],
+    "summary": "A glass-tower complex with a contemporary art museum on the 53rd floor, an open-air sky deck, and one of Tokyo's busiest nightlife districts at street level.",
+    "access": "3-minute walk from Roppongi Station (Tokyo Metro Hibiya/Oedo Lines)",
+    "imageUrl": null,
+    "officialUrl": "https://www.mori.art.museum/en/",
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "kagurazaka-backstreets",
+    "title": "Kagurazaka",
+    "city": "Tokyo",
+    "interests": ["backstreets", "food", "history"],
+    "summary": "A former geisha district of stone-paved alleys and hidden French bistros tucked behind an unassuming shopping street — one of the few areas in central Tokyo that still feels like old Edo after dark.",
+    "access": "1-minute walk from Kagurazaka Station (Tokyo Metro Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "nakano-broadway",
+    "title": "Nakano Broadway",
+    "city": "Tokyo",
+    "interests": ["pop-culture", "shopping", "backstreets"],
+    "summary": "A slightly worn 1960s shopping arcade that has quietly become a mecca for vintage toys, manga, and collectible figures — an Akihabara alternative favored by longtime collectors.",
+    "access": "5-minute walk from Nakano Station (JR Chuo Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "jiyugaoka-shopping",
+    "title": "Jiyugaoka",
+    "city": "Tokyo",
+    "interests": ["shopping", "cafes-sweets"],
+    "summary": "A leafy residential neighborhood known for boutique homeware shops and some of Tokyo's most photogenic patisseries, popular with locals rather than tour groups.",
+    "access": "1-minute walk from Jiyugaoka Station (Tokyu Toyoko Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "osaka-castle-park",
+    "title": "Osaka Castle & Osaka Castle Park",
+    "city": "Osaka",
+    "interests": ["history", "sightseeing", "seasonal-nature"],
+    "summary": "A rebuilt 16th-century castle with a museum inside its keep, set in a large park that turns pink with cherry blossoms every spring.",
+    "access": "10-minute walk from Osakajokoen Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": "https://www.osakacastle.net/english/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Osaka Castle admission with guided tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "umeda-sky-building",
+    "title": "Umeda Sky Building Floating Garden Observatory",
+    "city": "Osaka",
+    "interests": ["photo-spots", "architecture", "sightseeing"],
+    "summary": "Two towers joined by an open-air rooftop walkway 173 meters up, offering one of the best sunset views in the city.",
+    "access": "7-minute walk from Osaka Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Umeda Sky Building observatory tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "tenjinbashisuji-shopping-street",
+    "title": "Tenjinbashisuji Shopping Street",
+    "city": "Osaka",
+    "interests": ["shopping", "local-markets", "food"],
+    "summary": "Japan's longest covered shopping arcade at 2.6 kilometers, with around 600 small shops selling everything from takoyaki to secondhand kimono.",
+    "access": "Directly connected to Minami-Morimachi Station (Osaka Metro Tanimachi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "osaka-tenmangu-shrine",
+    "title": "Osaka Tenmangu Shrine",
+    "city": "Osaka",
+    "interests": ["temples-shrines", "festivals", "history"],
+    "summary": "A shrine dedicated to the god of learning, best known for hosting the Tenjin Festival every July, one of Japan's three largest festivals.",
+    "access": "3-minute walk from Minami-Morimachi Station (Osaka Metro Tanimachi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "nakanoshima-riverside",
+    "title": "Nakanoshima",
+    "city": "Osaka",
+    "interests": ["nature", "cafes-sweets", "architecture"],
+    "summary": "A slim river island lined with rose gardens, riverside cafes, and a mix of century-old and brand-new museum buildings, right in the middle of the business district.",
+    "access": "3-minute walk from Naniwabashi Station (Keihan Nakanoshima Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "kuromon-ichiba-market",
+    "title": "Kuromon Ichiba Market",
+    "city": "Osaka",
+    "interests": ["food", "local-markets"],
+    "summary": "Known as \"Osaka's Kitchen,\" a 580-meter covered arcade of about 150 stalls selling grilled seafood, wagyu skewers, and fruit you can eat on the spot.",
+    "access": "2-minute walk from Nippombashi Station (Osaka Metro Sennichimae Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Kuromon Market food-tasting walk", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "hozenji-yokocho",
+    "title": "Hozenji Yokocho",
+    "city": "Osaka",
+    "interests": ["backstreets", "food", "nightlife"],
+    "summary": "An 80-meter stone-paved alley of old-school bars and restaurants tucked just behind Dotonbori's neon, centered on a small moss-covered temple statue.",
+    "access": "5-minute walk from Namba Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "amerikamura-osaka",
+    "title": "Amerikamura (America Town)",
+    "city": "Osaka",
+    "interests": ["shopping", "pop-culture", "nightlife"],
+    "summary": "A compact grid of streets packed with secondhand fashion, streetwear boutiques, and record shops — Osaka's answer to Harajuku, centered on a small park nicknamed \"Triangle Park.\"",
+    "access": "5-minute walk from Shinsaibashi Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "namba-grand-kagetsu",
+    "title": "Namba Grand Kagetsu",
+    "city": "Osaka",
+    "interests": ["traditional-culture", "nightlife"],
+    "summary": "A working comedy theater that runs manzai stand-up and Yoshimoto Shinkigeki slapstick plays daily — even without fluent Japanese, the physical comedy carries the room.",
+    "access": "3-minute walk from Namba Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Namba Grand Kagetsu comedy show tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "universal-studios-japan",
+    "title": "Universal Studios Japan",
+    "city": "Osaka",
+    "interests": ["family", "sightseeing"],
+    "summary": "A major Hollywood-themed amusement park with a dedicated Super Nintendo World zone and a Wizarding World of Harry Potter area, popular with families and ride enthusiasts alike.",
+    "access": "5-minute walk from Universal-City Station (JR Yumesaki Line)",
+    "imageUrl": null,
+    "officialUrl": "https://www.usj.co.jp/e/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Universal Studios Japan tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "osaka-aquarium-kaiyukan",
+    "title": "Osaka Aquarium Kaiyukan",
+    "city": "Osaka",
+    "interests": ["family", "nature", "sightseeing"],
+    "summary": "One of the world's largest aquariums, built around a central tank that recreates the Pacific Ocean, home to whale sharks that visitors view from multiple floors as they spiral downward.",
+    "access": "5-minute walk from Osakako Station (Osaka Metro Chuo Line)",
+    "imageUrl": null,
+    "officialUrl": "https://www.kaiyukan.com/language/eng/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Osaka Aquarium Kaiyukan tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "tempozan-ferris-wheel",
+    "title": "Tempozan Ferris Wheel",
+    "city": "Osaka",
+    "interests": ["photo-spots", "family"],
+    "summary": "One of the largest Ferris wheels in Japan at 112.5 meters, with a handful of see-through gondolas for views over Osaka Bay.",
+    "access": "5-minute walk from Osakako Station (Osaka Metro Chuo Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "abeno-harukas-observatory",
+    "title": "Abeno Harukas Observatory",
+    "city": "Osaka",
+    "interests": ["photo-spots", "architecture", "sightseeing"],
+    "summary": "At 300 meters, the tallest building in the Kansai region, with a 300th-floor observatory (\"Harukas 300\") offering a 360-degree view across the entire city.",
+    "access": "Directly connected to Tennoji Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Abeno Harukas Harukas 300 observatory tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "shinsekai-tsutenkaku",
+    "title": "Shinsekai & Tsutenkaku Tower",
+    "city": "Osaka",
+    "interests": ["backstreets", "food", "history"],
+    "summary": "A retro downtown district built around a century-old observation tower, where kushikatsu (fried skewer) stalls and old-fashioned pachinko parlors give a rougher, more nostalgic feel than the shinier parts of the city.",
+    "access": "3-minute walk from Dobutsuen-mae Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "sumiyoshi-taisha-shrine",
+    "title": "Sumiyoshi Taisha Shrine",
+    "city": "Osaka",
+    "interests": ["temples-shrines", "history"],
+    "summary": "The head shrine of over 2,000 Sumiyoshi shrines across Japan, over 1,800 years old, with a distinctive arched drum bridge at its entrance.",
+    "access": "3-minute walk from Sumiyoshi-taisha Station (Nankai Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "shitennoji-temple",
+    "title": "Shitennoji Temple",
+    "city": "Osaka",
+    "interests": ["temples-shrines", "history"],
+    "summary": "One of Japan's oldest officially administered temples, said to have been founded in 593 by Prince Shotoku, with a five-story pagoda rebuilt in its original Asuka-period layout.",
+    "access": "5-minute walk from Shitennoji-mae-Yuhigaoka Station (Osaka Metro Tanimachi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "tsuruhashi-korea-town",
+    "title": "Tsuruhashi Korea Town",
+    "city": "Osaka",
+    "interests": ["food", "local-markets", "traditional-culture"],
+    "summary": "A dense market of around 120 Korean grocers, barbecue restaurants, and cosmetics shops around Tsuruhashi Station, reflecting Osaka's large Korean-Japanese community.",
+    "access": "1-minute walk from Tsuruhashi Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "expo-70-commemorative-park",
+    "title": "Expo '70 Commemorative Park",
+    "city": "Osaka",
+    "interests": ["nature", "family", "architecture"],
+    "summary": "The former site of the 1970 World Expo, now a large park centered on Taro Okamoto's towering Tower of the Sun sculpture, with seasonal flower fields and a Japanese garden.",
+    "access": "15-minute walk from Bampaku-kinen-koen Station (Osaka Monorail), in Suita",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "minoh-falls",
+    "title": "Minoh Falls",
+    "city": "Osaka",
+    "interests": ["nature", "outdoor", "seasonal-nature"],
+    "summary": "A 33-meter waterfall at the end of a gentle 40-minute forest walk from Minoh town, ranked among Japan's 100 best waterfalls and especially popular for autumn leaves.",
+    "access": "40-minute walk from Minoh Station (Hankyu Minoh Line), in Minoh",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
     "id": "fushimi-inari-shrine",
     "title": "Fushimi Inari Shrine",
     "city": "Kyoto",
@@ -68,29 +510,241 @@
     ]
   },
   {
-    "id": "dotonbori-food-crawl",
-    "title": "Dotonbori Food Crawl",
-    "city": "Osaka",
-    "interests": ["food", "nightlife", "sightseeing"],
-    "summary": "Neon signs, street food stalls, and Osaka's famous canal-side dining strip.",
-    "access": "3-minute walk from Namba Station (Osaka Metro Midosuji Line)",
+    "id": "kiyomizu-dera-temple",
+    "title": "Kiyomizu-dera Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "history", "sightseeing"],
+    "summary": "A UNESCO World Heritage temple built without a single nail, whose famous wooden stage juts out over the hillside with sweeping views of the city below.",
+    "access": "10-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book a Dotonbori food tour", "url": "https://www.klook.com/", "provider": "Klook" }
+      { "label": "Book a Kiyomizu-dera guided walking tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
     ]
   },
   {
-    "id": "shimokitazawa-backstreets",
-    "title": "Shimokitazawa Backstreets",
-    "city": "Tokyo",
-    "interests": ["backstreets", "nightlife", "shopping"],
-    "summary": "Vintage shops and standing bars packed into narrow streets, popular with local students rather than tour groups.",
-    "access": "1-minute walk from Shimokitazawa Station (Odakyu / Keio Inokashira Lines)",
+    "id": "ninenzaka-sannenzaka",
+    "title": "Ninenzaka & Sannenzaka",
+    "city": "Kyoto",
+    "interests": ["backstreets", "shopping", "photo-spots"],
+    "summary": "A pair of connected stone-paved slopes lined with wooden machiya houses turned into tea shops and souvenir stores, leading up to Kiyomizu-dera.",
+    "access": "12-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "gion-hanamikoji",
+    "title": "Gion & Hanamikoji Street",
+    "city": "Kyoto",
+    "interests": ["traditional-culture", "backstreets", "nightlife"],
+    "summary": "Kyoto's best-preserved geisha district, where teahouses with wooden latticework line a quiet street — visit at dusk for a chance to spot a geiko or maiko on their way to an appointment.",
+    "access": "5-minute walk from Gion-Shijo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Gion evening walking tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "nishiki-market-kyoto",
+    "title": "Nishiki Market",
+    "city": "Kyoto",
+    "interests": ["food", "local-markets"],
+    "summary": "Known as \"Kyoto's Kitchen,\" a narrow 390-meter covered arcade of about 130 shops selling pickles, skewered sweets, and knives passed down through generations.",
+    "access": "2-minute walk from Shijo Station (Hankyu Kyoto Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Nishiki Market food-tasting tour", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "kinkaku-ji-golden-pavilion",
+    "title": "Kinkaku-ji (Golden Pavilion)",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "sightseeing", "photo-spots"],
+    "summary": "A Zen temple pavilion covered in real gold leaf, reflected in a still pond it was purpose-built to overlook — one of Kyoto's most photographed sights.",
+    "access": "Bus ride from Kyoto Station to the Kinkakuji-michi stop, then a short walk",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "ryoan-ji-rock-garden",
+    "title": "Ryoan-ji Rock Garden",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "traditional-culture"],
+    "summary": "A minimalist Zen rock garden of raked gravel and fifteen stones, arranged so that at least one stone is always hidden from view no matter where you sit.",
+    "access": "7-minute walk from Ryoanji-michi bus stop",
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "philosophers-path",
+    "title": "Philosopher's Path",
+    "city": "Kyoto",
+    "interests": ["nature", "seasonal-nature", "outdoor"],
+    "summary": "A quiet canal-side walking path lined with roughly 400 cherry trees, named after a Kyoto University philosopher who used it for his daily walk to work.",
+    "access": "Bus ride to the Ginkakuji-michi stop, then a short walk to the northern end of the path",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "ginkaku-ji-silver-pavilion",
+    "title": "Ginkaku-ji (Silver Pavilion)",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "traditional-culture"],
+    "summary": "Despite the name, never actually covered in silver — a restrained wooden pavilion surrounded by meticulously raked sand gardens that inspired the Japanese aesthetic of wabi-sabi.",
+    "access": "Bus ride to the Ginkakuji-michi stop, then a 10-minute walk",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "heian-shrine",
+    "title": "Heian Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "seasonal-nature"],
+    "summary": "A vividly orange and green shrine complex built in 1895, fronted by one of Japan's largest torii gates, with a large strolling garden behind it that blooms with irises and cherry blossoms in season.",
+    "access": "10-minute walk from Higashiyama Station (Kyoto Municipal Subway Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "nijo-castle",
+    "title": "Nijo Castle",
+    "city": "Kyoto",
+    "interests": ["history", "architecture", "sightseeing"],
+    "summary": "A UNESCO-listed shogunate castle known for its \"nightingale floors,\" which chirp underfoot as a built-in defense against sneaking intruders.",
+    "access": "5-minute walk from Nijojo-mae Station (Kyoto Municipal Subway Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "sagano-scenic-railway",
+    "title": "Sagano Scenic Railway",
+    "city": "Kyoto",
+    "interests": ["outdoor", "photo-spots", "sightseeing"],
+    "summary": "A slow open-window sightseeing train running along a retired rail line above the Hozugawa River gorge, especially popular in autumn for the valley's colored leaves.",
+    "access": "Departs from Torokko Saga Station, next to JR Saga-Arashiyama Station",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Sagano Scenic Railway tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "byodo-in-temple-uji",
+    "title": "Byodo-in Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "history", "architecture"],
+    "summary": "An 11th-century temple in Uji whose Phoenix Hall is famous enough to appear on the back of the Japanese 10-yen coin, set beside a reflecting pond designed to represent Buddhist paradise.",
+    "access": "10-minute walk from Uji Station (JR Nara Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "fushimi-sake-district",
+    "title": "Fushimi Sake District",
+    "city": "Kyoto",
+    "interests": ["food", "traditional-culture"],
+    "summary": "A canal-side neighborhood of century-old sake breweries built around a natural spring, including a museum brewery where visitors can taste several styles side by side.",
+    "access": "7-minute walk from Chushojima Station (Keihan Uji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "nishijin-textile-center",
+    "title": "Nishijin Textile Center",
+    "city": "Kyoto",
+    "interests": ["traditional-culture", "shopping"],
+    "summary": "A working museum for Nishijin-ori, Kyoto's centuries-old woven silk textile craft, with weaving demonstrations and kimono try-on experiences in a quiet neighborhood away from the main sightseeing routes.",
+    "access": "3-minute walk from Imadegawa-Horikawa bus stop",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "kifune-shrine-kurama",
+    "title": "Kifune Shrine & Kurama",
+    "city": "Kyoto",
+    "interests": ["nature", "temples-shrines", "outdoor"],
+    "summary": "A mountain shrine dedicated to the god of water, reached via the forested village of Kurama and a hiking trail linking the two — a cooler, quieter escape from central Kyoto in summer.",
+    "access": "5-minute walk from Kibuneguchi Station (Eizan Railway), then a short bus or walk",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "tofuku-ji-temple",
+    "title": "Tofuku-ji Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "seasonal-nature"],
+    "summary": "A large Zen temple with a valley of roughly 2,000 maple trees crossed by a covered wooden bridge, considered one of Kyoto's best autumn foliage spots with noticeably thinner crowds than Kiyomizu-dera.",
+    "access": "3-minute walk from Tofukuji Station (JR Nara Line / Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": []
+  },
+  {
+    "id": "sorano-onsen-osaka-bay-tower",
+    "title": "Sorano Onsen OSAKA BAY TOWER",
+    "city": "Osaka",
+    "interests": ["onsen", "family"],
+    "summary": "A hot-spring theme park by the bay with nine different baths, including outdoor tubs with harbor views, plus saunas and a food court for a full half-day visit.",
+    "access": "5-minute walk from Bentencho Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Sorano Onsen admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "spa-laqua-tokyo-dome",
+    "title": "Spa LaQua",
+    "city": "Tokyo",
+    "interests": ["onsen", "family"],
+    "summary": "A natural hot-spring spa drawn from 1,700 meters underground, inside the Tokyo Dome City complex, with indoor and outdoor baths and a relaxation lounge for resting between soaks.",
+    "access": "2-minute walk from Korakuen Station (Tokyo Metro Marunouchi/Namboku Lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": []
+  },
+  {
+    "id": "yasaka-shrine-gion",
+    "title": "Yasaka Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "festivals", "history"],
+    "summary": "The shrine at the top of Gion's main street that hosts the Gion Matsuri every July, one of Japan's most famous festivals, with towering wooden floats parading through the city center.",
+    "access": "Directly adjacent to the Gion-Shijo Station area (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
     "affiliateLinks": []
   }
 ]
