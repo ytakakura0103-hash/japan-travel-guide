@@ -10,7 +10,8 @@
     "officialUrl": "https://www.senso-ji.jp/",
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book a guided Asakusa tour", "url": "https://www.klook.com/", "provider": "Klook" }
+      { "label": "Book a guided Asakusa tour", "url": "https://www.klook.com/", "provider": "Klook" },
+      { "label": "Find hotels near Asakusa", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -23,7 +24,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Nippori", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "tsukiji-outer-market",
@@ -36,7 +39,8 @@
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book a Tsukiji food tour", "url": "https://www.klook.com/", "provider": "Klook" }
+      { "label": "Book a Tsukiji food tour", "url": "https://www.klook.com/", "provider": "Klook" },
+      { "label": "Find hotels near Tsukiji", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -49,7 +53,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Shimokitazawa", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "meiji-jingu-shrine",
@@ -61,7 +67,9 @@
     "imageUrl": null,
     "officialUrl": "https://www.meijijingu.or.jp/en/",
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Meiji Jingu & Harajuku walking tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "shibuya-scramble-crossing",
@@ -74,7 +82,8 @@
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book Shibuya Sky observatory tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+      { "label": "Book Shibuya Sky observatory tickets", "url": "https://www.klook.com/", "provider": "Klook" },
+      { "label": "Find hotels near Shibuya", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -87,7 +96,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Harajuku", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "ginza-shopping-district",
@@ -99,7 +110,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Ginza", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "akihabara-electric-town",
@@ -111,7 +124,10 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book an Akihabara anime & retro gaming tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" },
+      { "label": "Find hotels near Akihabara", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "ueno-park-and-zoo",
@@ -123,7 +139,9 @@
     "imageUrl": null,
     "officialUrl": "https://www.tokyo-zoo.net/english/ueno/",
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book Ueno Zoo admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
   },
   {
     "id": "tokyo-national-museum",
@@ -135,7 +153,9 @@
     "imageUrl": null,
     "officialUrl": "https://www.tnm.jp/?lang=en",
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Tokyo National Museum guided tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "ameyoko-market",
@@ -147,7 +167,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Ueno", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "ryogoku-sumo-district",
@@ -160,7 +182,8 @@
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book a sumo tournament ticket experience", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+      { "label": "Book a sumo tournament ticket experience", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" },
+      { "label": "Find hotels near Ryogoku", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -174,7 +197,8 @@
     "officialUrl": "https://www.tokyo-skytree.jp/en/",
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book Tokyo Skytree observation deck tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+      { "label": "Book Tokyo Skytree observation deck tickets", "url": "https://www.klook.com/", "provider": "Klook" },
+      { "label": "Find hotels near Tokyo Skytree", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -201,7 +225,9 @@
     "imageUrl": null,
     "officialUrl": "https://www.mori.art.museum/en/",
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book Mori Art Museum & Tokyo City View tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
   },
   {
     "id": "kagurazaka-backstreets",
@@ -213,7 +239,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Kagurazaka food walking tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "nakano-broadway",
@@ -225,7 +253,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Nakano", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "jiyugaoka-shopping",
@@ -237,7 +267,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Jiyugaoka", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "osaka-castle-park",
@@ -250,7 +282,8 @@
     "officialUrl": "https://www.osakacastle.net/english/",
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book Osaka Castle admission with guided tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+      { "label": "Book Osaka Castle admission with guided tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" },
+      { "label": "Find hotels near Osaka Castle", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -264,7 +297,8 @@
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book Umeda Sky Building observatory tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+      { "label": "Book Umeda Sky Building observatory tickets", "url": "https://www.klook.com/", "provider": "Klook" },
+      { "label": "Find hotels near Umeda", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -277,7 +311,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Osaka Tenmangu", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "osaka-tenmangu-shrine",
@@ -289,7 +325,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book an Osaka shrines & Tenjin district tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "nakanoshima-riverside",
@@ -301,7 +339,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book Nakanoshima Museum of Art tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
   },
   {
     "id": "kuromon-ichiba-market",
@@ -314,7 +354,8 @@
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book a Kuromon Market food-tasting walk", "url": "https://www.klook.com/", "provider": "Klook" }
+      { "label": "Book a Kuromon Market food-tasting walk", "url": "https://www.klook.com/", "provider": "Klook" },
+      { "label": "Find hotels near Namba", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -327,7 +368,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Dotonbori & Hozenji night food tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "amerikamura-osaka",
@@ -339,7 +382,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Shinsaibashi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "namba-grand-kagetsu",
@@ -366,7 +411,8 @@
     "officialUrl": "https://www.usj.co.jp/e/",
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book Universal Studios Japan tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+      { "label": "Book Universal Studios Japan tickets", "url": "https://www.klook.com/", "provider": "Klook" },
+      { "label": "Find hotels near Universal City", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -393,7 +439,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book Tempozan Ferris Wheel tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
   },
   {
     "id": "abeno-harukas-observatory",
@@ -406,7 +454,8 @@
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book Abeno Harukas Harukas 300 observatory tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+      { "label": "Book Abeno Harukas Harukas 300 observatory tickets", "url": "https://www.klook.com/", "provider": "Klook" },
+      { "label": "Find hotels near Tennoji", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -419,7 +468,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Shinsekai kushikatsu food tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "sumiyoshi-taisha-shrine",
@@ -431,7 +482,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Sumiyoshi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "shitennoji-temple",
@@ -443,7 +496,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Tennoji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "tsuruhashi-korea-town",
@@ -455,7 +510,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Tsuruhashi Korean BBQ food tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "expo-70-commemorative-park",
@@ -467,7 +524,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book Expo '70 Park & Tower of the Sun tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
   },
   {
     "id": "minoh-falls",
@@ -479,7 +538,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Minoh Falls hiking day trip", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "fushimi-inari-shrine",
@@ -492,7 +553,8 @@
     "officialUrl": "https://inari.jp/en/",
     "isLocalPick": true,
     "affiliateLinks": [
-      { "label": "Book an Arashiyama & Fushimi Inari day tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+      { "label": "Book an Arashiyama & Fushimi Inari day tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" },
+      { "label": "Find hotels near Kyoto Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -506,7 +568,8 @@
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book an Arashiyama bamboo grove tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+      { "label": "Book an Arashiyama bamboo grove tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" },
+      { "label": "Find hotels near Arashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -520,7 +583,8 @@
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book a Kiyomizu-dera guided walking tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+      { "label": "Book a Kiyomizu-dera guided walking tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" },
+      { "label": "Find hotels near Higashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -533,7 +597,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Higashiyama backstreets walking tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "gion-hanamikoji",
@@ -546,7 +612,8 @@
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book a Gion evening walking tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+      { "label": "Book a Gion evening walking tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" },
+      { "label": "Find hotels near Gion", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -560,7 +627,8 @@
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book a Nishiki Market food-tasting tour", "url": "https://www.klook.com/", "provider": "Klook" }
+      { "label": "Book a Nishiki Market food-tasting tour", "url": "https://www.klook.com/", "provider": "Klook" },
+      { "label": "Find hotels near Shijo Kawaramachi", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -573,7 +641,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Kinkaku-ji & northwest Kyoto highlights tour", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
   },
   {
     "id": "ryoan-ji-rock-garden",
@@ -585,7 +655,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Kinkaku-ji, Ryoan-ji & Ninna-ji day tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "philosophers-path",
@@ -597,7 +669,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Ginkaku-ji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "ginkaku-ji-silver-pavilion",
@@ -609,7 +683,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Higashiyama temples walking tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "heian-shrine",
@@ -621,7 +697,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Okazaki & Heian Shrine", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "nijo-castle",
@@ -633,7 +711,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book Nijo Castle admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
   },
   {
     "id": "sagano-scenic-railway",
@@ -646,7 +726,8 @@
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
-      { "label": "Book Sagano Scenic Railway tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+      { "label": "Book Sagano Scenic Railway tickets", "url": "https://www.klook.com/", "provider": "Klook" },
+      { "label": "Find hotels near Arashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
   },
   {
@@ -659,7 +740,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Uji day trip tour with matcha tasting", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "fushimi-sake-district",
@@ -671,7 +754,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Fushimi sake brewery tasting tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "nishijin-textile-center",
@@ -683,7 +768,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Kyoto kimono rental experience", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "kifune-shrine-kurama",
@@ -695,7 +782,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book a Kurama & Kibune hiking day tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
   },
   {
     "id": "tofuku-ji-temple",
@@ -707,7 +796,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": true,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Kyoto Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   },
   {
     "id": "sorano-onsen-osaka-bay-tower",
@@ -733,7 +824,9 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Book Spa LaQua admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
   },
   {
     "id": "yasaka-shrine-gion",
@@ -745,6 +838,8 @@
     "imageUrl": null,
     "officialUrl": null,
     "isLocalPick": false,
-    "affiliateLinks": []
+    "affiliateLinks": [
+      { "label": "Find hotels near Gion", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   }
 ]
