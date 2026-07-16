@@ -4385,5 +4385,271 @@
     "affiliateLinks": [
       { "label": "Find hotels near Kyoto Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
+  },
+  {
+    "id": "suntory-museum-of-art",
+    "title": "Suntory Museum of Art",
+    "city": "Tokyo",
+    "interests": ["art-museums", "traditional-culture"],
+    "summary": "A museum inside Tokyo Midtown built around the idea of \"art for daily life,\" rotating exhibitions of lacquerware, ceramics, and textiles rather than Western-style fine art.",
+    "access": "Directly connected to Roppongi Station (Tokyo Metro Hibiya/Oedo Lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Roppongi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shinjuku-golden-gai",
+    "title": "Shinjuku Golden Gai",
+    "city": "Tokyo",
+    "interests": ["nightlife", "backstreets", "photo-spots"],
+    "summary": "A cluster of roughly 200 tiny bars packed into six narrow alleys, many seating fewer than ten people, largely unchanged since the postwar black-market era that built them.",
+    "access": "5-minute walk from Shinjuku Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Golden Gai bar-hopping tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "ochanomizu-instrument-street",
+    "title": "Ochanomizu Instrument Street",
+    "city": "Tokyo",
+    "interests": ["shopping", "backstreets"],
+    "summary": "A stretch of Meidai-dori lined with dozens of guitar and instrument shops, a working-musician's district a short walk from Akihabara that most tourist itineraries skip entirely.",
+    "access": "3-minute walk from Ochanomizu Station (JR Chuo Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Akihabara", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "katsura-imperial-villa",
+    "title": "Katsura Imperial Villa",
+    "city": "Kyoto",
+    "interests": ["architecture", "nature", "history"],
+    "summary": "A 17th-century imperial retreat considered one of the finest examples of traditional Japanese garden design, viewable only on a reserved guided tour booked in advance through the Imperial Household Agency.",
+    "access": "8-minute walk from Katsura Station (Hankyu Kyoto Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Katsura Imperial Villa guided tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "shugakuin-imperial-villa",
+    "title": "Shugakuin Imperial Villa",
+    "city": "Kyoto",
+    "interests": ["nature", "history", "seasonal-nature"],
+    "summary": "A hillside imperial garden estate built across three terraced levels with borrowed mountain scenery, requiring advance reservation and a guided walk to visit.",
+    "access": "20-minute bus ride from Kyoto Station",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Shugakuin Imperial Villa guided tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "eikando-zenrinji",
+    "title": "Eikando Zenrinji",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "seasonal-nature", "photo-spots"],
+    "summary": "Nicknamed \"the temple of maples,\" one of Kyoto's most celebrated autumn foliage spots, with an evening illumination each November that reflects the trees in the temple's pond.",
+    "access": "5-minute walk from Nanzenji-Eikando-michi bus stop",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Okazaki", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shorenin-temple",
+    "title": "Shorenin Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "seasonal-nature"],
+    "summary": "A temple with a garden of moss and camphor trees that hosts a striking blue LED illumination event each spring and autumn, alongside its more traditional daytime visiting hours.",
+    "access": "5-minute walk from Higashiyama Station (Kyoto Municipal Subway Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Higashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "chionin-temple",
+    "title": "Chionin Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "history", "architecture"],
+    "summary": "Headquarters of the Jodo school of Buddhism, entered through Japan's largest wooden temple gate and home to one of the largest bells in the country, rung by 17 monks at New Year.",
+    "access": "8-minute walk from Higashiyama Station (Kyoto Municipal Subway Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Higashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "maruyama-park",
+    "title": "Maruyama Park",
+    "city": "Kyoto",
+    "interests": ["nature", "seasonal-nature", "photo-spots"],
+    "summary": "Kyoto's oldest public park, centered on a single enormous weeping cherry tree lit up at night each spring, drawing crowds who picnic under it well after dark.",
+    "access": "3-minute walk from Gion-Shijo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Gion", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "rakushisha-bashos-hermitage",
+    "title": "Rakushisha (Basho's Hermitage)",
+    "city": "Kyoto",
+    "interests": ["history", "nature"],
+    "summary": "A small thatched hut once used by a disciple of haiku master Matsuo Basho, set among persimmon trees in a quiet corner of Arashiyama away from the main sightseeing route.",
+    "access": "15-minute walk from Saga-Arashiyama Station (JR Sagano Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Arashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "jakkoin-temple-ohara",
+    "title": "Jakkoin Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "history", "nature"],
+    "summary": "A secluded convent in the Ohara valley where the last surviving member of the defeated Taira clan spent her remaining years in mourning after the Genpei War.",
+    "access": "15-minute bus ride from Kyoto Station, then a short walk in Ohara",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book an Ohara valley temple day tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "nishiki-tenmangu-shrine",
+    "title": "Nishiki Tenmangu Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "local-markets"],
+    "summary": "A small shrine wedged directly into the entrance of Nishiki Market, so thoroughly absorbed into the surrounding shops that many visitors walk past without noticing it's there.",
+    "access": "2-minute walk from Shijo Station (Hankyu Kyoto Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Shijo Kawaramachi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "demachiyanagi-kamogawa-delta",
+    "title": "Demachiyanagi River Delta",
+    "city": "Kyoto",
+    "interests": ["nature", "outdoor", "photo-spots"],
+    "summary": "The point where the Kamo and Takano Rivers meet, crossed by a line of large flat turtle-and-bird-shaped stepping stones that locals and students use as a shortcut across the water.",
+    "access": "Directly at Demachiyanagi Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Demachiyanagi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kyoto-costume-museum",
+    "title": "Kyoto Costume Museum",
+    "city": "Kyoto",
+    "interests": ["traditional-culture", "art-museums"],
+    "summary": "A small museum reconstructing Heian-period court dress on lifelike mannequins, based on scenes from The Tale of Genji, offering a close look at layered kimono construction.",
+    "access": "5-minute walk from Kyoto Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kyoto Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "gion-corner",
+    "title": "Gion Corner",
+    "city": "Kyoto",
+    "interests": ["traditional-culture", "sightseeing"],
+    "summary": "A one-hour compilation show packing tea ceremony, koto music, kyomai dance, and puppet theater into a single sitting, useful for visitors who won't have time to see each tradition separately.",
+    "access": "5-minute walk from Gion-Shijo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Gion Corner cultural show tickets", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "yoshida-shrine",
+    "title": "Yoshida Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "festivals"],
+    "summary": "A hillside shrine near Kyoto University known for its Setsubun festival every February, when thousands gather to watch a ritual bonfire made of the year's used good-luck charms.",
+    "access": "15-minute walk from Demachiyanagi Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Demachiyanagi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kurodani-konkaikomyoji",
+    "title": "Kurodani (Konkaikomyoji)",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "seasonal-nature"],
+    "summary": "A large temple complex with its own three-story pagoda and cemetery, offering some of Kyoto's best autumn maple colors with a fraction of the visitors of better-known spots nearby.",
+    "access": "15-minute walk from Higashiyama Station (Kyoto Municipal Subway Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Okazaki", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shimabara-hanamachi",
+    "title": "Shimabara",
+    "city": "Kyoto",
+    "interests": ["traditional-culture", "history", "backstreets"],
+    "summary": "Kyoto's original licensed pleasure district, predating Gion by centuries — most of it has vanished, but a preserved main gate and one historic building still hint at its former scale.",
+    "access": "10-minute walk from Kyoto Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kyoto Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kyoto-imperial-university-clock-tower",
+    "title": "Kyoto University Clock Tower Centennial Hall",
+    "city": "Kyoto",
+    "interests": ["architecture", "history"],
+    "summary": "A landmark clock tower on Kyoto University's main campus, built to mark the university's 100th anniversary, with a small free museum on the ground floor tracing the school's history of Nobel laureates.",
+    "access": "15-minute walk from Demachiyanagi Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Demachiyanagi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   }
 ]
