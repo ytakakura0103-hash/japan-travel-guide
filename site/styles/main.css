@@ -107,6 +107,8 @@ input:focus-visible {
 
 nav {
   display: flex;
+  align-items: center;
+  justify-content: space-between;
   gap: var(--space-2);
   padding: var(--space-2) 0;
   border-bottom: 1px solid var(--color-border);
@@ -122,6 +124,16 @@ nav a {
 
 nav a:hover {
   color: var(--color-accent);
+}
+
+.site-brand {
+  font-size: 1.1rem;
+  letter-spacing: -0.01em;
+}
+
+.nav-links {
+  display: flex;
+  gap: var(--space-2);
 }
 
 /* Search hero */
