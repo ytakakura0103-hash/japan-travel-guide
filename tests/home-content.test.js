@@ -4,17 +4,24 @@ import { readFileSync } from 'node:fs';
 const html = readFileSync(new URL('../site/index.html', import.meta.url), 'utf-8');
 
 describe('index.html', () => {
-  it('links to the itinerary planner, hidden gems, and privacy pages', () => {
-    expect(html).toContain('href="itinerary.html"');
-    expect(html).toContain('href="spots.html"');
+  it('links to the privacy page and no longer to the removed itinerary/spots pages', () => {
     expect(html).toContain('href="privacy.html"');
+    expect(html).not.toContain('href="itinerary.html"');
+    expect(html).not.toContain('href="spots.html"');
   });
 
-  it('renders the route hero with a headline and both primary actions', () => {
-    expect(html).toContain('class="hero"');
-    expect(html).toContain('class="hero-route"');
-    expect(html).toContain('<h1>Find Your Route Through Japan</h1>');
-    expect(html).toMatch(/class="button button-primary" href="itinerary\.html"/);
-    expect(html).toMatch(/class="button button-secondary" href="spots\.html"/);
+  it('renders a city select and a search submit button', () => {
+    expect(html).toContain('name="city"');
+    expect(html).toContain('class="search-submit"');
+  });
+
+  it('renders all 20 interest checkboxes', () => {
+    const matches = html.match(/name="interests"/g) || [];
+    expect(matches).toHaveLength(20);
+  });
+
+  it('includes results and map containers', () => {
+    expect(html).toContain('id="results"');
+    expect(html).toContain('class="map-embed"');
   });
 });
