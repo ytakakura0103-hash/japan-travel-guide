@@ -1277,5 +1277,1083 @@
         "provider": "Booking.com"
       }
     ]
+  },
+  {
+    "id": "imado-shrine",
+    "title": "Imado Shrine",
+    "city": "Tokyo",
+    "interests": ["temples-shrines", "pop-culture"],
+    "summary": "A small shrine said to be the birthplace of the beckoning cat figurine, popular with visitors hoping for good relationships and matching pairs of cat statues at the altar.",
+    "access": "15-minute walk from Asakusa Station (Tokyo Metro Ginza Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Asakusa", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "sumida-edo-kiriko-glass",
+    "title": "Sumida Edo Kiriko Glass",
+    "city": "Tokyo",
+    "interests": ["traditional-culture", "shopping"],
+    "summary": "A working studio and shop for Edo kiriko, a centuries-old style of cut glassware, where visitors can watch craftspeople carve patterns by hand and try a short cutting lesson themselves.",
+    "access": "10-minute walk from Kinshicho Station (JR Sobu Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book an Edo kiriko glass-cutting workshop", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "edo-tokyo-museum",
+    "title": "Edo-Tokyo Museum",
+    "city": "Tokyo",
+    "interests": ["history", "art-museums"],
+    "summary": "A museum built around a life-size replica of the Nihonbashi bridge, with detailed scale models recreating how the city looked across four centuries, from Edo-period streets to postwar reconstruction.",
+    "access": "3-minute walk from Ryogoku Station (JR Sobu Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Ryogoku", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "national-museum-of-western-art",
+    "title": "National Museum of Western Art",
+    "city": "Tokyo",
+    "interests": ["art-museums", "architecture"],
+    "summary": "A UNESCO World Heritage building designed by Le Corbusier, housing Monet, Rodin, and other European masterworks collected by a single Japanese industrialist in the early 20th century.",
+    "access": "1-minute walk from Ueno Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book National Museum of Western Art tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "national-museum-of-nature-and-science",
+    "title": "National Museum of Nature and Science",
+    "city": "Tokyo",
+    "interests": ["art-museums", "family"],
+    "summary": "A dinosaur-skeleton-filled science museum in Ueno Park spanning natural history and Japanese scientific achievement, popular with families on rainy days.",
+    "access": "5-minute walk from Ueno Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book National Museum of Nature and Science tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "nezu-shrine",
+    "title": "Nezu Shrine",
+    "city": "Tokyo",
+    "interests": ["temples-shrines", "seasonal-nature", "photo-spots"],
+    "summary": "A nearly 1,900-year-old shrine with a tunnel of roughly a hundred small torii gates and an azalea garden that draws crowds every April, without the lines of its more famous counterparts.",
+    "access": "5-minute walk from Nezu Station (Tokyo Metro Chiyoda Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Yanaka & Nezu", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shibamata-taishakuten",
+    "title": "Shibamata Taishakuten",
+    "city": "Tokyo",
+    "interests": ["temples-shrines", "backstreets", "history"],
+    "summary": "A temple approach street that inspired a decades-long Japanese film series, lined with old rice-cracker shops and dumpling stalls in a part of Tokyo that still feels like a small town.",
+    "access": "3-minute walk from Shibamata Station (Keisei Kanamachi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Shibamata", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kameido-katori-shrine",
+    "title": "Kameido Katori Shrine",
+    "city": "Tokyo",
+    "interests": ["temples-shrines", "history"],
+    "summary": "A shrine over 1,000 years old dedicated to a god of sports and strength, popular with athletes before competitions and quieter than the shrines nearer the main tourist routes.",
+    "access": "8-minute walk from Kameido Station (JR Sobu Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kameido", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "tokyo-station-and-kitte",
+    "title": "Tokyo Station & KITTE Marunouchi",
+    "city": "Tokyo",
+    "interests": ["architecture", "shopping", "sightseeing"],
+    "summary": "A red-brick early-20th-century station building fronting Marunouchi, paired with the KITTE shopping complex next door, whose rooftop garden looks straight down onto the platforms.",
+    "access": "Directly at Tokyo Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Tokyo Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "marunouchi-naka-dori",
+    "title": "Marunouchi Naka-dori",
+    "city": "Tokyo",
+    "interests": ["shopping", "architecture", "cafes-sweets"],
+    "summary": "A tree-lined boulevard of flagship luxury boutiques between Tokyo Station and the Imperial Palace, closed to traffic on weekday lunch hours so office workers can eat outside.",
+    "access": "3-minute walk from Tokyo Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Marunouchi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "imperial-palace-tokyo",
+    "title": "Imperial Palace",
+    "city": "Tokyo",
+    "interests": ["history", "sightseeing", "outdoor"],
+    "summary": "The residence of Japan's Imperial family, built on the site of the old Edo Castle — the East Gardens are open to the public free of charge, and the outer moat path is a popular running loop.",
+    "access": "5-minute walk from Otemachi Station (Tokyo Metro Chiyoda Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book an Imperial Palace East Gardens guided tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "kabukiza-theatre",
+    "title": "Kabukiza Theatre",
+    "city": "Tokyo",
+    "interests": ["traditional-culture", "sightseeing"],
+    "summary": "Tokyo's main kabuki theater, where a single-act \"hitomaku-mi\" ticket lets visitors watch just one scene without committing to a full multi-hour performance.",
+    "access": "Directly connected to Higashi-Ginza Station (Tokyo Metro Hibiya Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Kabukiza single-act tickets", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "nihombashi-bridge",
+    "title": "Nihombashi Bridge",
+    "city": "Tokyo",
+    "interests": ["history", "architecture"],
+    "summary": "The historic zero-mile marker for all of Japan's highways, topped with bronze dragon and kirin statues, though currently overshadowed by an elevated expressway slated for removal.",
+    "access": "1-minute walk from Nihombashi Station (Tokyo Metro Ginza Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Nihombashi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "akb48-theater",
+    "title": "AKB48 Theater",
+    "city": "Tokyo",
+    "interests": ["pop-culture", "nightlife"],
+    "summary": "A small dedicated theater in Akihabara where the idol group AKB48 performs regular live shows in an intimate room, a different experience from watching them on television.",
+    "access": "5-minute walk from Akihabara Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Akihabara", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "odaiba-marine-park",
+    "title": "Odaiba Marine Park & Rainbow Bridge",
+    "city": "Tokyo",
+    "interests": ["sightseeing", "photo-spots", "nightlife"],
+    "summary": "An artificial sand beach facing a replica Statue of Liberty and the illuminated Rainbow Bridge, best visited at dusk as the Tokyo skyline lights up across the bay.",
+    "access": "3-minute walk from Odaiba-Kaihinkoen Station (Yurikamome Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book an Odaiba & Tokyo Bay night cruise", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "diver-city-tokyo-plaza",
+    "title": "DiverCity Tokyo Plaza",
+    "city": "Tokyo",
+    "interests": ["shopping", "pop-culture", "family"],
+    "summary": "A bayside shopping mall fronted by a full-scale Gundam robot statue that lights up and moves on the hour, a favorite photo stop even for visitors who aren't shopping.",
+    "access": "5-minute walk from Tokyo Teleport Station (Rinkai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Odaiba", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "immersive-fort-tokyo",
+    "title": "Immersive Fort Tokyo",
+    "city": "Tokyo",
+    "interests": ["family", "pop-culture", "nightlife"],
+    "summary": "A walk-through entertainment park where actors and set design turn visitors into participants in staged mysteries and samurai battles rather than passive spectators.",
+    "access": "10-minute walk from Aomi Station (Yurikamome Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Immersive Fort Tokyo tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "tokyo-joypolis",
+    "title": "Tokyo Joypolis",
+    "city": "Tokyo",
+    "interests": ["family", "pop-culture"],
+    "summary": "An indoor arcade-meets-theme-park run by Sega, packed with VR rides and rhythm games — a good rainy-day option in Odaiba for teens and arcade fans.",
+    "access": "3-minute walk from Odaiba-Kaihinkoen Station (Yurikamome Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Tokyo Joypolis tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "fuji-tv-building",
+    "title": "Fuji TV Building",
+    "city": "Tokyo",
+    "interests": ["architecture", "photo-spots"],
+    "summary": "A Kenzo Tange-designed broadcasting headquarters with a distinctive titanium sphere suspended between two towers, containing an observation deck over Odaiba.",
+    "access": "3-minute walk from Daiba Station (Yurikamome Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Fuji TV Building Hachitama observatory tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "yakatabune-dinner-cruise",
+    "title": "Yakatabune Dinner Cruise",
+    "city": "Tokyo",
+    "interests": ["food", "sightseeing", "nightlife"],
+    "summary": "A traditional low-roofed wooden boat dinner cruise around Tokyo Bay, serving tempura and other seasonal courses while the skyline and bridges drift past the windows.",
+    "access": "Departs from various piers, commonly near Asakusa or Hinode Pier",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Yakatabune dinner cruise", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "toyosu-market",
+    "title": "Toyosu Market",
+    "city": "Tokyo",
+    "interests": ["food", "local-markets", "sightseeing"],
+    "summary": "Tokyo's relocated central wholesale market, where an elevated public walkway lets early risers watch the famous tuna auction without getting in the way of the trading floor.",
+    "access": "7-minute walk from Shijo-mae Station (Yurikamome Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Toyosu Market tuna auction tour", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "toyosu-senkyaku-banrai",
+    "title": "Toyosu Senkyaku Banrai",
+    "city": "Tokyo",
+    "interests": ["food", "onsen", "shopping"],
+    "summary": "A retro-styled market street built next to Toyosu Market, combining about 70 seafood restaurants and souvenir shops with a hot-spring bathhouse on the upper floor.",
+    "access": "7-minute walk from Shijo-mae Station (Yurikamome Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Toyosu Senkyaku Banrai hot spring admission", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "miraikan",
+    "title": "Miraikan (National Museum of Emerging Science)",
+    "city": "Tokyo",
+    "interests": ["art-museums", "family"],
+    "summary": "A hands-on science museum built around a giant globe made of LED panels showing real-time Earth data, with humanoid robot demonstrations and space exploration exhibits.",
+    "access": "5-minute walk from Telecom Center Station (Yurikamome Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Miraikan admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "small-worlds-tokyo",
+    "title": "Small Worlds Tokyo",
+    "city": "Tokyo",
+    "interests": ["family", "pop-culture", "photo-spots"],
+    "summary": "A miniature-model theme park recreating Tokyo neighborhoods, Kansai International Airport, and anime worlds at 1:80 scale, with tiny trains and cars in constant motion.",
+    "access": "3-minute walk from Kokusai-Tenjijo-Seimon Station (Yurikamome Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Small Worlds Tokyo tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "tsukishima-monja-street",
+    "title": "Tsukishima Monja Street",
+    "city": "Tokyo",
+    "interests": ["food", "backstreets"],
+    "summary": "A street of roughly 80 restaurants specializing in monjayaki, Tokyo's gooier cousin of okonomiyaki, cooked tableside on a hot iron griddle.",
+    "access": "5-minute walk from Tsukishima Station (Tokyo Metro Yurakucho Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Tsukishima monjayaki cooking experience", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "maxell-aqua-park-shinagawa",
+    "title": "Maxell Aqua Park Shinagawa",
+    "city": "Tokyo",
+    "interests": ["family", "nature", "nightlife"],
+    "summary": "An aquarium inside Shinagawa Station that mixes fish tanks with projection mapping and a dolphin show lit up in shifting colors, open into the evening for a date-night option.",
+    "access": "2-minute walk from Shinagawa Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Maxell Aqua Park Shinagawa tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "haneda-airport-observation-deck",
+    "title": "Haneda Airport Observation Deck",
+    "city": "Tokyo",
+    "interests": ["family", "sightseeing", "shopping"],
+    "summary": "Free rooftop viewing decks across three terminals for watching planes take off, plus an Edo-period-themed food court built to look like an old Tokyo streetscape.",
+    "access": "Directly at Haneda Airport (Tokyo Monorail / Keikyu Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Narita/Haneda airport transfer", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "tokyo-tower",
+    "title": "Tokyo Tower",
+    "city": "Tokyo",
+    "interests": ["sightseeing", "photo-spots", "architecture"],
+    "summary": "An orange-and-white 333-meter lattice tower modeled on the Eiffel Tower, with a glass floor panel on the main deck for looking straight down at the streets below.",
+    "access": "5-minute walk from Akabanebashi Station (Tokyo Metro Oedo Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Tokyo Tower observation deck tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "zojoji-temple",
+    "title": "Zojoji Temple",
+    "city": "Tokyo",
+    "interests": ["temples-shrines", "history", "photo-spots"],
+    "summary": "The former family temple of the Tokugawa shoguns, whose main gate frames a postcard view of Tokyo Tower rising directly behind it.",
+    "access": "3-minute walk from Onarimon Station (Toei Mita Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Tokyo Tower", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "national-art-center-tokyo",
+    "title": "National Art Center, Tokyo",
+    "city": "Tokyo",
+    "interests": ["art-museums", "architecture"],
+    "summary": "Japan's largest exhibition space, with no permanent collection of its own — instead a rotating calendar of major touring shows, inside a wavy glass facade designed by Kisho Kurokawa.",
+    "access": "4-minute walk from Nogizaka Station (Tokyo Metro Chiyoda Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Roppongi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "tokyo-midtown",
+    "title": "Tokyo Midtown",
+    "city": "Tokyo",
+    "interests": ["shopping", "cafes-sweets", "seasonal-nature"],
+    "summary": "A mixed-use complex on the former Defense Agency site, known for a large grassy lawn that hosts cherry blossom picnics in spring and an illumination display in winter.",
+    "access": "Directly connected to Roppongi Station (Tokyo Metro Hibiya/Oedo Lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Roppongi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "teamlab-borderless-azabudai",
+    "title": "teamLab Borderless",
+    "city": "Tokyo",
+    "interests": ["art-museums", "photo-spots", "architecture"],
+    "summary": "A digital art museum inside Azabudai Hills with over 70 installations that blend into one another as visitors walk between rooms, so the same piece never looks the same twice.",
+    "access": "5-minute walk from Kamiyacho Station (Tokyo Metro Hibiya Line)",
+    "imageUrl": null,
+    "officialUrl": "https://www.teamlab.art/e/borderless-azabudai/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book teamLab Borderless tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "national-diet-building",
+    "title": "National Diet Building",
+    "city": "Tokyo",
+    "interests": ["history", "architecture"],
+    "summary": "Japan's parliament building, a symmetrical stone structure completed in 1936, with free guided tours through the House of Representatives chamber when it's not in session.",
+    "access": "3-minute walk from Kokkai-gijidomae Station (Tokyo Metro Marunouchi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Nagatacho", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "miyashita-park",
+    "title": "MIYASHITA PARK",
+    "city": "Tokyo",
+    "interests": ["shopping", "family", "cafes-sweets"],
+    "summary": "A shopping complex built over a former public park, with a 1,000-square-meter rooftop lawn above the stores where people picnic and skateboard within sight of Shibuya's skyline.",
+    "access": "3-minute walk from Shibuya Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Shibuya", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shibuya-sky",
+    "title": "Shibuya Sky",
+    "city": "Tokyo",
+    "interests": ["photo-spots", "sightseeing", "architecture"],
+    "summary": "An open-air rooftop observation deck 229 meters above Shibuya Scramble Square, with hammock-style seating areas and unobstructed views over the crossing below.",
+    "access": "Directly connected to Shibuya Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Shibuya Sky observatory tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "shibuya-stream",
+    "title": "Shibuya Stream",
+    "city": "Tokyo",
+    "interests": ["shopping", "cafes-sweets", "architecture"],
+    "summary": "A riverside redevelopment along a once-hidden stretch of the Shibuya River, now a walkway lined with restaurant terraces that stays lively well after the shops nearby close.",
+    "access": "Directly connected to Shibuya Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Shibuya", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "cat-street-tokyo",
+    "title": "Cat Street",
+    "city": "Tokyo",
+    "interests": ["shopping", "cafes-sweets", "pop-culture"],
+    "summary": "A curving pedestrian lane connecting Shibuya and Harajuku, lined with streetwear boutiques and independent designers, quieter and more browsable than Takeshita Street nearby.",
+    "access": "8-minute walk from Shibuya Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Harajuku", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "omotesando-hills",
+    "title": "Omotesando Hills",
+    "city": "Tokyo",
+    "interests": ["shopping", "architecture"],
+    "summary": "A sloped, spiral-ramp shopping complex designed by Tadao Ando along Omotesando's tree-lined avenue, built to echo the elevation of the original 1927 apartment block it replaced.",
+    "access": "3-minute walk from Meiji-jingumae Station (Tokyo Metro Chiyoda Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Omotesando", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "yoyogi-park",
+    "title": "Yoyogi Park",
+    "city": "Tokyo",
+    "interests": ["nature", "outdoor", "seasonal-nature"],
+    "summary": "A large open park next to Meiji Jingu that fills with street performers, picnickers, and food festivals most weekends, and turns into one of Tokyo's liveliest cherry blossom spots each spring.",
+    "access": "3-minute walk from Harajuku Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Harajuku", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "ebisu-garden-place",
+    "title": "Ebisu Garden Place",
+    "city": "Tokyo",
+    "interests": ["cafes-sweets", "art-museums", "shopping"],
+    "summary": "A quiet plaza built on the site of an old beer brewery, home to a small photography museum and a free-to-enter observation lounge with skyline views from a nearby tower.",
+    "access": "5-minute walk from Ebisu Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Ebisu", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "tokyo-metropolitan-government-building",
+    "title": "Tokyo Metropolitan Government Building Observatory",
+    "city": "Tokyo",
+    "interests": ["photo-spots", "sightseeing", "architecture"],
+    "summary": "A free observation deck 202 meters up in Tokyo's city hall towers, offering a view of Mount Fuji on clear winter days without paying for a ticket anywhere else.",
+    "access": "8-minute walk from Shinjuku Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Shinjuku", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shinjuku-gyoen",
+    "title": "Shinjuku Gyoen National Garden",
+    "city": "Tokyo",
+    "interests": ["nature", "seasonal-nature", "outdoor"],
+    "summary": "A large garden combining French formal, English landscape, and traditional Japanese garden styles in one park, considered one of Tokyo's best cherry blossom spots.",
+    "access": "10-minute walk from Shinjuku-gyoenmae Station (Tokyo Metro Marunouchi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Shinjuku Gyoen admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "kabukicho-nightlife",
+    "title": "Kabukicho",
+    "city": "Tokyo",
+    "interests": ["nightlife", "backstreets", "photo-spots"],
+    "summary": "Tokyo's largest entertainment district, a dense grid of neon signs, bars, and theaters — best explored with a guide who knows which alleys are worth a look and which to skip.",
+    "access": "3-minute walk from Shinjuku Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Shinjuku Golden Gai bar-hopping tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "yoshimoto-comedy-theater",
+    "title": "Lumine the Yoshimoto",
+    "city": "Tokyo",
+    "interests": ["traditional-culture", "nightlife"],
+    "summary": "A Shinjuku comedy theater running manzai and short sketch shows daily, the same style of stand-up popularized in Osaka but performed in the capital.",
+    "access": "Directly connected to Shinjuku Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Lumine the Yoshimoto comedy show tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "shin-okubo-korea-town",
+    "title": "Shin-Okubo Korea Town",
+    "city": "Tokyo",
+    "interests": ["food", "shopping", "traditional-culture"],
+    "summary": "A dense strip of Korean restaurants, cosmetics shops, and K-pop merchandise stores just north of Shinjuku, especially busy on weekends with fans of Korean pop culture.",
+    "access": "1-minute walk from Shin-Okubo Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Shin-Okubo", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "sunshine-aquarium",
+    "title": "Sunshine Aquarium",
+    "city": "Tokyo",
+    "interests": ["family", "nature"],
+    "summary": "A rooftop aquarium in Ikebukuro with a donut-shaped tank of rays and small sharks suspended above visitors' heads, plus a section of penguins that appear to be swimming through the sky.",
+    "access": "8-minute walk from Ikebukuro Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Sunshine Aquarium tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "pokemon-center-sunshine-city",
+    "title": "Pokemon Center Sunshine City",
+    "city": "Tokyo",
+    "interests": ["pop-culture", "family", "shopping"],
+    "summary": "One of the largest official Pokemon retail stores in the country, inside the Sunshine City complex, stocked with plush toys and merchandise exclusive to specific store locations.",
+    "access": "8-minute walk from Ikebukuro Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Ikebukuro", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "warner-bros-studio-tour-tokyo",
+    "title": "Warner Bros. Studio Tour Tokyo",
+    "city": "Tokyo",
+    "interests": ["pop-culture", "family", "photo-spots"],
+    "summary": "A behind-the-scenes walk through real sets, costumes, and props from the Harry Potter films, built inside a former paper factory in western Tokyo.",
+    "access": "8-minute walk from Toshimaen Station (Seibu Toshima Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Warner Bros. Studio Tour Tokyo tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "tokyo-dome-city",
+    "title": "Tokyo Dome City",
+    "city": "Tokyo",
+    "interests": ["family", "sightseeing", "onsen"],
+    "summary": "An amusement park and entertainment complex wrapped around the Tokyo Dome baseball stadium, combining a roller coaster with no visible track, a hot-spring spa, and a planetarium.",
+    "access": "2-minute walk from Korakuen Station (Tokyo Metro Marunouchi/Namboku Lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Tokyo Dome City attraction tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "yushima-tenmangu",
+    "title": "Yushima Tenmangu",
+    "city": "Tokyo",
+    "interests": ["temples-shrines", "seasonal-nature"],
+    "summary": "A shrine dedicated to the god of learning, visited by students before exams, with roughly 300 plum trees that bloom into a fragrant festival every February.",
+    "access": "2-minute walk from Yushima Station (Tokyo Metro Chiyoda Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Ueno", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "yasukuni-shrine",
+    "title": "Yasukuni Shrine",
+    "city": "Tokyo",
+    "interests": ["temples-shrines", "history", "seasonal-nature"],
+    "summary": "A shrine whose grounds include the tree the Japan Meteorological Agency uses to officially declare Tokyo's cherry blossom season open each year, alongside a war history museum.",
+    "access": "5-minute walk from Kudanshita Station (Tokyo Metro Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kudanshita", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "tokyo-daijingu",
+    "title": "Tokyo Daijingu",
+    "city": "Tokyo",
+    "interests": ["temples-shrines"],
+    "summary": "Known as \"Tokyo's Ise Shrine,\" a compact city-center shrine especially popular with people praying for good relationships, tucked into a quiet residential slope near Iidabashi.",
+    "access": "5-minute walk from Iidabashi Station (Tokyo Metro Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Iidabashi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "ghibli-museum-mitaka",
+    "title": "Ghibli Museum",
+    "city": "Tokyo",
+    "interests": ["art-museums", "pop-culture", "family"],
+    "summary": "A whimsical museum designed by Hayao Miyazaki himself, with no set walking route and a rooftop garden guarded by a life-size robot soldier statue from Castle in the Sky.",
+    "access": "5-minute walk from Kichijoji Station (JR Chuo Line), or a short walk through Inokashira Park",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Ghibli Museum tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "inokashira-park",
+    "title": "Inokashira Park",
+    "city": "Tokyo",
+    "interests": ["nature", "seasonal-nature", "family"],
+    "summary": "A pond-centered park in Kichijoji where couples rent swan boats — local superstition holds that riding one together brings bad luck to the relationship, which locals half-joke about constantly.",
+    "access": "5-minute walk from Kichijoji Station (JR Chuo Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kichijoji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "jindaiji-temple",
+    "title": "Jindaiji Temple",
+    "city": "Tokyo",
+    "interests": ["temples-shrines", "food", "nature"],
+    "summary": "Tokyo's second-oldest temple, surrounded by a cluster of soba noodle restaurants that draw on the area's traditionally pure natural spring water.",
+    "access": "15-minute bus ride from Chofu Station (Keio Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Chofu", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "sanrio-puroland",
+    "title": "Sanrio Puroland",
+    "city": "Tokyo",
+    "interests": ["family", "pop-culture"],
+    "summary": "An indoor theme park built entirely around Hello Kitty and other Sanrio characters, with parades and musical shows scheduled throughout the day regardless of weather outside.",
+    "access": "5-minute walk from Tama-Center Station (Keio Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Sanrio Puroland tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "showa-kinen-park",
+    "title": "Showa Kinen Park",
+    "city": "Tokyo",
+    "interests": ["nature", "outdoor", "seasonal-nature"],
+    "summary": "A huge former air base turned public park west of central Tokyo, with a hillside of vivid blue nemophila flowers in spring and one of the region's best ginkgo avenues in autumn.",
+    "access": "10-minute walk from Nishi-Tachikawa Station (JR Ome Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Showa Kinen Park admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "mount-takao",
+    "title": "Mount Takao",
+    "city": "Tokyo",
+    "interests": ["outdoor", "nature", "seasonal-nature"],
+    "summary": "A 599-meter mountain reachable by cable car, popular enough for a casual half-day hike that its trails can get crowded on weekends, with a summit view stretching to Mount Fuji on clear days.",
+    "access": "5-minute walk from Takaosanguchi Station (Keio Takao Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Mount Takao hiking day tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "nippara-limestone-cave",
+    "title": "Nippara Limestone Cave",
+    "city": "Tokyo",
+    "interests": ["outdoor", "nature"],
+    "summary": "The largest limestone cave in the Kanto region, a constant 11 degrees Celsius inside year-round, deep in the mountains of Okutama at the far western edge of Tokyo.",
+    "access": "35-minute bus ride from Okutama Station (JR Ome Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Okutama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "hama-rikyu-gardens",
+    "title": "Hama-rikyu Gardens",
+    "city": "Tokyo",
+    "interests": ["nature", "seasonal-nature", "history"],
+    "summary": "A former shogunal duck-hunting garden surrounded on three sides by seawater canals, with a 300-year-old pine tree and a teahouse on a small island reached by footbridge.",
+    "access": "7-minute walk from Shiodome Station (Toei Oedo Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Shiodome", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "rikugien-garden",
+    "title": "Rikugien Garden",
+    "city": "Tokyo",
+    "interests": ["nature", "seasonal-nature"],
+    "summary": "A strolling-style Edo-period garden built around scenes from classical Japanese poetry, with a single weeping cherry tree so famous it draws crowds on its own each spring.",
+    "access": "7-minute walk from Komagome Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Komagome", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "koishikawa-korakuen",
+    "title": "Koishikawa Korakuen",
+    "city": "Tokyo",
+    "interests": ["nature", "history", "seasonal-nature"],
+    "summary": "One of Tokyo's oldest surviving gardens, dating to the early Edo period, laid out around a large central pond with miniature recreations of famous landscapes from Japan and China.",
+    "access": "3-minute walk from Iidabashi Station (Tokyo Metro Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Korakuen", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kiyosumi-garden",
+    "title": "Kiyosumi Garden",
+    "city": "Tokyo",
+    "interests": ["nature", "backstreets"],
+    "summary": "A quiet pond garden east of the city center, dotted with unusually large ornamental rocks collected from around Japan by the garden's original merchant owner.",
+    "access": "3-minute walk from Kiyosumi-Shirakawa Station (Tokyo Metro Hanzomon Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kiyosumi-Shirakawa", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "nezu-museum",
+    "title": "Nezu Museum",
+    "city": "Tokyo",
+    "interests": ["art-museums", "nature"],
+    "summary": "A private collection of pre-modern Japanese and East Asian art in a Kengo Kuma-designed building, wrapped around a large traditional garden with its own teahouses and stone paths.",
+    "access": "8-minute walk from Omotesando Station (Tokyo Metro Chiyoda Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Nezu Museum admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "21-21-design-sight",
+    "title": "21_21 Design Sight",
+    "city": "Tokyo",
+    "interests": ["art-museums", "architecture"],
+    "summary": "A low-slung design museum by Tadao Ando in Tokyo Midtown, its roofline folded like a piece of origami, hosting rotating exhibitions on everyday design rather than fine art.",
+    "access": "5-minute walk from Roppongi Station (Tokyo Metro Hibiya/Oedo Lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Roppongi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kappabashi-kitchen-town",
+    "title": "Kappabashi Kitchen Town",
+    "city": "Tokyo",
+    "interests": ["shopping", "local-markets", "food"],
+    "summary": "A street of specialty shops supplying restaurants with knives, tableware, and the famously realistic plastic food models seen in Japanese restaurant windows.",
+    "access": "8-minute walk from Tawaramachi Station (Tokyo Metro Ginza Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Kappabashi plastic food-making workshop", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "yanaka-cemetery",
+    "title": "Yanaka Cemetery",
+    "city": "Tokyo",
+    "interests": ["history", "backstreets", "seasonal-nature"],
+    "summary": "A quiet, tree-lined cemetery in one of Tokyo's few neighborhoods to survive both the 1923 earthquake and WWII bombing largely intact, with a central cherry-tree-lined avenue that blooms every spring.",
+    "access": "5-minute walk from Nippori Station (JR Yamanote Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Yanaka & Nezu", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kanda-myojin-shrine",
+    "title": "Kanda Myojin Shrine",
+    "city": "Tokyo",
+    "interests": ["temples-shrines", "pop-culture", "history"],
+    "summary": "A vividly painted vermilion shrine over 1,270 years old, adopted by Akihabara's anime and gaming industry as an unofficial patron shrine for IT and business success charms.",
+    "access": "5-minute walk from Ochanomizu Station (JR Chuo Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Akihabara", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "chidorigafuchi-moat",
+    "title": "Chidorigafuchi",
+    "city": "Tokyo",
+    "interests": ["seasonal-nature", "nature", "photo-spots"],
+    "summary": "A moat along the northwest edge of the Imperial Palace where rowboats drift beneath overhanging cherry trees each spring, illuminated by lanterns after dark during peak bloom.",
+    "access": "5-minute walk from Kudanshita Station (Tokyo Metro Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kudanshita", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "daikanyama-t-site",
+    "title": "Daikanyama T-Site",
+    "city": "Tokyo",
+    "interests": ["shopping", "cafes-sweets"],
+    "summary": "A book-and-lifestyle complex spread across three connected pavilions, popular for its lounge-style Starbucks and quiet, design-forward atmosphere away from Tokyo's busier shopping streets.",
+    "access": "8-minute walk from Daikanyama Station (Tokyu Toyoko Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Daikanyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "toranomon-hills",
+    "title": "Toranomon Hills",
+    "city": "Tokyo",
+    "interests": ["architecture", "shopping"],
+    "summary": "One of Tokyo's newest business-and-retail towers, built directly over a road tunnel and connected by an elevated pedestrian deck lined with restaurants and design shops.",
+    "access": "Directly connected to Toranomon Hills Station (Tokyo Metro Hibiya Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Toranomon", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "hie-shrine",
+    "title": "Hie Shrine",
+    "city": "Tokyo",
+    "interests": ["temples-shrines", "photo-spots"],
+    "summary": "A hillside shrine reached by a tunnel of stacked red torii gates reminiscent of Fushimi Inari, tucked between office towers in the middle of the Akasaka business district.",
+    "access": "3-minute walk from Tameike-Sanno Station (Tokyo Metro Ginza Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Akasaka", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "sengakuji-temple",
+    "title": "Sengakuji Temple",
+    "city": "Tokyo",
+    "interests": ["history", "temples-shrines"],
+    "summary": "The burial site of the 47 Ronin, whose story of loyalty and revenge is one of Japan's most retold historical dramas — their graves are still lit with incense left by visitors daily.",
+    "access": "1-minute walk from Sengakuji Station (Toei Asakusa Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Shinagawa", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "legoland-discovery-center-tokyo",
+    "title": "LEGOLAND Discovery Center Tokyo",
+    "city": "Tokyo",
+    "interests": ["family", "pop-culture"],
+    "summary": "An indoor LEGO-themed attraction in Odaiba with rides, a 4D cinema, and a miniature LEGO recreation of Tokyo's own skyline, aimed at younger children.",
+    "access": "3-minute walk from Odaiba-Kaihinkoen Station (Yurikamome Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book LEGOLAND Discovery Center Tokyo tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "suginami-animation-museum",
+    "title": "Suginami Animation Museum",
+    "city": "Tokyo",
+    "interests": ["pop-culture", "family", "art-museums"],
+    "summary": "A small, free museum tracing the history of Japanese animation with hands-on flipbook and voice-acting booths, in a residential neighborhood long associated with anime studios.",
+    "access": "7-minute walk from Ogikubo Station (JR Chuo Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Ogikubo", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "meguro-river-cherry-blossoms",
+    "title": "Meguro River",
+    "city": "Tokyo",
+    "interests": ["seasonal-nature", "photo-spots", "cafes-sweets"],
+    "summary": "A narrow river walk lined with roughly 800 cherry trees, illuminated with paper lanterns each spring and dotted with pop-up cafes that only open during the two-week bloom.",
+    "access": "5-minute walk from Nakameguro Station (Tokyu Toyoko Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Nakameguro", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "todoroki-valley",
+    "title": "Todoroki Valley",
+    "city": "Tokyo",
+    "interests": ["nature", "outdoor"],
+    "summary": "A short forested ravine walk along a stream in southern Tokyo, easy to combine with a visit to a nearby ancient burial mound, and a surprising pocket of wilderness inside the 23 wards.",
+    "access": "5-minute walk from Todoroki Station (Tokyu Oimachi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Todoroki", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   }
 ]
