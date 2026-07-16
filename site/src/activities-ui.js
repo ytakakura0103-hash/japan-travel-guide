@@ -47,6 +47,11 @@ function renderPhotoHtml(activity) {
   return '<div class="activity-photo activity-photo-placeholder" aria-hidden="true"></div>';
 }
 
+function buildGoogleMapsUrl(activity) {
+  const query = activity.address || `${activity.title}, ${activity.city}`;
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
+}
+
 export function renderActivityResults(container, activities) {
   if (activities.length === 0) {
     container.innerHTML = '<p class="no-results">No activities match your filters yet. Try widening your search.</p>';
@@ -59,6 +64,7 @@ export function renderActivityResults(container, activities) {
       const officialLink = activity.officialUrl
         ? `<a class="official-link" href="${escapeHtml(activity.officialUrl)}" target="_blank" rel="noopener">Official site</a>`
         : '';
+      const mapsLink = `<a class="maps-link" href="${escapeHtml(buildGoogleMapsUrl(activity))}" target="_blank" rel="noopener">Open in Google Maps</a>`;
       const localPickBadge = activity.isLocalPick ? '<span class="local-pick-badge">Local Pick</span>' : '';
       return `
         <article class="activity-card">
@@ -67,9 +73,10 @@ export function renderActivityResults(container, activities) {
             ${localPickBadge}
             <h3>${escapeHtml(activity.title)}</h3>
             <p>${escapeHtml(activity.summary)}</p>
+            <p class="activity-address">${escapeHtml(activity.address)}</p>
             <p class="activity-access">${escapeHtml(activity.access)}</p>
             <div class="activity-tags">${renderTagsHtml(activity.interests)}</div>
-            <div class="activity-links">${links}${officialLink}</div>
+            <div class="activity-links">${links}${officialLink}${mapsLink}</div>
           </div>
         </article>
       `;
