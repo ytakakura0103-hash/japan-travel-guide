@@ -24,4 +24,9 @@ describe('index.html', () => {
     expect(html).toContain('id="results"');
     expect(html).toContain('class="map-embed"');
   });
+
+  it('includes a back-to-top link pointing at the search form', () => {
+    expect(html).toContain('id="back-to-top"');
+    expect(html).toContain('href="#activity-form"');
+  });
 });

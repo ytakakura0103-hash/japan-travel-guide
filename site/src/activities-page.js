@@ -18,4 +18,17 @@ async function main() {
   });
 }
 
+function initBackToTop() {
+  const button = document.getElementById('back-to-top');
+  if (!button) return;
+
+  const toggleVisibility = () => {
+    button.classList.toggle('is-visible', window.scrollY > 400);
+  };
+
+  window.addEventListener('scroll', toggleVisibility, { passive: true });
+  toggleVisibility();
+}
+
 main();
+initBackToTop();
