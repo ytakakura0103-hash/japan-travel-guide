@@ -31,7 +31,7 @@ const INTEREST_LABELS = {
   family: 'Family-Friendly',
   outdoor: 'Outdoor & Sports',
   backstreets: 'Backstreets & Local Neighborhoods',
-  'seasonal-nature': 'Seasonal Nature',
+  'seasonal-nature': 'Seasonal Nature (Cherry Blossoms / Autumn Leaves)',
 };
 
 function renderTagsHtml(interests) {
