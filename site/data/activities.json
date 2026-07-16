@@ -2355,5 +2355,803 @@
     "affiliateLinks": [
       { "label": "Find hotels near Todoroki", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
+  },
+  {
+    "id": "grand-green-osaka",
+    "title": "Grand Green Osaka",
+    "city": "Osaka",
+    "interests": ["nature", "shopping", "cafes-sweets"],
+    "summary": "A newly opened 45,000-square-meter park built directly outside Osaka Station, with an open lawn for picnics surrounded by restaurants and shops in the same complex.",
+    "access": "Directly connected to Osaka Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Umeda", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "osaka-museum-of-housing-and-living",
+    "title": "Osaka Museum of Housing and Living",
+    "city": "Osaka",
+    "interests": ["history", "art-museums"],
+    "summary": "A museum that recreates an entire late-Edo-period Osaka streetscape at full scale indoors, complete with shopfronts, changing lighting for day and night, and seasonal festival displays.",
+    "access": "Directly connected to Tenjinbashisuji-Rokuchome Station (Osaka Metro Tanimachi/Sakaisuji Lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Osaka Museum of Housing and Living tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "osaka-science-museum",
+    "title": "Osaka Science Museum",
+    "city": "Osaka",
+    "interests": ["art-museums", "family"],
+    "summary": "A hands-on science museum in Nakanoshima with a dome planetarium and exhibits centered on space exploration and energy, a reliable rainy-day option for families.",
+    "access": "5-minute walk from Yodoyabashi Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Osaka Science Museum tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "namba-yasaka-shrine",
+    "title": "Namba Yasaka Shrine",
+    "city": "Osaka",
+    "interests": ["temples-shrines", "photo-spots"],
+    "summary": "A shrine best known for its enormous lion-head-shaped stage, about 12 meters tall, believed to devour bad luck — one of Osaka's more surreal photo stops.",
+    "access": "3-minute walk from Namba Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Namba", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "national-bunraku-theatre",
+    "title": "National Bunraku Theatre",
+    "city": "Osaka",
+    "interests": ["traditional-culture", "sightseeing"],
+    "summary": "The home stage of bunraku, a UNESCO-recognized puppet theater tradition where three visible puppeteers work each life-size puppet in perfect coordination.",
+    "access": "1-minute walk from Nippombashi Station (Osaka Metro Sennichimae Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book National Bunraku Theatre performance tickets", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "japan-mint-museum",
+    "title": "Japan Mint Museum",
+    "city": "Osaka",
+    "interests": ["history", "art-museums", "seasonal-nature"],
+    "summary": "A coin and medal museum inside Japan's mint headquarters, whose back lane of some 350 cherry trees opens to the public for exactly one week each April.",
+    "access": "15-minute walk from Sakuranomiya Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Osaka Castle", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "maishima-incineration-plant",
+    "title": "Maishima Incineration Plant",
+    "city": "Osaka",
+    "interests": ["architecture", "photo-spots"],
+    "summary": "A working waste incinerator designed by Austrian artist Friedensreich Hundertwasser, with a gold onion dome and no straight lines anywhere — often called the world's most beautiful garbage plant.",
+    "access": "20-minute bus ride from Sakurajima Station (JR Sakurajima Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Universal City", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kyocera-dome-osaka",
+    "title": "Kyocera Dome Osaka",
+    "city": "Osaka",
+    "interests": ["outdoor", "family"],
+    "summary": "Home stadium of the Orix Buffaloes professional baseball team, with tours available on non-game days to walk the dugouts and bullpen.",
+    "access": "2-minute walk from Dome-mae Station (Osaka Metro Nagahori Tsurumi-ryokuchi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book an Orix Buffaloes baseball game ticket", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "sakai-rishonomori",
+    "title": "Sakai Rishonomori",
+    "city": "Osaka",
+    "interests": ["traditional-culture", "history"],
+    "summary": "A cultural facility in Sakai dedicated to two of the city's most famous historical residents, tea master Sen no Rikyu and poet Akiko Yosano, with tea ceremony demonstrations.",
+    "access": "1-minute walk from Sakai Station (Nankai Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Sakai", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "daisen-kofun-mozu-tumuli",
+    "title": "Daisen Kofun & the Mozu-Furuichi Tumuli",
+    "city": "Osaka",
+    "interests": ["history", "outdoor"],
+    "summary": "Japan's largest ancient burial mound, a UNESCO World Heritage keyhole-shaped tomb so large it's best appreciated from the air — walk the moat path at ground level or visit the nearby observation museum instead.",
+    "access": "8-minute walk from Mozu Station (JR Hanwa Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Mozu-Furuichi Kofun guided tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "shimoakasaka-rice-terraces",
+    "title": "Shimoakasaka Rice Terraces",
+    "city": "Osaka",
+    "interests": ["nature", "outdoor", "seasonal-nature"],
+    "summary": "One of Japan's officially selected \"100 best rice terraces,\" a stepped hillside of paddies in rural southern Osaka Prefecture that turns gold at harvest time.",
+    "access": "Best reached by car from Kawachinagano Station (Nankai Koya Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kawachinagano", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "mount-ikoma",
+    "title": "Mount Ikoma",
+    "city": "Osaka",
+    "interests": ["nature", "outdoor", "photo-spots"],
+    "summary": "A 642-meter mountain on Osaka's eastern edge, with a cable car up to a retro amusement park and a night view over the city lights that locals rank among the best in Kansai.",
+    "access": "Cable car from Ikoma Station (Kintetsu Nara Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Ikoma", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shiba-ryotaro-museum",
+    "title": "Shiba Ryotaro Museum",
+    "city": "Osaka",
+    "interests": ["art-museums", "history"],
+    "summary": "A museum dedicated to one of Japan's best-loved historical novelists, built by architect Tadao Ando around the author's actual home and its three-story wall of bookshelves.",
+    "access": "9-minute walk from Yao-Minamiguchi Station (Kintetsu Shigi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Higashi-Osaka", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kansai-international-airport",
+    "title": "Kansai International Airport",
+    "city": "Osaka",
+    "interests": ["sightseeing", "family"],
+    "summary": "A round-the-clock airport built on an artificial island in Osaka Bay, with an observation hall for watching takeoffs and landings up close even without flying yourself.",
+    "access": "Directly at Kansai-Airport Station (JR / Nankai lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Kansai Airport transfer", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "suntory-yamazaki-distillery",
+    "title": "Suntory Yamazaki Distillery",
+    "city": "Osaka",
+    "interests": ["food", "traditional-culture"],
+    "summary": "Japan's first and most storied whisky distillery, offering tour-and-tasting sessions that trace how Japanese whisky developed its own distinct style from Scotch traditions.",
+    "access": "5-minute walk from Yamazaki Station (JR Kyoto Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Suntory Yamazaki Distillery tour with tasting", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "katsuoji-temple",
+    "title": "Katsuoji Temple",
+    "city": "Osaka",
+    "interests": ["temples-shrines", "photo-spots"],
+    "summary": "A mountain temple founded in 727, famous for good-luck victory charms — thousands of small daruma dolls left by visitors are piled across the grounds in every direction.",
+    "access": "Bus ride from Senriyama Station (Hankyu Kyoto Line), in Minoh",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Minoh", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "cup-noodles-museum-osaka-ikeda",
+    "title": "Cup Noodles Museum Osaka Ikeda",
+    "city": "Osaka",
+    "interests": ["family", "food"],
+    "summary": "A hands-on museum in the city where instant ramen was invented, where visitors design their own cup noodle flavor and packaging from thousands of possible combinations.",
+    "access": "5-minute walk from Ikeda Station (Hankyu Takarazuka Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Cup Noodles Museum Osaka Ikeda tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "duskin-museum",
+    "title": "Duskin Museum",
+    "city": "Osaka",
+    "interests": ["family", "food"],
+    "summary": "A free hands-on museum from the company behind Mister Donut in Japan, where visitors can fry and decorate their own doughnut to take home.",
+    "access": "10-minute walk from Ikeda Station (Hankyu Takarazuka Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Ikeda", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "hep-five",
+    "title": "HEP FIVE",
+    "city": "Osaka",
+    "interests": ["shopping", "family", "photo-spots"],
+    "summary": "A youth-fashion shopping tower topped by a bright red Ferris wheel that spins above the rooftops of Umeda, visible from streets away.",
+    "access": "3-minute walk from Osaka Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Umeda", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "osaka-prefectural-nakanoshima-library",
+    "title": "Osaka Prefectural Nakanoshima Library",
+    "city": "Osaka",
+    "interests": ["architecture", "art-museums"],
+    "summary": "A working public library inside a Greco-Roman-style building over a century old, designated an Important Cultural Property, with a domed reading hall still open to visitors.",
+    "access": "5-minute walk from Yodoyabashi Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Nakanoshima", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "tsurumi-ryokuchi-park",
+    "title": "Tsurumi Ryokuchi Park",
+    "city": "Osaka",
+    "interests": ["nature", "seasonal-nature", "family"],
+    "summary": "A 120-hectare park built for the 1990 international garden expo, still filled with themed gardens from different countries and a huge tulip and cherry blossom display each spring.",
+    "access": "3-minute walk from Tsurumi-ryokuchi Station (Osaka Metro Nagahori Tsurumi-ryokuchi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Tsurumi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "osaka-castle-nishinomaru-garden",
+    "title": "Osaka Castle Nishinomaru Garden",
+    "city": "Osaka",
+    "interests": ["seasonal-nature", "history", "photo-spots"],
+    "summary": "A lawned garden inside the castle grounds with about 300 cherry trees framing views of the main keep, one of the region's most photographed cherry blossom scenes.",
+    "access": "12-minute walk from Osakajokoen Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Osaka Castle", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "jo-terrace-osaka",
+    "title": "JO-TERRACE OSAKA",
+    "city": "Osaka",
+    "interests": ["food", "cafes-sweets"],
+    "summary": "A riverside dining terrace at the edge of Osaka Castle Park, built around the idea of a modern castle town, with a cluster of well-regarded ramen shops among its restaurants.",
+    "access": "10-minute walk from Osakajokoen Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Osaka Castle", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "nifrel",
+    "title": "NIFREL",
+    "city": "Osaka",
+    "interests": ["nature", "family", "art-museums"],
+    "summary": "A museum that blends aquarium, zoo, and art gallery into one space, lighting its tanks and enclosures like installations rather than traditional exhibits.",
+    "access": "Directly connected to Bampaku-kinen-koen Station (Osaka Monorail), in Suita",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book NIFREL tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "sakai-harvest-hill",
+    "title": "Sakai Harvest Hill",
+    "city": "Osaka",
+    "interests": ["family", "outdoor", "nature"],
+    "summary": "A hands-on farm park with animal petting areas, seasonal flower fields, and workshops for making butter or picking fruit, a change of pace from the city center.",
+    "access": "Shuttle bus from Izumi-Chuo Station (Semboku Rapid Railway)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Sakai Harvest Hill admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "grand-front-osaka",
+    "title": "Grand Front Osaka",
+    "city": "Osaka",
+    "interests": ["shopping", "cafes-sweets", "food"],
+    "summary": "A large shopping and dining complex directly connected to Osaka Station, with an underground food court and upper floors dedicated to home goods and fashion.",
+    "access": "Directly connected to Osaka Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Umeda", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "miraiza-osaka-castle",
+    "title": "MIRAIZA OSAKA-JO",
+    "city": "Osaka",
+    "interests": ["history", "food", "architecture"],
+    "summary": "A 1931 building at the base of Osaka Castle, once army headquarters, now renovated into restaurants and a rooftop terrace with an unobstructed view of the keep.",
+    "access": "10-minute walk from Osakajokoen Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Osaka Castle", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "osaka-river-cruise-aqua-liner",
+    "title": "Osaka River Cruise (Aqua-Liner)",
+    "city": "Osaka",
+    "interests": ["sightseeing", "outdoor"],
+    "summary": "A roughly 40-minute sightseeing boat that loops past Osaka Castle and under a string of the city's bridges, a relaxed way to see the castle without the walk.",
+    "access": "Departs from Osakajo-ko Pier, near Osakajokoen Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book an Osaka River Cruise ticket", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "cosmo-tower-sakishima",
+    "title": "Cosmo Tower Sakishima",
+    "city": "Osaka",
+    "interests": ["photo-spots", "architecture", "sightseeing"],
+    "summary": "A 252-meter waterfront tower with an observatory offering an unobstructed 360-degree view, usually far less crowded than the more central Umeda Sky Building or Harukas 300.",
+    "access": "5-minute walk from Trade Center-mae Station (New Tram Nanko Port Town Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Cosmo Tower Sakishima observatory tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "osaka-museum-of-history",
+    "title": "Osaka Museum of History",
+    "city": "Osaka",
+    "interests": ["history", "art-museums"],
+    "summary": "A museum built directly above the excavated ruins of an ancient imperial palace, with upper-floor dioramas showing how the same site looked across 1,300 years.",
+    "access": "Directly connected to Tanimachi 4-chome Station (Osaka Metro Tanimachi/Chuo Lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Osaka Museum of History tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "spa-world-osaka",
+    "title": "Spa World",
+    "city": "Osaka",
+    "interests": ["onsen", "family"],
+    "summary": "A round-the-clock hot spring theme park where the baths rotate between elaborately themed \"Asian\" and \"European\" floors, plus a water slide park for kids.",
+    "access": "1-minute walk from Dobutsuen-mae Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Spa World admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "hankyu-umeda-main-store",
+    "title": "Hankyu Umeda Main Store",
+    "city": "Osaka",
+    "interests": ["shopping", "cafes-sweets"],
+    "summary": "A century-old department store famous for its basement food hall, where dozens of counters sell everything from wagashi sweets to ready-made bento to take back to a hotel room.",
+    "access": "Directly connected to Osaka-Umeda Station (Hankyu lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Umeda", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "osaka-city-central-public-hall",
+    "title": "Osaka City Central Public Hall",
+    "city": "Osaka",
+    "interests": ["architecture", "history"],
+    "summary": "A red-brick early-20th-century hall on Nakanoshima island, funded by a single stockbroker's donation, with a domed ceiling and stained glass that can be viewed on a short public tour.",
+    "access": "5-minute walk from Yodoyabashi Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Nakanoshima", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "nakazakicho",
+    "title": "Nakazakicho",
+    "city": "Osaka",
+    "interests": ["backstreets", "cafes-sweets", "shopping"],
+    "summary": "A pocket of pre-war wooden houses that survived wartime bombing, now converted into independent cafes and vintage shops just minutes from Umeda's skyscrapers.",
+    "access": "5-minute walk from Nakazakicho Station (Osaka Metro Tanimachi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Umeda", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "doguyasuji-kitchenware-street",
+    "title": "Doguyasuji Shopping Street",
+    "city": "Osaka",
+    "interests": ["shopping", "local-markets"],
+    "summary": "A restaurant-supply street next to Kuromon Market selling everything from professional knives to the plastic food display models used in shop windows across Japan.",
+    "access": "3-minute walk from Namba Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Namba", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "osaka-museum-of-natural-history",
+    "title": "Osaka Museum of Natural History",
+    "city": "Osaka",
+    "interests": ["art-museums", "nature", "family"],
+    "summary": "A museum inside Nagai Park covering the natural history of the Kansai region, from dinosaur fossils to the insects and plants found in Osaka's own city parks.",
+    "access": "5-minute walk from Nagai Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Osaka Museum of Natural History tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "nagai-park",
+    "title": "Nagai Park",
+    "city": "Osaka",
+    "interests": ["nature", "outdoor", "family"],
+    "summary": "A large sports-and-greenery park in southern Osaka with a stadium, a botanical garden, and enough open lawn for a picnic away from the busier central districts.",
+    "access": "3-minute walk from Nagai Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Nagai", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kishiwada-castle",
+    "title": "Kishiwada Castle",
+    "city": "Osaka",
+    "interests": ["history", "seasonal-nature"],
+    "summary": "A compact rebuilt castle south of Osaka city, known locally for the Kishiwada Danjiri Festival, when teams pull enormous wooden festival floats through the surrounding streets at speed.",
+    "access": "5-minute walk from Kishiwada Station (Nankai Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kishiwada", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "hankyu-railway-museum",
+    "title": "Hankyu Railway Museum",
+    "city": "Osaka",
+    "interests": ["family", "history"],
+    "summary": "A small museum built around a retired Hankyu train carriage that visitors can board and explore, popular with young train enthusiasts.",
+    "access": "5-minute walk from Kawanishi-Noseguchi Station (Hankyu Takarazuka Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kawanishi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "legoland-discovery-center-osaka",
+    "title": "LEGOLAND Discovery Center Osaka",
+    "city": "Osaka",
+    "interests": ["family", "pop-culture"],
+    "summary": "An indoor LEGO attraction inside a bayside shopping mall, with build zones, mild rides, and a miniature LEGO model of Osaka's own skyline.",
+    "access": "Inside LaLaport Osakabay Ryunku, a shuttle bus ride from Namba Station",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book LEGOLAND Discovery Center Osaka tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "cool-japan-park-osaka",
+    "title": "Cool Japan Park Osaka",
+    "city": "Osaka",
+    "interests": ["pop-culture", "family"],
+    "summary": "An anime-focused entertainment complex near Osaka Business Park, home to rotating attractions themed around major Japanese manga and anime franchises.",
+    "access": "5-minute walk from Osakajokitazume Station (JR Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Cool Japan Park Osaka attraction tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "namba-parks",
+    "title": "Namba Parks",
+    "city": "Osaka",
+    "interests": ["shopping", "nature", "cafes-sweets"],
+    "summary": "A shopping mall built on the site of the old Osaka Stadium, terraced with a rooftop \"canyon\" garden of walking paths and greenery above the stores.",
+    "access": "Directly connected to Namba Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Namba", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shinsaibashisuji-shopping-street",
+    "title": "Shinsaibashisuji Shopping Street",
+    "city": "Osaka",
+    "interests": ["shopping", "cafes-sweets"],
+    "summary": "A long covered arcade connecting Dotonbori to Amerikamura, mixing international fashion flagships with older, family-run shops that have traded here for generations.",
+    "access": "1-minute walk from Shinsaibashi Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Shinsaibashi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "utsubo-park",
+    "title": "Utsubo Park",
+    "city": "Osaka",
+    "interests": ["nature", "seasonal-nature", "outdoor"],
+    "summary": "A long, narrow park built on a former wartime airstrip, with a rose garden that peaks in May and October and a quieter atmosphere than the city's larger parks.",
+    "access": "5-minute walk from Awaza Station (Osaka Metro Yotsubashi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Honmachi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kema-sakuranomiya-park",
+    "title": "Kema Sakuranomiya Park",
+    "city": "Osaka",
+    "interests": ["seasonal-nature", "outdoor", "photo-spots"],
+    "summary": "A riverside promenade lined with around 5,000 cherry trees along the Okawa River, one of the most heavily attended hanami picnic spots in the city each spring.",
+    "access": "1-minute walk from Sakuranomiya Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Osaka Castle", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "naniwa-no-yu-onsen",
+    "title": "Naniwa-no-Yu",
+    "city": "Osaka",
+    "interests": ["onsen"],
+    "summary": "A neighborhood public bathhouse with an unusually large open-air rock bath and sauna, a low-key local alternative to the bigger, more touristy hot spring theme parks.",
+    "access": "10-minute walk from Tobita Shinchi (Osaka Metro Midosuji Line, Dobutsuen-mae Station)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Tennoji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "hattori-ryokuchi-park",
+    "title": "Hattori Ryokuchi Park",
+    "city": "Osaka",
+    "interests": ["nature", "outdoor"],
+    "summary": "A large forested park in northern Osaka with a folk-house museum of relocated traditional buildings, quieter and greener than the more famous Expo '70 Park nearby.",
+    "access": "5-minute walk from Ryokuchikoen Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Toyonaka", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "nakanoshima-museum-of-art-osaka",
+    "title": "Nakanoshima Museum of Art, Osaka",
+    "city": "Osaka",
+    "interests": ["art-museums", "architecture"],
+    "summary": "A modern and contemporary art museum that opened in 2022 inside a striking black cube that appears to float above its own entrance plaza.",
+    "access": "5-minute walk from Watanabebashi Station (Keihan Nakanoshima Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Nakanoshima Museum of Art tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "tempozan-marketplace",
+    "title": "Tempozan Marketplace",
+    "city": "Osaka",
+    "interests": ["shopping", "food", "family"],
+    "summary": "A harborside shopping and dining complex next to the aquarium and Ferris wheel, with a food court themed around Osaka's own retro Showa-era street scenes.",
+    "access": "5-minute walk from Osakako Station (Osaka Metro Chuo Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Osakako", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "universal-citywalk-osaka",
+    "title": "Universal CityWalk Osaka",
+    "city": "Osaka",
+    "interests": ["shopping", "food", "family"],
+    "summary": "A shopping and dining strip between Universal-City Station and the theme park's gates, useful for a meal before or after a full day at Universal Studios Japan.",
+    "access": "Directly at Universal-City Station (JR Yumesaki Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Universal City", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "minami-senba",
+    "title": "Minami Senba",
+    "city": "Osaka",
+    "interests": ["shopping", "cafes-sweets"],
+    "summary": "A quieter, more upscale pocket of boutiques and specialty coffee shops just off Shinsaibashi's main arcade, favored by locals over the busier tourist streets nearby.",
+    "access": "5-minute walk from Shinsaibashi Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Shinsaibashi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "horie-osaka",
+    "title": "Horie",
+    "city": "Osaka",
+    "interests": ["shopping", "cafes-sweets", "backstreets"],
+    "summary": "A design-forward neighborhood of interior shops, select fashion boutiques, and quiet cafes just south of Amerikamura, popular with Osaka's own creative crowd.",
+    "access": "8-minute walk from Yotsubashi Station (Osaka Metro Yotsubashi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Shinsaibashi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "asia-pacific-trade-center-atc",
+    "title": "Asia Pacific Trade Center (ATC)",
+    "city": "Osaka",
+    "interests": ["shopping", "family"],
+    "summary": "A waterfront outlet mall and exhibition complex south of the bay area, with an aquarium-adjacent atmosphere and views back across the harbor toward Tempozan.",
+    "access": "5-minute walk from Trade Center-mae Station (New Tram Nanko Port Town Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Nanko", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "rinku-premium-outlets",
+    "title": "Rinku Premium Outlets",
+    "city": "Osaka",
+    "interests": ["shopping"],
+    "summary": "A large outdoor outlet mall a short train ride from Kansai Airport, a practical last (or first) stop for shopping right before an international flight.",
+    "access": "3-minute walk from Rinku-Town Station (JR / Nankai lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Rinku Town", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "sakai-city-museum",
+    "title": "Sakai City Museum",
+    "city": "Osaka",
+    "interests": ["history", "art-museums"],
+    "summary": "A museum covering the history of Sakai, once one of Japan's most important trading ports, right next to the Daisen Kofun burial mound it helps put in context.",
+    "access": "8-minute walk from Mozu Station (JR Hanwa Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Sakai", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kodomo-no-hon-no-mori-nakanoshima",
+    "title": "Children's Book Forest Nakanoshima",
+    "city": "Osaka",
+    "interests": ["family", "art-museums"],
+    "summary": "A free library designed by architect Tadao Ando, arranging thousands of picture books across twelve floor-to-ceiling themed sections inside a single concrete room.",
+    "access": "5-minute walk from Naniwabashi Station (Keihan Nakanoshima Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Nakanoshima", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "expocity-suita",
+    "title": "EXPOCITY",
+    "city": "Osaka",
+    "interests": ["shopping", "family", "photo-spots"],
+    "summary": "One of Japan's largest shopping and entertainment complexes, built next to Expo '70 Park, combining a large observation wheel with NIFREL and an indoor snow park.",
+    "access": "Directly connected to Bampaku-kinen-koen Station (Osaka Monorail), in Suita",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book EXPOCITY Redhorse Osaka Wheel tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
   }
 ]
