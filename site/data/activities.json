@@ -3153,5 +3153,327 @@
     "affiliateLinks": [
       { "label": "Book EXPOCITY Redhorse Osaka Wheel tickets", "url": "https://www.klook.com/", "provider": "Klook" }
     ]
+  },
+  {
+    "id": "tennoji-park-keitakuen-garden",
+    "title": "Tennoji Park & Keitakuen Garden",
+    "city": "Osaka",
+    "interests": ["nature", "history", "seasonal-nature"],
+    "summary": "A central city park holding a Japanese strolling garden once owned by the Sumitomo family, donated to the city in the 1920s and now a quiet break from the busier streets of Shinsekai nearby.",
+    "access": "3-minute walk from Tennoji Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Tennoji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shitennoji-flea-market",
+    "title": "Shitennoji Flea Market",
+    "city": "Osaka",
+    "interests": ["local-markets", "traditional-culture"],
+    "summary": "A sprawling antiques and secondhand market held on temple grounds twice a month, where vendors lay out old kimono, pottery, and curios directly on tarps across the courtyard.",
+    "access": "5-minute walk from Shitennoji-mae-Yuhigaoka Station (Osaka Metro Tanimachi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Tennoji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "dotonbori-glico-sign",
+    "title": "Dotonbori Glico Sign",
+    "city": "Osaka",
+    "interests": ["photo-spots", "sightseeing"],
+    "summary": "The running-man neon billboard above Ebisubashi Bridge that has become Osaka's unofficial symbol, with a small designated spot on the bridge where everyone pauses to strike the same pose.",
+    "access": "On Ebisubashi Bridge, 3-minute walk from Namba Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Dotonbori", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "chayamachi-osaka",
+    "title": "Chayamachi",
+    "city": "Osaka",
+    "interests": ["shopping", "cafes-sweets"],
+    "summary": "A fashion-forward pocket of Umeda anchored by two large department stores aimed at a younger crowd, with a noticeably calmer pace than the station concourses nearby.",
+    "access": "8-minute walk from Osaka-Umeda Station (Hankyu lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Umeda", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "tsuyu-no-tenjinsha-ohatsu-tenjin",
+    "title": "Tsuyu no Tenjinsha (Ohatsu Tenjin)",
+    "city": "Osaka",
+    "interests": ["temples-shrines", "traditional-culture"],
+    "summary": "A small shrine tucked between office buildings in Umeda, made famous as the setting of a 300-year-old bunraku puppet play about star-crossed lovers, and still associated with romance today.",
+    "access": "5-minute walk from Osaka-Umeda Station (Hankyu lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Umeda", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "nakatsu-backstreets",
+    "title": "Nakatsu Backstreets",
+    "city": "Osaka",
+    "interests": ["backstreets", "food", "nightlife"],
+    "summary": "A grid of narrow lanes just north of Umeda's towers, packed with tiny standing bars and yakitori counters that feel a world away from the skyscrapers a five-minute walk south.",
+    "access": "1-minute walk from Nakatsu Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Umeda", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "tenma-tenjin-hanjotei",
+    "title": "Tenma Tenjin Hanjotei",
+    "city": "Osaka",
+    "interests": ["traditional-culture", "nightlife"],
+    "summary": "A small rakugo storytelling theater on the grounds of Osaka Tenmangu Shrine, where a single performer acts out comic tales using only a fan and a hand towel as props.",
+    "access": "3-minute walk from Minami-Morimachi Station (Osaka Metro Tanimachi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Tenma Tenjin Hanjotei rakugo show ticket", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "ikoma-sky-land",
+    "title": "Ikoma Sky Land",
+    "city": "Osaka",
+    "interests": ["family", "outdoor", "photo-spots"],
+    "summary": "A small, old-fashioned amusement park at the summit of Mount Ikoma, reached by cable car, with rides positioned to look straight out over the night lights of Osaka.",
+    "access": "Cable car from Ikoma Station (Kintetsu Nara Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Ikoma", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "osaka-shochikuza-theatre",
+    "title": "Osaka Shochikuza Theatre",
+    "city": "Osaka",
+    "interests": ["traditional-culture", "sightseeing"],
+    "summary": "A 1923 theater in the middle of Dotonbori that hosts touring kabuki productions and other stage performances, its Western-style facade an unexpected contrast with the neon around it.",
+    "access": "3-minute walk from Namba Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Osaka Shochikuza performance tickets", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "tanimachi-suji-antique-street",
+    "title": "Tanimachi Suji Antique Street",
+    "city": "Osaka",
+    "interests": ["shopping", "backstreets", "traditional-culture"],
+    "summary": "A stretch of small antique dealers south of Osaka Castle specializing in old ceramics, scrolls, and furniture, popular with collectors rather than casual souvenir shoppers.",
+    "access": "5-minute walk from Tanimachi 6-chome Station (Osaka Metro Tanimachi Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Osaka Castle", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "fukushima-izakaya-district",
+    "title": "Fukushima Izakaya District",
+    "city": "Osaka",
+    "interests": ["food", "nightlife", "backstreets"],
+    "summary": "A neighborhood popular with off-duty Osaka chefs for their own nights out, packed with small counter-seat izakaya that rarely make it into English-language guidebooks.",
+    "access": "3-minute walk from Fukushima Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Fukushima izakaya food crawl", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "kitashinchi",
+    "title": "Kitashinchi",
+    "city": "Osaka",
+    "interests": ["nightlife", "food"],
+    "summary": "One of Osaka's most upscale dining and drinking districts, known for high-end sushi counters and traditional hostess bars tucked behind unmarked doors near Umeda.",
+    "access": "3-minute walk from Kitashinchi Station (JR Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Umeda", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "hanazono-rugby-stadium",
+    "title": "Hanazono Rugby Stadium",
+    "city": "Osaka",
+    "interests": ["outdoor", "history"],
+    "summary": "Known as the birthplace of Japanese rugby, this stadium in Higashi-Osaka still hosts the country's famous New Year high school rugby tournament every winter.",
+    "access": "5-minute walk from Higashi-Hanazono Station (Kintetsu Nara Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Higashi-Osaka", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kids-plaza-osaka",
+    "title": "Kids Plaza Osaka",
+    "city": "Osaka",
+    "interests": ["family"],
+    "summary": "A hands-on children's science and play museum spread across several floors, with a giant slide and simulated construction site that keep younger kids occupied for hours.",
+    "access": "5-minute walk from Osaka Tenmangu Station (JR Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Kids Plaza Osaka admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "kishiwada-danjiri-kaikan",
+    "title": "Kishiwada Danjiri Kaikan",
+    "city": "Osaka",
+    "interests": ["festivals", "traditional-culture"],
+    "summary": "A museum built around a full-size festival float, letting visitors see up close the wooden carving and construction behind the danjiri floats raced through Kishiwada's streets each September.",
+    "access": "5-minute walk from Kishiwada Station (Nankai Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kishiwada", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "sumiyoshi-park-osaka",
+    "title": "Sumiyoshi Park",
+    "city": "Osaka",
+    "interests": ["nature", "outdoor"],
+    "summary": "A quiet public park next to Sumiyoshi Taisha Shrine, a good place to rest after visiting the shrine's grounds without doubling back toward the busier station area.",
+    "access": "5-minute walk from Sumiyoshi-taisha Station (Nankai Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Sumiyoshi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "yodobashi-umeda",
+    "title": "Yodobashi Umeda",
+    "city": "Osaka",
+    "interests": ["shopping"],
+    "summary": "A multi-floor electronics superstore directly outside Osaka Station, stocking everything from cameras to rice cookers with tax-free counters set up specifically for overseas visitors.",
+    "access": "1-minute walk from Osaka Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Umeda", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "abeno-q-s-mall",
+    "title": "Abeno Q's Mall",
+    "city": "Osaka",
+    "interests": ["shopping", "family"],
+    "summary": "A large suburban-style shopping mall at the base of Abeno Harukas, an easy stop for daily necessities or a meal before heading up to the observation deck.",
+    "access": "Directly connected to Tennoji Station (JR Osaka Loop Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Tennoji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "osaka-central-wholesale-market",
+    "title": "Osaka Central Wholesale Market",
+    "city": "Osaka",
+    "interests": ["food", "local-markets"],
+    "summary": "A working fish and produce market that opens to the public for early-morning visits, with a handful of sushi counters inside serving breakfast straight from that morning's catch.",
+    "access": "5-minute walk from Noda Station (JR Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book an Osaka Central Wholesale Market breakfast tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "osaka-prefectural-museum-of-yayoi-culture",
+    "title": "Osaka Prefectural Museum of Yayoi Culture",
+    "city": "Osaka",
+    "interests": ["history", "art-museums"],
+    "summary": "A museum built next to an excavated Yayoi-period village site, displaying bronze bells and rice-farming tools from over 2,000 years ago, with reconstructed pit dwellings outside.",
+    "access": "17-minute walk from Izumino Station (Semboku Rapid Railway)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Izumi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "tobita-shinchi-nightlife",
+    "title": "Tobita Shinchi",
+    "city": "Osaka",
+    "interests": ["nightlife", "history", "backstreets"],
+    "summary": "A historic entertainment district near Shinsekai with rows of preserved early-20th-century wooden facades — best appreciated on a guided walk that explains the neighborhood's layered history.",
+    "access": "8-minute walk from Ebisucho Station (Osaka Metro Sakaisuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Shinsekai & Tobita Shinchi history walking tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "osaka-city-museum-of-modern-art-nakanoshima",
+    "title": "Osaka City Museum of Modern Art",
+    "city": "Osaka",
+    "interests": ["art-museums"],
+    "summary": "A museum focused on 20th-century Japanese modern art, rotating exhibitions from a permanent collection that includes early Osaka-based avant-garde painters rarely seen outside the region.",
+    "access": "5-minute walk from Yodoyabashi Station (Osaka Metro Midosuji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Nakanoshima", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "tenjinbashi-suji-rokuchome-food-alley",
+    "title": "Tenjinbashisuji Rokuchome Food Alley",
+    "city": "Osaka",
+    "interests": ["food", "backstreets", "local-markets"],
+    "summary": "A cluster of standing-bar food stalls at the northern end of Tenjinbashisuji's long arcade, where locals grab a quick skewer and a drink between train transfers.",
+    "access": "Directly connected to Tenjinbashisuji-Rokuchome Station (Osaka Metro Tanimachi/Sakaisuji Lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Tenjinbashisuji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   }
 ]
