@@ -3475,5 +3475,915 @@
     "affiliateLinks": [
       { "label": "Find hotels near Tenjinbashisuji", "url": "https://www.booking.com/", "provider": "Booking.com" }
     ]
+  },
+  {
+    "id": "jishu-shrine",
+    "title": "Jishu Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "traditional-culture"],
+    "summary": "A small matchmaking shrine on the grounds of Kiyomizu-dera, where visitors try to walk between two \"love stones\" with their eyes closed to test their romantic luck.",
+    "access": "10-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Higashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kodaiji-temple",
+    "title": "Kodaiji Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "seasonal-nature", "history"],
+    "summary": "A temple built by the widow of warlord Toyotomi Hideyoshi in his memory, known for a bamboo grove path and evening illuminations during cherry blossom and maple leaf season.",
+    "access": "8-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Higashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "yasaka-koshindo",
+    "title": "Yasaka Koshindo",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "photo-spots"],
+    "summary": "A small temple famous for its colorful hanging \"kukurizaru\" cloth balls, each representing a wish left tied up by a visitor — one of Higashiyama's most photographed corners.",
+    "access": "10-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Higashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "yasui-konpiragu",
+    "title": "Yasui Konpiragu",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "traditional-culture"],
+    "summary": "A shrine specializing in cutting off bad relationships and habits — visitors crawl through a hole in a large paper-covered stone to complete the ritual, then paste their written wish onto its surface.",
+    "access": "8-minute walk from Gion-Shijo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Gion", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kenninji-temple",
+    "title": "Kenninji Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "art-museums", "traditional-culture"],
+    "summary": "Kyoto's oldest Zen temple, home to a dramatic painted ceiling of twin dragons and a folding screen of the Wind and Thunder Gods, tucked at the quiet edge of Gion.",
+    "access": "7-minute walk from Gion-Shijo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Gion", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "minamiza-theatre",
+    "title": "Minamiza Theatre",
+    "city": "Kyoto",
+    "interests": ["traditional-culture", "sightseeing"],
+    "summary": "A roughly 400-year-old theater considered the birthplace of kabuki, still hosting major kabuki productions today at the Shijo end of the Kamo River.",
+    "access": "1-minute walk from Gion-Shijo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Minamiza kabuki performance tickets", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "pontocho",
+    "title": "Pontocho",
+    "city": "Kyoto",
+    "interests": ["nightlife", "food", "backstreets"],
+    "summary": "One of Kyoto's five traditional geisha districts, a single narrow alley running parallel to the Kamo River, lined with restaurants that set up open-air platforms over the water each summer.",
+    "access": "3-minute walk from Gion-Shijo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Pontocho food and nightlife walking tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "sanjusangendo",
+    "title": "Sanjusangendo",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "history", "art-museums"],
+    "summary": "A temple hall roughly 120 meters long housing 1,001 life-size gilded statues of the goddess of mercy, arranged in perfectly aligned rows down the entire length of the building.",
+    "access": "8-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Sanjusangendo admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "kyoto-national-museum",
+    "title": "Kyoto National Museum",
+    "city": "Kyoto",
+    "interests": ["art-museums", "history"],
+    "summary": "A museum holding roughly 12,000 artifacts tied to Kyoto's own history, from Buddhist sculpture to samurai armor, housed partly in a preserved 1895 brick building.",
+    "access": "7-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Kyoto National Museum tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "museum-of-kyoto",
+    "title": "Museum of Kyoto",
+    "city": "Kyoto",
+    "interests": ["history", "art-museums", "architecture"],
+    "summary": "A museum tracing Kyoto's history and culture from the founding of the city to the present, housed partly inside a preserved red-brick former bank building recognized as an Important Cultural Property.",
+    "access": "3-minute walk from Karasuma-Oike Station (Kyoto Municipal Subway)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Karasuma", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "rokkakudo",
+    "title": "Rokkakudo",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "traditional-culture"],
+    "summary": "A small hexagonal temple in the middle of a shopping district, considered the birthplace of ikebana flower arranging, with a school still teaching the art on the grounds today.",
+    "access": "3-minute walk from Karasuma-Oike Station (Kyoto Municipal Subway)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Karasuma", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kyoto-city-kyocera-museum-of-art",
+    "title": "Kyoto City KYOCERA Museum of Art",
+    "city": "Kyoto",
+    "interests": ["art-museums", "architecture"],
+    "summary": "Japan's oldest public art museum, reopened in 2020 after a renovation that added a sunken glass entrance beneath the original 1933 Imperial Crown-style building.",
+    "access": "8-minute walk from Higashiyama Station (Kyoto Municipal Subway Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Kyoto City KYOCERA Museum of Art tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "okazaki-shrine",
+    "title": "Okazaki Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "family"],
+    "summary": "A shrine dedicated to fertility and safe childbirth, dotted with dozens of small rabbit statues throughout the grounds since rabbits are considered the shrine's messengers.",
+    "access": "8-minute walk from Higashiyama Station (Kyoto Municipal Subway Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Okazaki", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "nanzenji-temple",
+    "title": "Nanzenji Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "seasonal-nature", "architecture"],
+    "summary": "A major Zen temple complex whose grounds include a working brick aqueduct built in the Meiji era, an unexpectedly Western-looking structure amid the traditional wooden halls.",
+    "access": "10-minute walk from Keage Station (Kyoto Municipal Subway Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Okazaki", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kamigamo-shrine",
+    "title": "Kamigamo Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "history"],
+    "summary": "One of Kyoto's two oldest shrines, a UNESCO World Heritage site with two cone-shaped sand mounds at its entrance representing sacred mountains, and host to the centuries-old Aoi Festival each May.",
+    "access": "15-minute bus ride from Kitaoji Station (Karasuma Subway Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kitaoji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shimogamo-shrine",
+    "title": "Shimogamo Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "nature", "history"],
+    "summary": "A UNESCO World Heritage shrine reached through Tadasu no Mori, a rare surviving patch of primeval forest inside the city, with vermilion buildings dating back over a thousand years.",
+    "access": "12-minute walk from Demachiyanagi Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Demachiyanagi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kitano-tenmangu",
+    "title": "Kitano Tenmangu",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "seasonal-nature", "local-markets"],
+    "summary": "A shrine dedicated to the god of learning, famous for around 1,500 plum trees that bloom each February and a large antiques flea market held on the 25th of every month.",
+    "access": "5-minute walk from Kitano-Hakubaicho Station (Randen Kitano Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kinkaku-ji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kyoto-imperial-palace-park",
+    "title": "Kyoto Imperial Palace Park",
+    "city": "Kyoto",
+    "interests": ["history", "nature", "outdoor"],
+    "summary": "The former residence of Japan's emperors before the capital moved to Tokyo, set inside a large free public park with about 50,000 trees and gravel paths popular with joggers.",
+    "access": "5-minute walk from Imadegawa Station (Karasuma Subway Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Kyoto Imperial Palace guided tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "ninnaji-temple",
+    "title": "Ninnaji Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "seasonal-nature"],
+    "summary": "A UNESCO World Heritage temple known for an unusually short variety of cherry tree, the last in Kyoto to bloom each spring, planted low enough to see the blossoms at eye level.",
+    "access": "3-minute walk from Omuro-Ninnaji Station (Randen Kitano Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kinkaku-ji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "imamiya-shrine",
+    "title": "Imamiya Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "food"],
+    "summary": "Nicknamed the \"shrine of social advancement,\" flanked by two of Kyoto's oldest surviving restaurants, both specializing in a single grilled-rice-cracker dish served for over a thousand years.",
+    "access": "5-minute walk from Kitano-Hakubaicho Station area (Randen Kitano Line), then a short bus ride",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kinkaku-ji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "togetsukyo-bridge",
+    "title": "Togetsukyo Bridge",
+    "city": "Kyoto",
+    "interests": ["photo-spots", "nature", "seasonal-nature"],
+    "summary": "Arashiyama's signature wooden bridge over the Katsura River, framed by mountains that turn pink with cherry blossoms in spring and deep red with maples every autumn.",
+    "access": "5-minute walk from Saga-Arashiyama Station (JR Sagano Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Arashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "nonomiya-shrine",
+    "title": "Nonomiya Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "traditional-culture"],
+    "summary": "A small black-torii shrine at the entrance to the Arashiyama bamboo grove, historically where imperial princesses purified themselves before serving at Ise Shrine.",
+    "access": "5-minute walk from Saga-Arashiyama Station (JR Sagano Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Arashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "tenryuji-temple",
+    "title": "Tenryuji Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "nature", "seasonal-nature"],
+    "summary": "A UNESCO World Heritage temple whose Sogenchi Garden, designed in the 14th century, was one of Japan's first gardens ever protected as a scenic and historic site.",
+    "access": "2-minute walk from Saga-Arashiyama Station (JR Sagano Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Tenryuji Temple garden admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "kurumazaki-shrine",
+    "title": "Kurumazaki Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "pop-culture"],
+    "summary": "A shrine popular with entertainers and hopeful performers, its approach lined with thousands of small wooden name-plates left by actors, musicians, and idols asking for career success.",
+    "access": "3-minute walk from Arashiyama Station (Randen Arashiyama Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Arashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "toei-kyoto-studio-park",
+    "title": "Toei Kyoto Studio Park",
+    "city": "Kyoto",
+    "interests": ["family", "traditional-culture", "pop-culture"],
+    "summary": "A working film studio and jidaigeki (period drama) theme park where visitors wander recreated Edo-period streets, sometimes crossing paths with an actual film shoot in progress.",
+    "access": "5-minute walk from Uzumasa Station (JR Sagano Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Toei Kyoto Studio Park tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "saihoji-kokedera",
+    "title": "Saihoji (Kokedera, the Moss Temple)",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "nature"],
+    "summary": "A UNESCO World Heritage garden carpeted in over 120 varieties of moss, requiring advance reservation by mail and a short sutra-copying session before entry is allowed.",
+    "access": "3-minute walk from Kokedera-michi bus stop",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Saihoji moss temple guided visit", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "hozugawa-river-boat-ride",
+    "title": "Hozugawa River Boat Ride",
+    "city": "Kyoto",
+    "interests": ["outdoor", "nature", "sightseeing"],
+    "summary": "A roughly two-hour rapids ride down a 16-kilometer gorge to Arashiyama, poled and paddled by boatmen using techniques passed down since the Edo period.",
+    "access": "Departs near Kameoka Station (JR Sagano Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Hozugawa River boat ride ticket", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "kyoto-station-building",
+    "title": "Kyoto Station Building",
+    "city": "Kyoto",
+    "interests": ["architecture", "shopping", "photo-spots"],
+    "summary": "A vast glass-and-steel station complex with a 171-step open-air staircase leading to a rooftop sky garden, plus a giant illuminated Christmas tree display each December.",
+    "access": "Directly at Kyoto Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kyoto Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kyoto-tower",
+    "title": "Kyoto Tower",
+    "city": "Kyoto",
+    "interests": ["sightseeing", "photo-spots"],
+    "summary": "A white lighthouse-shaped tower directly across from Kyoto Station, with a 360-degree observation deck offering the only true bird's-eye view of the low-rise historic city below.",
+    "access": "Directly across from Kyoto Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Kyoto Tower observation deck tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "kyoto-aquarium",
+    "title": "Kyoto Aquarium",
+    "city": "Kyoto",
+    "interests": ["family", "nature"],
+    "summary": "Japan's first large-scale inland aquarium, notable for a tank of Japanese giant salamanders, an endangered species native to the rivers around Kyoto.",
+    "access": "15-minute walk from Kyoto Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Kyoto Aquarium tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "kyoto-railway-museum",
+    "title": "Kyoto Railway Museum",
+    "city": "Kyoto",
+    "interests": ["family", "history"],
+    "summary": "A large railway museum with a working steam locomotive ride, a roundhouse of preserved engines, and driving simulators that keep both kids and train enthusiasts busy for hours.",
+    "access": "20-minute walk from Kyoto Station (JR lines), or a short bus ride",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Kyoto Railway Museum tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "higashi-honganji",
+    "title": "Higashi Honganji",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "architecture"],
+    "summary": "A temple whose main hall, at 76 by 58 meters, ranks among the largest wooden buildings in the world, a short walk directly north of Kyoto Station.",
+    "access": "7-minute walk from Kyoto Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kyoto Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "nishi-honganji",
+    "title": "Nishi Honganji",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "architecture"],
+    "summary": "A UNESCO World Heritage temple whose Karamon Gate and Hiunkaku pavilion, both National Treasures, are considered among the finest surviving examples of Momoyama-period architecture.",
+    "access": "15-minute walk from Kyoto Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kyoto Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "toji-temple",
+    "title": "Toji Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "history", "photo-spots"],
+    "summary": "The only surviving structure from the original Heian-period capital layout, topped by Japan's tallest wooden pagoda at nearly 55 meters, with a lively flea market held on the 21st of every month.",
+    "access": "15-minute walk from Kyoto Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book Toji Temple pagoda admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "gekkeikan-okura-sake-museum",
+    "title": "Gekkeikan Okura Sake Museum",
+    "city": "Kyoto",
+    "interests": ["food", "traditional-culture"],
+    "summary": "A working sake brewery museum in the Fushimi sake district, walking visitors through traditional brewing tools before finishing with a tasting of several styles.",
+    "access": "5-minute walk from Chushojima Station (Keihan Uji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Gekkeikan Okura Sake Museum tasting tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "teradaya",
+    "title": "Teradaya",
+    "city": "Kyoto",
+    "interests": ["history", "traditional-culture"],
+    "summary": "A former inn in the Fushimi sake district where samurai reformer Sakamoto Ryoma survived an assassination attempt, preserved with bullet marks and artifacts from the encounter.",
+    "access": "7-minute walk from Chushojima Station (Keihan Uji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Fushimi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "uji-bridge-murasaki-shikibu",
+    "title": "Uji Bridge & Murasaki Shikibu Statue",
+    "city": "Kyoto",
+    "interests": ["history", "nature"],
+    "summary": "One of Japan's three oldest bridges, the setting for the closing chapters of The Tale of Genji, marked by a bronze statue of the novel's author beside the riverbank.",
+    "access": "5-minute walk from Uji Station (JR Nara Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Uji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "mimurotoji-temple",
+    "title": "Mimurotoji Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "seasonal-nature"],
+    "summary": "Known as the \"hydrangea temple,\" with around 20,000 plants across 50 varieties blooming each June, plus a lotus pond in summer and maples in autumn.",
+    "access": "15-minute walk from Mimuroto Station (Keihan Uji Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Uji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shojuin-temple",
+    "title": "Shojuin Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "photo-spots"],
+    "summary": "A small hillside temple south of Uji known for a heart-shaped window and a ceiling of 160 hand-painted panels, popular for its photogenic, almost secret-feeling setting.",
+    "access": "Taxi or bus from Uji Station (JR Nara Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Uji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "iwashimizu-hachimangu",
+    "title": "Iwashimizu Hachimangu",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "history"],
+    "summary": "One of Japan's three great Hachiman shrines, its National Treasure main hall sitting atop a forested hill reachable by a short cable car from the town of Yawata below.",
+    "access": "Cable car from Yawatashi Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Yawata", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kurama-dera",
+    "title": "Kurama-dera",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "outdoor", "history"],
+    "summary": "A mountain temple said to be where the young samurai Yoshitsune trained under a legendary long-nosed goblin, reached by a steep forested trail or a short cable car partway up.",
+    "access": "Cable car from Kurama Station (Eizan Railway)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Kurama-Kibune hiking day tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "sanzen-in",
+    "title": "Sanzen-in",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "nature", "seasonal-nature"],
+    "summary": "A moss-and-maple garden temple in the rural Ohara valley, home to small stone jizo statues peeking out from the moss with expressions locals describe as smiling.",
+    "access": "10-minute bus ride from Kyoto Station, then a short walk in Ohara",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book an Ohara & Sanzen-in day tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "rurikoin",
+    "title": "Rurikoin",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "seasonal-nature", "photo-spots"],
+    "summary": "A temple famous for the reflection of its maple trees in a polished black lacquer table, visible only during limited seasonal openings and requiring some advance planning to see.",
+    "access": "Bus ride from Kyoto Station to Yase, in northern Kyoto",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kyoto Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "enryakuji",
+    "title": "Enryakuji",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "history", "outdoor"],
+    "summary": "A UNESCO World Heritage monastery complex spread across the top of Mount Hiei, founded in 788 as the headquarters of Tendai Buddhism and once home to thousands of monks.",
+    "access": "Cable car from Sakamoto-Hieizanguchi Station (Keihan Ishiyama-Sakamoto Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Book a Mount Hiei & Enryakuji day tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "amanohashidate",
+    "title": "Amanohashidate",
+    "city": "Kyoto",
+    "interests": ["nature", "photo-spots", "outdoor"],
+    "summary": "One of Japan's three scenic views, a 3.6-kilometer sandbar covered in roughly 6,700 pine trees — the traditional way to view it is bent over looking backward through your own legs.",
+    "access": "2-hour train ride from Kyoto Station (JR/Kyoto Tango Railway), a full-day trip",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book an Amanohashidate day trip tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "miyama-kayabuki-no-sato",
+    "title": "Miyama Kayabuki no Sato",
+    "city": "Kyoto",
+    "interests": ["seasonal-nature", "traditional-culture", "outdoor"],
+    "summary": "A rural village of around 40 preserved thatched-roof farmhouses, some still lived in, offering a glimpse of rural Japan largely unchanged since the Edo and Meiji periods.",
+    "access": "Bus ride from Kyoto Station or Hiyoshi Station, a half-day to full-day trip",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Miyama thatched-roof village day tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "kyoto-botanical-garden",
+    "title": "Kyoto Botanical Garden",
+    "city": "Kyoto",
+    "interests": ["nature", "seasonal-nature", "family"],
+    "summary": "Japan's oldest public botanical garden, with a large conservatory and one of the city's most dependable cherry blossom displays away from the more crowded temple grounds.",
+    "access": "3-minute walk from Kitayama Station (Karasuma Subway Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Kyoto Botanical Garden admission tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "kyoto-international-manga-museum",
+    "title": "Kyoto International Manga Museum",
+    "city": "Kyoto",
+    "interests": ["pop-culture", "art-museums", "family"],
+    "summary": "A former elementary school converted into a manga library holding around 300,000 volumes, with a long wall of open shelves visitors are free to read from on the spot.",
+    "access": "2-minute walk from Karasuma-Oike Station (Kyoto Municipal Subway)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book Kyoto International Manga Museum tickets", "url": "https://www.klook.com/", "provider": "Klook" }
+    ]
+  },
+  {
+    "id": "kamogawa-river",
+    "title": "Kamogawa River",
+    "city": "Kyoto",
+    "interests": ["nature", "outdoor", "seasonal-nature"],
+    "summary": "A shallow river running through the heart of Kyoto, where locals sit spaced at regular intervals along the banks at sunset — a free, everyday ritual as much as a sightseeing spot.",
+    "access": "Runs alongside Gion-Shijo and Demachiyanagi Stations (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near the Kamo River", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "daigoji-temple",
+    "title": "Daigoji Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "seasonal-nature", "history"],
+    "summary": "A sprawling UNESCO World Heritage temple complex split between a lower and upper section on Mount Daigo, with Kyoto's oldest surviving wooden building, a five-story pagoda from 951.",
+    "access": "8-minute walk from Daigo Station (Kyoto Municipal Subway Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Daigo", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "adashino-nenbutsuji",
+    "title": "Adashino Nenbutsuji",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "history"],
+    "summary": "A temple grounds covered with around 8,000 small stone Buddha statues and pagodas gathered from unmarked graves scattered across the surrounding hills over centuries.",
+    "access": "20-minute walk from Saga-Arashiyama Station (JR Sagano Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Arashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "otagi-nenbutsuji",
+    "title": "Otagi Nenbutsuji",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "photo-spots"],
+    "summary": "A hillside temple with around 1,200 stone rakan statues carved by amateur volunteers in the 1980s, each with a distinct, often humorous facial expression.",
+    "access": "20-minute walk from Saga-Arashiyama Station (JR Sagano Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Arashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "gioji-temple",
+    "title": "Gioji Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "nature", "history"],
+    "summary": "A tiny thatched-roof temple surrounded entirely by moss and maple trees, connected to the tragic tale of a 12th-century dancer who retired here as a nun.",
+    "access": "25-minute walk from Saga-Arashiyama Station (JR Sagano Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Arashiyama", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shijo-kawaramachi",
+    "title": "Shijo Kawaramachi",
+    "city": "Kyoto",
+    "interests": ["shopping", "nightlife", "food"],
+    "summary": "Kyoto's busiest downtown intersection and largest shopping district, where department stores and covered arcades meet the Kamo River's restaurant-lined west bank.",
+    "access": "Directly at Kawaramachi Station (Hankyu Kyoto Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      { "label": "Find hotels near Shijo Kawaramachi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kiyamachi-dori",
+    "title": "Kiyamachi-dori",
+    "city": "Kyoto",
+    "interests": ["nightlife", "backstreets", "food"],
+    "summary": "A narrow canal-side street of bars and small restaurants running parallel to Pontocho, generally more casual and less expensive than its more famous neighbor.",
+    "access": "3-minute walk from Gion-Shijo Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Kiyamachi bar-hopping tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "fushimi-momoyama-castle",
+    "title": "Fushimi Momoyama Castle",
+    "city": "Kyoto",
+    "interests": ["history", "seasonal-nature"],
+    "summary": "A 1960s concrete reconstruction of Toyotomi Hideyoshi's original castle, no longer open to enter but surrounded by a park that draws a smaller, more local cherry-blossom crowd each spring.",
+    "access": "20-minute walk from Momoyama Station (Kintetsu Kyoto Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Fushimi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "ujigami-shrine",
+    "title": "Ujigami Shrine",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "history"],
+    "summary": "A UNESCO World Heritage shrine with the oldest surviving shrine building in Japan, a modest, compact structure that draws far fewer visitors than nearby Byodo-in despite the same designation.",
+    "access": "10-minute walk from Uji Station (JR Nara Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Uji", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shokado-garden-museum",
+    "title": "Shokado Garden & Museum",
+    "city": "Kyoto",
+    "interests": ["nature", "traditional-culture", "art-museums"],
+    "summary": "A tea-ceremony-focused garden and museum in Yawata credited as the birthplace of the shokado bento box, still used as a template for upscale boxed meals across Japan today.",
+    "access": "10-minute bus ride from Yawatashi Station (Keihan Main Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Yawata", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "asahi-beer-oyamazaki-villa-museum",
+    "title": "Asahi Beer Oyamazaki Villa Museum",
+    "city": "Kyoto",
+    "interests": ["art-museums", "architecture"],
+    "summary": "An early-20th-century British-style countryside villa turned art museum, holding a small but genuine Monet Water Lilies painting alongside Japanese folk-craft ceramics.",
+    "access": "10-minute walk from Oyamazaki Station (JR Kyoto Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Oyamazaki", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "kyoto-handicraft-center",
+    "title": "Kyoto Handicraft Center",
+    "city": "Kyoto",
+    "interests": ["shopping", "traditional-culture"],
+    "summary": "A multi-floor shop near Heian Shrine specializing in traditional Kyoto crafts, from lacquerware to sword replicas, with in-store demonstrations of woodblock printing and other techniques.",
+    "access": "10-minute walk from Higashiyama Station (Kyoto Municipal Subway Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Okazaki", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "umekoji-park",
+    "title": "Umekoji Park",
+    "city": "Kyoto",
+    "interests": ["nature", "family", "outdoor"],
+    "summary": "A park next to the Railway Museum with a large lawn and a small aquarium-adjacent play area, a practical stop for families combining several sights near Kyoto Station on foot.",
+    "access": "20-minute walk from Kyoto Station (JR lines), or a short bus ride",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kyoto Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "shosei-en-garden",
+    "title": "Shosei-en Garden",
+    "city": "Kyoto",
+    "interests": ["nature", "seasonal-nature"],
+    "summary": "A quiet strolling garden attached to Higashi Honganji, built around a pond with a small teahouse, largely overlooked by visitors heading straight from Kyoto Station to the main temple halls.",
+    "access": "10-minute walk from Kyoto Station (JR lines)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kyoto Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "honnoji-temple",
+    "title": "Honnoji Temple",
+    "city": "Kyoto",
+    "interests": ["history", "temples-shrines"],
+    "summary": "The site where warlord Oda Nobunaga was betrayed and forced to take his own life in 1582, a pivotal moment in Japanese history — the current temple was rebuilt nearby after the original burned.",
+    "access": "5-minute walk from Kyoto Shiyakusho-mae Station (Kyoto Municipal Subway Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kawaramachi", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
+  },
+  {
+    "id": "nijo-jinya",
+    "title": "Nijo Jinya",
+    "city": "Kyoto",
+    "interests": ["history", "architecture"],
+    "summary": "A merchant's residence built with hidden trapdoors, secret staircases, and escape routes to protect visiting feudal lords from assassination attempts during the Edo period.",
+    "access": "5-minute walk from Nijojo-mae Station (Kyoto Municipal Subway Tozai Line)",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Book a Nijo Jinya guided tour", "url": "https://www.getyourguide.com/", "provider": "GetYourGuide" }
+    ]
+  },
+  {
+    "id": "kozanji-temple-toganoo",
+    "title": "Kozanji Temple",
+    "city": "Kyoto",
+    "interests": ["temples-shrines", "art-museums", "seasonal-nature"],
+    "summary": "A remote mountain temple credited with Japan's oldest tea garden and home to the original Choju-giga scrolls, playful animal caricatures often called the ancestor of modern manga.",
+    "access": "50-minute bus ride from Kyoto Station to Toganoo",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      { "label": "Find hotels near Kyoto Station", "url": "https://www.booking.com/", "provider": "Booking.com" }
+    ]
   }
 ]
