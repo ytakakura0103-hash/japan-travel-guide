@@ -80,7 +80,7 @@ describe('renderActivityResults', () => {
         id: 'c',
         title: 'A <Secret> & "Special" Spot',
         summary: 'Explore <hidden> corners',
-        access: 'Near "Main" St & 5th',
+        access: 'Near "Main" <St> & 5th',
         interests: [],
         affiliateLinks: [],
       },
@@ -93,14 +93,7 @@ describe('renderActivityResults', () => {
     expect(h3Html).not.toContain('<Secret>');
     expect(pHtml).toContain('&lt;hidden&gt;');
     expect(pHtml).not.toContain('<hidden>');
-    // Note: jsdom/browsers only guarantee `"` round-trips through innerHTML
-    // serialization inside attribute values, not text nodes, so `&quot;` is
-    // normalized back to a literal `"` here even when the source HTML was
-    // correctly escaped. Verify escaping via a character that does survive
-    // text-node serialization (`&`), and verify the access text renders back
-    // to the exact original string (proving it was parsed as safe literal
-    // text, not corrupted or interpreted as markup).
-    expect(accessHtml).toContain('&amp;');
-    expect(card.querySelector('.activity-access').textContent).toBe('Near "Main" St & 5th');
+    expect(accessHtml).toContain('&lt;St&gt;');
+    expect(accessHtml).not.toContain('<St>');
   });
 });
