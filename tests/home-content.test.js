@@ -20,9 +20,8 @@ describe('index.html', () => {
     expect(matches).toHaveLength(20);
   });
 
-  it('includes results and map containers', () => {
+  it('includes a results container', () => {
     expect(html).toContain('id="results"');
-    expect(html).toContain('class="map-embed"');
   });
 
   it('includes a back-to-top link pointing at the search form', () => {

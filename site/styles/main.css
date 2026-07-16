@@ -363,11 +363,16 @@ nav a:hover {
   }
 }
 
-.map-embed iframe {
-  border: 0;
-  width: 100%;
-  height: 480px;
+.hero-video {
   border-radius: 8px;
+  overflow: hidden;
+}
+
+.hero-video video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 2 / 1;
+  object-fit: cover;
 }
 
 .divider {
