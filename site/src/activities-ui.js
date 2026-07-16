@@ -48,7 +48,9 @@ function renderPhotoHtml(activity) {
 }
 
 function buildGoogleMapsUrl(activity) {
-  const query = activity.address || `${activity.title}, ${activity.city}`;
+  const query = activity.address
+    ? `${activity.title}, ${activity.address}`
+    : `${activity.title}, ${activity.city}`;
   return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
 }
 
@@ -74,9 +76,10 @@ export function renderActivityResults(container, activities) {
             <h3>${escapeHtml(activity.title)}</h3>
             <p>${escapeHtml(activity.summary)}</p>
             <p class="activity-address">${escapeHtml(activity.address)}</p>
+            <p class="activity-maps">${mapsLink}</p>
             <p class="activity-access">${escapeHtml(activity.access)}</p>
             <div class="activity-tags">${renderTagsHtml(activity.interests)}</div>
-            <div class="activity-links">${links}${officialLink}${mapsLink}</div>
+            <div class="activity-links">${links}${officialLink}</div>
           </div>
         </article>
       `;

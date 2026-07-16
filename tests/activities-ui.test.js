@@ -97,7 +97,7 @@ describe('renderActivityResults', () => {
     expect(mapsLink).not.toBeNull();
     expect(mapsLink.textContent).toBe('Open in Google Maps');
     expect(mapsLink.getAttribute('href')).toBe(
-      'https://www.google.com/maps/search/?api=1&query=2-3-1%20Asakusa%2C%20Taito%20City%2C%20Tokyo'
+      'https://www.google.com/maps/search/?api=1&query=Senso-ji%20Temple%2C%202-3-1%20Asakusa%2C%20Taito%20City%2C%20Tokyo'
     );
   });
 
