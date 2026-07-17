@@ -2,7 +2,7 @@ import { describe, it, expect } from 'vitest';
 import { buildSitemapXml } from '../site/src/sitemap.js';
 
 describe('buildSitemapXml', () => {
-  it('includes the homepage and one entry per activity', () => {
+  it('includes the homepage, the about page, and one entry per activity', () => {
     const xml = buildSitemapXml(
       [
         { id: 'senso-ji-temple' },
@@ -11,8 +11,9 @@ describe('buildSitemapXml', () => {
       'https://example.com'
     );
     const locCount = (xml.match(/<loc>/g) || []).length;
-    expect(locCount).toBe(3);
+    expect(locCount).toBe(4);
     expect(xml).toContain('<loc>https://example.com/</loc>');
+    expect(xml).toContain('<loc>https://example.com/about.html</loc>');
     expect(xml).toContain('<loc>https://example.com/spots/senso-ji-temple.html</loc>');
     expect(xml).toContain('<loc>https://example.com/spots/nakano-broadway.html</loc>');
   });

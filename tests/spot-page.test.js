@@ -34,7 +34,7 @@ describe('renderSpotPageHtml', () => {
     expect(html).toContain('<meta property="og:title" content="Senso-ji Temple — Tokyo" />');
   });
 
-  it('embeds valid TouristAttraction JSON-LD', () => {
+  it('embeds valid TouristAttraction JSON-LD with an author linked to the About page', () => {
     const html = renderSpotPageHtml(baseActivity, { siteUrl: 'https://example.com' });
     const match = html.match(/<script type="application\/ld\+json">\s*([\s\S]*?)\s*<\/script>/);
     expect(match).not.toBeNull();
@@ -42,6 +42,12 @@ describe('renderSpotPageHtml', () => {
     expect(jsonLd['@type']).toBe('TouristAttraction');
     expect(jsonLd.name).toBe('Senso-ji Temple');
     expect(jsonLd.url).toBe('https://example.com/spots/senso-ji-temple.html');
+    expect(jsonLd.author).toEqual({ '@type': 'Person', name: 'Yusuke', url: 'https://example.com/about.html' });
+  });
+
+  it('shows an author byline linking to the About page', () => {
+    const html = renderSpotPageHtml(baseActivity, { siteUrl: 'https://example.com' });
+    expect(html).toContain('<p class="spot-byline">Written by <a href="../about.html">Yusuke</a></p>');
   });
 
   it('renders the Google Maps link, affiliate link, official link, and Local Pick badge', () => {

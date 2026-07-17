@@ -91,6 +91,32 @@ describe('renderActivityResults', () => {
     expect(cards[1].querySelector('.activity-photo-placeholder')).toBeNull();
   });
 
+  it('shows an Unsplash photo credit when imageCredit is present', () => {
+    const container = document.createElement('div');
+    renderActivityResults(container, [
+      {
+        id: 'a',
+        title: 'Has Credit',
+        city: 'Tokyo',
+        summary: 's',
+        interests: [],
+        imageUrl: 'https://example.com/photo.jpg',
+        imageCredit: {
+          photographerName: 'Jane Doe',
+          photographerUrl: 'https://unsplash.com/@jane',
+          unsplashUrl: 'https://unsplash.com/photos/abc123',
+        },
+        affiliateLinks: [],
+      },
+    ]);
+    const credit = container.querySelector('.photo-credit');
+    expect(credit).not.toBeNull();
+    expect(credit.textContent).toBe('Photo by Jane Doe on Unsplash');
+    const links = credit.querySelectorAll('a');
+    expect(links[0].getAttribute('href')).toBe('https://unsplash.com/@jane');
+    expect(links[1].getAttribute('href')).toBe('https://unsplash.com/photos/abc123');
+  });
+
   it('shows a Local Pick badge only when isLocalPick is true', () => {
     const container = document.createElement('div');
     renderActivityResults(container, [

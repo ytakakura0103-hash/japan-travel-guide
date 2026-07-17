@@ -42,7 +42,13 @@ export function renderTagsHtml(interests) {
 
 export function renderPhotoHtml(activity) {
   if (activity.imageUrl) {
-    return `<img class="activity-photo" src="${escapeHtml(activity.imageUrl)}" alt="${escapeHtml(activity.title)}" loading="lazy" />`;
+    const img = `<img class="activity-photo" src="${escapeHtml(activity.imageUrl)}" alt="${escapeHtml(activity.title)}" loading="lazy" />`;
+    if (activity.imageCredit) {
+      const { photographerName, photographerUrl, unsplashUrl } = activity.imageCredit;
+      const credit = `<span class="photo-credit">Photo by <a href="${escapeHtml(photographerUrl)}" target="_blank" rel="noopener">${escapeHtml(photographerName)}</a> on <a href="${escapeHtml(unsplashUrl)}" target="_blank" rel="noopener">Unsplash</a></span>`;
+      return `<div class="activity-photo-wrap">${img}${credit}</div>`;
+    }
+    return img;
   }
   return '<div class="activity-photo activity-photo-placeholder" aria-hidden="true"></div>';
 }

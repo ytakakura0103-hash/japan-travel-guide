@@ -237,6 +237,27 @@ nav a:hover {
   display: block;
 }
 
+.activity-photo-wrap {
+  position: relative;
+}
+
+.photo-credit {
+  position: absolute;
+  right: 0.4rem;
+  bottom: 0.4rem;
+  font-size: 0.62rem;
+  background: rgba(0, 0, 0, 0.55);
+  color: #fff;
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+  line-height: 1.4;
+}
+
+.photo-credit a {
+  color: #fff;
+  text-decoration: underline;
+}
+
 .activity-photo-placeholder {
   background-color: var(--color-surface);
   background-image: linear-gradient(135deg, var(--color-border) 25%, transparent 25%, transparent 50%, var(--color-border) 50%, var(--color-border) 75%, transparent 75%, transparent);
@@ -370,6 +391,28 @@ nav a:hover {
   font-family: var(--font-mono);
   font-size: 0.85rem;
   margin: 0;
+}
+
+.spot-byline {
+  color: var(--color-text-muted);
+  font-size: 0.82rem;
+  margin: var(--space-1) 0 0;
+}
+
+.about-intro {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+}
+
+.about-avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 999px;
+  object-fit: cover;
+  border: 2px solid var(--color-border);
+  flex-shrink: 0;
 }
 
 .no-results {

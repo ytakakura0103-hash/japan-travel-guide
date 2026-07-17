@@ -11,7 +11,7 @@
     "summary": "Tokyo's oldest temple, founded in 645 AD, with the iconic Kaminarimon gate and a lively approach street.",
     "access": "5-minute walk from Asakusa Station (Tokyo Metro Ginza Line)",
     "address": "2-3-1 Asakusa, Taito City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1706813253696-10ee6332edd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8U2Vuc28tamklMjBUZW1wbGUlMjBUb2t5byUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": "https://www.senso-ji.jp/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -21,7 +21,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "Senso-ji is Tokyo's oldest Buddhist temple, its origins traced to the 7th century, and it remains the spiritual anchor of the old Asakusa neighborhood. Most visitors start at the Kaminarimon (\"Thunder Gate\"), instantly recognizable for its huge red lantern and flanking guardian statues, then follow the pedestrian approach known as Nakamise-dori, a few hundred meters of stalls selling rice crackers, yukata, and other souvenirs on the way to the temple itself. Beyond the second gate, Hozomon, stands the main hall and a five-story pagoda, with a large incense burner where visitors waft smoke over themselves for good health.\n\nA full loop through the grounds, including a stop to draw an omikuji fortune slip, takes roughly an hour, longer if the approach street is busy, which it usually is. Nakamise-dori and the temple courtyard get very crowded from mid-morning through the afternoon, especially on weekends; arriving soon after the gates open in the early morning is the most reliable way to see the buildings without a wall of people in every photo, and many of the food stalls are also open earlier than shoppers expect.\n\nThe area changes with the seasons: cherry blossoms bloom nearby along the Sumida River in spring, and the Sanja Matsuri festival in May fills the streets around the temple with portable shrines and crowds for three days. Senso-ji is free to enter, and combining it with a walk along the river or a rickshaw ride through the backstreets rounds out a half-day visit to the neighborhood."
+    "description": "Senso-ji is Tokyo's oldest Buddhist temple, its origins traced to the 7th century, and it remains the spiritual anchor of the old Asakusa neighborhood. Most visitors start at the Kaminarimon (\"Thunder Gate\"), instantly recognizable for its huge red lantern and flanking guardian statues, then follow the pedestrian approach known as Nakamise-dori, a few hundred meters of stalls selling rice crackers, yukata, and other souvenirs on the way to the temple itself. Beyond the second gate, Hozomon, stands the main hall and a five-story pagoda, with a large incense burner where visitors waft smoke over themselves for good health.\n\nA full loop through the grounds, including a stop to draw an omikuji fortune slip, takes roughly an hour, longer if the approach street is busy, which it usually is. Nakamise-dori and the temple courtyard get very crowded from mid-morning through the afternoon, especially on weekends; arriving soon after the gates open in the early morning is the most reliable way to see the buildings without a wall of people in every photo, and many of the food stalls are also open earlier than shoppers expect.\n\nThe area changes with the seasons: cherry blossoms bloom nearby along the Sumida River in spring, and the Sanja Matsuri festival in May fills the streets around the temple with portable shrines and crowds for three days. Senso-ji is free to enter, and combining it with a walk along the river or a rickshaw ride through the backstreets rounds out a half-day visit to the neighborhood.",
+    "imageCredit": {
+      "photographerName": "Tim D",
+      "photographerUrl": "https://unsplash.com/@timdep?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-around-a-building-ng7_kYE2nGI?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "yanaka-ginza",
@@ -35,7 +40,7 @@
     "summary": "An old-town shopping street with local snacks and a relaxed, un-touristy atmosphere.",
     "access": "7-minute walk from Nippori Station (JR Yamanote Line)",
     "address": "Yanaka area, Taito City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1604928141064-207cea6f571f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8WWFuYWthJTIwR2luemElMjBUb2t5byUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": true,
     "affiliateLinks": [
@@ -45,7 +50,12 @@
         "provider": "Booking.com"
       }
     ],
-    "description": "Yanaka Ginza is a modest, sloped shopping street in one of the few parts of central Tokyo that escaped major damage in the 1923 earthquake and World War II bombing, which is part of why the neighborhood still has the feel of an old-fashioned shitamachi (downtown) district rather than a rebuilt one. The street itself is short, lined with small family-run shops selling menchi-katsu (fried minced meat cutlets), senbei rice crackers, croquettes, and other snacks meant to be eaten while walking, plus a scattering of cafes and general stores.\n\nThe neighborhood is known locally as a cat-friendly area, with several resident strays and cat-themed goods in the shops, and the stairway at the top of the street, Yuyake Dandan, is a popular spot to look back down over the rooftops at sunset. Yanaka Ginza connects easily to Yanaka Cemetery, a large, quiet burial ground shaded by cherry trees that doubles as a pleasant walking route and a good cherry blossom spot in spring without the crowds of Ueno Park nearby.\n\nAn hour or so is enough to wander the street and sample a few snacks, though it is easy to lose more time browsing the smaller shops. Weekday afternoons are noticeably calmer than weekends, when the narrow street can get crowded with both tourists and local shoppers. Because most vendors close in the early evening, this is better suited to a daytime visit than a nighttime one."
+    "description": "Yanaka Ginza is a modest, sloped shopping street in one of the few parts of central Tokyo that escaped major damage in the 1923 earthquake and World War II bombing, which is part of why the neighborhood still has the feel of an old-fashioned shitamachi (downtown) district rather than a rebuilt one. The street itself is short, lined with small family-run shops selling menchi-katsu (fried minced meat cutlets), senbei rice crackers, croquettes, and other snacks meant to be eaten while walking, plus a scattering of cafes and general stores.\n\nThe neighborhood is known locally as a cat-friendly area, with several resident strays and cat-themed goods in the shops, and the stairway at the top of the street, Yuyake Dandan, is a popular spot to look back down over the rooftops at sunset. Yanaka Ginza connects easily to Yanaka Cemetery, a large, quiet burial ground shaded by cherry trees that doubles as a pleasant walking route and a good cherry blossom spot in spring without the crowds of Ueno Park nearby.\n\nAn hour or so is enough to wander the street and sample a few snacks, though it is easy to lose more time browsing the smaller shops. Weekday afternoons are noticeably calmer than weekends, when the narrow street can get crowded with both tourists and local shoppers. Because most vendors close in the early evening, this is better suited to a daytime visit than a nighttime one.",
+    "imageCredit": {
+      "photographerName": "Takashi Miyazaki",
+      "photographerUrl": "https://unsplash.com/@miyatankun?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-night-time-64ajtpEzlYc?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "tsukiji-outer-market",
@@ -58,7 +68,7 @@
     "summary": "Fresh seafood, street food stalls, and knife shops in Tokyo's famous market district.",
     "access": "2-minute walk from Tsukijishijo Station (Toei Oedo Line)",
     "address": "Tsukiji area, Chuo City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1573241927154-420274a2711f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8VHN1a2lqaSUyME91dGVyJTIwTWFya2V0JTIwRm9vZCUyMFRvdXIlMjBUb2t5byUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -68,7 +78,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "When Tokyo's central wholesale fish market moved to Toyosu in 2018, the outer market around Tsukiji stayed behind, and it remains one of the city's best places to eat and shop for food. Narrow lanes are packed with seafood stalls, produce sellers, dried goods shops, and long-established knife makers, alongside stand-up counters serving grilled skewers, tamagoyaki (rolled omelet) on a stick, and fresh sashimi bowls. It's less about the wholesale auction, which now happens at Toyosu, and more about grazing your way through a dense, working market district that still supplies many of the city's restaurants.\n\nMorning is the best time to visit, both because the market is livelier then and because a number of stalls sell out of their best items or close by early afternoon. Some shops close on Sundays and irregular holidays, so it's worth checking before making a special trip on those days. Weekday mornings tend to be calmer than weekend mornings, when the lanes can get tightly packed with visitors.\n\nA couple of hours is enough to eat and browse, though food lovers can easily spend longer. Prices vary stall by stall, and cash is still useful even though more shops now accept cards. Combining a visit with nearby Hamarikyu Gardens or a walk along the Sumida River makes for an easy half-day itinerary."
+    "description": "When Tokyo's central wholesale fish market moved to Toyosu in 2018, the outer market around Tsukiji stayed behind, and it remains one of the city's best places to eat and shop for food. Narrow lanes are packed with seafood stalls, produce sellers, dried goods shops, and long-established knife makers, alongside stand-up counters serving grilled skewers, tamagoyaki (rolled omelet) on a stick, and fresh sashimi bowls. It's less about the wholesale auction, which now happens at Toyosu, and more about grazing your way through a dense, working market district that still supplies many of the city's restaurants.\n\nMorning is the best time to visit, both because the market is livelier then and because a number of stalls sell out of their best items or close by early afternoon. Some shops close on Sundays and irregular holidays, so it's worth checking before making a special trip on those days. Weekday mornings tend to be calmer than weekend mornings, when the lanes can get tightly packed with visitors.\n\nA couple of hours is enough to eat and browse, though food lovers can easily spend longer. Prices vary stall by stall, and cash is still useful even though more shops now accept cards. Combining a visit with nearby Hamarikyu Gardens or a walk along the Sumida River makes for an easy half-day itinerary.",
+    "imageCredit": {
+      "photographerName": "Dovile Ramoskaite",
+      "photographerUrl": "https://unsplash.com/@dovilerm?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/person-in-black-t-shirt-GsSHHOA0RLY?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "shimokitazawa-backstreets",
@@ -107,7 +122,7 @@
     "summary": "A forested shrine at the edge of Harajuku, built for Emperor Meiji, where a ten-minute walk through 100,000 donated trees replaces the city noise with birdsong.",
     "access": "1-minute walk from Harajuku Station (JR Yamanote Line)",
     "address": "1-1 Yoyogikamizonocho, Shibuya City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1703443371292-0d9081cc4787?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8TWVpamklMjBKaW5ndSUyMFNocmluZSUyMFRva3lvJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk0NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": "https://www.meijijingu.or.jp/en/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -117,7 +132,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "Meiji Jingu is a large forested Shinto shrine dedicated to Emperor Meiji and Empress Shoken, built in the 1920s on land planted with roughly 100,000 trees donated from across Japan. The approach from Harajuku Station winds through this forest for about ten minutes before reaching the shrine buildings, and the effect is striking: within a few minutes of one of Tokyo's busiest train stations, traffic noise gives way to birdsong and gravel underfoot. Near the entrance, a wall of sake and wine barrels donated to the shrine is a popular photo stop.\n\nThe shrine's Inner Garden (Gyoen), a separate landscaped area with a pond and iris garden, charges a small entry fee and is worth the detour for anyone with extra time, especially when the irises bloom in June. The main shrine grounds themselves are free to enter. A basic visit to the main hall takes under an hour, but allowing more time for the forest paths and garden makes for a fuller outing.\n\nEarly morning is the best time to visit if you want the forest to yourself, since the grounds get busy from mid-morning onward, particularly on weekends. The shrine is also one of the most popular hatsumode (New Year's first shrine visit) destinations in the country, drawing enormous crowds in the first days of January, and traditional weddings are often held here, so keep an eye out for a bridal procession crossing the main courtyard."
+    "description": "Meiji Jingu is a large forested Shinto shrine dedicated to Emperor Meiji and Empress Shoken, built in the 1920s on land planted with roughly 100,000 trees donated from across Japan. The approach from Harajuku Station winds through this forest for about ten minutes before reaching the shrine buildings, and the effect is striking: within a few minutes of one of Tokyo's busiest train stations, traffic noise gives way to birdsong and gravel underfoot. Near the entrance, a wall of sake and wine barrels donated to the shrine is a popular photo stop.\n\nThe shrine's Inner Garden (Gyoen), a separate landscaped area with a pond and iris garden, charges a small entry fee and is worth the detour for anyone with extra time, especially when the irises bloom in June. The main shrine grounds themselves are free to enter. A basic visit to the main hall takes under an hour, but allowing more time for the forest paths and garden makes for a fuller outing.\n\nEarly morning is the best time to visit if you want the forest to yourself, since the grounds get busy from mid-morning onward, particularly on weekends. The shrine is also one of the most popular hatsumode (New Year's first shrine visit) destinations in the country, drawing enormous crowds in the first days of January, and traditional weddings are often held here, so keep an eye out for a bridal procession crossing the main courtyard.",
+    "imageCredit": {
+      "photographerName": "aestelle",
+      "photographerUrl": "https://unsplash.com/@aestelle?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-with-umbrellas-standing-in-front-of-a-gate-4s3IVoGh7HA?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "shibuya-scramble-crossing",
@@ -131,7 +151,7 @@
     "summary": "The famously chaotic pedestrian crossing where up to 3,000 people cross at once — best viewed from the Shibuya Sky observatory or a window seat in a nearby cafe.",
     "access": "Directly outside Shibuya Station's Hachiko Exit (JR Yamanote Line)",
     "address": "Shibuya area, Shibuya City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1549693578-d683be217e58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8U2hpYnV5YSUyMFNjcmFtYmxlJTIwQ3Jvc3NpbmclMjBUb2t5byUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -141,7 +161,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "Shibuya Scramble Crossing is the pedestrian intersection outside Shibuya Station's Hachiko Exit where traffic stops in all directions at once and pedestrians surge across from every angle, an image that has become shorthand for Tokyo itself in films and photographs. It is genuinely one of the busiest crossings in the world, and simply standing at street level and crossing with the crowd a few times is an experience in itself, especially after dark when the surrounding buildings are covered in video billboards.\n\nFor a wider view, the Shibuya Sky observatory near the station offers an open-air rooftop view down over the crossing and the whole city skyline, for a separate admission fee. A cheaper alternative is one of several cafes and building lobbies with windows directly overlooking the intersection, which let you watch the crossing from above without paying for an observation deck; the Starbucks inside the Tsutaya building is the best known of these, though it's often crowded and doesn't take reservations.\n\nThe crossing itself is busy at almost all hours, but the density peaks during evening rush hour and on weekend nights, when the energy is highest but photos are hardest to take cleanly. Weekday mornings and early afternoons are comparatively calmer if the goal is simply to see it without the thickest crowds. The nearby Hachiko statue, a popular meeting point, is worth a quick look on the way."
+    "description": "Shibuya Scramble Crossing is the pedestrian intersection outside Shibuya Station's Hachiko Exit where traffic stops in all directions at once and pedestrians surge across from every angle, an image that has become shorthand for Tokyo itself in films and photographs. It is genuinely one of the busiest crossings in the world, and simply standing at street level and crossing with the crowd a few times is an experience in itself, especially after dark when the surrounding buildings are covered in video billboards.\n\nFor a wider view, the Shibuya Sky observatory near the station offers an open-air rooftop view down over the crossing and the whole city skyline, for a separate admission fee. A cheaper alternative is one of several cafes and building lobbies with windows directly overlooking the intersection, which let you watch the crossing from above without paying for an observation deck; the Starbucks inside the Tsutaya building is the best known of these, though it's often crowded and doesn't take reservations.\n\nThe crossing itself is busy at almost all hours, but the density peaks during evening rush hour and on weekend nights, when the energy is highest but photos are hardest to take cleanly. Weekday mornings and early afternoons are comparatively calmer if the goal is simply to see it without the thickest crowds. The nearby Hachiko statue, a popular meeting point, is worth a quick look on the way.",
+    "imageCredit": {
+      "photographerName": "Jezael Melgoza",
+      "photographerUrl": "https://unsplash.com/@jezar?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/white-and-red-buss-on-the-middle-of-crossing-street-photo-NiyRORf8d8I?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "takeshita-street-harajuku",
@@ -155,7 +180,7 @@
     "summary": "A narrow pedestrian street packed with crepe stands, pastel fashion boutiques, and character goods stores — the birthplace of Harajuku's youth fashion scene.",
     "access": "1-minute walk from Harajuku Station (JR Yamanote Line)",
     "address": "Jingumae area, Shibuya City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1596829057868-f2abea9a3a3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8VGFrZXNoaXRhJTIwU3RyZWV0JTIwVG9reW8lMjBKYXBhbnxlbnwwfDB8fHwxNzg0MjU1OTQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -165,7 +190,12 @@
         "provider": "Booking.com"
       }
     ],
-    "description": "Takeshita Street is a short, narrow pedestrian lane running from Harajuku Station into the surrounding neighborhood, and for decades it has been the birthplace and testing ground for Tokyo's youth fashion trends. The street is dense with crepe stands, cotton candy vendors, pastel and gothic-lolita fashion boutiques, character goods shops tied to popular anime and games, and photo-sticker booths, all crammed into a stretch that can be walked end to end in a few minutes if it weren't so packed with things to stop for.\n\nThe crepe stands near the station entrance are something of a local institution, with rotating seasonal flavors and elaborately decorated versions piled with fruit and cream. Beyond food, the street is a good place to see current Japanese youth style up close, whether that means head-to-toe kawaii outfits or more alternative subcultures, and several shops sell affordable, playful accessories that make easy souvenirs.\n\nTakeshita Street is almost always crowded, but weekend afternoons push it to a genuine crawl, with the narrow width of the street doing the crowd no favors. Visiting on a weekday morning, shortly after shops open, is by far the easiest way to actually move through it comfortably. The street connects at its far end to the quieter, more upscale Omotesando and Cat Street areas, making it easy to continue on to a calmer stretch of Harajuku afterward."
+    "description": "Takeshita Street is a short, narrow pedestrian lane running from Harajuku Station into the surrounding neighborhood, and for decades it has been the birthplace and testing ground for Tokyo's youth fashion trends. The street is dense with crepe stands, cotton candy vendors, pastel and gothic-lolita fashion boutiques, character goods shops tied to popular anime and games, and photo-sticker booths, all crammed into a stretch that can be walked end to end in a few minutes if it weren't so packed with things to stop for.\n\nThe crepe stands near the station entrance are something of a local institution, with rotating seasonal flavors and elaborately decorated versions piled with fruit and cream. Beyond food, the street is a good place to see current Japanese youth style up close, whether that means head-to-toe kawaii outfits or more alternative subcultures, and several shops sell affordable, playful accessories that make easy souvenirs.\n\nTakeshita Street is almost always crowded, but weekend afternoons push it to a genuine crawl, with the narrow width of the street doing the crowd no favors. Visiting on a weekday morning, shortly after shops open, is by far the easiest way to actually move through it comfortably. The street connects at its far end to the quieter, more upscale Omotesando and Cat Street areas, making it easy to continue on to a calmer stretch of Harajuku afterward.",
+    "imageCredit": {
+      "photographerName": "Kvnga",
+      "photographerUrl": "https://unsplash.com/@kvnga?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-walking-on-street-during-daytime-7NX_PkUQ9fQ?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "ginza-shopping-district",
@@ -179,7 +209,7 @@
     "summary": "Tokyo's most polished shopping district, lined with flagship department stores and architect-designed boutiques; on weekend afternoons the main avenue closes to cars entirely.",
     "access": "1-minute walk from Ginza Station (Tokyo Metro Ginza/Marunouchi/Hibiya Lines)",
     "address": "Ginza area, Chuo City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1622767803667-ac7623421256?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8R2luemElMjBUb2t5byUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -189,7 +219,12 @@
         "provider": "Booking.com"
       }
     ],
-    "description": "Ginza has been Tokyo's premier shopping district since the late 19th century, and it still carries that reputation today, with flagship department stores, architect-designed boutiques for international luxury brands, and long-established Japanese retailers lining its main avenue and side streets. Beyond shopping, the district is worth a look simply for its architecture: many global fashion houses have commissioned striking standalone buildings here, making a walk down the main street as much an architecture tour as a shopping trip. The clock tower atop the Wako building, at the district's central intersection, is one of Ginza's most photographed landmarks.\n\nOn Saturday and Sunday afternoons, the main avenue, Chuo-dori, closes entirely to vehicle traffic and becomes a pedestrian zone, with cafe tables set up in the street and a noticeably more relaxed atmosphere than the weekday rush. This is generally the most pleasant time to visit if the goal is strolling rather than serious shopping, since weekday crowds tend to be office workers passing through rather than browsers.\n\nGinza isn't only about high-end brands; side streets and basement food halls (depachika) inside the department stores offer more affordable options, from beautifully packaged sweets to prepared food stalls worth a visit on their own. A couple of hours covers the main avenue comfortably, though gallery-hoppers and dedicated shoppers can easily spend a full day. The district also has a concentration of small art galleries tucked into upper floors of ordinary-looking buildings, open to browse for free."
+    "description": "Ginza has been Tokyo's premier shopping district since the late 19th century, and it still carries that reputation today, with flagship department stores, architect-designed boutiques for international luxury brands, and long-established Japanese retailers lining its main avenue and side streets. Beyond shopping, the district is worth a look simply for its architecture: many global fashion houses have commissioned striking standalone buildings here, making a walk down the main street as much an architecture tour as a shopping trip. The clock tower atop the Wako building, at the district's central intersection, is one of Ginza's most photographed landmarks.\n\nOn Saturday and Sunday afternoons, the main avenue, Chuo-dori, closes entirely to vehicle traffic and becomes a pedestrian zone, with cafe tables set up in the street and a noticeably more relaxed atmosphere than the weekday rush. This is generally the most pleasant time to visit if the goal is strolling rather than serious shopping, since weekday crowds tend to be office workers passing through rather than browsers.\n\nGinza isn't only about high-end brands; side streets and basement food halls (depachika) inside the department stores offer more affordable options, from beautifully packaged sweets to prepared food stalls worth a visit on their own. A couple of hours covers the main avenue comfortably, though gallery-hoppers and dedicated shoppers can easily spend a full day. The district also has a concentration of small art galleries tucked into upper floors of ordinary-looking buildings, open to browse for free.",
+    "imageCredit": {
+      "photographerName": "Pema G. Lama",
+      "photographerUrl": "https://unsplash.com/@peemaglama?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/cars-on-road-between-high-rise-buildings-during-night-time-uhhwuQRoQp4?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "akihabara-electric-town",
@@ -202,7 +237,7 @@
     "summary": "Multi-storey electronics and anime shops stacked on top of each other, plus retro arcades and maid cafes — the center of Tokyo's otaku culture.",
     "access": "1-minute walk from Akihabara Station (JR Yamanote Line)",
     "address": "Sotokanda area, Chiyoda City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1551641506-ee5bf4cb45f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8QWtpaGFiYXJhJTIwRWxlY3RyaWMlMjBUb3duJTIwVG9reW8lMjBKYXBhbnxlbnwwfDB8fHwxNzg0MjU1OTQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -212,7 +247,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "Akihabara grew out of a cluster of postwar electronics shops into what is now widely considered the center of Japan's otaku (geek) culture, and the district still layers both identities on top of each other. Multi-storey buildings packed with everything from vintage computer parts to the latest gadgets sit alongside equally tall buildings devoted to anime, manga, trading cards, and collectible figures, with stores like Mandarake spread across several connected floors. Retro video game arcades, some still running decades-old cabinets alongside newer rhythm and crane games, are tucked into side streets throughout the area.\n\nMaid cafes, where costumed staff serve food with a theatrical, exaggerated politeness, are one of Akihabara's best-known novelties; they range from tourist-friendly introductory experiences to more niche, long-running establishments, and prices and formats vary a lot between them, so it's worth checking what a particular cafe offers before committing. The main street, Chuo-dori, closes to cars on Sunday afternoons, similar to Ginza, which makes for an easier walk through the district.\n\nAkihabara is busy most days but especially on weekends, when both shoppers and cosplay photographers fill the main street. A weekday visit, particularly in the morning, is noticeably quieter and better suited to actually browsing the shops rather than just moving with the crowd. Budget at least two to three hours if you plan to go into more than a couple of the specialty stores, since many reward a slow browse rather than a quick pass."
+    "description": "Akihabara grew out of a cluster of postwar electronics shops into what is now widely considered the center of Japan's otaku (geek) culture, and the district still layers both identities on top of each other. Multi-storey buildings packed with everything from vintage computer parts to the latest gadgets sit alongside equally tall buildings devoted to anime, manga, trading cards, and collectible figures, with stores like Mandarake spread across several connected floors. Retro video game arcades, some still running decades-old cabinets alongside newer rhythm and crane games, are tucked into side streets throughout the area.\n\nMaid cafes, where costumed staff serve food with a theatrical, exaggerated politeness, are one of Akihabara's best-known novelties; they range from tourist-friendly introductory experiences to more niche, long-running establishments, and prices and formats vary a lot between them, so it's worth checking what a particular cafe offers before committing. The main street, Chuo-dori, closes to cars on Sunday afternoons, similar to Ginza, which makes for an easier walk through the district.\n\nAkihabara is busy most days but especially on weekends, when both shoppers and cosplay photographers fill the main street. A weekday visit, particularly in the morning, is noticeably quieter and better suited to actually browsing the shops rather than just moving with the crowd. Budget at least two to three hours if you plan to go into more than a couple of the specialty stores, since many reward a slow browse rather than a quick pass.",
+    "imageCredit": {
+      "photographerName": "Jezael Melgoza",
+      "photographerUrl": "https://unsplash.com/@jezar?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-walking-between-city-building-_noSmX8Kgoo?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "ueno-park-and-zoo",
@@ -226,7 +266,7 @@
     "summary": "A sprawling public park that turns into one of Tokyo's most popular cherry blossom spots each spring, home to Japan's oldest zoo, a lotus pond, and several museums.",
     "access": "2-minute walk from Ueno Station (JR Yamanote Line)",
     "address": "Uenokoen area, Taito City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1677774398078-dfebffbfcd54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8VWVubyUyMFBhcmslMjAlMjYlMjBVZW5vJTIwWm9vJTIwVG9reW8lMjBKYXBhbnxlbnwwfDB8fHwxNzg0MjU1OTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": "https://www.tokyo-zoo.net/english/ueno/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -236,7 +276,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "Ueno Park is one of Tokyo's largest and oldest public parks, and it does double duty as a green space, a cultural hub, and — for a few weeks each spring — one of the city's most popular cherry blossom viewing spots, when the central pathway is lined with blossoming trees and picnicking crowds. The park is home to Ueno Zoo, Japan's oldest zoological garden, whose most popular residents are its giant pandas, along with a wide range of other animals across a fairly walkable layout suited to families.\n\nBeyond the zoo, the park contains Shinobazu Pond, a large lotus-covered pond with a walking path and a small shrine on an island reached by causeway, plus a cluster of major museums including the Tokyo National Museum and the National Museum of Western Art. This concentration of things to see means Ueno Park works well as a full day out, or as a base to dip into one or two specific attractions.\n\nHanami (cherry blossom) season, typically late March to early April, is by far the busiest time, with reserved picnic spots claimed from early morning and a festive, crowded atmosphere in the evenings when the trees are lit up. Outside of that window, the park is comparatively calm, and weekday mornings are the easiest time to see the zoo and pond without heavy crowds. Admission to the park itself is free; the zoo charges a separate, modest entrance fee."
+    "description": "Ueno Park is one of Tokyo's largest and oldest public parks, and it does double duty as a green space, a cultural hub, and — for a few weeks each spring — one of the city's most popular cherry blossom viewing spots, when the central pathway is lined with blossoming trees and picnicking crowds. The park is home to Ueno Zoo, Japan's oldest zoological garden, whose most popular residents are its giant pandas, along with a wide range of other animals across a fairly walkable layout suited to families.\n\nBeyond the zoo, the park contains Shinobazu Pond, a large lotus-covered pond with a walking path and a small shrine on an island reached by causeway, plus a cluster of major museums including the Tokyo National Museum and the National Museum of Western Art. This concentration of things to see means Ueno Park works well as a full day out, or as a base to dip into one or two specific attractions.\n\nHanami (cherry blossom) season, typically late March to early April, is by far the busiest time, with reserved picnic spots claimed from early morning and a festive, crowded atmosphere in the evenings when the trees are lit up. Outside of that window, the park is comparatively calm, and weekday mornings are the easiest time to see the zoo and pond without heavy crowds. Admission to the park itself is free; the zoo charges a separate, modest entrance fee.",
+    "imageCredit": {
+      "photographerName": "Luke Galloway",
+      "photographerUrl": "https://unsplash.com/@space_face_films?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-pond-in-front-of-it-tuc1Lin_vR8?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "tokyo-national-museum",
@@ -249,7 +294,7 @@
     "summary": "Japan's oldest and largest museum, holding samurai armor, ukiyo-e prints, and Buddhist sculpture spanning thousands of years across several galleries inside Ueno Park.",
     "access": "10-minute walk from Ueno Station (JR Yamanote Line)",
     "address": "13-9 Uenokoen, Taito City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1677774398078-dfebffbfcd54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8VG9reW8lMjBOYXRpb25hbCUyME11c2V1bSUyMFRva3lvJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": "https://www.tnm.jp/?lang=en",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -259,7 +304,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "The Tokyo National Museum, founded in the 1870s, is Japan's oldest and largest museum, and its main building alone (Honkan) houses a chronological survey of Japanese art and history that runs from ancient pottery through samurai armor and swords to Edo-period painting. Beyond the main hall, separate galleries hold one of the world's major collections of ukiyo-e woodblock prints, and a dedicated building displays Buddhist sculpture and ritual objects. The Gallery of Horyuji Treasures, a quiet, minimalist wing with its own separate entrance, holds a smaller but exceptional collection of 7th-century artifacts and rewards visitors who make the short walk to find it.\n\nBecause the museum spans several buildings across a fairly large campus inside Ueno Park, a thorough visit can easily take half a day; visitors short on time are usually better off picking two or three galleries rather than trying to see everything. English-language signage is generally good for major pieces, and special exhibitions, held in a separate building, often require a separate ticket from general admission.\n\nThe museum tends to be calmest on weekday mornings shortly after opening, and busiest on weekend afternoons, especially during a popular special exhibition. It is closed on Mondays, as is typical for museums in Japan, so it's worth checking the schedule before visiting, particularly around public holidays when closing days can shift. Combine it with a walk through the rest of Ueno Park's museum cluster for a full cultural day out."
+    "description": "The Tokyo National Museum, founded in the 1870s, is Japan's oldest and largest museum, and its main building alone (Honkan) houses a chronological survey of Japanese art and history that runs from ancient pottery through samurai armor and swords to Edo-period painting. Beyond the main hall, separate galleries hold one of the world's major collections of ukiyo-e woodblock prints, and a dedicated building displays Buddhist sculpture and ritual objects. The Gallery of Horyuji Treasures, a quiet, minimalist wing with its own separate entrance, holds a smaller but exceptional collection of 7th-century artifacts and rewards visitors who make the short walk to find it.\n\nBecause the museum spans several buildings across a fairly large campus inside Ueno Park, a thorough visit can easily take half a day; visitors short on time are usually better off picking two or three galleries rather than trying to see everything. English-language signage is generally good for major pieces, and special exhibitions, held in a separate building, often require a separate ticket from general admission.\n\nThe museum tends to be calmest on weekday mornings shortly after opening, and busiest on weekend afternoons, especially during a popular special exhibition. It is closed on Mondays, as is typical for museums in Japan, so it's worth checking the schedule before visiting, particularly around public holidays when closing days can shift. Combine it with a walk through the rest of Ueno Park's museum cluster for a full cultural day out.",
+    "imageCredit": {
+      "photographerName": "Luke Galloway",
+      "photographerUrl": "https://unsplash.com/@space_face_films?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-pond-in-front-of-it-tuc1Lin_vR8?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "ameyoko-market",
@@ -273,7 +323,7 @@
     "summary": "A loud, crowded market street under the train tracks near Ueno, selling everything from fresh fish and dried snacks to discount sneakers and imported spices.",
     "access": "1-minute walk from Ueno Station (JR Yamanote Line)",
     "address": "Ueno area, Taito City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1581784230819-6463d183f985?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8QW1leW9rbyUyME1hcmtldCUyMFRva3lvJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk0OHww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": true,
     "affiliateLinks": [
@@ -283,7 +333,12 @@
         "provider": "Booking.com"
       }
     ],
-    "description": "Ameyoko runs along and beneath the elevated JR tracks between Ueno and Okachimachi stations, and it has kept much of the loud, unpolished energy it had as a black market in the years right after World War II. Today it's a dense strip of stalls and small shops selling fresh fish and seafood, dried snacks, cheap clothing and sneakers, cosmetics, and imported spices and foodstuffs, with vendors calling out prices and vegetables piled high on tables that spill into the walkway.\n\nUnlike more manicured shopping streets, Ameyoko rewards a bit of bargaining, particularly at the seafood and dried-goods stalls, and prices are often written on hand-painted signs rather than fixed. Food stalls scattered throughout sell everything from fried snacks to bowls of fresh seafood, making it a reasonable lunch stop as well as a place to shop. It connects at one end to the newer, indoor Ameyoko Center Building, which has a more low-key, local market feel on its upper floors.\n\nThe street is busy most afternoons, but it becomes especially packed in the final days of December, when Tokyo households traditionally come here to buy fresh seafood and ingredients for New Year's osechi meals; that period is worth experiencing for the atmosphere but not ideal for anyone who dislikes crowds. A calmer visit is easiest on a weekday morning. An hour is enough for a walk-through, longer if you plan to eat or shop seriously."
+    "description": "Ameyoko runs along and beneath the elevated JR tracks between Ueno and Okachimachi stations, and it has kept much of the loud, unpolished energy it had as a black market in the years right after World War II. Today it's a dense strip of stalls and small shops selling fresh fish and seafood, dried snacks, cheap clothing and sneakers, cosmetics, and imported spices and foodstuffs, with vendors calling out prices and vegetables piled high on tables that spill into the walkway.\n\nUnlike more manicured shopping streets, Ameyoko rewards a bit of bargaining, particularly at the seafood and dried-goods stalls, and prices are often written on hand-painted signs rather than fixed. Food stalls scattered throughout sell everything from fried snacks to bowls of fresh seafood, making it a reasonable lunch stop as well as a place to shop. It connects at one end to the newer, indoor Ameyoko Center Building, which has a more low-key, local market feel on its upper floors.\n\nThe street is busy most afternoons, but it becomes especially packed in the final days of December, when Tokyo households traditionally come here to buy fresh seafood and ingredients for New Year's osechi meals; that period is worth experiencing for the atmosphere but not ideal for anyone who dislikes crowds. A calmer visit is easiest on a weekday morning. An hour is enough for a walk-through, longer if you plan to eat or shop seriously.",
+    "imageCredit": {
+      "photographerName": "Zhijian Lyu",
+      "photographerUrl": "https://unsplash.com/@2ric?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-walking-on-pedestrian-lane-during-daytime-UzfXHPeqs9M?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "ryogoku-sumo-district",
@@ -296,7 +351,7 @@
     "summary": "Home to the Ryogoku Kokugikan sumo arena and dozens of sumo stables — visit during a tournament month to hear the crowd roar, or just wander past chanko-nabe restaurants year-round.",
     "access": "1-minute walk from Ryogoku Station (JR Sobu Line)",
     "address": "Yokoami area, Sumida City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1574908445051-d9e0c2f4f763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8UnlvZ29rdSUyMFN1bW8lMjBEaXN0cmljdCUyMFRva3lvJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk0OHww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -307,7 +362,12 @@
       }
     ],
     "description": "Ryogoku is the historic home of sumo in Tokyo, centered on the Ryogoku Kokugikan, the arena that hosts three of the sport's six annual grand tournaments (in January, May, and September). During a tournament, the neighborhood comes alive with fans, wrestlers in yukata walking between the station and the arena, and a roar from inside the hall that can be heard from the street; tickets for the cheaper upper-level seats are the most realistic option for casual visitors, though they can still be hard to get for popular days.\n\nOutside of tournament periods, Ryogoku is quieter but still worth a visit for anyone interested in sumo culture. The neighborhood has one of the highest concentrations of sumo stables (heya) in Japan, where wrestlers live and train; some stables allow public viewing of morning practice, though rules and availability vary and typically require advance arrangement. Chanko-nabe, the protein-heavy hot pot dish associated with a sumo wrestler's diet, is served at numerous restaurants throughout the area year-round, many run by retired wrestlers.\n\nThe nearby Sumida Hokusai Museum and Edo-Tokyo Museum make Ryogoku easy to combine with a broader half-day of sightseeing. A tournament-day visit can easily take several hours if you plan to watch matches; a non-tournament visit focused on walking the district and eating chanko-nabe fits comfortably into an hour or two.",
-    "mapsQuery": "Yokoami area, Sumida City, Tokyo"
+    "mapsQuery": "Yokoami area, Sumida City, Tokyo",
+    "imageCredit": {
+      "photographerName": "Bob Fisher",
+      "photographerUrl": "https://unsplash.com/@hkbobfsh?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/two-men-in-sumo-wrestling-kVi5zMOUTFc?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "tokyo-skytree",
@@ -321,7 +381,7 @@
     "summary": "At 634 meters, one of the tallest towers in the world, with two observation decks looking out over the entire Kanto plain on a clear day.",
     "access": "Directly connected to Tokyo Skytree Station (Tobu Skytree Line)",
     "address": "1-1-2 Oshiage, Sumida City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1614932750312-440cdfc45fea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8VG9reW8lMjBTa3l0cmVlJTIwVG9reW8lMjBKYXBhbnxlbnwwfDB8fHwxNzg0MjU1OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": "https://www.tokyo-skytree.jp/en/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -331,7 +391,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "At 634 meters, Tokyo Skytree is among the tallest towers in the world, built primarily as a broadcasting tower but designed from the outset with two public observation levels. The lower deck, Tembo Deck, sits around 350 meters up and has floor-to-ceiling windows and a small cafe; the upper level, Tembo Galleria, is a spiraling glass corridor near the very top that requires a separate ticket on top of the first. On clear days, especially in winter, the view stretches across the whole Kanto plain, with Mount Fuji visible on the horizon.\n\nTickets are sold for timed entry, and pre-booking online is generally worthwhile, particularly on weekends and holidays when same-day lines can be long. Weekday mornings tend to be the quietest time to go up, and sunset is popular for the transition from daylight to the city's night lights, though that popularity means it draws bigger crowds too. The tower's exterior lighting changes nightly and for special occasions, making it a recognizable part of the Tokyo skyline even without going up.\n\nAt the tower's base, the Tokyo Solamachi shopping and dining complex has several floors of shops, an aquarium, and a planetarium, enough to fill extra time before or after the observation decks. Budget an hour or two for the decks alone, more if the complex at the base is part of the plan."
+    "description": "At 634 meters, Tokyo Skytree is among the tallest towers in the world, built primarily as a broadcasting tower but designed from the outset with two public observation levels. The lower deck, Tembo Deck, sits around 350 meters up and has floor-to-ceiling windows and a small cafe; the upper level, Tembo Galleria, is a spiraling glass corridor near the very top that requires a separate ticket on top of the first. On clear days, especially in winter, the view stretches across the whole Kanto plain, with Mount Fuji visible on the horizon.\n\nTickets are sold for timed entry, and pre-booking online is generally worthwhile, particularly on weekends and holidays when same-day lines can be long. Weekday mornings tend to be the quietest time to go up, and sunset is popular for the transition from daylight to the city's night lights, though that popularity means it draws bigger crowds too. The tower's exterior lighting changes nightly and for special occasions, making it a recognizable part of the Tokyo skyline even without going up.\n\nAt the tower's base, the Tokyo Solamachi shopping and dining complex has several floors of shops, an aquarium, and a planetarium, enough to fill extra time before or after the observation decks. Budget an hour or two for the decks alone, more if the complex at the base is part of the plan.",
+    "imageCredit": {
+      "photographerName": "Ryoji Iwata",
+      "photographerUrl": "https://unsplash.com/@ryoji__iwata?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/white-and-gray-concrete-tower-under-blue-sky-during-daytime-ztHc0NRbf9c?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "teamlab-planets-toyosu",
@@ -345,7 +410,7 @@
     "summary": "A barefoot, walk-through digital art museum where visitors wade through knee-deep water and mirrored rooms full of projected flowers and light.",
     "access": "5-minute walk from Shin-Toyosu Station (Yurikamome Line)",
     "address": "6-1-16 Toyosu, Koto City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1593071376160-9881e78495ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8dGVhbUxhYiUyMFBsYW5ldHMlMjBUb2t5byUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": "https://www.teamlab.art/e/planets/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -355,7 +420,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "teamLab Planets is a barefoot, walk-through digital art museum where the boundary between visitor and artwork is intentionally blurred: guests wade through a room of ankle-to-knee-deep water lit from below with drifting koi projections, cross a mirrored room where the floor seems to fall away, and walk through a greenhouse of hanging orchids that changes color and mood by the hour. Because of the water rooms, visitors are asked to roll up trousers or wear shorts, and towels are generally provided at the entrance; a locker area lets you store shoes and bags.\n\nThe museum is intentionally dark and disorienting in places, which is part of the appeal but worth knowing in advance, particularly for visitors with small children or mobility concerns. A full visit, moving through all the rooms at a comfortable pace and stopping for photos, usually takes around an hour to ninety minutes.\n\nBecause teamLab Planets sells timed tickets and each session has a capacity limit, advance booking is strongly recommended, especially for weekends, and same-day walk-up availability can be very limited. Earlier time slots tend to be less crowded than midday and evening ones. The museum periodically closes for short periods between exhibition changeovers, so it's worth checking that it's open before planning a visit. Toyosu itself is on the waterfront and pairs easily with a stop at nearby Toyosu Market for food afterward."
+    "description": "teamLab Planets is a barefoot, walk-through digital art museum where the boundary between visitor and artwork is intentionally blurred: guests wade through a room of ankle-to-knee-deep water lit from below with drifting koi projections, cross a mirrored room where the floor seems to fall away, and walk through a greenhouse of hanging orchids that changes color and mood by the hour. Because of the water rooms, visitors are asked to roll up trousers or wear shorts, and towels are generally provided at the entrance; a locker area lets you store shoes and bags.\n\nThe museum is intentionally dark and disorienting in places, which is part of the appeal but worth knowing in advance, particularly for visitors with small children or mobility concerns. A full visit, moving through all the rooms at a comfortable pace and stopping for photos, usually takes around an hour to ninety minutes.\n\nBecause teamLab Planets sells timed tickets and each session has a capacity limit, advance booking is strongly recommended, especially for weekends, and same-day walk-up availability can be very limited. Earlier time slots tend to be less crowded than midday and evening ones. The museum periodically closes for short periods between exhibition changeovers, so it's worth checking that it's open before planning a visit. Toyosu itself is on the waterfront and pairs easily with a stop at nearby Toyosu Market for food afterward.",
+    "imageCredit": {
+      "photographerName": "note thanun",
+      "photographerUrl": "https://unsplash.com/@notethanun?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/silhouette-of-people-standing-on-blue-and-red-balloons-SN5twQLUOPE?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "roppongi-hills-mori-art-museum",
@@ -369,7 +439,7 @@
     "summary": "A glass-tower complex with a contemporary art museum on the 53rd floor, an open-air sky deck, and one of Tokyo's busiest nightlife districts at street level.",
     "access": "3-minute walk from Roppongi Station (Tokyo Metro Hibiya/Oedo Lines)",
     "address": "6-10-1 Roppongi, Minato City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1626846136629-aa437fcb29a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8Um9wcG9uZ2klMjBIaWxscyUyMCUyNiUyME1vcmklMjBBcnQlMjBNdXNldW0lMjBUb2t5byUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": "https://www.mori.art.museum/en/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -379,7 +449,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "Roppongi Hills is a large mixed-use complex of office towers, apartments, shops, and restaurants built around Tokyo's Mori Tower, and its main draw for visitors is the Mori Art Museum, a contemporary art space occupying the 53rd floor with a rotating program of major exhibitions rather than a fixed permanent collection. A ticket to the museum typically includes access to the adjoining Tokyo City View indoor observation floor, and for an additional fee, the open-air Sky Deck one floor above offers an unobstructed rooftop view across the city.\n\nAt ground level, the complex has a large outdoor plaza dominated by a giant bronze spider sculpture, one of Roppongi Hills' best-known photo spots, along with seasonal events and illuminations, particularly around winter. The surrounding Roppongi neighborhood is one of Tokyo's busiest nightlife districts, with a dense concentration of bars and clubs that pick up well after the shops and museum have closed, so the same area has a noticeably different character by day and by night.\n\nA visit to the museum and observation deck together takes roughly two hours, longer if a major exhibition is showing. Weekday evenings, when the museum stays open later than most, are a good time to combine art with a sunset or night view without the daytime crowds. Roppongi Hills is part of Tokyo's informal \"Art Triangle\" along with the nearby National Art Center and Suntory Museum of Art."
+    "description": "Roppongi Hills is a large mixed-use complex of office towers, apartments, shops, and restaurants built around Tokyo's Mori Tower, and its main draw for visitors is the Mori Art Museum, a contemporary art space occupying the 53rd floor with a rotating program of major exhibitions rather than a fixed permanent collection. A ticket to the museum typically includes access to the adjoining Tokyo City View indoor observation floor, and for an additional fee, the open-air Sky Deck one floor above offers an unobstructed rooftop view across the city.\n\nAt ground level, the complex has a large outdoor plaza dominated by a giant bronze spider sculpture, one of Roppongi Hills' best-known photo spots, along with seasonal events and illuminations, particularly around winter. The surrounding Roppongi neighborhood is one of Tokyo's busiest nightlife districts, with a dense concentration of bars and clubs that pick up well after the shops and museum have closed, so the same area has a noticeably different character by day and by night.\n\nA visit to the museum and observation deck together takes roughly two hours, longer if a major exhibition is showing. Weekday evenings, when the museum stays open later than most, are a good time to combine art with a sunset or night view without the daytime crowds. Roppongi Hills is part of Tokyo's informal \"Art Triangle\" along with the nearby National Art Center and Suntory Museum of Art.",
+    "imageCredit": {
+      "photographerName": "Junhyeong Song",
+      "photographerUrl": "https://unsplash.com/@sgnmsong?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-at-night-with-a-lot-of-lights-ICHnvQou3-k?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "kagurazaka-backstreets",
@@ -417,7 +492,7 @@
     "summary": "A slightly worn 1960s shopping arcade that has quietly become a mecca for vintage toys, manga, and collectible figures — an Akihabara alternative favored by longtime collectors.",
     "access": "5-minute walk from Nakano Station (JR Chuo Line)",
     "address": "5-52-15 Nakano, Nakano City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1551641506-ee5bf4cb45f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8TmFrYW5vJTIwQnJvYWR3YXklMjBUb2t5byUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": true,
     "affiliateLinks": [
@@ -427,7 +502,12 @@
         "provider": "Booking.com"
       }
     ],
-    "description": "Nakano Broadway is a shopping arcade built in the 1960s, and while its exterior and mall interior have aged with a slightly worn, retro charm, it has become one of Tokyo's most important destinations for collectors of vintage toys, manga, trading cards, and figures. The building's upper floors are largely taken up by branches of Mandarake, a major secondhand otaku goods chain, spread across multiple small specialized shops rather than one large store, alongside independent dealers selling everything from old video games to rare cel animation art.\n\nCompared to Akihabara, Nakano Broadway feels distinctly local: prices can be more collector-oriented, stock tends to skew toward older and rarer items, and the crowd is more often longtime hobbyists than casual tourists. The building connects directly to Nakano Sun Mall, a covered shopping street running from Nakano Station, which has more everyday shops, food, and a market atmosphere worth walking through on the way in or out.\n\nThere's no real crowding issue here, since Nakano Broadway rarely gets as busy as central Tokyo shopping districts, though weekend afternoons are naturally livelier than weekday mornings. An hour is enough for a quick pass through the main floors, but collectors interested in specific genres can easily spend half a day working through the smaller specialty shops one by one."
+    "description": "Nakano Broadway is a shopping arcade built in the 1960s, and while its exterior and mall interior have aged with a slightly worn, retro charm, it has become one of Tokyo's most important destinations for collectors of vintage toys, manga, trading cards, and figures. The building's upper floors are largely taken up by branches of Mandarake, a major secondhand otaku goods chain, spread across multiple small specialized shops rather than one large store, alongside independent dealers selling everything from old video games to rare cel animation art.\n\nCompared to Akihabara, Nakano Broadway feels distinctly local: prices can be more collector-oriented, stock tends to skew toward older and rarer items, and the crowd is more often longtime hobbyists than casual tourists. The building connects directly to Nakano Sun Mall, a covered shopping street running from Nakano Station, which has more everyday shops, food, and a market atmosphere worth walking through on the way in or out.\n\nThere's no real crowding issue here, since Nakano Broadway rarely gets as busy as central Tokyo shopping districts, though weekend afternoons are naturally livelier than weekday mornings. An hour is enough for a quick pass through the main floors, but collectors interested in specific genres can easily spend half a day working through the smaller specialty shops one by one.",
+    "imageCredit": {
+      "photographerName": "Jezael Melgoza",
+      "photographerUrl": "https://unsplash.com/@jezar?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-walking-between-city-building-_noSmX8Kgoo?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "jiyugaoka-shopping",
@@ -440,7 +520,7 @@
     "summary": "A leafy residential neighborhood known for boutique homeware shops and some of Tokyo's most photogenic patisseries, popular with locals rather than tour groups.",
     "access": "1-minute walk from Jiyugaoka Station (Tokyu Toyoko Line)",
     "address": "Jiyugaoka area, Meguro City, Tokyo",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8Sml5dWdhb2thJTIwVG9reW8lMjBKYXBhbnxlbnwwfDB8fHwxNzg0MjU1OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": true,
     "affiliateLinks": [
@@ -450,7 +530,12 @@
         "provider": "Booking.com"
       }
     ],
-    "description": "Jiyugaoka is a quiet, tree-lined residential neighborhood in southwestern Tokyo that has built a reputation among locals as one of the city's best areas for boutique homeware, stationery, and pastry shops, without much of the tourist traffic found in more central districts. Small independent shops selling ceramics, imported furniture, and carefully curated household goods line streets radiating out from the station, interspersed with patisseries known for elaborate cakes and seasonal desserts; the area is particularly associated with Mont Blanc-style chestnut cakes, and several long-running shops built their reputation on that dessert.\n\nBecause Jiyugaoka developed organically as a residential shopping area rather than being purpose-built for visitors, its layout is a little maze-like, with small lanes branching off the main streets in ways that reward unplanned wandering. It's a popular weekend destination for Tokyo residents themselves, particularly younger women drawn to the cafe and boutique scene, so weekend afternoons can get busy with a local crowd even though international visitors remain relatively few.\n\nA couple of hours is enough to walk the main shopping streets and stop for a pastry, though shoppers interested in homeware can easily spend longer. Weekday visits are noticeably calmer. There's no strong seasonal draw here beyond general pleasant walking weather, making it a reliable option regardless of when you visit."
+    "description": "Jiyugaoka is a quiet, tree-lined residential neighborhood in southwestern Tokyo that has built a reputation among locals as one of the city's best areas for boutique homeware, stationery, and pastry shops, without much of the tourist traffic found in more central districts. Small independent shops selling ceramics, imported furniture, and carefully curated household goods line streets radiating out from the station, interspersed with patisseries known for elaborate cakes and seasonal desserts; the area is particularly associated with Mont Blanc-style chestnut cakes, and several long-running shops built their reputation on that dessert.\n\nBecause Jiyugaoka developed organically as a residential shopping area rather than being purpose-built for visitors, its layout is a little maze-like, with small lanes branching off the main streets in ways that reward unplanned wandering. It's a popular weekend destination for Tokyo residents themselves, particularly younger women drawn to the cafe and boutique scene, so weekend afternoons can get busy with a local crowd even though international visitors remain relatively few.\n\nA couple of hours is enough to walk the main shopping streets and stop for a pastry, though shoppers interested in homeware can easily spend longer. Weekday visits are noticeably calmer. There's no strong seasonal draw here beyond general pleasant walking weather, making it a reliable option regardless of when you visit.",
+    "imageCredit": {
+      "photographerName": "Jezael Melgoza",
+      "photographerUrl": "https://unsplash.com/@jezar?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-gathered-outside-buildings-and-vehicles-alY6_OpdwRQ?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "osaka-castle-park",
@@ -464,7 +549,7 @@
     "summary": "A rebuilt 16th-century castle with a museum inside its keep, set in a large park that turns pink with cherry blossoms every spring.",
     "access": "10-minute walk from Osakajokoen Station (JR Osaka Loop Line)",
     "address": "1-1 Osakajo, Chuo Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1596240748549-6ec0f32d4c95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8T3Nha2ElMjBDYXN0bGUlMjAlMjYlMjBPc2FrYSUyMENhc3RsZSUyMFBhcmslMjBPc2FrYSUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": "https://www.osakacastle.net/english/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -474,7 +559,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "The castle we see today is a 1930s concrete reconstruction of the original built by Toyotomi Hideyoshi in the 1580s, later rebuilt again by the Tokugawa shogunate after fire damage, so the stonework at the base is centuries older than the tower itself. Inside, the keep functions as a museum tracing the castle's role in unifying Japan, with an observation floor near the top giving views over the surrounding park and city skyline. Visiting the museum floors alone takes roughly an hour, longer if paired with a walk around the moats and stone walls, whose scale becomes clear on foot.\n\nThe park stretches around the keep, mixing lawns, jogging paths and cherry tree groves used by locals daily, not just visitors, so mornings and weekdays tend to be calmer than weekend afternoons. Admission to the keep itself is modest, and the park grounds are free to enter and wander at any time. Late March into early April brings the biggest crowds, when the trees along the moats and inside the grounds bloom, but the castle remains an atmospheric visit at other times too, including autumn when the surrounding trees turn colour.\n\nPhotographers favour the approach from the Nishinomaru side or across the inner moat, where the tower rises cleanly above the stone ramparts. Combine it with a stroll through the wider park, home to sports facilities, a small zoo nearby, and museum buildings, for a half-day outing rather than a quick photo stop."
+    "description": "The castle we see today is a 1930s concrete reconstruction of the original built by Toyotomi Hideyoshi in the 1580s, later rebuilt again by the Tokugawa shogunate after fire damage, so the stonework at the base is centuries older than the tower itself. Inside, the keep functions as a museum tracing the castle's role in unifying Japan, with an observation floor near the top giving views over the surrounding park and city skyline. Visiting the museum floors alone takes roughly an hour, longer if paired with a walk around the moats and stone walls, whose scale becomes clear on foot.\n\nThe park stretches around the keep, mixing lawns, jogging paths and cherry tree groves used by locals daily, not just visitors, so mornings and weekdays tend to be calmer than weekend afternoons. Admission to the keep itself is modest, and the park grounds are free to enter and wander at any time. Late March into early April brings the biggest crowds, when the trees along the moats and inside the grounds bloom, but the castle remains an atmospheric visit at other times too, including autumn when the surrounding trees turn colour.\n\nPhotographers favour the approach from the Nishinomaru side or across the inner moat, where the tower rises cleanly above the stone ramparts. Combine it with a stroll through the wider park, home to sports facilities, a small zoo nearby, and museum buildings, for a half-day outing rather than a quick photo stop.",
+    "imageCredit": {
+      "photographerName": "Jeremy Santana",
+      "photographerUrl": "https://unsplash.com/@strikevillain?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/white-and-black-concrete-building-near-green-trees-during-daytime-7_puF4jioPo?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "umeda-sky-building",
@@ -512,7 +602,7 @@
     "summary": "Japan's longest covered shopping arcade at 2.6 kilometers, with around 600 small shops selling everything from takoyaki to secondhand kimono.",
     "access": "Directly connected to Minami-Morimachi Station (Osaka Metro Tanimachi Line)",
     "address": "Tenjinbashi area, Kita Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1589452271712-64b8a66c7b71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8VGVuamluYmFzaGlzdWppJTIwU2hvcHBpbmclMjBTdHJlZXQlMjBPc2FrYSUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": true,
     "affiliateLinks": [
@@ -522,7 +612,12 @@
         "provider": "Booking.com"
       }
     ],
-    "description": "Running north to south through several districts of Kita Ward, this covered arcade is often cited as Japan's longest shopping street, its roof shielding a dense run of small, independently run shops from rain and summer heat alike. Unlike the more polished arcades near Namba, Tenjinbashisuji keeps a strongly local, workaday feel, with everyday grocers, tailors and hardware shops mixed in among the food stalls and secondhand clothing racks that draw visitors.\n\nWalking the full length end to end takes over half an hour at a steady pace, but most visitors explore just a section of it, dipping into side streets and stopping for takoyaki, skewers or a bowl of noodles along the way. The arcade sits close to Osaka Tenmangu Shrine and the Osaka Museum of Housing and Living, making it easy to fold into a wider walk through the Tenjinbashi area.\n\nWeekday mornings and early afternoons are noticeably quieter than weekends, when both shoppers and tourists fill the narrow lanes, and the stretch closest to Tenjinbashi Station tends to be busiest regardless of day. Most shops keep fairly standard daytime hours and close by early evening, so this suits an afternoon visit better than a late one. There's no cost to walk the street itself, and the appeal lies less in any single stop than in the cumulative, unhurried browsing of hundreds of small storefronts that have operated in the same spots for years."
+    "description": "Running north to south through several districts of Kita Ward, this covered arcade is often cited as Japan's longest shopping street, its roof shielding a dense run of small, independently run shops from rain and summer heat alike. Unlike the more polished arcades near Namba, Tenjinbashisuji keeps a strongly local, workaday feel, with everyday grocers, tailors and hardware shops mixed in among the food stalls and secondhand clothing racks that draw visitors.\n\nWalking the full length end to end takes over half an hour at a steady pace, but most visitors explore just a section of it, dipping into side streets and stopping for takoyaki, skewers or a bowl of noodles along the way. The arcade sits close to Osaka Tenmangu Shrine and the Osaka Museum of Housing and Living, making it easy to fold into a wider walk through the Tenjinbashi area.\n\nWeekday mornings and early afternoons are noticeably quieter than weekends, when both shoppers and tourists fill the narrow lanes, and the stretch closest to Tenjinbashi Station tends to be busiest regardless of day. Most shops keep fairly standard daytime hours and close by early evening, so this suits an afternoon visit better than a late one. There's no cost to walk the street itself, and the appeal lies less in any single stop than in the cumulative, unhurried browsing of hundreds of small storefronts that have operated in the same spots for years.",
+    "imageCredit": {
+      "photographerName": "Nomadic Julien",
+      "photographerUrl": "https://unsplash.com/@nomadicjulien?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-walking-on-street-during-daytime-uBfK5i6j1B8?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "osaka-tenmangu-shrine",
@@ -536,7 +631,7 @@
     "summary": "A shrine dedicated to the god of learning, best known for hosting the Tenjin Festival every July, one of Japan's three largest festivals.",
     "access": "3-minute walk from Minami-Morimachi Station (Osaka Metro Tanimachi Line)",
     "address": "2-1-8 Tenjinbashi, Kita Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1748878665884-00afa881e960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8T3Nha2ElMjBUZW5tYW5ndSUyMFNocmluZSUyME9zYWthJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk1NHww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -546,7 +641,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "Founded in the 10th century and dedicated to Sugawara no Michizane, the scholar-official later deified as the god of learning, this shrine draws a steady stream of students and parents praying for exam success year-round, alongside sightseers exploring the surrounding Tenjinbashi neighbourhood. The shrine buildings, rebuilt after fire in the 19th century, are modest in scale compared to some of Osaka's larger religious sites, making for a quick visit of perhaps twenty to thirty minutes if you're simply passing through, longer if you linger over the ema prayer boards covered in handwritten wishes.\n\nThe shrine's grandest moment comes each July, when it hosts the Tenjin Matsuri, traditionally ranked among Japan's three largest festivals, filling the streets and the nearby Okawa River with processions, drumming, and an evening fireworks display over a flotilla of boats. Outside festival dates, the grounds are peaceful and rarely crowded, and an early morning or weekday visit all but guarantees having the inner courtyard to yourself. There's no admission fee to enter.\n\nThe shrine sits right beside the entrance to Tenjinbashisuji Shopping Street, so it pairs naturally with a walk down the arcade, and its plum trees add a quieter seasonal note in late winter before the cherry blossom crowds arrive elsewhere in the city. For visitors interested in Japanese religious practice away from the biggest tourist circuits, it's a good example of a shrine still genuinely woven into local daily life."
+    "description": "Founded in the 10th century and dedicated to Sugawara no Michizane, the scholar-official later deified as the god of learning, this shrine draws a steady stream of students and parents praying for exam success year-round, alongside sightseers exploring the surrounding Tenjinbashi neighbourhood. The shrine buildings, rebuilt after fire in the 19th century, are modest in scale compared to some of Osaka's larger religious sites, making for a quick visit of perhaps twenty to thirty minutes if you're simply passing through, longer if you linger over the ema prayer boards covered in handwritten wishes.\n\nThe shrine's grandest moment comes each July, when it hosts the Tenjin Matsuri, traditionally ranked among Japan's three largest festivals, filling the streets and the nearby Okawa River with processions, drumming, and an evening fireworks display over a flotilla of boats. Outside festival dates, the grounds are peaceful and rarely crowded, and an early morning or weekday visit all but guarantees having the inner courtyard to yourself. There's no admission fee to enter.\n\nThe shrine sits right beside the entrance to Tenjinbashisuji Shopping Street, so it pairs naturally with a walk down the arcade, and its plum trees add a quieter seasonal note in late winter before the cherry blossom crowds arrive elsewhere in the city. For visitors interested in Japanese religious practice away from the biggest tourist circuits, it's a good example of a shrine still genuinely woven into local daily life.",
+    "imageCredit": {
+      "photographerName": "Preet Patel",
+      "photographerUrl": "https://unsplash.com/@preetp8?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/inside-a-japanese-temple-with-colorful-murals-z2rpCgIhhS4?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "nakanoshima-riverside",
@@ -560,7 +660,7 @@
     "summary": "A slim river island lined with rose gardens, riverside cafes, and a mix of century-old and brand-new museum buildings, right in the middle of the business district.",
     "access": "3-minute walk from Naniwabashi Station (Keihan Nakanoshima Line)",
     "address": "Nakanoshima area, Kita Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1660111451643-471eadf1dd58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8TmFrYW5vc2hpbWElMjBPc2FrYSUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": true,
     "affiliateLinks": [
@@ -570,7 +670,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "A narrow strip of land squeezed between the Dojima and Tosabori rivers, Nakanoshima sits at the historic heart of Osaka's business district yet feels distinctly separate from the office towers around it, thanks to a run of parks, rose gardens and riverside promenades along its length. The island mixes eras visibly: Meiji- and Taisho-period stone buildings, including the domed Osaka City Central Public Hall and the Nakanoshima Library, stand within view of newer museum architecture, giving the walk a sense of Osaka's architectural range in one stretch.\n\nA full walk from one end of the island to the other takes roughly thirty to forty minutes at an easy pace, longer with stops at cafes or museum exhibitions along the way. The rose garden is at its best in a couple of short windows each year, typically mid-spring and again in autumn, when the beds along the water are in full bloom and worth timing a visit around.\n\nWeekday mornings tend to be the quietest time to stroll, since the island fills with office workers on lunch breaks and, in the evening, with people relaxing by the water after work. Most outdoor areas are free to enter, though the museums charge separate admission. Combine a walk here with a stop at the Osaka Museum of History or Osaka Castle, both a short distance away, for a fuller half-day route through the city centre."
+    "description": "A narrow strip of land squeezed between the Dojima and Tosabori rivers, Nakanoshima sits at the historic heart of Osaka's business district yet feels distinctly separate from the office towers around it, thanks to a run of parks, rose gardens and riverside promenades along its length. The island mixes eras visibly: Meiji- and Taisho-period stone buildings, including the domed Osaka City Central Public Hall and the Nakanoshima Library, stand within view of newer museum architecture, giving the walk a sense of Osaka's architectural range in one stretch.\n\nA full walk from one end of the island to the other takes roughly thirty to forty minutes at an easy pace, longer with stops at cafes or museum exhibitions along the way. The rose garden is at its best in a couple of short windows each year, typically mid-spring and again in autumn, when the beds along the water are in full bloom and worth timing a visit around.\n\nWeekday mornings tend to be the quietest time to stroll, since the island fills with office workers on lunch breaks and, in the evening, with people relaxing by the water after work. Most outdoor areas are free to enter, though the museums charge separate admission. Combine a walk here with a stop at the Osaka Museum of History or Osaka Castle, both a short distance away, for a fuller half-day route through the city centre.",
+    "imageCredit": {
+      "photographerName": "Juairia Islam Shefa",
+      "photographerUrl": "https://unsplash.com/@juairiaa?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/a-bridge-over-a-body-of-water-s4ICpAoVdHY?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "kuromon-ichiba-market",
@@ -583,7 +688,7 @@
     "summary": "Known as \"Osaka's Kitchen,\" a 580-meter covered arcade of about 150 stalls selling grilled seafood, wagyu skewers, and fruit you can eat on the spot.",
     "access": "2-minute walk from Nippombashi Station (Osaka Metro Sennichimae Line)",
     "address": "Nipponbashi area, Chuo Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1560291544-515e5417bddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8S3Vyb21vbiUyMEljaGliYSUyME1hcmtldCUyME9zYWthJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -593,7 +698,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "Nicknamed \"Osaka's Kitchen,\" this narrow covered arcade near Nipponbashi has supplied local restaurants and households with fresh seafood, produce and meat for well over a century, though in recent years it has become just as well known for its ready-to-eat stalls as for its wholesale trade. Walking its length takes only a few minutes, but most visitors spend closer to an hour grazing from stall to stall, sampling grilled scallops, skewered wagyu, fresh oysters and seasonal fruit cut and served on the spot.\n\nPrices vary a good deal by stall and by what's in season, so it's worth glancing at a few options before buying rather than stopping at the first one you see. The market is busiest around midday and into the early afternoon, when both tour groups and local shoppers overlap in the narrow aisles; arriving soon after opening in the morning gives a noticeably calmer experience and a better chance to see vendors preparing the day's stock.\n\nNot every stall welcomes eating while walking, so look for seating areas or designated stand-and-eat counters if you buy something hot. Cash remains useful even though more stalls now accept cards. The market connects easily on foot to Namba and Dotonbori, making it a natural stop on a walking route through central Osaka, and a good introduction to Osaka's reputation as a food-first city before heading to sit-down restaurants elsewhere."
+    "description": "Nicknamed \"Osaka's Kitchen,\" this narrow covered arcade near Nipponbashi has supplied local restaurants and households with fresh seafood, produce and meat for well over a century, though in recent years it has become just as well known for its ready-to-eat stalls as for its wholesale trade. Walking its length takes only a few minutes, but most visitors spend closer to an hour grazing from stall to stall, sampling grilled scallops, skewered wagyu, fresh oysters and seasonal fruit cut and served on the spot.\n\nPrices vary a good deal by stall and by what's in season, so it's worth glancing at a few options before buying rather than stopping at the first one you see. The market is busiest around midday and into the early afternoon, when both tour groups and local shoppers overlap in the narrow aisles; arriving soon after opening in the morning gives a noticeably calmer experience and a better chance to see vendors preparing the day's stock.\n\nNot every stall welcomes eating while walking, so look for seating areas or designated stand-and-eat counters if you buy something hot. Cash remains useful even though more stalls now accept cards. The market connects easily on foot to Namba and Dotonbori, making it a natural stop on a walking route through central Osaka, and a good introduction to Osaka's reputation as a food-first city before heading to sit-down restaurants elsewhere.",
+    "imageCredit": {
+      "photographerName": "Robby McCullough",
+      "photographerUrl": "https://unsplash.com/@mybbor?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-at-the-city-during-night-pJZLsnh_9Mg?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "hozenji-yokocho",
@@ -607,7 +717,7 @@
     "summary": "An 80-meter stone-paved alley of old-school bars and restaurants tucked just behind Dotonbori's neon, centered on a small moss-covered temple statue.",
     "access": "5-minute walk from Namba Station (Osaka Metro Midosuji Line)",
     "address": "Namba area, Chuo Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1560291544-515e5417bddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8SG96ZW5qaSUyMFlva29jaG8lMjBPc2FrYSUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": true,
     "affiliateLinks": [
@@ -617,7 +727,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "Just a short walk from the neon and crowds of Dotonbori, this narrow stone-paved lane feels like a pocket of an older Osaka, lined on both sides with small, often counter-only bars and restaurants that have operated here for generations. At its centre stands Hozenji Temple's moss-covered Fudo Myoo statue, which visitors drench with water as an offering, a ritual that has left the stone figure thickly coated in green moss over the decades.\n\nThe alley itself takes only a couple of minutes to walk end to end, but the appeal is in slowing down: peering into tiny shopfronts, reading hand-painted signs, and picking one of the intimate eateries for a drink or a late dinner. Many of the bars and restaurants seat only a handful of people, so some spots fill quickly in the evening, particularly on weekends; arriving before the dinner rush improves the odds of getting a seat without a wait. Daytime visits are quieter and give a clearer look at the lane's architecture and the temple statue without the evening crowds.\n\nThere's no admission fee to walk through, and eating or drinking here can range from inexpensive standing bars to pricier specialty restaurants. The lane is easy to combine with a wider walk through Dotonbori and Shinsaibashi, and it rewards a second pass after dark, when paper lanterns light the stone paving."
+    "description": "Just a short walk from the neon and crowds of Dotonbori, this narrow stone-paved lane feels like a pocket of an older Osaka, lined on both sides with small, often counter-only bars and restaurants that have operated here for generations. At its centre stands Hozenji Temple's moss-covered Fudo Myoo statue, which visitors drench with water as an offering, a ritual that has left the stone figure thickly coated in green moss over the decades.\n\nThe alley itself takes only a couple of minutes to walk end to end, but the appeal is in slowing down: peering into tiny shopfronts, reading hand-painted signs, and picking one of the intimate eateries for a drink or a late dinner. Many of the bars and restaurants seat only a handful of people, so some spots fill quickly in the evening, particularly on weekends; arriving before the dinner rush improves the odds of getting a seat without a wait. Daytime visits are quieter and give a clearer look at the lane's architecture and the temple statue without the evening crowds.\n\nThere's no admission fee to walk through, and eating or drinking here can range from inexpensive standing bars to pricier specialty restaurants. The lane is easy to combine with a wider walk through Dotonbori and Shinsaibashi, and it rewards a second pass after dark, when paper lanterns light the stone paving.",
+    "imageCredit": {
+      "photographerName": "Robby McCullough",
+      "photographerUrl": "https://unsplash.com/@mybbor?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-at-the-city-during-night-pJZLsnh_9Mg?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "amerikamura-osaka",
@@ -631,7 +746,7 @@
     "summary": "A compact grid of streets packed with secondhand fashion, streetwear boutiques, and record shops — Osaka's answer to Harajuku, centered on a small park nicknamed \"Triangle Park.\"",
     "access": "5-minute walk from Shinsaibashi Station (Osaka Metro Midosuji Line)",
     "address": "Nishishinsaibashi area, Chuo Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1589452271712-64b8a66c7b71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8QW1lcmlrYW11cmElMjAlMjhBbWVyaWNhJTIwVG93biUyOSUyME9zYWthJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -641,7 +756,12 @@
         "provider": "Booking.com"
       }
     ],
-    "description": "Centred on a small plaza locals call Triangle Park, Amerikamura grew out of secondhand American clothing shops that opened here in the 1970s, and it has kept that imported, youth-culture identity ever since, evolving into Osaka's densest cluster of streetwear, vintage fashion and record stores. The grid of streets is compact enough to cover on foot in under an hour, though browsing multiple shops easily fills an afternoon, especially for visitors interested in Japanese street fashion, sneaker culture or crate-digging through used vinyl.\n\nUnlike the more polished shopping of neighbouring Shinsaibashi, prices here run from cheap secondhand finds to higher-end designer pieces, so it rewards comparison shopping across several stores. The area is at its liveliest in the afternoon and into the evening, when younger crowds gather in and around Triangle Park itself; visiting earlier in the day gives more room to browse shops without the weekend foot traffic.\n\nMany stores open around late morning and stay open into the evening, making this a better daytime-into-evening destination than an early morning one. There's no cost to wander the streets, and the area doubles as a nightlife district after dark, with bars and clubs tucked into its side streets. It sits an easy walk from both Shinsaibashi's shopping arcades and Dotonbori, making it simple to fold into a broader day exploring central Osaka's shopping districts."
+    "description": "Centred on a small plaza locals call Triangle Park, Amerikamura grew out of secondhand American clothing shops that opened here in the 1970s, and it has kept that imported, youth-culture identity ever since, evolving into Osaka's densest cluster of streetwear, vintage fashion and record stores. The grid of streets is compact enough to cover on foot in under an hour, though browsing multiple shops easily fills an afternoon, especially for visitors interested in Japanese street fashion, sneaker culture or crate-digging through used vinyl.\n\nUnlike the more polished shopping of neighbouring Shinsaibashi, prices here run from cheap secondhand finds to higher-end designer pieces, so it rewards comparison shopping across several stores. The area is at its liveliest in the afternoon and into the evening, when younger crowds gather in and around Triangle Park itself; visiting earlier in the day gives more room to browse shops without the weekend foot traffic.\n\nMany stores open around late morning and stay open into the evening, making this a better daytime-into-evening destination than an early morning one. There's no cost to wander the streets, and the area doubles as a nightlife district after dark, with bars and clubs tucked into its side streets. It sits an easy walk from both Shinsaibashi's shopping arcades and Dotonbori, making it simple to fold into a broader day exploring central Osaka's shopping districts.",
+    "imageCredit": {
+      "photographerName": "Nomadic Julien",
+      "photographerUrl": "https://unsplash.com/@nomadicjulien?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-walking-on-street-during-daytime-uBfK5i6j1B8?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "namba-grand-kagetsu",
@@ -654,7 +774,7 @@
     "summary": "A working comedy theater that runs manzai stand-up and Yoshimoto Shinkigeki slapstick plays daily — even without fluent Japanese, the physical comedy carries the room.",
     "access": "3-minute walk from Namba Station (Osaka Metro Midosuji Line)",
     "address": "Nanba Sennichimae area, Chuo Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1589452271712-64b8a66c7b71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8TmFtYmElMjBHcmFuZCUyMEthZ2V0c3UlMjBPc2FrYSUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -664,7 +784,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "This is the flagship theatre of Yoshimoto Kogyo, the entertainment company most associated with manzai, Japan's fast-paced two-person stand-up comedy format, and its stage runs a rotating daily programme that typically mixes manzai acts with Yoshimoto Shinkigeki, a broader slapstick theatre style built on exaggerated physical comedy and recurring stock characters. Full show programmes often run several hours and combine multiple acts, though tickets are sometimes available for shorter blocks depending on the day's schedule.\n\nEven for visitors without Japanese, the physical comedy, timing and audience reactions carry a good deal of the humour, and the venue is a genuinely local experience rather than one staged for tourists, since most of the audience on any given day is Japanese. Popular slots, especially weekend and holiday performances, can sell out, so booking a ticket a few days ahead is safer than turning up on the day, particularly during peak travel seasons. Ticket prices vary by seating and programme, and latecomers may find entry restricted once a show is underway.\n\nThe theatre sits right in the heart of the Namba entertainment district, making it easy to pair with dinner or a walk through Dotonbori before or after a show. For visitors curious about a side of Japanese pop culture that predates anime and idols by decades, it's one of the more accessible ways to experience it firsthand."
+    "description": "This is the flagship theatre of Yoshimoto Kogyo, the entertainment company most associated with manzai, Japan's fast-paced two-person stand-up comedy format, and its stage runs a rotating daily programme that typically mixes manzai acts with Yoshimoto Shinkigeki, a broader slapstick theatre style built on exaggerated physical comedy and recurring stock characters. Full show programmes often run several hours and combine multiple acts, though tickets are sometimes available for shorter blocks depending on the day's schedule.\n\nEven for visitors without Japanese, the physical comedy, timing and audience reactions carry a good deal of the humour, and the venue is a genuinely local experience rather than one staged for tourists, since most of the audience on any given day is Japanese. Popular slots, especially weekend and holiday performances, can sell out, so booking a ticket a few days ahead is safer than turning up on the day, particularly during peak travel seasons. Ticket prices vary by seating and programme, and latecomers may find entry restricted once a show is underway.\n\nThe theatre sits right in the heart of the Namba entertainment district, making it easy to pair with dinner or a walk through Dotonbori before or after a show. For visitors curious about a side of Japanese pop culture that predates anime and idols by decades, it's one of the more accessible ways to experience it firsthand.",
+    "imageCredit": {
+      "photographerName": "Nomadic Julien",
+      "photographerUrl": "https://unsplash.com/@nomadicjulien?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-walking-on-street-during-daytime-uBfK5i6j1B8?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "universal-studios-japan",
@@ -677,7 +802,7 @@
     "summary": "A major Hollywood-themed amusement park with a dedicated Super Nintendo World zone and a Wizarding World of Harry Potter area, popular with families and ride enthusiasts alike.",
     "access": "5-minute walk from Universal-City Station (JR Yumesaki Line)",
     "address": "2-1-33 Sakurajima, Konohana Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1612404459571-ccef4b6588e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8VW5pdmVyc2FsJTIwU3R1ZGlvcyUyMEphcGFuJTIwT3Nha2ElMjBKYXBhbnxlbnwwfDB8fHwxNzg0MjU1OTU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": "https://www.usj.co.jp/e/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -687,7 +812,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "One of the largest theme parks in the country, Universal Studios Japan pairs Hollywood-branded attractions with two of its most consistently popular zones: Super Nintendo World, built around Mario-themed rides and interactive activities, and the Wizarding World of Harry Potter, centred on a detailed recreation of Hogsmeade village and Hogwarts castle. Beyond these, the park runs a full slate of roller coasters, water rides and seasonal event overlays that change through the year, from Halloween to winter illuminations.\n\nA full visit realistically takes a full day, and popular attractions, especially in Super Nintendo World, often require timed-entry passes or long standby waits, so checking the park's ride-reservation system as soon as the gates open is one of the more effective ways to manage a day here. Weekdays and off-peak school terms tend to be less crowded than weekends, Japanese holidays and the summer break, when both wait times and ticket prices can rise.\n\nAdmission is charged per day, with add-on express passes available at extra cost for visitors who want to skip standby lines on select rides. Food and merchandise inside the park carry a premium over prices outside it, as is typical for major theme parks. The park sits a short walk from its own dedicated train station, one of the more convenient major attractions to reach directly from central Osaka. For families or theme park enthusiasts, it's worth planning as an anchor for a full day rather than a quick add-on to a city itinerary."
+    "description": "One of the largest theme parks in the country, Universal Studios Japan pairs Hollywood-branded attractions with two of its most consistently popular zones: Super Nintendo World, built around Mario-themed rides and interactive activities, and the Wizarding World of Harry Potter, centred on a detailed recreation of Hogsmeade village and Hogwarts castle. Beyond these, the park runs a full slate of roller coasters, water rides and seasonal event overlays that change through the year, from Halloween to winter illuminations.\n\nA full visit realistically takes a full day, and popular attractions, especially in Super Nintendo World, often require timed-entry passes or long standby waits, so checking the park's ride-reservation system as soon as the gates open is one of the more effective ways to manage a day here. Weekdays and off-peak school terms tend to be less crowded than weekends, Japanese holidays and the summer break, when both wait times and ticket prices can rise.\n\nAdmission is charged per day, with add-on express passes available at extra cost for visitors who want to skip standby lines on select rides. Food and merchandise inside the park carry a premium over prices outside it, as is typical for major theme parks. The park sits a short walk from its own dedicated train station, one of the more convenient major attractions to reach directly from central Osaka. For families or theme park enthusiasts, it's worth planning as an anchor for a full day rather than a quick add-on to a city itinerary.",
+    "imageCredit": {
+      "photographerName": "Roméo A.",
+      "photographerUrl": "https://unsplash.com/@gronemo?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-walking-near-brown-concrete-building-during-daytime-9g11WIv0Ias?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "osaka-aquarium-kaiyukan",
@@ -701,7 +831,7 @@
     "summary": "One of the world's largest aquariums, built around a central tank that recreates the Pacific Ocean, home to whale sharks that visitors view from multiple floors as they spiral downward.",
     "access": "5-minute walk from Osakako Station (Osaka Metro Chuo Line)",
     "address": "1-1-10 Kaigandori, Minato Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1691333984531-264545a4e708?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8T3Nha2ElMjBBcXVhcml1bSUyMEthaXl1a2FuJTIwT3Nha2ElMjBKYXBhbnxlbnwwfDB8fHwxNzg0MjU1OTU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": "https://www.kaiyukan.com/language/eng/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -711,7 +841,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "Built around a single enormous central tank that represents the Pacific Ocean, Kaiyukan lets visitors descend past re-created habitats, from Japanese forest streams to Antarctic waters, arranged on a spiral path that circles the main tank at different depths, so the same whale sharks and manta rays swimming through it are visible again and again from new angles and floors. The design, opened in the early 1990s, was influential enough that similar spiral layouts have since appeared at aquariums elsewhere, though Kaiyukan remains one of the largest examples of the style.\n\nA full visit, moving at a comfortable pace through all the habitat zones, tends to take two to three hours, more if visiting during feeding times or with young children who want to linger at the touch pools. The aquarium is one of Osaka's most popular family attractions, so weekends and school holidays bring heavy crowds, particularly around midday; arriving close to opening time is the most reliable way to see the main tank without dense crowds blocking the glass.\n\nAdmission is charged and priced in line with other major Japanese aquariums. The building sits at Tempozan Harbor Village, within walking distance of the Tempozan Ferris Wheel and a shopping mall with dining options, making it easy to build a half-day or full-day itinerary around the bay area rather than visiting the aquarium in isolation."
+    "description": "Built around a single enormous central tank that represents the Pacific Ocean, Kaiyukan lets visitors descend past re-created habitats, from Japanese forest streams to Antarctic waters, arranged on a spiral path that circles the main tank at different depths, so the same whale sharks and manta rays swimming through it are visible again and again from new angles and floors. The design, opened in the early 1990s, was influential enough that similar spiral layouts have since appeared at aquariums elsewhere, though Kaiyukan remains one of the largest examples of the style.\n\nA full visit, moving at a comfortable pace through all the habitat zones, tends to take two to three hours, more if visiting during feeding times or with young children who want to linger at the touch pools. The aquarium is one of Osaka's most popular family attractions, so weekends and school holidays bring heavy crowds, particularly around midday; arriving close to opening time is the most reliable way to see the main tank without dense crowds blocking the glass.\n\nAdmission is charged and priced in line with other major Japanese aquariums. The building sits at Tempozan Harbor Village, within walking distance of the Tempozan Ferris Wheel and a shopping mall with dining options, making it easy to build a half-day or full-day itinerary around the bay area rather than visiting the aquarium in isolation.",
+    "imageCredit": {
+      "photographerName": "Sem S",
+      "photographerUrl": "https://unsplash.com/@semspam?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-jellyfish-in-a-tank-AVQkciGU5bA?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "tempozan-ferris-wheel",
@@ -724,7 +859,7 @@
     "summary": "One of the largest Ferris wheels in Japan at 112.5 meters, with a handful of see-through gondolas for views over Osaka Bay.",
     "access": "5-minute walk from Osakako Station (Osaka Metro Chuo Line)",
     "address": "Kaigandori area, Minato Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1636590877238-76fa57e1806a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8VGVtcG96YW4lMjBGZXJyaXMlMjBXaGVlbCUyME9zYWthJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk1OXww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -734,7 +869,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "Rising beside Osaka Bay next to the aquarium, this Ferris wheel was among the largest in the world when it opened in the late 1990s and remains one of the tallest in Japan, with a rotation that takes around fifteen minutes to complete a full circle, giving riders a slow, steady view rather than a quick loop. A handful of gondolas have transparent floors, a popular but slightly nerve-testing option for visitors comfortable with heights, while the standard cabins offer the same panoramic views over the harbour, the aquarium, and on clear days the mountains ringing the bay, without the floor.\n\nLines build up around midday and into the early evening, especially on weekends when the area's other attractions draw crowds simultaneously; visiting on a weekday or earlier in the day tends to mean a shorter wait. After dark, the wheel is lit with changing colours visible from across the harbour, and an evening ride pairs well with a sunset or night view over the bay, though visibility depends on the season and weather.\n\nAdmission is charged per ride and is inexpensive relative to the city's taller observation towers; the transparent-gondola option, when available, may involve an additional wait or fee. The wheel sits within the Tempozan Harbour Village complex, close to shops and restaurants, making it a natural stop before or after visiting the aquarium rather than a standalone destination."
+    "description": "Rising beside Osaka Bay next to the aquarium, this Ferris wheel was among the largest in the world when it opened in the late 1990s and remains one of the tallest in Japan, with a rotation that takes around fifteen minutes to complete a full circle, giving riders a slow, steady view rather than a quick loop. A handful of gondolas have transparent floors, a popular but slightly nerve-testing option for visitors comfortable with heights, while the standard cabins offer the same panoramic views over the harbour, the aquarium, and on clear days the mountains ringing the bay, without the floor.\n\nLines build up around midday and into the early evening, especially on weekends when the area's other attractions draw crowds simultaneously; visiting on a weekday or earlier in the day tends to mean a shorter wait. After dark, the wheel is lit with changing colours visible from across the harbour, and an evening ride pairs well with a sunset or night view over the bay, though visibility depends on the season and weather.\n\nAdmission is charged per ride and is inexpensive relative to the city's taller observation towers; the transparent-gondola option, when available, may involve an additional wait or fee. The wheel sits within the Tempozan Harbour Village complex, close to shops and restaurants, making it a natural stop before or after visiting the aquarium rather than a standalone destination.",
+    "imageCredit": {
+      "photographerName": "Dong In Ham",
+      "photographerUrl": "https://unsplash.com/@hdi5015?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/a-cruise-ship-docked-in-a-harbor-with-a-ferris-wheel-in-the-background-UfJ6329ry78?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "abeno-harukas-observatory",
@@ -748,7 +888,7 @@
     "summary": "At 300 meters, the tallest building in the Kansai region, with a 300th-floor observatory (\"Harukas 300\") offering a 360-degree view across the entire city.",
     "access": "Directly connected to Tennoji Station (JR Osaka Loop Line)",
     "address": "1-1-43 Abenosuji, Abeno Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1770973404367-91f11eeba3a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8QWJlbm8lMjBIYXJ1a2FzJTIwT2JzZXJ2YXRvcnklMjBPc2FrYSUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -758,7 +898,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "At 300 metres, Abeno Harukas is the tallest building in the Kansai region, and its top three floors form Harukas 300, an observation area split across an enclosed main deck with floor-to-ceiling glass and, weather permitting, an open-air edge terrace above it where visitors can feel the wind directly. The building itself, completed in 2014, also houses a department store, hotel and offices below the observatory, so the elevator ride up passes through several very different uses of the same tower before reaching the panoramic floors.\n\nA visit to the observatory alone takes roughly an hour, though the view rewards lingering, stretching from the city centre out toward Osaka Bay and, on especially clear days, as far as the mountains beyond. Sunset is the most requested time slot, when the deck gradually shifts from daytime views to the city's lights coming on, and it's correspondingly the busiest period; visiting earlier in the afternoon or well after dark tends to mean shorter queues for tickets and elevators.\n\nAdmission is charged separately from the rest of the building and is broadly comparable to Osaka's other major observatories. The tower sits directly above Tennoji Station, one of Osaka's major transit hubs, making it an easy stop to combine with nearby Tennoji Park, Shitennoji Temple, or the retro streets of Shinsekai, all within a short walk or train ride."
+    "description": "At 300 metres, Abeno Harukas is the tallest building in the Kansai region, and its top three floors form Harukas 300, an observation area split across an enclosed main deck with floor-to-ceiling glass and, weather permitting, an open-air edge terrace above it where visitors can feel the wind directly. The building itself, completed in 2014, also houses a department store, hotel and offices below the observatory, so the elevator ride up passes through several very different uses of the same tower before reaching the panoramic floors.\n\nA visit to the observatory alone takes roughly an hour, though the view rewards lingering, stretching from the city centre out toward Osaka Bay and, on especially clear days, as far as the mountains beyond. Sunset is the most requested time slot, when the deck gradually shifts from daytime views to the city's lights coming on, and it's correspondingly the busiest period; visiting earlier in the afternoon or well after dark tends to mean shorter queues for tickets and elevators.\n\nAdmission is charged separately from the rest of the building and is broadly comparable to Osaka's other major observatories. The tower sits directly above Tennoji Station, one of Osaka's major transit hubs, making it an easy stop to combine with nearby Tennoji Park, Shitennoji Temple, or the retro streets of Shinsekai, all within a short walk or train ride.",
+    "imageCredit": {
+      "photographerName": "Hat Trick",
+      "photographerUrl": "https://unsplash.com/@hattrick1996?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/tower-of-the-sun-sculpture-surrounded-by-autumn-trees-d7NdBG5cb6Q?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "shinsekai-tsutenkaku",
@@ -772,7 +917,7 @@
     "summary": "A retro downtown district built around a century-old observation tower, where kushikatsu (fried skewer) stalls and old-fashioned pachinko parlors give a rougher, more nostalgic feel than the shinier parts of the city.",
     "access": "3-minute walk from Dobutsuen-mae Station (Osaka Metro Midosuji Line)",
     "address": "Ebisuhigashi area, Naniwa Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1560291544-515e5417bddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8U2hpbnNla2FpJTIwJTI2JTIwVHN1dGVua2FrdSUyMFRvd2VyJTIwT3Nha2ElMjBKYXBhbnxlbnwwfDB8fHwxNzg0MjU1OTYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": true,
     "affiliateLinks": [
@@ -782,7 +927,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "Built in the early 20th century around a boulevard modelled loosely on Paris, with a tower inspired partly by the Eiffel Tower, Shinsekai was Osaka's vision of a modern entertainment district before the war, and although the current Tsutenkaku Tower is a 1950s rebuild after the original burned, the district has kept much of its old-fashioned character rather than modernising alongside the rest of the city. Narrow streets lined with kushikatsu restaurants, cheap game arcades and old pachinko parlours give it a rougher, more lived-in feel than Dotonbori or Namba, and prices and atmosphere here still lean distinctly working-class.\n\nThe tower has an observation deck reachable by elevator, with a modest admission fee, and the climb takes perhaps thirty to forty minutes including the view; the streets around it can be explored in an hour or extended into a full kushikatsu dinner. Evenings bring the most atmosphere, when neon signage lights the narrow lanes, though the area is safe and walkable at most hours. Weekday early evenings tend to be calmer than weekend nights, when queues form outside the most famous kushikatsu shops.\n\nThe unofficial house rule at kushikatsu restaurants here is no double-dipping skewers into the shared sauce, worth knowing before sitting down. Shinsekai pairs naturally with a visit to nearby Tennoji Park or Abeno Harukas, both within easy walking distance."
+    "description": "Built in the early 20th century around a boulevard modelled loosely on Paris, with a tower inspired partly by the Eiffel Tower, Shinsekai was Osaka's vision of a modern entertainment district before the war, and although the current Tsutenkaku Tower is a 1950s rebuild after the original burned, the district has kept much of its old-fashioned character rather than modernising alongside the rest of the city. Narrow streets lined with kushikatsu restaurants, cheap game arcades and old pachinko parlours give it a rougher, more lived-in feel than Dotonbori or Namba, and prices and atmosphere here still lean distinctly working-class.\n\nThe tower has an observation deck reachable by elevator, with a modest admission fee, and the climb takes perhaps thirty to forty minutes including the view; the streets around it can be explored in an hour or extended into a full kushikatsu dinner. Evenings bring the most atmosphere, when neon signage lights the narrow lanes, though the area is safe and walkable at most hours. Weekday early evenings tend to be calmer than weekend nights, when queues form outside the most famous kushikatsu shops.\n\nThe unofficial house rule at kushikatsu restaurants here is no double-dipping skewers into the shared sauce, worth knowing before sitting down. Shinsekai pairs naturally with a visit to nearby Tennoji Park or Abeno Harukas, both within easy walking distance.",
+    "imageCredit": {
+      "photographerName": "Robby McCullough",
+      "photographerUrl": "https://unsplash.com/@mybbor?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-at-the-city-during-night-pJZLsnh_9Mg?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "sumiyoshi-taisha-shrine",
@@ -795,7 +945,7 @@
     "summary": "The head shrine of over 2,000 Sumiyoshi shrines across Japan, over 1,800 years old, with a distinctive arched drum bridge at its entrance.",
     "access": "3-minute walk from Sumiyoshi-taisha Station (Nankai Main Line)",
     "address": "2-9-89 Sumiyoshi, Sumiyoshi Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1748878665884-00afa881e960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8U3VtaXlvc2hpJTIwVGFpc2hhJTIwU2hyaW5lJTIwT3Nha2ElMjBKYXBhbnxlbnwwfDB8fHwxNzg0MjU1OTYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -805,7 +955,12 @@
         "provider": "Booking.com"
       }
     ],
-    "description": "As the head shrine of more than two thousand Sumiyoshi shrines across Japan, this site traces its origins back over 1,800 years and preserves an architectural style, Sumiyoshi-zukuri, that predates the Buddhist-influenced shrine designs that became common later, making its four main halls a rare look at an older, more austere form of Shinto architecture. The most photographed feature is the taiko-bashi, a steeply arched red drum bridge crossing a lotus pond near the entrance, steep enough that crossing it takes a bit of careful footing rather than a casual stroll.\n\nA full visit around the grounds, including the main halls and surrounding shrine buildings, takes roughly forty-five minutes to an hour at an easy pace. The shrine is closely associated with maritime safety and business prosperity, reflecting its historic role for sailors and merchants passing through Osaka's port, and it remains a popular destination for New Year's first shrine visits, when crowds are at their heaviest of the year.\n\nOutside major holidays, mornings and weekdays offer a quiet, unhurried visit with far fewer people around the bridge and main halls. There's no charge to enter the grounds. The shrine sits a short walk from its own train station on the Nankai line, making it an easy stop when travelling between central Osaka and destinations further south, and its combination of age, architecture and the striking bridge makes it worth the detour even on a tight itinerary."
+    "description": "As the head shrine of more than two thousand Sumiyoshi shrines across Japan, this site traces its origins back over 1,800 years and preserves an architectural style, Sumiyoshi-zukuri, that predates the Buddhist-influenced shrine designs that became common later, making its four main halls a rare look at an older, more austere form of Shinto architecture. The most photographed feature is the taiko-bashi, a steeply arched red drum bridge crossing a lotus pond near the entrance, steep enough that crossing it takes a bit of careful footing rather than a casual stroll.\n\nA full visit around the grounds, including the main halls and surrounding shrine buildings, takes roughly forty-five minutes to an hour at an easy pace. The shrine is closely associated with maritime safety and business prosperity, reflecting its historic role for sailors and merchants passing through Osaka's port, and it remains a popular destination for New Year's first shrine visits, when crowds are at their heaviest of the year.\n\nOutside major holidays, mornings and weekdays offer a quiet, unhurried visit with far fewer people around the bridge and main halls. There's no charge to enter the grounds. The shrine sits a short walk from its own train station on the Nankai line, making it an easy stop when travelling between central Osaka and destinations further south, and its combination of age, architecture and the striking bridge makes it worth the detour even on a tight itinerary.",
+    "imageCredit": {
+      "photographerName": "Preet Patel",
+      "photographerUrl": "https://unsplash.com/@preetp8?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/inside-a-japanese-temple-with-colorful-murals-z2rpCgIhhS4?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "shitennoji-temple",
@@ -818,7 +973,7 @@
     "summary": "One of Japan's oldest officially administered temples, said to have been founded in 593 by Prince Shotoku, with a five-story pagoda rebuilt in its original Asuka-period layout.",
     "access": "5-minute walk from Shitennoji-mae-Yuhigaoka Station (Osaka Metro Tanimachi Line)",
     "address": "1-11-18 Shitennoji, Tennoji Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1748878665884-00afa881e960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8U2hpdGVubm9qaSUyMFRlbXBsZSUyME9zYWthJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk2MXww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -828,7 +983,12 @@
         "provider": "Booking.com"
       }
     ],
-    "description": "Traditionally dated to 593 and attributed to Prince Shotoku, an early and influential patron of Buddhism in Japan, Shitennoji is counted among the oldest officially administered temples in the country, and its central compound, though rebuilt after wartime destruction, keeps the original Asuka-period layout, with a five-story pagoda, main hall and gate arranged in a straight line, a design known as the Shitennoji garan style rarely seen at other historic temples.\n\nWalking the central compound and its museum takes roughly an hour, longer if visiting the adjoining garden, Gokurakujodo, a landscaped pond garden built to represent Buddhist paradise, which charges separate admission. The temple's principal grounds are generally uncrowded outside specific event days, making a visit here noticeably calmer than at Osaka's more famous religious sites. A well-known flea market takes place on the temple grounds on the 21st and 22nd of each month, drawing crowds of browsers looking through antiques, kimono and secondhand goods, worth timing a visit around if that interests you, or avoiding if you prefer a quiet temple visit.\n\nAdmission to the central compound is modest. The temple is a short walk or train ride from Shitennoji-mae Yuhigaoka Station and sits within reach of Tennoji Park and Abeno Harukas, making it easy to combine with other sights in the Tennoji area. Its long history and distinctive layout make it a worthwhile stop for visitors interested in the earliest era of Buddhism in Japan."
+    "description": "Traditionally dated to 593 and attributed to Prince Shotoku, an early and influential patron of Buddhism in Japan, Shitennoji is counted among the oldest officially administered temples in the country, and its central compound, though rebuilt after wartime destruction, keeps the original Asuka-period layout, with a five-story pagoda, main hall and gate arranged in a straight line, a design known as the Shitennoji garan style rarely seen at other historic temples.\n\nWalking the central compound and its museum takes roughly an hour, longer if visiting the adjoining garden, Gokurakujodo, a landscaped pond garden built to represent Buddhist paradise, which charges separate admission. The temple's principal grounds are generally uncrowded outside specific event days, making a visit here noticeably calmer than at Osaka's more famous religious sites. A well-known flea market takes place on the temple grounds on the 21st and 22nd of each month, drawing crowds of browsers looking through antiques, kimono and secondhand goods, worth timing a visit around if that interests you, or avoiding if you prefer a quiet temple visit.\n\nAdmission to the central compound is modest. The temple is a short walk or train ride from Shitennoji-mae Yuhigaoka Station and sits within reach of Tennoji Park and Abeno Harukas, making it easy to combine with other sights in the Tennoji area. Its long history and distinctive layout make it a worthwhile stop for visitors interested in the earliest era of Buddhism in Japan.",
+    "imageCredit": {
+      "photographerName": "Preet Patel",
+      "photographerUrl": "https://unsplash.com/@preetp8?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/inside-a-japanese-temple-with-colorful-murals-z2rpCgIhhS4?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "tsuruhashi-korea-town",
@@ -842,7 +1002,7 @@
     "summary": "A dense market of around 120 Korean grocers, barbecue restaurants, and cosmetics shops around Tsuruhashi Station, reflecting Osaka's large Korean-Japanese community.",
     "access": "1-minute walk from Tsuruhashi Station (JR Osaka Loop Line)",
     "address": "Tsuruhashi area, Ikuno Ward, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1754234638227-efe017e649fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8VHN1cnVoYXNoaSUyMEtvcmVhJTIwVG93biUyME9zYWthJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": true,
     "affiliateLinks": [
@@ -852,7 +1012,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "Clustered tightly around Tsuruhashi Station, this market grew from a Korean community that settled in Osaka in the early 20th century and has remained one of the largest concentrations of Korean businesses in Japan ever since, with narrow covered lanes packed with grocers, barbecue restaurants, street food stalls and shops selling Korean cosmetics and hallyu merchandise. The market rewards slow browsing more than a fixed itinerary: expect to spend an hour or two working through the alleys, sampling items like tteokbokki or Korean-style fried chicken from stalls, and stopping for a full yakiniku meal at one of the many barbecue restaurants if time allows.\n\nPrices are generally accessible, and the food here tends to run more authentic and less tourist-oriented than Korean food found elsewhere in the city. The lanes are narrow and can feel crowded at peak times, particularly weekend evenings when barbecue restaurants fill up; visiting on a weekday afternoon offers more room to move and shorter waits for a table. Some shops and stalls operate limited hours or close one day a week, so it's worth having a backup option if a particular restaurant isn't open.\n\nThere's no cost to walk through the market itself. Just outside the main food streets, quieter residential lanes reflect the everyday side of the neighbourhood rather than its tourist-facing edge. For visitors interested in the history of Japan's Korean-Japanese community as well as the food, this is one of the more genuine places in Osaka to explore it."
+    "description": "Clustered tightly around Tsuruhashi Station, this market grew from a Korean community that settled in Osaka in the early 20th century and has remained one of the largest concentrations of Korean businesses in Japan ever since, with narrow covered lanes packed with grocers, barbecue restaurants, street food stalls and shops selling Korean cosmetics and hallyu merchandise. The market rewards slow browsing more than a fixed itinerary: expect to spend an hour or two working through the alleys, sampling items like tteokbokki or Korean-style fried chicken from stalls, and stopping for a full yakiniku meal at one of the many barbecue restaurants if time allows.\n\nPrices are generally accessible, and the food here tends to run more authentic and less tourist-oriented than Korean food found elsewhere in the city. The lanes are narrow and can feel crowded at peak times, particularly weekend evenings when barbecue restaurants fill up; visiting on a weekday afternoon offers more room to move and shorter waits for a table. Some shops and stalls operate limited hours or close one day a week, so it's worth having a backup option if a particular restaurant isn't open.\n\nThere's no cost to walk through the market itself. Just outside the main food streets, quieter residential lanes reflect the everyday side of the neighbourhood rather than its tourist-facing edge. For visitors interested in the history of Japan's Korean-Japanese community as well as the food, this is one of the more genuine places in Osaka to explore it.",
+    "imageCredit": {
+      "photographerName": "Julien",
+      "photographerUrl": "https://unsplash.com/@domsson?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/man-walks-through-a-vibrant-and-bustling-alley-40Ye5wqCsJ4?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "expo-70-commemorative-park",
@@ -866,7 +1031,7 @@
     "summary": "The former site of the 1970 World Expo, now a large park centered on Taro Okamoto's towering Tower of the Sun sculpture, with seasonal flower fields and a Japanese garden.",
     "access": "15-minute walk from Bampaku-kinen-koen Station (Osaka Monorail), in Suita",
     "address": "Senribanpakukoen, Suita, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1598559411960-70e1533a062c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8RXhwbyUyMCUyNzcwJTIwQ29tbWVtb3JhdGl2ZSUyMFBhcmslMjBPc2FrYSUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -876,7 +1041,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "Once the site of the 1970 World Exposition, Japan's first, this expansive park in Suita has kept the Expo's most recognisable landmark, Taro Okamoto's Tower of the Sun, a strange, multi-faced sculpture originally built as the fair's centrepiece and now the park's defining feature, visible from a distance across the open lawns that replaced most of the original pavilions. Beyond the tower, the park is broken into distinct zones, including a large Japanese garden, a natural history museum, and open fields planted with seasonal flowers that shift through the year, from tulips in spring to cosmos in autumn.\n\nA relaxed visit covering the main areas takes at least half a day, and the park is large enough that a full exploration of every section, including the Japanese garden and museum, can fill an entire day. Cherry blossoms bloom here in spring alongside the tulip displays, making late March through April one of the most popular times to visit, while the park is also known for its autumn foliage.\n\nWeekday visits are noticeably quieter than weekends, when local families fill the lawns for picnics. Entry to the park grounds carries a modest fee, with the Japanese garden and tower interior charging separately. The park sits a short walk from Bampaku-kinen-koen Station on the Osaka Monorail and is close to NIFREL, making it straightforward to combine both into a single day trip north of central Osaka."
+    "description": "Once the site of the 1970 World Exposition, Japan's first, this expansive park in Suita has kept the Expo's most recognisable landmark, Taro Okamoto's Tower of the Sun, a strange, multi-faced sculpture originally built as the fair's centrepiece and now the park's defining feature, visible from a distance across the open lawns that replaced most of the original pavilions. Beyond the tower, the park is broken into distinct zones, including a large Japanese garden, a natural history museum, and open fields planted with seasonal flowers that shift through the year, from tulips in spring to cosmos in autumn.\n\nA relaxed visit covering the main areas takes at least half a day, and the park is large enough that a full exploration of every section, including the Japanese garden and museum, can fill an entire day. Cherry blossoms bloom here in spring alongside the tulip displays, making late March through April one of the most popular times to visit, while the park is also known for its autumn foliage.\n\nWeekday visits are noticeably quieter than weekends, when local families fill the lawns for picnics. Entry to the park grounds carries a modest fee, with the Japanese garden and tower interior charging separately. The park sits a short walk from Bampaku-kinen-koen Station on the Osaka Monorail and is close to NIFREL, making it straightforward to combine both into a single day trip north of central Osaka.",
+    "imageCredit": {
+      "photographerName": "Paul Cuoco",
+      "photographerUrl": "https://unsplash.com/@notafraid?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/white-and-brown-concrete-building-near-green-trees-during-daytime-avFGux4LDMc?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "minoh-falls",
@@ -890,7 +1060,7 @@
     "summary": "A 33-meter waterfall at the end of a gentle 40-minute forest walk from Minoh town, ranked among Japan's 100 best waterfalls and especially popular for autumn leaves.",
     "access": "40-minute walk from Minoh Station (Hankyu Minoh Line), in Minoh",
     "address": "Minookoen area, Minoh, Osaka",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1549548284-28057f92c497?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8TWlub2glMjBGYWxscyUyME9zYWthJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": true,
     "affiliateLinks": [
@@ -900,7 +1070,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "Minoh Falls sits at the far end of a gently sloped forest trail that follows a stream out of Minoh town, a walk of around forty minutes that passes waterside teahouses, small shrines and, in autumn, some of the most reliably vivid maple foliage in the Osaka area, which has helped the falls earn a place among Japan's officially recognised top one hundred waterfalls. The 33-metre drop itself is not enormous by national standards, but the setting, a narrow gorge shaded by dense forest, gives it an atmosphere that feels well outside a metropolitan area of Osaka's size, despite being reachable within an hour of the city centre.\n\nThe walk to the falls and back takes roughly ninety minutes at a comfortable pace, not counting time at the falls themselves or stops along the way, and the path is largely flat and paved, suitable for most fitness levels though not ideal for wheelchairs given some uneven sections. Autumn weekends, particularly when the leaves peak in November, draw significant crowds along the trail and at the falls, so a weekday visit or an early morning start is more comfortable during that season.\n\nOutside autumn, the walk is far quieter and pleasant in its own right, with cooler shade in summer. There's no admission fee to walk the trail or view the falls, though some teahouses along the way charge for food and rest stops. The walk begins a short distance from Minoh Station, making the whole outing accessible without a car."
+    "description": "Minoh Falls sits at the far end of a gently sloped forest trail that follows a stream out of Minoh town, a walk of around forty minutes that passes waterside teahouses, small shrines and, in autumn, some of the most reliably vivid maple foliage in the Osaka area, which has helped the falls earn a place among Japan's officially recognised top one hundred waterfalls. The 33-metre drop itself is not enormous by national standards, but the setting, a narrow gorge shaded by dense forest, gives it an atmosphere that feels well outside a metropolitan area of Osaka's size, despite being reachable within an hour of the city centre.\n\nThe walk to the falls and back takes roughly ninety minutes at a comfortable pace, not counting time at the falls themselves or stops along the way, and the path is largely flat and paved, suitable for most fitness levels though not ideal for wheelchairs given some uneven sections. Autumn weekends, particularly when the leaves peak in November, draw significant crowds along the trail and at the falls, so a weekday visit or an early morning start is more comfortable during that season.\n\nOutside autumn, the walk is far quieter and pleasant in its own right, with cooler shade in summer. There's no admission fee to walk the trail or view the falls, though some teahouses along the way charge for food and rest stops. The walk begins a short distance from Minoh Station, making the whole outing accessible without a car.",
+    "imageCredit": {
+      "photographerName": "Roméo A.",
+      "photographerUrl": "https://unsplash.com/@gronemo?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/bridge-near-raging-waterfall-1onlXS5QtZg?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "fushimi-inari-shrine",
@@ -915,7 +1090,7 @@
     "summary": "Thousands of vermilion torii gates winding up the mountain — most visitors turn back early, but the upper trail is quiet and forested.",
     "access": "5-minute walk from Inari Station (JR Nara Line)",
     "address": "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1539036982489-398455e43248?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8RnVzaGltaSUyMEluYXJpJTIwU2hyaW5lJTIwS3lvdG8lMjBKYXBhbnxlbnwwfDB8fHwxNzg0MjU1OTYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": "https://inari.jp/en/",
     "isLocalPick": true,
     "affiliateLinks": [
@@ -925,7 +1100,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "Fushimi Inari Taisha sits at the base of a low mountain and is the head shrine for the tens of thousands of Inari shrines across Japan, dedicated to the god of rice and prosperity. Its main draw is the tunnel of vermilion torii gates that climbs the slope behind the shrine buildings, each one donated by a business or individual whose name is painted on the back in black ink. The lower stretch near Senbon Torii is the most crowded part of the whole complex, since a large share of visitors photograph it and turn back without continuing further up.\n\nPast the halfway point at Yotsutsuji intersection, where a small overlook offers a first view over the city, the trail thins out considerably and turns into a genuine forest hike, with smaller shrines, fox statues, and teahouses tucked among the trees. A full loop to the summit and back takes a few hours at a relaxed pace, though most visitors only go as far as Yotsutsuji, which is enough for a satisfying outing of an hour or two. Entry is free and the shrine never closes, which makes it one of the few major sights that can be visited well before sunrise or after dark. Arriving at dawn is the most reliable way to see the lower gates without a crowd; a weekday visit helps too, but weekends and holidays are busy at any hour."
+    "description": "Fushimi Inari Taisha sits at the base of a low mountain and is the head shrine for the tens of thousands of Inari shrines across Japan, dedicated to the god of rice and prosperity. Its main draw is the tunnel of vermilion torii gates that climbs the slope behind the shrine buildings, each one donated by a business or individual whose name is painted on the back in black ink. The lower stretch near Senbon Torii is the most crowded part of the whole complex, since a large share of visitors photograph it and turn back without continuing further up.\n\nPast the halfway point at Yotsutsuji intersection, where a small overlook offers a first view over the city, the trail thins out considerably and turns into a genuine forest hike, with smaller shrines, fox statues, and teahouses tucked among the trees. A full loop to the summit and back takes a few hours at a relaxed pace, though most visitors only go as far as Yotsutsuji, which is enough for a satisfying outing of an hour or two. Entry is free and the shrine never closes, which makes it one of the few major sights that can be visited well before sunrise or after dark. Arriving at dawn is the most reliable way to see the lower gates without a crowd; a weekday visit helps too, but weekends and holidays are busy at any hour.",
+    "imageCredit": {
+      "photographerName": "Jezael Melgoza",
+      "photographerUrl": "https://unsplash.com/@jezar?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/shinto-gate-during-daytime-poA1y52Nav0?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "arashiyama-bamboo-grove",
@@ -939,7 +1119,7 @@
     "summary": "A soaring bamboo forest path, best visited early morning before the crowds arrive.",
     "access": "5-minute walk from Saga-Arashiyama Station (JR Sagano Line)",
     "address": "Sagaogurayama area, Ukyo Ward, Kyoto",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1632923754832-60642c12a7ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8QXJhc2hpeWFtYSUyMEJhbWJvbyUyMEdyb3ZlJTIwS3lvdG8lMjBKYXBhbnxlbnwwfDB8fHwxNzg0MjU1OTY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -949,7 +1129,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "The bamboo grove is a short, straight path running between Tenryuji Temple and the Okochi Sanso villa, walled in on both sides by tall, densely packed bamboo stalks that block out most direct sunlight even at midday. It's a natural landmark rather than a garden, so there's no entrance fee to walk through it, and the walk itself takes only about ten to fifteen minutes if you don't stop, though most visitors linger longer for photos.\n\nBecause it sits at the center of one of Kyoto's most popular sightseeing districts, the grove gets extremely crowded from mid-morning onward, especially on weekends; arriving shortly after sunrise, before the tour groups and rickshaw traffic build up, is by far the best way to experience it with any sense of quiet. Early light filtering through the canopy is also when the setting photographs best.\n\nThe grove connects naturally to other Arashiyama sights nearby, including Tenryuji Temple, Nonomiya Shrine at its entrance, and the Togetsukyo Bridge a short walk south, so it works well as one stop on a longer morning loop through the area rather than a destination on its own. There's little shade or shelter along the path, so summer visits are best done early to avoid the heat as well as the crowds."
+    "description": "The bamboo grove is a short, straight path running between Tenryuji Temple and the Okochi Sanso villa, walled in on both sides by tall, densely packed bamboo stalks that block out most direct sunlight even at midday. It's a natural landmark rather than a garden, so there's no entrance fee to walk through it, and the walk itself takes only about ten to fifteen minutes if you don't stop, though most visitors linger longer for photos.\n\nBecause it sits at the center of one of Kyoto's most popular sightseeing districts, the grove gets extremely crowded from mid-morning onward, especially on weekends; arriving shortly after sunrise, before the tour groups and rickshaw traffic build up, is by far the best way to experience it with any sense of quiet. Early light filtering through the canopy is also when the setting photographs best.\n\nThe grove connects naturally to other Arashiyama sights nearby, including Tenryuji Temple, Nonomiya Shrine at its entrance, and the Togetsukyo Bridge a short walk south, so it works well as one stop on a longer morning loop through the area rather than a destination on its own. There's little shade or shelter along the path, so summer visits are best done early to avoid the heat as well as the crowds.",
+    "imageCredit": {
+      "photographerName": "Duong Nguyen",
+      "photographerUrl": "https://unsplash.com/@duonguyen?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-walking-through-a-bamboo-forest-fsJ0basri8U?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "kiyomizu-dera-temple",
@@ -963,7 +1148,7 @@
     "summary": "A UNESCO World Heritage temple built without a single nail, whose famous wooden stage juts out over the hillside with sweeping views of the city below.",
     "access": "10-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
     "address": "1-294 Kiyomizu, Higashiyama Ward, Kyoto",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1578469645742-46cae010e5d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8S2l5b21penUtZGVyYSUyMFRlbXBsZSUyMEt5b3RvJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk2NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -973,7 +1158,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "Kiyomizu-dera takes its name, meaning \"pure water temple,\" from the Otowa waterfall that flows beneath its main hall, and the temple's founding legend is tied to that spring. The building most visitors come to see is the main hall's wooden veranda, constructed using a traditional joinery method without nails, which extends out from the hillside on a lattice of pillars and offers a wide view over the maple and cherry trees below and the city beyond. The full temple grounds spread across the hillside and include several other halls, a three-story pagoda, and the approach street lined with shops.\n\nA visit to the main hall and grounds can be done in under an hour, though allowing more time to also walk the surrounding paths and nearby Jishu Shrine makes for a fuller morning or afternoon. Admission to the inner grounds involves a modest fee. The temple is at its most crowded in the late morning and early afternoon and during cherry blossom and autumn foliage weeks, when evening illuminations are sometimes held; visiting soon after opening is the most effective way to see the veranda without a wall of people in front of it.\n\nBecause it sits at the top of the Higashiyama slopes, most people combine it with a walk down through Ninenzaka and Sannenzaka afterward rather than visiting it in isolation."
+    "description": "Kiyomizu-dera takes its name, meaning \"pure water temple,\" from the Otowa waterfall that flows beneath its main hall, and the temple's founding legend is tied to that spring. The building most visitors come to see is the main hall's wooden veranda, constructed using a traditional joinery method without nails, which extends out from the hillside on a lattice of pillars and offers a wide view over the maple and cherry trees below and the city beyond. The full temple grounds spread across the hillside and include several other halls, a three-story pagoda, and the approach street lined with shops.\n\nA visit to the main hall and grounds can be done in under an hour, though allowing more time to also walk the surrounding paths and nearby Jishu Shrine makes for a fuller morning or afternoon. Admission to the inner grounds involves a modest fee. The temple is at its most crowded in the late morning and early afternoon and during cherry blossom and autumn foliage weeks, when evening illuminations are sometimes held; visiting soon after opening is the most effective way to see the veranda without a wall of people in front of it.\n\nBecause it sits at the top of the Higashiyama slopes, most people combine it with a walk down through Ninenzaka and Sannenzaka afterward rather than visiting it in isolation.",
+    "imageCredit": {
+      "photographerName": "Cosmin Georgian",
+      "photographerUrl": "https://unsplash.com/@cosmingeorgian?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/people-near-pagoda-under-white-and-blue-sky-gd3ysFyrsTQ?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "ninenzaka-sannenzaka",
@@ -987,7 +1177,7 @@
     "summary": "A pair of connected stone-paved slopes lined with wooden machiya houses turned into tea shops and souvenir stores, leading up to Kiyomizu-dera.",
     "access": "12-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
     "address": "Kiyomizu area, Higashiyama Ward, Kyoto",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8TmluZW56YWthJTIwJTI2JTIwU2FubmVuemFrYSUyMEt5b3RvJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk2NXww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -997,7 +1187,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "These two adjoining stone-paved lanes descend the hillside below Kiyomizu-dera, their names referring to their approximate lengths in old Japanese units. Wooden machiya townhouses that once housed local residents now hold tea shops, pottery stores, and stalls selling regional snacks, and the low buildings and lack of overhead wires give the streets one of the more convincing \"old Kyoto\" atmospheres left in the city, which is why they're used often in period dramas and photography.\n\nThe lanes aren't sights with a single defined stop; the point is to walk them slowly, ducking into shops or a tea house along the way, so a visit can be as short as fifteen minutes or stretch to an hour or more depending on how many stops you make. There's no admission fee to walk the streets themselves. Because they sit directly on the route up to Kiyomizu-dera, they're busiest at the same times as the temple, particularly late morning through mid-afternoon; visiting early, or coming down from the temple in the late afternoon as day-trip crowds thin, tends to be calmer.\n\nThe area is also popular for kimono rental, so visitors dressed in rented kimono are a common sight here, adding to the old-town feel. Cherry blossom and autumn foliage seasons bring some of the heaviest crowds of the year."
+    "description": "These two adjoining stone-paved lanes descend the hillside below Kiyomizu-dera, their names referring to their approximate lengths in old Japanese units. Wooden machiya townhouses that once housed local residents now hold tea shops, pottery stores, and stalls selling regional snacks, and the low buildings and lack of overhead wires give the streets one of the more convincing \"old Kyoto\" atmospheres left in the city, which is why they're used often in period dramas and photography.\n\nThe lanes aren't sights with a single defined stop; the point is to walk them slowly, ducking into shops or a tea house along the way, so a visit can be as short as fifteen minutes or stretch to an hour or more depending on how many stops you make. There's no admission fee to walk the streets themselves. Because they sit directly on the route up to Kiyomizu-dera, they're busiest at the same times as the temple, particularly late morning through mid-afternoon; visiting early, or coming down from the temple in the late afternoon as day-trip crowds thin, tends to be calmer.\n\nThe area is also popular for kimono rental, so visitors dressed in rented kimono are a common sight here, adding to the old-town feel. Cherry blossom and autumn foliage seasons bring some of the heaviest crowds of the year.",
+    "imageCredit": {
+      "photographerName": "Sorasak",
+      "photographerUrl": "https://unsplash.com/@boontohhgraphy?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/two-women-in-purple-and-pink-kimono-standing-on-street-_UIN-pFfJ7c?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "gion-hanamikoji",
@@ -1011,7 +1206,7 @@
     "summary": "Kyoto's best-preserved geisha district, where teahouses with wooden latticework line a quiet street — visit at dusk for a chance to spot a geiko or maiko on their way to an appointment.",
     "access": "5-minute walk from Gion-Shijo Station (Keihan Main Line)",
     "address": "Gion area, Higashiyama Ward, Kyoto",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1717293746914-846c0fa8a214?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8R2lvbiUyMCUyNiUyMEhhbmFtaWtvamklMjBTdHJlZXQlMjBLeW90byUyMEphcGFufGVufDB8MHx8fDE3ODQyNTU5NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -1021,7 +1216,12 @@
         "provider": "GetYourGuide"
       }
     ],
-    "description": "Gion is Kyoto's most famous geisha (geiko, in the local dialect) district, and Hanamikoji is its central street, a stretch of low wooden teahouses and restaurants running between Shijo-dori and Kenninji Temple. The buildings, many of them still working ochaya where geiko and maiko entertain guests by appointment, give the street a consistent, well-preserved look that's rare even elsewhere in Kyoto.\n\nVisitors don't enter these teahouses without an introduction, so the appeal of a walk here is mostly atmospheric, though there's a chance, particularly around dusk, of seeing a geiko or maiko in full dress moving briskly between appointments. Sightings aren't guaranteed and shouldn't be forced; the district has posted rules and fines against photographing or following geiko and maiko on side streets, both to protect their privacy and to cut down on the crush of visitors that had become a problem in recent years. Sticking to the main street and being unobtrusive avoids any issue.\n\nA slow walk through the area takes well under an hour, and there's no fee involved in simply walking it. Early evening is the liveliest and most atmospheric time, though also the busiest with visitors; a daytime walk is quieter and still worthwhile for the architecture alone. Gion sits close to Yasaka Shrine, Kenninji, and Pontocho, and is easily combined with any of them."
+    "description": "Gion is Kyoto's most famous geisha (geiko, in the local dialect) district, and Hanamikoji is its central street, a stretch of low wooden teahouses and restaurants running between Shijo-dori and Kenninji Temple. The buildings, many of them still working ochaya where geiko and maiko entertain guests by appointment, give the street a consistent, well-preserved look that's rare even elsewhere in Kyoto.\n\nVisitors don't enter these teahouses without an introduction, so the appeal of a walk here is mostly atmospheric, though there's a chance, particularly around dusk, of seeing a geiko or maiko in full dress moving briskly between appointments. Sightings aren't guaranteed and shouldn't be forced; the district has posted rules and fines against photographing or following geiko and maiko on side streets, both to protect their privacy and to cut down on the crush of visitors that had become a problem in recent years. Sticking to the main street and being unobtrusive avoids any issue.\n\nA slow walk through the area takes well under an hour, and there's no fee involved in simply walking it. Early evening is the liveliest and most atmospheric time, though also the busiest with visitors; a daytime walk is quieter and still worthwhile for the architecture alone. Gion sits close to Yasaka Shrine, Kenninji, and Pontocho, and is easily combined with any of them.",
+    "imageCredit": {
+      "photographerName": "Adalee Penguin",
+      "photographerUrl": "https://unsplash.com/@lcyana?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/a-person-walking-down-a-street-at-night-BwKd1aGPZP8?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "nishiki-market-kyoto",
@@ -1034,7 +1234,7 @@
     "summary": "Known as \"Kyoto's Kitchen,\" a narrow 390-meter covered arcade of about 130 shops selling pickles, skewered sweets, and knives passed down through generations.",
     "access": "2-minute walk from Shijo Station (Hankyu Kyoto Line)",
     "address": "Nishikikoji-dori, Nakagyo Ward, Kyoto",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1701001909948-8048598fbc92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8TmlzaGlraSUyME1hcmtldCUyMEt5b3RvJTIwSmFwYW58ZW58MHwwfHx8MTc4NDI1NTk2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -1044,7 +1244,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "Nishiki Market runs about 390 meters through central Kyoto, a narrow covered arcade of roughly 130 small shops that has supplied the city's restaurants and households with fresh and prepared food for centuries, earning it the nickname \"Kyoto's Kitchen.\" Stalls sell pickled vegetables, skewered sweets, fresh seafood, tofu products, and kitchen tools like knives and lacquerware, many made by shops that have been run by the same families for generations.\n\nWalking the full length takes only about fifteen to twenty minutes, but most visitors move slowly, stopping to sample street food from stalls as they go; a reasonable visit runs closer to an hour once you factor in browsing and snacking. Some shops sell items meant to be eaten on the spot rather than carried around, and eating while walking is generally discouraged, so most people stand near the stall to finish what they buy. There's no entry fee to the market itself.\n\nNishiki gets busy from late morning through the afternoon, particularly on weekends, and the narrow width of the arcade means crowds feel denser here than at open-air markets of a similar size; arriving close to opening in the morning gives the best chance of a comfortable walk. The market sits just north of Shijo-dori in the middle of Kyoto's main shopping district, close to Pontocho and the Kamo River, and connects conveniently into a broader walk through downtown."
+    "description": "Nishiki Market runs about 390 meters through central Kyoto, a narrow covered arcade of roughly 130 small shops that has supplied the city's restaurants and households with fresh and prepared food for centuries, earning it the nickname \"Kyoto's Kitchen.\" Stalls sell pickled vegetables, skewered sweets, fresh seafood, tofu products, and kitchen tools like knives and lacquerware, many made by shops that have been run by the same families for generations.\n\nWalking the full length takes only about fifteen to twenty minutes, but most visitors move slowly, stopping to sample street food from stalls as they go; a reasonable visit runs closer to an hour once you factor in browsing and snacking. Some shops sell items meant to be eaten on the spot rather than carried around, and eating while walking is generally discouraged, so most people stand near the stall to finish what they buy. There's no entry fee to the market itself.\n\nNishiki gets busy from late morning through the afternoon, particularly on weekends, and the narrow width of the arcade means crowds feel denser here than at open-air markets of a similar size; arriving close to opening in the morning gives the best chance of a comfortable walk. The market sits just north of Shijo-dori in the middle of Kyoto's main shopping district, close to Pontocho and the Kamo River, and connects conveniently into a broader walk through downtown.",
+    "imageCredit": {
+      "photographerName": "Rebecca Clarke",
+      "photographerUrl": "https://unsplash.com/@rebeccaclarke?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-walking-down-a-long-hallway-71U-ui-U3aw?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "kinkaku-ji-golden-pavilion",
@@ -1058,7 +1263,7 @@
     "summary": "A Zen temple pavilion covered in real gold leaf, reflected in a still pond it was purpose-built to overlook — one of Kyoto's most photographed sights.",
     "access": "Bus ride from Kyoto Station to the Kinkakuji-michi stop, then a short walk",
     "address": "1 Kinkakujicho, Kita Ward, Kyoto",
-    "imageUrl": null,
+    "imageUrl": "https://images.unsplash.com/photo-1596376533742-e534c9364357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDAwNTgyfDB8MXxzZWFyY2h8MXx8S2lua2FrdS1qaSUyMCUyOEdvbGRlbiUyMFBhdmlsaW9uJTI5JTIwS3lvdG8lMjBKYXBhbnxlbnwwfDB8fHwxNzg0MjU1OTY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
     "officialUrl": null,
     "isLocalPick": false,
     "affiliateLinks": [
@@ -1068,7 +1273,12 @@
         "provider": "Klook"
       }
     ],
-    "description": "Kinkaku-ji's top two floors are covered in gold leaf, a design chosen by the shogun Ashikaga Yoshimitsu when he had the building converted from a retirement villa into a Zen temple in the late 14th century; the current structure is a mid-20th-century reconstruction after the original was destroyed by fire. The pavilion stands at the edge of Kyokochi pond, positioned so its gilded reflection appears in the still water, which is the view nearly every visitor comes to photograph.\n\nKinkaku-ji is a walking route rather than a building to enter — visitors follow a set path around the pond and up through the temple's gardens, passing the pavilion at a fixed viewing distance rather than going inside. The full loop takes roughly thirty to forty-five minutes at an unhurried pace. Admission is a modest fixed fee, and the ticket itself is a small paper talisman rather than a printed stub, which many visitors keep as a souvenir.\n\nBecause it's one of the most visited sites in Kyoto, the temple is busy for most of the day; the first hour after opening is noticeably calmer, and weekday mornings are best if the schedule allows. Snow in winter and the surrounding maples in autumn are especially popular times to see the pavilion, though both bring their own crowds."
+    "description": "Kinkaku-ji's top two floors are covered in gold leaf, a design chosen by the shogun Ashikaga Yoshimitsu when he had the building converted from a retirement villa into a Zen temple in the late 14th century; the current structure is a mid-20th-century reconstruction after the original was destroyed by fire. The pavilion stands at the edge of Kyokochi pond, positioned so its gilded reflection appears in the still water, which is the view nearly every visitor comes to photograph.\n\nKinkaku-ji is a walking route rather than a building to enter — visitors follow a set path around the pond and up through the temple's gardens, passing the pavilion at a fixed viewing distance rather than going inside. The full loop takes roughly thirty to forty-five minutes at an unhurried pace. Admission is a modest fixed fee, and the ticket itself is a small paper talisman rather than a printed stub, which many visitors keep as a souvenir.\n\nBecause it's one of the most visited sites in Kyoto, the temple is busy for most of the day; the first hour after opening is noticeably calmer, and weekday mornings are best if the schedule allows. Snow in winter and the surrounding maples in autumn are especially popular times to see the pavilion, though both bring their own crowds.",
+    "imageCredit": {
+      "photographerName": "Steffen Triekels",
+      "photographerUrl": "https://unsplash.com/@noxiderp?utm_source=curious-city&utm_medium=referral",
+      "unsplashUrl": "https://unsplash.com/photos/brown-and-white-house-near-lake-and-trees-yB3085TiT3M?utm_source=curious-city&utm_medium=referral"
+    }
   },
   {
     "id": "ryoan-ji-rock-garden",

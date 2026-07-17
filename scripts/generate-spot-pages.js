@@ -28,7 +28,7 @@ for (const activity of activities) {
 
 writeFileSync(path.join(siteDir, 'sitemap.xml'), buildSitemapXml(activities, SITE_URL), 'utf-8');
 
-console.log(`Generated ${activities.length} spot pages in site/spots/ and site/sitemap.xml (${activities.length + 1} URLs).`);
+console.log(`Generated ${activities.length} spot pages in site/spots/ and site/sitemap.xml (${activities.length + 2} URLs).`);
 
 const ids = activities.map((activity) => activity.id);
 const uniqueIds = new Set(ids);
