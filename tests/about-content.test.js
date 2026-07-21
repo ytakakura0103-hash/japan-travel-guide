@@ -40,8 +40,9 @@ describe('about.html', () => {
     expect(jsonLd.mainEntity.name).toBe('Yusuke');
   });
 
-  it('uses a non-photographic avatar (not the AI-generated portrait)', () => {
-    expect(html).toContain('media/yusuke-avatar.svg');
-    expect(html).not.toContain('yusuke-avatar.jpg');
+  it('uses the cat photo avatar (not the AI-generated portrait)', () => {
+    expect(html).toContain('media/yusuke-avatar-cat.jpg');
+    expect(html).not.toContain('yusuke-avatar.svg');
+    expect(html).not.toMatch(/yusuke-avatar\.jpg/);
   });
 });

@@ -8679,7 +8679,7 @@
     "description": "Akiu Otaki drops in a single, dramatic sheet down a rock face in the hills above Akiu Onsen, and is counted among Japan's celebrated waterfalls for its scale and setting. A short, well-maintained path leads from the parking area down to a viewing platform close enough to feel the spray on a windy day, without requiring any real hiking experience.\\n\\nThere is a small parking fee at the nearby lot, and the walk down and back takes roughly twenty to thirty minutes at an easy pace. It's about thirty to forty minutes from central Sendai by car or bus.\\n\\nArriving before mid-morning generally means beating the tour buses that stop here as part of Akiu Onsen day trips. Autumn foliage frames the falls particularly well in the surrounding hills, and the volume of water noticeably increases after rain, making the falls more dramatic but also the platform a bit more slippery underfoot.",
     "access": "About 40 minutes by bus from Sendai Station West Exit toward Akiu Onsen, then a short walk from the falls parking area.",
     "address": "Akiu-machi Yumoto area, Taihaku-ku, Sendai, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/29356285/pexels-photo-29356285.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -8687,7 +8687,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "rairaikyo-gorge",
@@ -8702,7 +8703,7 @@
     "description": "This roughly one-kilometer trail hugs a cliff face about twenty meters above the Natori River, winding past unusually shaped, water-carved rock formations and small shaded groves. One naturally eroded rock along the path resembles a heart and has picked up a reputation among locals as a minor good-luck stop for couples, though most visitors are simply there for the scenery.\\n\\nThe trail is free, never closes, and has multiple entry and exit points, so a full there-and-back walk takes about forty to fifty minutes, though it's easy to shorten. It's an easy add-on to a visit to Akiu Otaki waterfall nearby.\\n\\nCompared to the falls, which sit right off the main road, this gorge trail is easy to miss and consequently draws far fewer visitors, even during Akiu Onsen's busier weekends. Autumn is the standout season, when the gorge's foliage reflects in the river below, but the trail is pleasant in any season given its constant shade.",
     "access": "About 40 minutes by bus from Sendai Station West Exit toward Akiu Onsen, alighting at the Nozokibashi bus stop.",
     "address": "Akiu-machi area, Taihaku-ku, Sendai, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/31416865/pexels-photo-31416865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -8710,7 +8711,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "sakunami-onsen",
@@ -8724,7 +8726,7 @@
     "description": "Sakunami sits in a narrow valley along the Hirose River, a stop on the JR Senzan Line best known locally as a convenient hot spring escape rather than a headline tourist destination. A handful of ryokan line the riverbanks here, several of which open their baths to day visitors, offering mineral-rich waters in a genuinely quiet, forested setting.\\n\\nDay-bathing fees are generally modest, and a soak plus some time relaxing in a lounge area makes for an easy two-to-three-hour visit. It's reachable directly by train from central Sendai, without needing a car.\\n\\nBecause it sits in the shadow of better-known onsen towns like Akiu and Naruko, Sakunami sees far fewer foreign visitors, even though the experience is comparable. Snow season is particularly atmospheric here, with steam rising off the outdoor baths against a backdrop of snow-covered hills.",
     "access": "About 40 minutes by JR Senzan Line from Sendai Station to Sakunami Station.",
     "address": "Sakunami area, Aoba-ku, Sendai, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/31046939/pexels-photo-31046939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -8732,7 +8734,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "izumigatake-hiking",
@@ -8746,7 +8749,7 @@
     "description": "Rising northwest of central Sendai and counted among Japan's 300 Famous Mountains, Izumigatake is a genuinely beloved local hiking spot rather than a headline attraction, with gentle, well-marked trails that suit beginner and intermediate hikers alike. From the summit, views stretch across the Sendai plain toward the Funagata mountain range on clear days.\\n\\nThe standard route from the trailhead nature center to the summit and back takes around four hours at a relaxed pace, and the trailhead facility has toilets, a small shop, and a hiking log book. There's no entry fee for the trail itself.\\n\\nIt's popular with local hikers on weekends, especially in good weather, but remains almost entirely off the radar for overseas visitors, so it offers a genuine slice of everyday Sendai outdoor life. Wildflowers bloom along the trail from spring through autumn, with different species appearing as the season progresses.",
     "access": "Subway to Izumi-Chuo Station, then a Sendai City bus directly to the Izumigatake trailhead nature center.",
     "address": "Izumigatake area, Izumi-ku, Sendai, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/64173/pexels-photo-64173.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -8754,7 +8757,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "michinoku-park",
@@ -8769,7 +8773,7 @@
     "description": "Located just north of Sendai in Rifu, this large government-run park is one of only a handful of \"national\" parks in Japan, spread across wide lawns, forested walking paths, and seasonal flower fields that rotate through tulips, cosmos, and other blooms depending on the time of year. Play structures and open green space make it a natural fit for families with children.\\n\\nAdmission is modest, and bicycles can be rented to cover more ground, since the park is large enough that walking the whole thing in one visit takes a good half day. It's an easy drive or bus ride from central Sendai.\\n\\nBecause it caters mainly to local families rather than tourists, weekday mornings are especially quiet, even during peak flower season. Each season brings a different floral highlight, so the best time to visit depends on which bloom you're after, with some evening illumination events held in winter.",
     "access": "About 20-30 minutes by car or bus from Sendai Station, near Rifu in Miyagi.",
     "address": "Kashiwadai area, Rifu, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/29521164/pexels-photo-29521164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -8777,7 +8781,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "entsuin-temple",
@@ -8792,7 +8797,7 @@
     "description": "Entsuin was built to honor Date Mitsumune, a grandson of Date Masamune who died young, and its centerpiece is a mausoleum whose interior is decorated with gold leaf and elaborate carvings that have survived remarkably well since the Edo period. Unlike many temples in the area, it also has a Western-style rose garden added in more recent decades, an unusual pairing with the otherwise traditional temple grounds.\\n\\nAdmission is a modest separate fee from Zuiganji next door, and a visit takes around twenty to thirty minutes, longer if the roses are in bloom and worth lingering over.\\n\\nMost visitors to Matsushima funnel straight into Zuiganji, Matsushima's headline temple, and skip this smaller neighbor entirely, which keeps Entsuin noticeably calmer. Roses peak in June, and the temple occasionally holds evening illuminations that show the mausoleum's gold interior in a different light.",
     "access": "Adjacent to Zuiganji Temple, about a 5-minute walk from Matsushima-Kaigan Station.",
     "address": "91 Matsushima, Matsushima-machi, Miyagi-gun, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/29521163/pexels-photo-29521163.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -8800,7 +8805,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "fukuurajima-island",
@@ -8815,7 +8821,7 @@
     "description": "Fukuurajima is connected to the Matsushima shoreline by a long red-painted footbridge, itself a popular photo spot, leading to a small island maintained largely as a natural botanical garden. Walking paths loop through the trees, past a modest shrine and a rotating cast of native plants and flowers that bloom at different points across spring and summer.\\n\\nCrossing the bridge requires a small toll, and exploring the island's paths generally takes about an hour at an unhurried pace. It sits within easy walking distance of Matsushima's main harbor area.\\n\\nBecause most day-trippers stick to the boat cruise around the bay and the cluster of temples near the pier, the island itself stays relatively uncrowded even when Matsushima's waterfront is busy. Spring through early summer brings the best flowering displays, though the shaded paths are pleasant even outside bloom season.",
     "access": "About a 10-minute walk from Matsushima-Kaigan Station, near the main Matsushima waterfront.",
     "address": "Matsushima, Matsushima-machi, Miyagi-gun, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/15934863/pexels-photo-15934863.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -8823,7 +8829,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "oshima-island-matsushima",
@@ -8838,7 +8845,7 @@
     "description": "For centuries, ascetic Buddhist monks used this small island as a retreat for meditation and religious training, and its cliffs are still pocked with hand-carved caves and dotted with stone monuments and small Buddhist statues left behind by generations of practitioners. It sits just across a short bridge from the Matsushima waterfront, close enough to see from the main temple complex but far enough to feel separate from it.\\n\\nUnlike Fukuurajima, the bridge here is free to cross, and the island itself is small enough to explore fully in fifteen to twenty minutes.\\n\\nBecause it's overshadowed by the much larger and more famous Zuiganji temple complex just across the water, Oshima tends to get overlooked entirely, even by visitors standing right next to it. It's a quiet, slightly eerie spot at any time of day, but especially atmospheric near sunset when the bay's light turns golden.",
     "access": "About a 10-minute walk from Matsushima-Kaigan Station, near Zuiganji Temple.",
     "address": "Matsushima, Matsushima-machi, Miyagi-gun, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/30145712/pexels-photo-30145712.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -8846,7 +8853,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "kanrantei-tea-house",
@@ -8861,7 +8869,7 @@
     "description": "Kanrantei is believed to have originated as a teahouse within Toyotomi Hideyoshi's Fushimi Castle, before Date Masamune had it relocated to Edo and his son, Date Tadamune, later moved it once more to Matsushima sometime in the late 1620s or early 1630s. Its name translates roughly to \"a place to view ripples on the water,\" a fitting description given its position looking out over Matsushima Bay. Inside, twenty-one painted fusuma sliding panels from the Edo period have been designated an Important Cultural Property.\\n\\nAdmission is modest and typically includes access to a small adjoining museum of Date-family artifacts, with a full visit taking around thirty minutes.\\n\\nThe building's connection to the Date clan's private entertaining and moon-viewing parties gives it a more intimate feel than Matsushima's larger temple complexes, and it tends to draw fewer visitors than the main sightseeing pier nearby. It's worth timing a visit for late afternoon light, and autumn moon-viewing remains a traditional draw for the site.",
     "access": "About a 10-minute walk from Matsushima-Kaigan Station, near the Matsushima waterfront.",
     "address": "Matsushima, Matsushima-machi, Miyagi-gun, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/31644560/pexels-photo-31644560.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -8869,7 +8877,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "saigyo-modoshi-no-matsu-park",
@@ -8884,7 +8893,7 @@
     "description": "Named for a legend involving the wandering poet-monk Saigyo, this hilltop park is counted among the traditional \"four great views\" of Matsushima Bay, offering a sweeping panorama of the scattered pine-covered islets that give the bay its scenic reputation. Unlike the boat cruises that circle the bay for a fee, this viewpoint is simply a walk up to open ground.\\n\\nThere's no admission charge, and the walk up from the Matsushima area takes some effort but not technical hiking skill, with benches and a small shrine near the top to rest at.\\n\\nBecause it requires a slightly longer walk than the boat pier or the cluster of temples near the harbor, it draws noticeably fewer visitors, especially those on tight day-trip schedules. Cherry blossoms frame the view nicely in spring, and early morning light over the bay is a particularly rewarding time to make the climb.",
     "access": "About a 25-30 minute walk from Matsushima-Kaigan Station, uphill from the main waterfront area.",
     "address": "Takagi area, Matsushima-machi, Miyagi-gun, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/33690914/pexels-photo-33690914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -8892,7 +8901,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "urato-islands",
@@ -8907,7 +8917,7 @@
     "description": "Departing from the Marine Gate ferry terminal in Shiogama, a municipal ferry loops daily around the Urato Islands, a scattering of small, mostly car-free islands at the mouth of Matsushima Bay. Katsurashima has a small public beach that opens for swimming during a brief calm stretch each summer, Nonoshima is known for a camellia tunnel and seasonal lavender fields, and Sabusawa, the largest of the group, holds historical sites including unusual rope-tied jizo statues.\\n\\nA one-way ferry ticket costs a modest, fixed amount depending on destination, and because the ferry runs on a set loop schedule, it's worth checking timetables in advance so you're not stranded on an island longer than planned.\\n\\nThe islands function primarily as a commuter ferry route for the small resident population, which means visitors are a genuine rarity outside of hiking groups following the Michinoku Coastal Trail. Spring brings flowering nanohana and camellias, while the brief July swimming window at Katsurashima is a distinctly local secret.",
     "access": "Ferry from Marine Gate Shiogama, about a 10-minute walk from JR Hon-Shiogama Station.",
     "address": "Urato Islands, Shiogama, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/15934863/pexels-photo-15934863.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -8915,7 +8925,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "nobiru-beach-okumatsushima",
@@ -8930,7 +8941,7 @@
     "description": "The Nobiru area was heavily damaged in the 2011 tsunami, and its train station and surrounding neighborhood have since been rebuilt on higher, safer ground as part of the broader Okumatsushima district. Today the area combines a sandy beach facing Matsushima Bay with a scenic lagoon behind it, making it popular for swimming, kayaking, and simply walking along the shore.\\n\\nBeach access is free, and it's an easy day trip directly by train from Sendai, without needing a car or bus transfer. Basic facilities are available near the station area.\\n\\nBecause it sits a step further from Matsushima's main tourist circuit, Nobiru stays noticeably quieter, even in summer. Swimming season runs through the warmer months, while the shoulder seasons offer a calmer, more contemplative visit if the beach crowds aren't the point.",
     "access": "About 40 minutes by JR Senseki Line from Sendai Station to Nobiru Station.",
     "address": "Nobiru area, Higashimatsushima, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/18662840/pexels-photo-18662840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -8938,7 +8949,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "otakamori-observatory",
@@ -8953,7 +8965,7 @@
     "description": "Otakamori sits on Miyato Island in the Okumatsushima area and is counted, alongside Saigyo Modoshi no Matsu Park, among the traditionally recognized \"four great views\" of Matsushima Bay, offering a wide panorama over the islets from a different angle than the more visited viewpoints closer to central Matsushima.\\n\\nReaching the top requires a moderate uphill walk of roughly thirty to forty minutes through forest, and there's no admission fee. It combines naturally with a visit to Nobiru Beach or the wider Okumatsushima area.\\n\\nBecause it demands more effort to reach than the boat-cruise vantage points near Matsushima's main pier, Otakamori sees a fraction of the visitor numbers despite ranking among the bay's best-regarded views. Autumn foliage across the surrounding hillsides makes it an especially rewarding climb in October and November.",
     "access": "Via JR Senseki Line to Nobiru Station, then a taxi or walk toward the Miyato Island trailhead.",
     "address": "Miyato Island, Higashimatsushima, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/29521164/pexels-photo-29521164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -8961,7 +8973,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "shichigahama-beach",
@@ -8976,7 +8989,7 @@
     "description": "Shichigahama is a small coastal town just northeast of Sendai made up of a string of coves and beaches, popular with the city's small but dedicated surfing community as well as families looking for an easy seaside outing without traveling all the way to Matsushima or beyond. A hill called Hiyoriyama offers a modest lookout point over the coastline nearby.\\n\\nBeach access is free, and surfboard or wetsuit rental is available through local shops for those who want to try the water. It's an easy trip by train or bus from central Sendai, making it feasible even as a half-day outing.\\n\\nBeing more of a local weekend spot than a tourist destination, it stays relaxed even in summer compared to more famous beaches further afield. Surfing continues through much of the year for the dedicated, but swimming is really a summer-only activity, and sunset views over the water are a quiet highlight any time of year.",
     "access": "About 30-40 minutes by JR Senseki Line or bus from Sendai Station.",
     "address": "Shichigahama, Miyagi-gun, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/18662840/pexels-photo-18662840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -8984,7 +8997,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "katta-gorge",
@@ -8999,7 +9013,7 @@
     "description": "Cut by volcanic activity on the Miyagi side of Mount Zao, Katta Gorge is a steep-walled ravine visible from a roadside viewing platform called Takimidai, which looks out over several waterfalls tumbling through the gorge at once. It sits along the lower stretch of the Zao Echo Line, the scenic toll road that climbs toward the famous Okama crater lake further up the mountain.\\n\\nThe Takimidai lookout is free to visit with nearby parking, and most people spend fifteen to twenty minutes taking in the view before continuing up or down the mountain road.\\n\\nBecause most visitors are focused on reaching Okama crater higher up, this lower gorge viewpoint gets comparatively little attention despite offering some of the most reliable early-season foliage color on the whole route. Peak color generally falls in late September into October, arriving here noticeably earlier than at the mountain's base.",
     "access": "By car along the Zao Echo Line from the Miyagi side, or as a stop on a guided Zao sightseeing tour from Sendai.",
     "address": "Zao Echo Line, Zao-machi, Katta-gun, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/31416865/pexels-photo-31416865.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -9007,7 +9021,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "zao-echo-line",
@@ -9022,7 +9037,7 @@
     "description": "The Zao Echo Line is a toll road that winds up the Miyagi flank of Mount Zao, passing through changing bands of vegetation from lowland forest to alpine scrub as it climbs toward the famous emerald-green Okama crater lake near the summit. Driving the full route, rather than just visiting the crater parking area, is where much of the scenery actually lies.\\n\\nA toll applies for the drive, and the road is only open seasonally, typically closed during the heaviest winter snow months and reopening in spring, sometimes revealing tall snow-wall corridors along the route in the early weeks after opening.\\n\\nMost visitors treat the drive purely as a means to reach the Okama crater viewpoint, so simply slowing down and stopping at the smaller pull-offs along the way, including Katta Gorge's Takimidai lookout, tends to mean far fewer people. Snow corridors draw attention in late spring, while the drive is at its most colorful during autumn foliage season.",
     "access": "By rental car from Sendai, entering the Echo Line from the Miyagi (Zao-machi) side.",
     "address": "Zao Echo Line, Zao-machi, Katta-gun, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/31046966/pexels-photo-31046966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9030,7 +9045,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "shiroishi-uji-somen",
@@ -9044,7 +9060,7 @@
     "description": "Shiroishi has long been associated with a particular style of thin, hand-stretched somen noodles known locally as Uji somen, made using a traditional oil-free stretching technique passed down through small family-run producers around the town. It's a regional specialty distinct from somen made elsewhere in Japan, prized for its smooth, delicate texture.\\n\\nA noodle set at one of the town's small restaurants costs a modest amount, and some producers offer brief noodle-making demonstrations or tastings for visitors interested in the process itself.\\n\\nBecause it's a food specialty rather than a single ticketed site, it tends to get overlooked by visitors focused on the castle or the nearby fox village, even though sampling it takes little extra effort while already in town. It's traditionally served chilled with a dipping sauce in summer and in a warm broth, called nyumen, during colder months.",
     "access": "Within walking distance of JR Shiroishi Station and Shiroishi Castle.",
     "address": "Shiroishi city center, Shiroishi, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/11286302/pexels-photo-11286302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9052,7 +9068,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "shiroishigawa-hitome-senbonzakura",
@@ -9066,7 +9083,7 @@
     "description": "Roughly twelve hundred cherry trees, some more than eighty years old, line both banks of the Shiroishi River for around eight kilometers, forming what's often described as one of the most impressive cherry blossom corridors in the Tohoku region. On a clear day, the trees frame views of the still snow-capped Zao mountain range beyond, and fallen petals drifting on the river create a pink, carpet-like effect.\\n\\nViewing is free, and given the sheer length of the route, exploring by bicycle or car makes far more sense than trying to walk the whole stretch on foot. The Ogawara Sakura Festival runs alongside the bloom each year.\\n\\nThe area immediately around Funaoka Station and the festival grounds gets genuinely crowded during peak bloom, but heading toward either end of the eight-kilometer stretch, away from the main festival area, generally means a much calmer, equally scenic experience. Bloom typically falls in early to mid-April, though exact timing shifts year to year with the weather.",
     "access": "Near JR Funaoka Station and JR Ogawara Station on the Tohoku Main Line, about 30-40 minutes south of Sendai.",
     "address": "Shiroishi River embankment, Shibata/Ogawara, Shibata-gun, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/36931081/pexels-photo-36931081.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9074,7 +9091,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "funaoka-castle-ruins-park",
@@ -9089,7 +9107,7 @@
     "description": "Built on the ruins of a former castle overlooking the town of Shibata, this hilltop park is planted with around thirteen hundred cherry trees and is recognized as one of Japan's notable cherry blossom viewing spots. A short slope car, a small cable-hauled car, traditionally carries visitors up through a tunnel of blossoms to the summit, though it's worth checking locally whether it's currently operating, since it has faced periodic mechanical closures.\\n\\nEven without the slope car, the walk up takes only about fifteen to twenty minutes, ending at a white Kannon statue and an observation deck looking out over the Hitome Senbonzakura cherry corridor below and the Zao mountains beyond.\\n\\nWhile the Shibata Sakura Festival period draws real crowds, arriving early in the morning or visiting just before or after the festival's peak weekend tends to make a meaningful difference. Bloom generally runs from early to late April, tracking closely with the nearby riverside cherry trees.",
     "access": "About a 15-minute walk from JR Funaoka Station, roughly 25 minutes from Sendai Station by train.",
     "address": "Funaoka Castle Park, Shibata, Shibata-gun, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/29521164/pexels-photo-29521164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9097,7 +9115,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "naruko-gorge",
@@ -9112,7 +9131,7 @@
     "description": "Carved by the Oitagawa River, Naruko Gorge cuts a deep, steep-walled ravine through the hills near Naruko Onsen, best appreciated from the Ofukazawa observation bridge, which spans the gorge and offers a clean view straight down into the ravine and along its length. A walking trail also descends partway into the gorge itself for those wanting a closer look at the rock walls and river below.\\n\\nViewing from the bridge is free, with roadside parking nearby, and the walk to the viewpoint takes only a few minutes, though the descending trail requires more time and sturdier footwear.\\n\\nAutumn is unquestionably the peak season here, when the gorge's mixed forest turns a striking mix of red, orange, and yellow, drawing steady but rarely overwhelming crowds compared to more famous foliage spots. Visiting on a weekday during the October peak, rather than a weekend, meaningfully reduces both crowding and the traffic that can build up on the access road.",
     "access": "About 15 minutes by bus from JR Naruko-Onsen Station, or a short drive.",
     "address": "Naruko-Onsen area, Osaki, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/29521164/pexels-photo-29521164.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9120,7 +9139,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "japan-kokeshi-museum",
@@ -9134,7 +9154,7 @@
     "description": "Kokeshi dolls originated in the onsen towns of the Tohoku region, including Naruko, where craftsmen originally turned them as simple wooden toys for bathers passing through the hot spring resorts. This museum traces that history through an extensive collection of dolls made in different regional styles, along with tools and explanations of the traditional lathe-turning technique.\\n\\nAdmission is modest, and a full visit including the exhibits takes around an hour. A hands-on painting experience is usually available for an additional fee, letting visitors decorate their own blank kokeshi to take home.\\n\\nCompared to Naruko's hot spring baths, which draw the bulk of the town's visitors, the museum is a relatively quiet stop, making it easy to take your time with the painting experience without a queue. It works well as an indoor activity on a rainy day or a cold winter afternoon.",
     "access": "Within walking distance of JR Naruko-Onsen Station.",
     "address": "Naruko-Onsen area, Osaki, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/31268099/pexels-photo-31268099.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9142,7 +9162,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "onikobe-onsen",
@@ -9157,7 +9178,7 @@
     "description": "Onikobe sits within a massive ancient caldera in the low mountains of northwestern Miyagi, and its name, meaning roughly \"demon's neck,\" reflects the raw volcanic character of the area. A walking trail through the so-called Jigokudani, or Hell Valley, cuts through a rugged canyon where hot spring water bursts from the ground with real force, and a natural geyser erupts at fairly predictable intervals, sending a jet of hot water into the air.\\n\\nSeveral of the area's ryokan offer day-bathing for a modest fee, and the geyser and canyon trail can be combined into a visit of two to three hours including travel time from Naruko.\\n\\nDespite being only about thirty minutes from Naruko Onsen by car or bus, Onikobe sees noticeably fewer visitors than its better-known neighbor, giving it a more rugged, undeveloped feel. The geyser and steaming canyon are particularly striking against cold winter air, when the contrast between hot steam and snow is at its most dramatic.",
     "access": "About 30 minutes by car or bus from JR Naruko-Onsen Station.",
     "address": "Onikobe area, Osaki, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/31046939/pexels-photo-31046939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -9165,7 +9186,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "naruko-onsen-kokeshi-painting",
@@ -9179,7 +9201,7 @@
     "description": "Naruko is one of the region's classic hot spring towns, its sulfuric waters drawing bathers for generations, but what sets it apart is how visibly tied it is to the kokeshi doll craft: small workshops with wood-turning lathes sit right along the main streets, many open for visitors to watch craftsmen at work or try painting a doll themselves. The town sits at the center of a wider hot spring area that includes several distinct spring sources nearby, each with a slightly different mineral character.\\n\\nDay-bathing at participating ryokan typically costs a modest fee, and a kokeshi painting or turning experience is usually available separately at workshops around town.\\n\\nCompared to Zao or Akiu, Naruko draws a noticeably smaller crowd of foreign visitors despite its long onsen pedigree, which keeps both the baths and the craft workshops feeling unhurried. The milky, sulfuric waters feel especially good against cold air during the snow season, when the town takes on a quieter, more contemplative atmosphere.",
     "access": "Directly served by JR Naruko-Onsen Station, about 90 minutes from Sendai Station via the JR Rikuu East Line.",
     "address": "Naruko-Onsen, Osaki, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/31046939/pexels-photo-31046939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9187,7 +9209,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "mount-kurikoma",
@@ -9202,7 +9225,7 @@
     "description": "Mount Kurikoma rises at the meeting point of Miyagi, Iwate, and Akita prefectures, protected as a quasi-national park and known nationally for autumn foliage that some rankings place among the very best in the country, a mix of vivid reds, oranges, and yellows sweeping down the mountainside in waves as the season progresses. Hiking trails of varying difficulty lead toward the summit, with a few hot spring facilities, including Sukawa Onsen, near the trailheads for a post-hike soak.\\n\\nTrailhead facilities generally charge a small parking or usage fee, and a full hiking day trip requires most of a day given the distance from Sendai and the time needed on the mountain itself. Public transport options are limited, so a car is the most practical way to visit.\\n\\nBecause it takes noticeably longer to reach than Zao, Kurikoma sees a fraction of the tourist traffic despite arguably rivaling it for foliage quality, so a weekday visit during peak color in late September to early October avoids most of what crowding does occur. Higher trails close with the first heavy snowfall, so autumn and summer are the realistic hiking windows.",
     "access": "About 1.5-2 hours by car from Sendai; public transport is limited, so a rental car is recommended.",
     "address": "Kurikoma Quasi-National Park, Kurihara, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/64173/pexels-photo-64173.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9210,7 +9233,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "iwadeyama-castle-town",
@@ -9224,7 +9248,7 @@
     "description": "After serving under Toyotomi Hideyoshi, Date Masamune was granted this domain in 1591, rebuilt its castle and renamed it Iwadeyama, and used the following thirteen years to develop it into a significant political and economic base before eventually founding Sendai itself. When he moved on, he left one of his sons to govern Iwadeyama in his place, and much of the old castle town layout and atmosphere has survived in a way that's largely disappeared from busier Sendai.\\n\\nThe castle ruins are free to explore, and a small local museum nearby covers the town's history in more depth. A relaxed visit, including a walk through the old samurai-era streets, takes two to three hours.\\n\\nDespite its direct connection to Date Masamune's rise to power, Iwadeyama rarely appears on tourist itineraries focused on Sendai and Matsushima, leaving its historic streets and castle hill genuinely quiet. Cherry blossoms on the castle hill in spring are a modest but pleasant seasonal draw.",
     "access": "About 1 hour by car or a combination of train and bus from Sendai, in the Osaki area of northern Miyagi.",
     "address": "Iwadeyama area, Osaki, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/29914685/pexels-photo-29914685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -9232,7 +9256,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "onagawa-seaside-town",
@@ -9247,7 +9272,7 @@
     "description": "Around seventy percent of Onagawa was destroyed by the 2011 tsunami, and rather than accept a standard seawall solution, the small fishing town pushed for a more ambitious rebuild, carving into a nearby hillside to create new, higher ground to build on. The results are visible today in a modern town center connected to the station by a wide brick promenade lined with shops, small restaurants, and a compact seafood market.\\n\\nWalking the promenade and browsing the shops costs nothing, and a couple of hours is enough to see the main area and grab a meal of fresh local seafood.\\n\\nBecause Onagawa is a genuinely small town of a few thousand residents rather than a mass-market attraction, it never feels overwhelmed by visitors even during regional tourist season. An autumn saury fish festival draws a bigger local crowd than usual, otherwise it remains a fairly calm, everyday sort of stop.",
     "access": "Directly served by JR Onagawa Station, about 1.5 hours from Sendai via Ishinomaki.",
     "address": "Onagawa, Oshika-gun, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/8281479/pexels-photo-8281479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9255,7 +9280,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "kesennuma-fish-market",
@@ -9269,7 +9295,7 @@
     "description": "Kesennuma is one of Japan's major fishing ports and is particularly known for shark and swordfish landings, with the market's catch processed so thoroughly that little goes to waste, turning up in everything from shark fin to leather goods and health supplements. Auctions typically run in the early morning hours on most days, with a long observation deck on the market's second floor letting visitors watch the process from above, since the auction floor itself is off-limits to the public.\\n\\nThe viewing deck is free, and the building also houses shops and restaurants selling freshly landed and processed seafood, along with Japan's only dedicated shark museum on the same floor as the observation area.\\n\\nBecause Kesennuma sits well north of the more typical Sendai-Matsushima-Ishinomaki route, relatively few travelers make it this far, keeping the market a genuinely working, unpolished stop rather than a tourist production. Catch volumes and variety shift with the season, so an early morning visit on a market day gives the best sense of the port in full swing.",
     "access": "About 2 hours by JR and bus from Sendai, or roughly 2.5 hours by direct highway bus.",
     "address": "Kesennuma Port area, Kesennuma, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/18848579/pexels-photo-18848579.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9277,7 +9303,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "minamisanriku-sun-sun-shopping",
@@ -9292,7 +9319,7 @@
     "description": "Minamisanriku was among the towns hit hardest by the 2011 tsunami, and this shopping street, designed by the well-known architect Kengo Kuma, was built on land deliberately raised by around ten meters as part of the town's rebuilding effort. Around two dozen small wooden shops, using local cedar and traditional construction methods with deep overhanging eaves, sell fresh seafood, local produce, and souvenirs in a layout meant to recreate some of the street-level community feeling the town lost.\\n\\nBrowsing the shops is free, and meals of fresh local seafood are reasonably priced. A memorial park commemorating the disaster sits close by, adding a more reflective note to the visit.\\n\\nBecause Minamisanriku sits off the main Sendai-Matsushima tourist route, it draws a modest, steady stream of visitors rather than crowds, giving the shopping street a genuinely unhurried feel. It works well paired with a stop at the adjacent memorial for a fuller picture of the town's recovery.",
     "access": "About 2 hours by car or bus from Sendai; limited direct train access, so a rental car or bus tour is practical.",
     "address": "Shizugawa area, Minamisanriku, Motoyoshi-gun, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/33686434/pexels-photo-33686434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9300,7 +9327,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "taga-castle-ruins",
@@ -9315,7 +9343,7 @@
     "description": "Founded in 724, Taga Castle functioned as far more than a military fort; it served as the provincial capital of Mutsu Province and the administrative center overseeing much of northern Japan during the Nara and Heian periods, complete with its own temple complex. It gradually lost importance from the early 9th century as the frontier of Yamato control shifted further north, eventually falling into ruin, and the site has been protected as a Special Historic Site since 1922.\\n\\nToday it's an open, free archaeological park where reconstructed gate foundations and information panels mark out the scale of what was once a major administrative city. A small museum nearby provides more historical context. A relaxed self-guided visit takes about an hour.\\n\\nDespite its outsized historical significance as essentially the ancient capital of the entire Tohoku region, Taga Castle draws little attention from typical Sendai visitors, leaving the grounds calm and mostly used by locals for walks. Cherry blossoms scattered among the ruins make for a quietly scenic spring visit.",
     "access": "About a 10-15 minute walk from JR Tagajo Station, roughly 20 minutes from Sendai Station.",
     "address": "Taga Castle Ruins, Tagajo, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/10042298/pexels-photo-10042298.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -9323,7 +9351,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "kinkasan-island",
@@ -9338,7 +9367,7 @@
     "description": "Kinkasan is considered one of the holiest sites in the Tohoku region, centered on Koganeyama Shrine, said to have been established around 1,250 years ago following Japan's first recorded gold mining, which gave the island its lasting association with wealth and good fortune. The island's deer, numbering in the hundreds, roam freely in and out of the shrine grounds and are regarded by Shinto tradition as messengers of the gods, while wild monkeys add an extra layer of untamed atmosphere to the forested trails.\\n\\nThe island is only reachable by boat, generally departing from Ayukawa Port or Onagawa, and because sailings are limited, a day trip is possible but requires careful timing around the ferry schedule; an overnight stay is often recommended for a more relaxed visit. Costs cover the round-trip boat fare plus any lodging if staying overnight.\\n\\nBecause reaching the island takes real planning compared to a straightforward train ride, Kinkasan sees a fraction of the visitors that Matsushima or Sendai attract, keeping its trails and shrine grounds genuinely peaceful. An antler-cutting ritual held on the first Sunday of October is a distinctive seasonal event worth timing a visit around if the dates align.",
     "access": "Ferry from Ayukawa Port (near Ishinomaki) or from Onagawa; check current sailing schedules in advance.",
     "address": "Kinkasan Island, Ishinomaki, Miyagi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/20593242/pexels-photo-20593242.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9346,7 +9375,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "nagoya-castle",
@@ -9361,7 +9391,7 @@
     "description": "Nagoya Castle was raised in the early 1600s as a strategic Tokugawa stronghold guarding the road between Kyoto and Edo. Allied bombing destroyed the wooden keep in 1945; what stands today is a concrete rebuild, though the surviving stone walls, turrets, and moats date to the original construction. Far more compelling for many visitors is the Honmaru Palace, reconstructed over roughly two decades using traditional carpentry, joinery, and gold-leaf techniques, with sliding-door paintings recreated by hand.\n\nA combined ticket covers the keep and palace, and a couple of hours is enough to see the highlights, though history enthusiasts can happily spend longer. The pair of golden shachihoko roof ornaments, symbols of the city, photograph best from the plaza in late-afternoon light.\n\nWeekend mornings bring long queues at the palace entrance; arriving right at opening or visiting on a weekday afternoon eases the crush considerably. The quieter Ninomaru Garden nearby is a good spot to decompress, and in spring its plum and cherry trees draw a mostly local crowd without the intensity of Kyoto's famous hanami spots.",
     "access": "About 5-minute walk from Shiyakusho Station (Meijo subway line)",
     "address": "1-1 Honmaru, Naka-ku, Nagoya, Aichi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/18413832/pexels-photo-18413832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://www.nagoyajo.city.nagoya.jp/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -9370,7 +9400,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "atsuta-shrine",
@@ -9384,7 +9415,7 @@
     "description": "Atsuta Shrine ranks alongside Ise Grand Shrine in importance within Shinto tradition, believed to house Kusanagi-no-Tsurugi, one of the three sacred treasures of the Japanese imperial regalia. The sword itself is never displayed, but the sense of reverence is palpable as soon as you pass beneath the towering torii gates into the wooded precinct. Some of the camphor trees lining the gravel paths are said to be well over a thousand years old, and the whole complex feels like a pocket of deep countryside dropped into central Nagoya.\n\nEntry to the grounds is free, and a visit can be as short as thirty minutes or stretched over an hour if you also stop at the on-site treasure hall, which rotates displays of swords, mirrors, and other ritual objects donated over the centuries; a modest admission applies there.\n\nEarly morning is the best time to feel the forest's stillness before tour groups and shrine visitors build up around midday. The shrine hosts frequent festivals throughout the year, most notably a large summer festival with fireworks, so checking the calendar before visiting can turn a quiet stroll into something more lively.",
     "access": "1-minute walk from Jingu-mae Station (Meitetsu Nagoya Main Line), or short walk from Jingu-nishi Station (Meijo subway line)",
     "address": "1-1-1 Jingu, Atsuta-ku, Nagoya, Aichi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/9398282/pexels-photo-9398282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://www.atsutajingu.or.jp/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -9393,7 +9424,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "osu-kannon-temple",
@@ -9407,7 +9439,7 @@
     "description": "Osu Kannon's bright red-and-white main hall feels almost theatrical compared with the understated wooden shrines elsewhere in the city, and it sits right at the entrance to the buzzing Osu shopping district, so temple and street life blend into one visit. The temple traces its origins back centuries and relocated to its current site in the early Edo period; its library once held an extremely rare manuscript of the Kojiki, Japan's oldest chronicle, along with other classical texts of national importance.\n\nThe grounds are free to enter and can be seen in ten or fifteen minutes, though pigeons, incense smoke, and the steady flow of visitors buying charms make it worth lingering a little. A market selling antiques, curios, and secondhand goods sets up on the temple grounds on certain days of the month, drawing collectors from across the region.\n\nBecause it sits at the mouth of a major shopping street, the immediate plaza gets crowded on weekend afternoons; visiting on a weekday morning gives a calmer view of the hall itself before diving into the surrounding arcades. Illuminations and events around New Year draw especially large crowds.",
     "access": "3-minute walk from Osu Kannon Station (Tsurumai subway line)",
     "address": "2-21-47 Osu, Naka-ku, Nagoya, Aichi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/33229948/pexels-photo-33229948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://osu-kannon.jp/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -9416,7 +9448,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "osu-shopping-district",
@@ -9431,7 +9464,7 @@
     "description": "Osu is often described as Nagoya's answer to a mash-up of Akihabara and Ameyoko, and that captures the spirit fairly well: narrow covered arcades packed with used-electronics stalls, retro game shops, cosplay costume stores, imported grocery shops, and racks of vintage American clothing, all within a few minutes' walk of a centuries-old temple. It has none of the polish of a shopping mall, and that's exactly the appeal.\n\nBrowsing costs nothing, and street snacks like fried skewers, taiyaki, and steamed buns can turn a wander into an impromptu meal for a modest amount. A couple of hours is enough to cover the main arcades, though it is easy to lose track of time ducking into side alleys.\n\nWeekends bring a festive but crowded atmosphere, with occasional street performances near the temple entrance; a weekday visit lets you actually browse the smaller shops without queuing. The district layers eras oddly well — a shop selling rare vinyl records might sit beside a Nepalese curry counter or a shrine selling paper charms, and that unpredictability is part of what makes it worth returning to.",
     "access": "Centered between Osu Kannon and Kamimaezu subway stations (Tsurumai and Meijo lines)",
     "address": "Osu, Naka-ku, Nagoya, Aichi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/18961450/pexels-photo-18961450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9439,7 +9472,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "nagoya-tv-tower",
@@ -9453,7 +9487,7 @@
     "description": "Completed in the mid-1950s, this steel lattice tower was Japan's first purpose-built TV tower and long served as the transmission point for Nagoya's broadcasters before digital switchover made the role obsolete. Rather than being torn down, it was renovated into an observation deck and small hotel, and its slender silhouette lit up at night remains one of the most recognizable images of downtown Nagoya.\n\nAn observation ticket takes you up for city views that stretch toward the castle and, on clear days, distant mountains; the visit itself takes well under an hour. The tower sits inside Hisaya-odori Park, so it pairs naturally with a walk through the surrounding green space and fountains.\n\nEvening is the best time to visit, when the tower's illumination changes color and the park below fills with a relaxed after-work crowd rather than daytime tour groups. Weekday evenings are noticeably quieter than weekends, when the plaza around the tower's base can get busy with events and food trucks.",
     "access": "Short walk from Sakae Station (Higashiyama or Meijo subway line), within Hisaya-odori Park",
     "address": "3-6-15 Nishiki, Naka-ku, Nagoya, Aichi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/19036713/pexels-photo-19036713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9461,7 +9495,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "hisaya-odori-park",
@@ -9476,7 +9511,7 @@
     "description": "This long park strip splits the wide Hisaya-odori boulevard down the middle of Sakae, Nagoya's central business and nightlife district. A renovation completed in recent years replaced older, more closed-off sections with open lawns, terraces, and low-key commercial pavilions housing cafes and shops, making it a far more inviting place to sit down than it used to be. The TV Tower rises at its northern end, giving the whole stretch a recognizable landmark to walk toward.\n\nThere's no cost to wander through, and it works well as a connector between Sakae's shopping streets rather than a single-stop destination — plan on twenty minutes to an hour depending on how much you linger. Illuminated fountains and seasonal light displays run in the evenings during certain months.\n\nLunchtime on weekdays brings office workers eating on the lawns, while weekends see families and events fill the space; an early morning walk offers the most peaceful view of the tower reflected in the fountains. Cherry blossoms along parts of the park bloom in early spring, drawing a modest crowd compared with the city's larger parks.",
     "access": "Runs above and around Hisaya-odori Station (Sakura-dori subway line)",
     "address": "Naka-ku, Nagoya, Aichi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/36699544/pexels-photo-36699544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -9484,7 +9519,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "toyota-commemorative-museum",
@@ -9499,7 +9535,7 @@
     "description": "Long before Toyota built cars, it built looms, and this museum occupies the actual red-brick spinning and weaving plant where that story started in the early twentieth century. The textile hall is the real draw: rows of historic looms, some dating back over a century, are demonstrated by staff so you can watch automatic shuttle-changing mechanisms work exactly as they did generations ago, a reminder of how genuinely innovative the technology was in its day. A second hall traces the leap into automobile manufacturing, with engines, prototype vehicles, and hands-on physics exhibits.\n\nAdmission is modest and a visit comfortably fills two to three hours, especially with kids drawn to the interactive stations. The building itself, all brick arches and iron trusses, is worth photographing regardless of your interest in machinery.\n\nWeekday mornings are noticeably quieter than weekends and school holidays, when the mechanism demonstrations can draw a crowd. If visiting with children, timing your arrival around the scheduled loom demonstrations makes the visit far more memorable than self-guided browsing alone.",
     "access": "About 7-minute walk from Sako Station (Meitetsu Inuyama Line)",
     "address": "4-1-35 Noritake Shinmachi, Nishi-ku, Nagoya, Aichi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/28271721/pexels-photo-28271721.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://www.tcmit.org/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -9508,7 +9544,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "scmaglev-railway-park",
@@ -9522,7 +9559,7 @@
     "description": "Operated by JR Central rather than a generic transit authority, this museum lines up decommissioned Shinkansen trains nose to nose, including early models that look almost quaint next to today's sleek bullet trains, alongside a maglev test vehicle that once set a world speed record for rail travel. Visitors can walk beside and even board several of the retired trains, and detailed exhibits explain how Shinkansen operations, maintenance, and safety systems actually work behind the scenes.\n\nAdmission is inexpensive and the site easily fills half a day for train enthusiasts, less for a casual visit. Driving and conductor simulators are popular with kids and often require a separate reservation or lottery slip picked up on arrival, so grabbing one early in the visit is worthwhile.\n\nSchool holidays and weekends bring long lines for the simulators specifically, though the main exhibition halls rarely feel overcrowded given their size. A large diorama with miniature trains running on a schedule is worth timing your visit around, since it operates at set intervals rather than continuously.",
     "access": "About 5-minute walk from Kinjo-futo Station, the terminus of the Aonami Line from Nagoya Station",
     "address": "3-2-2 Kinjofuto, Minato-ku, Nagoya, Aichi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/20330346/pexels-photo-20330346.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://museum.jr-central.co.jp/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -9531,7 +9568,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "nagoya-city-science-museum",
@@ -9545,7 +9583,7 @@
     "description": "The museum's giant spherical planetarium, embedded in the building like a metal moon, was among the largest domes of its kind when it opened and remains the building's signature feature, visible well before you reach the entrance. Inside, exhibits push well past passive displays: a chamber can generate an actual small-scale tornado on demand, another simulates an aurora, and multiple floors cover physics, biology, and space in ways built for hands-on experimentation rather than reading placards.\n\nGeneral admission is separate from the planetarium show, and combining both easily fills half a day; the planetarium in particular tends to sell specific time-slot tickets that are worth booking as soon as you arrive, or in advance online during busy periods.\n\nWeekends and school holidays draw families in large numbers, especially around the tornado and aurora demonstrations, so a weekday visit or an early arrival makes a real difference. The surrounding Shirakawa Park, with its fountains and the neighboring art museum, is a pleasant spot to eat a packed lunch between exhibits.",
     "access": "5-minute walk from Fushimi Station (Higashiyama or Tsurumai subway line), inside Shirakawa Park",
     "address": "17-1 Sakae 2-chome, Naka-ku, Nagoya, Aichi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/14544509/pexels-photo-14544509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://www.ncsm.city.nagoya.jp/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -9554,7 +9592,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "aichi-arts-center",
@@ -9567,7 +9606,7 @@
     "description": "Rather than a single gallery, this is a vertical cultural campus rising above downtown Sakae, combining the Aichi Prefectural Museum of Art, a concert hall, and multiple theaters used for everything from classical performances to contemporary dance. The art museum's permanent collection spans Japanese and Western modern art, including a notable holding of works by artists connected to the region, while special exhibitions rotate through international loans several times a year.\n\nAdmission to the permanent collection is modest, with special exhibitions priced separately and sometimes requiring advance tickets when a major touring show is on. A focused visit to the galleries takes an hour or two; adding a concert or theater performance turns it into an evening.\n\nBecause the building sits directly above a subway station, it gets a steady flow of foot traffic, but the galleries themselves rarely feel crowded outside of blockbuster special exhibitions — checking what's currently showing before you go helps set expectations. Weekday afternoons tend to be the calmest time to see the permanent collection.",
     "access": "Directly connected to Sakae Station (Higashiyama or Meijo subway line)",
     "address": "Higashisakura area, Higashi-ku, Nagoya, Aichi",
-    "imageUrl": null,
+    "imageUrl": "https://images.pexels.com/photos/17689618/pexels-photo-17689618.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://www.aac.pref.aichi.jp/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -9576,7 +9615,8 @@
         "url": "https://www.klook.com/",
         "provider": "Klook"
       }
-    ]
+    ],
+    "imageSource": "pexels"
   },
   {
     "id": "tokugawa-art-museum",
