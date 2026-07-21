@@ -452,16 +452,73 @@ nav a:hover {
   }
 }
 
-.hero-video {
-  border-radius: 8px;
-  overflow: hidden;
+.city-photo-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 0.5rem;
 }
 
-.hero-video video {
+.city-tile {
+  position: relative;
   display: block;
-  width: 100%;
-  aspect-ratio: 2 / 1;
-  object-fit: cover;
+  aspect-ratio: 4 / 3;
+  border-radius: 6px;
+  overflow: hidden;
+  background-color: var(--color-surface);
+  background-size: cover;
+  background-position: center;
+  text-decoration: none;
+}
+
+.city-tile::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0) 55%);
+}
+
+.city-tile-placeholder {
+  background-image: linear-gradient(135deg, var(--color-border) 25%, transparent 25%, transparent 50%, var(--color-border) 50%, var(--color-border) 75%, transparent 75%, transparent);
+  background-size: 20px 20px;
+}
+
+.city-tile-label {
+  position: absolute;
+  left: 0.6rem;
+  bottom: 0.5rem;
+  z-index: 1;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.9rem;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.city-tile-placeholder .city-tile-label {
+  color: var(--color-text);
+  text-shadow: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .city-tile {
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+  }
+
+  .city-tile:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+  }
+}
+
+@media (max-width: 720px) {
+  .city-photo-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 420px) {
+  .city-photo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .divider {
