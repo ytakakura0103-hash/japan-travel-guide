@@ -1766,16 +1766,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/rinnoji-temple-garden.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/sendai-daikannon.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/tsutsujigaoka-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1787,16 +1777,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/ichibancho-nakamachi-arcades.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/akiu-great-falls.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/rairaikyo-gorge.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1816,22 +1796,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/entsuin-temple.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/fukuurajima-island.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/oshima-island-matsushima.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kanrantei-tea-house.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1882,11 +1847,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/funaoka-castle-ruins-park.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/naruko-gorge.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2066,27 +2026,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/shirotori-garden.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/endoji-shopping-street.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/tsuruma-park.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/tokoname-yakimono-sanpo-michi.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/inax-live-museum.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2127,16 +2072,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/bunka-no-michi-futaba-museum.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/shumokukan.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kosho-ji-temple-yagoto.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2182,11 +2117,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/horikawa-canal-cherry-blossoms.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/nagoya-city-museum.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2736,11 +2666,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/nikka-yoichi-distillery.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kitaichi-glass-otaru.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2791,11 +2716,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/otokoyama-sake-museum.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/asahikawa-snow-crystal-museum.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2836,11 +2756,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/sounkyo-gorge-waterfalls.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kurodake-ropeway.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2877,11 +2792,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/sapporo-salmon-museum.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kushida-shrine-hakata.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2931,22 +2841,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/sumiyoshi-shrine-hakata.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/hakata-traditional-craft-and-design-museum.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/acros-fukuoka-step-garden.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kego-shrine-tenjin.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3016,11 +2916,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/fukuoka-city-museum-gold-seal.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/nagahama-fish-market.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3066,22 +2961,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/komyozenji-temple-dazaifu.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/yanagawa-river-punting.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/ohana-yanagawa.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/nanzoin-temple-sasaguri.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3101,11 +2981,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/hakozaki-shrine.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/futsukaichi-onsen.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3117,11 +2992,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/yakuin-backstreets.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kashiigu-shrine.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3446,11 +3316,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/zou-no-hana-park-terrace.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/silk-museum-yokohama.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3462,11 +3327,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/yokohama-archives-of-history.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kanagawa-museum-cultural-history.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3501,17 +3361,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/harbor-view-park-yokohama.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/berrick-hall-yokohama.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/ehrismann-residence-yokohama.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3527,11 +3377,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/noge-district-yokohama.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/isezakicho-shopping-street.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3586,11 +3431,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/nissan-global-headquarters-gallery.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/nogeyama-park-hillside.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3622,11 +3462,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/france-yama-ruins.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/berrick-hall-yamate.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3926,11 +3761,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/mount-rokko-garden-terrace.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/rokko-shidare-observatory.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4066,11 +3896,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/nunobiki-falls-trail.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kobe-municipal-arboretum.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4102,11 +3927,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/arima-toy-museum-ginsui.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/hakutsuru-sake-brewery-museum.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4501,11 +4321,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/onomichi-neko-no-hosomichi.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/onomichi-path-of-literature.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4541,16 +4356,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/ikuchijima-kosanji-temple.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/ikuchijima-hirayama-ikuo-museum.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/setoda-sunset-beach.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4576,32 +4381,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/miyajima-daisho-in.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/miyajima-momijidani-park.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/miyajima-mount-misen-daisho-in-trail.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/miyajima-omotesando-oyster-stalls.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kure-yamato-museum.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kure-jmsdf-iron-whale-museum.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4616,17 +4401,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/takehara-historic-townscape.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/takehara-fujii-shuzo-sake-brewery.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/tomonoura-port-town-streets.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4701,22 +4476,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/hiroshima-fudoin-temple.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/hiroshima-mitaki-dera-temple.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/hiroshima-nagarekawa-nightlife-district.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/hiroshima-yagenbori-backstreets.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

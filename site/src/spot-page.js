@@ -21,6 +21,9 @@ export function renderSpotPageHtml(activity, { siteUrl = 'https://REPLACE_WITH_Y
     : '';
   const mapsLinkHtml = `<a class="maps-link" href="${escapeHtml(buildGoogleMapsUrl(activity))}" target="_blank" rel="noopener">Open in Google Maps</a>`;
   const localPickBadge = activity.isLocalPick ? '<span class="local-pick-badge">Local Pick</span>' : '';
+  const ogImageTag = activity.imageUrl
+    ? `\n  <meta property="og:image" content="${escapeHtml(activity.imageUrl)}" />`
+    : '';
   const jsonLd = JSON.stringify({
     '@context': 'https://schema.org',
     '@type': 'TouristAttraction',
@@ -43,7 +46,8 @@ export function renderSpotPageHtml(activity, { siteUrl = 'https://REPLACE_WITH_Y
   <meta property="og:site_name" content="Curious City" />
   <meta property="og:title" content="${escapeHtml(activity.title)} — ${escapeHtml(activity.city)}" />
   <meta property="og:description" content="${escapeHtml(activity.summary)}" />
-  <meta property="og:url" content="${escapeHtml(canonicalUrl)}" />
+  <meta property="og:url" content="${escapeHtml(canonicalUrl)}" />${ogImageTag}
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
