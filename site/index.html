@@ -69,8 +69,11 @@
           </select>
         </label>
         <button type="submit" class="search-submit">Search</button>
+        <button type="button" class="filters-toggle" id="filters-toggle" aria-expanded="false" aria-controls="interest-grid">
+          Filter by interest <span class="filters-toggle-arrow">▾</span>
+        </button>
       </div>
-      <div class="interest-grid">
+      <div class="interest-grid" id="interest-grid" hidden>
         <label class="interest-option"><input type="checkbox" name="interests" value="sightseeing" /> Sightseeing Spots</label>
         <label class="interest-option"><input type="checkbox" name="interests" value="history" /> History</label>
         <label class="interest-option"><input type="checkbox" name="interests" value="food" /> Food &amp; Dining</label>
@@ -95,34 +98,34 @@
     </form>
   </header>
   <div class="city-photo-grid">
-    <a href="#activity-form" class="city-tile" data-city="Tokyo" style="background-image:url('https://images.pexels.com/photos/33901684/pexels-photo-33901684.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=400')">
+    <a href="#results" class="city-tile" data-city="Tokyo" style="background-image:url('https://images.pexels.com/photos/33901684/pexels-photo-33901684.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=400')">
       <span class="city-tile-label">Tokyo</span>
     </a>
-    <a href="#activity-form" class="city-tile" data-city="Osaka" style="background-image:url('https://images.pexels.com/photos/16944788/pexels-photo-16944788.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=400')">
+    <a href="#results" class="city-tile" data-city="Osaka" style="background-image:url('https://images.pexels.com/photos/16944788/pexels-photo-16944788.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=400')">
       <span class="city-tile-label">Osaka</span>
     </a>
-    <a href="#activity-form" class="city-tile" data-city="Kyoto" style="background-image:url('https://images.pexels.com/photos/29537651/pexels-photo-29537651.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=400')">
+    <a href="#results" class="city-tile" data-city="Kyoto" style="background-image:url('https://images.pexels.com/photos/29537651/pexels-photo-29537651.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=400')">
       <span class="city-tile-label">Kyoto</span>
     </a>
-    <a href="#activity-form" class="city-tile city-tile-placeholder" data-city="Sendai">
+    <a href="#results" class="city-tile city-tile-placeholder" data-city="Sendai">
       <span class="city-tile-label">Sendai</span>
     </a>
-    <a href="#activity-form" class="city-tile city-tile-placeholder" data-city="Nagoya">
+    <a href="#results" class="city-tile city-tile-placeholder" data-city="Nagoya">
       <span class="city-tile-label">Nagoya</span>
     </a>
-    <a href="#activity-form" class="city-tile city-tile-placeholder" data-city="Sapporo">
+    <a href="#results" class="city-tile city-tile-placeholder" data-city="Sapporo">
       <span class="city-tile-label">Sapporo</span>
     </a>
-    <a href="#activity-form" class="city-tile city-tile-placeholder" data-city="Fukuoka">
+    <a href="#results" class="city-tile city-tile-placeholder" data-city="Fukuoka">
       <span class="city-tile-label">Fukuoka</span>
     </a>
-    <a href="#activity-form" class="city-tile city-tile-placeholder" data-city="Yokohama">
+    <a href="#results" class="city-tile city-tile-placeholder" data-city="Yokohama">
       <span class="city-tile-label">Yokohama</span>
     </a>
-    <a href="#activity-form" class="city-tile city-tile-placeholder" data-city="Kobe">
+    <a href="#results" class="city-tile city-tile-placeholder" data-city="Kobe">
       <span class="city-tile-label">Kobe</span>
     </a>
-    <a href="#activity-form" class="city-tile city-tile-placeholder" data-city="Hiroshima">
+    <a href="#results" class="city-tile city-tile-placeholder" data-city="Hiroshima">
       <span class="city-tile-label">Hiroshima</span>
     </a>
   </div>

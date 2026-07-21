@@ -184,6 +184,10 @@ nav a:hover {
   margin-bottom: var(--space-3);
 }
 
+.interest-grid[hidden] {
+  display: none;
+}
+
 .interest-option {
   display: flex;
   align-items: center;
@@ -211,6 +215,32 @@ nav a:hover {
 
 .search-submit:hover {
   background: var(--color-brand-light);
+}
+
+.filters-toggle {
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 0.9rem;
+  background: none;
+  border: 1.5px solid var(--color-border);
+  border-radius: 4px;
+  padding: 0.65rem 1.1rem;
+  color: var(--color-text);
+  cursor: pointer;
+}
+
+.filters-toggle:hover {
+  border-color: var(--color-brand);
+  color: var(--color-brand);
+}
+
+.filters-toggle-arrow {
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+
+.filters-toggle[aria-expanded="true"] .filters-toggle-arrow {
+  transform: rotate(180deg);
 }
 
 /* Results grid */

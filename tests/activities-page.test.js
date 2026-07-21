@@ -28,11 +28,18 @@ function setUpDom() {
         <option value="Tokyo">Tokyo</option>
         <option value="Osaka">Osaka</option>
       </select>
-      <label><input type="checkbox" name="interests" value="history" /></label>
-      <label><input type="checkbox" name="interests" value="nature" /></label>
-      <label><input type="checkbox" name="interests" value="temples-shrines" /></label>
       <button type="submit">Search</button>
+      <button type="button" id="filters-toggle" aria-expanded="false" aria-controls="interest-grid">Filter by interest</button>
+      <div id="interest-grid" hidden>
+        <label><input type="checkbox" name="interests" value="history" /></label>
+        <label><input type="checkbox" name="interests" value="nature" /></label>
+        <label><input type="checkbox" name="interests" value="temples-shrines" /></label>
+      </div>
     </form>
+    <div class="city-photo-grid">
+      <a href="#results" class="city-tile" data-city="Osaka">Osaka</a>
+      <a href="#results" class="city-tile" data-city="Tokyo">Tokyo</a>
+    </div>
     <div id="results"></div>
   `;
 }
@@ -100,5 +107,45 @@ describe('activities-page', () => {
     cards = document.querySelectorAll('.activity-card');
     expect(cards).toHaveLength(2);
     expect(document.querySelector('select[name="city"]').value).toBe('');
+  });
+
+  it('toggles the interest grid visibility when the filters button is clicked', async () => {
+    await loadPageModule();
+
+    const toggle = document.getElementById('filters-toggle');
+    const grid = document.getElementById('interest-grid');
+    expect(grid.hidden).toBe(true);
+    expect(toggle.getAttribute('aria-expanded')).toBe('false');
+
+    toggle.click();
+    expect(grid.hidden).toBe(false);
+    expect(toggle.getAttribute('aria-expanded')).toBe('true');
+
+    toggle.click();
+    expect(grid.hidden).toBe(true);
+    expect(toggle.getAttribute('aria-expanded')).toBe('false');
+  });
+
+  it('auto-expands the interest grid when the URL already has an interest filter', async () => {
+    history.pushState(null, '', '/?interests=history');
+    await loadPageModule();
+
+    const grid = document.getElementById('interest-grid');
+    const toggle = document.getElementById('filters-toggle');
+    expect(grid.hidden).toBe(false);
+    expect(toggle.getAttribute('aria-expanded')).toBe('true');
+  });
+
+  it('filters by city and updates the URL when a city photo tile is clicked', async () => {
+    await loadPageModule();
+
+    const osakaTile = document.querySelector('.city-tile[data-city="Osaka"]');
+    osakaTile.dispatchEvent(new MouseEvent('click', { bubbles: true, cancelable: true }));
+
+    expect(window.location.search).toContain('city=Osaka');
+    expect(document.querySelector('select[name="city"]').value).toBe('Osaka');
+    const cards = document.querySelectorAll('.activity-card');
+    expect(cards).toHaveLength(1);
+    expect(cards[0].textContent).toContain('Osaka Castle Park');
   });
 });
