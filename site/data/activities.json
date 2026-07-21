@@ -38,7 +38,7 @@
     "address": "Yanaka area, Taito City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/33901684/pexels-photo-33901684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Nippori",
@@ -87,7 +87,7 @@
     "address": "Shimokitazawa area, Setagaya City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/33269330/pexels-photo-33269330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Shimokitazawa",
@@ -245,7 +245,7 @@
         "provider": "Klook"
       }
     ],
-    "description": "Ueno Park is one of Tokyo's largest and oldest public parks, and it does double duty as a green space, a cultural hub, and — for a few weeks each spring — one of the city's most popular cherry blossom viewing spots, when the central pathway is lined with blossoming trees and picnicking crowds. The park is home to Ueno Zoo, Japan's oldest zoological garden, whose most popular residents are its giant pandas, along with a wide range of other animals across a fairly walkable layout suited to families.\n\nBeyond the zoo, the park contains Shinobazu Pond, a large lotus-covered pond with a walking path and a small shrine on an island reached by causeway, plus a cluster of major museums including the Tokyo National Museum and the National Museum of Western Art. This concentration of things to see means Ueno Park works well as a full day out, or as a base to dip into one or two specific attractions.\n\nHanami (cherry blossom) season, typically late March to early April, is by far the busiest time, with reserved picnic spots claimed from early morning and a festive, crowded atmosphere in the evenings when the trees are lit up. Outside of that window, the park is comparatively calm, and weekday mornings are the easiest time to see the zoo and pond without heavy crowds. Admission to the park itself is free; the zoo charges a separate, modest entrance fee.",
+    "description": "Ueno Park is one of Tokyo's largest and oldest public parks, and it does double duty as a green space, a cultural hub, and — for a few weeks each spring — one of the city's most popular cherry blossom viewing spots, when the central pathway is lined with blossoming trees and picnicking crowds. The park is home to Ueno Zoo, Japan's oldest zoological garden, with a wide range of animals across a fairly walkable layout suited to families. Note that the zoo's twin giant pandas, Xiao Xiao and Lei Lei, were returned to China in January 2026, leaving Japan without any pandas on public display for the first time since 1972 — check current exhibits before visiting.\n\nBeyond the zoo, the park contains Shinobazu Pond, a large lotus-covered pond with a walking path and a small shrine on an island reached by causeway, plus a cluster of major museums including the Tokyo National Museum and the National Museum of Western Art. This concentration of things to see means Ueno Park works well as a full day out, or as a base to dip into one or two specific attractions.\n\nHanami (cherry blossom) season, typically late March to early April, is by far the busiest time, with reserved picnic spots claimed from early morning and a festive, crowded atmosphere in the evenings when the trees are lit up. Outside of that window, the park is comparatively calm, and weekday mornings are the easiest time to see the zoo and pond without heavy crowds. Admission to the park itself is free; the zoo charges a separate, modest entrance fee.",
     "imageSource": "pexels"
   },
   {
@@ -286,7 +286,7 @@
     "address": "Ueno area, Taito City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/18848544/pexels-photo-18848544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Ueno",
@@ -357,7 +357,7 @@
       "family"
     ],
     "summary": "A barefoot, walk-through digital art museum where visitors wade through knee-deep water and mirrored rooms full of projected flowers and light.",
-    "access": "5-minute walk from Shin-Toyosu Station (Yurikamome Line)",
+    "access": "1-minute walk from Shin-Toyosu Station (Yurikamome Line)",
     "address": "6-1-16 Toyosu, Koto City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/38230352/pexels-photo-38230352.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://www.teamlab.art/e/planets/",
@@ -481,7 +481,7 @@
       "seasonal-nature"
     ],
     "summary": "A rebuilt 16th-century castle with a museum inside its keep, set in a large park that turns pink with cherry blossoms every spring.",
-    "access": "10-minute walk from Osakajokoen Station (JR Osaka Loop Line)",
+    "access": "15- to 20-minute walk from Osakajokoen Station (JR Osaka Loop Line) to the castle tower; the surrounding park grounds begin closer to the station",
     "address": "1-1 Osakajo, Chuo Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/37427834/pexels-photo-37427834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://www.osakacastle.net/english/",
@@ -531,11 +531,11 @@
       "food"
     ],
     "summary": "Japan's longest covered shopping arcade at 2.6 kilometers, with around 600 small shops selling everything from takoyaki to secondhand kimono.",
-    "access": "Directly connected to Minami-Morimachi Station (Osaka Metro Tanimachi Line)",
+    "access": "Directly connected to Tenjinbashisuji-Rokuchome Station (Osaka Metro Tanimachi/Sakaisuji Lines) at the north end; also about a 3-minute walk from Minami-Morimachi Station at the south end",
     "address": "Tenjinbashi area, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/16944788/pexels-photo-16944788.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Osaka Tenmangu",
@@ -585,7 +585,7 @@
     "address": "Nakanoshima area, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/35229376/pexels-photo-35229376.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book Nakanoshima Museum of Art tickets",
@@ -634,7 +634,7 @@
     "address": "Namba area, Chuo Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/38222300/pexels-photo-38222300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Dotonbori & Hozenji night food tour",
@@ -806,7 +806,7 @@
     "address": "Ebisuhigashi area, Naniwa Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/32459954/pexels-photo-32459954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Shinsekai kushikatsu food tour",
@@ -879,7 +879,7 @@
     "address": "Tsuruhashi area, Ikuno Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/38534019/pexels-photo-38534019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Tsuruhashi Korean BBQ food tour",
@@ -900,7 +900,7 @@
       "architecture"
     ],
     "summary": "The former site of the 1970 World Expo, now a large park centered on Taro Okamoto's towering Tower of the Sun sculpture, with seasonal flower fields and a Japanese garden.",
-    "access": "15-minute walk from Bampaku-kinen-koen Station (Osaka Monorail), in Suita",
+    "access": "5-minute walk from Bampaku-kinen-koen Station (Osaka Monorail) to the central gate, in Suita",
     "address": "Senribanpakukoen, Suita, Osaka",
     "imageUrl": "https://images.pexels.com/photos/9827214/pexels-photo-9827214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -929,7 +929,7 @@
     "address": "Minookoen area, Minoh, Osaka",
     "imageUrl": "https://images.pexels.com/photos/31803877/pexels-photo-31803877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Minoh Falls hiking day trip",
@@ -955,7 +955,7 @@
     "address": "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/29537651/pexels-photo-29537651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://inari.jp/en/",
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book an Arashiyama & Fushimi Inari day tour",
@@ -976,7 +976,7 @@
       "sightseeing"
     ],
     "summary": "A soaring bamboo forest path, best visited early morning before the crowds arrive.",
-    "access": "5-minute walk from Saga-Arashiyama Station (JR Sagano Line)",
+    "access": "10 to 15-minute walk from Saga-Arashiyama Station (JR Sagano Line)",
     "address": "Sagaogurayama area, Ukyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/16761540/pexels-photo-16761540.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -1001,7 +1001,7 @@
       "sightseeing"
     ],
     "summary": "A UNESCO World Heritage temple built without a single nail, whose famous wooden stage juts out over the hillside with sweeping views of the city below.",
-    "access": "10-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
+    "access": "20 to 25-minute uphill walk from Kiyomizu-Gojo Station (Keihan Main Line), or a bus to the Gojozaka/Kiyomizu-michi stop followed by a 10-minute walk",
     "address": "1-294 Kiyomizu, Higashiyama Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/36717832/pexels-photo-36717832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -1026,7 +1026,7 @@
       "photo-spots"
     ],
     "summary": "A pair of connected stone-paved slopes lined with wooden machiya houses turned into tea shops and souvenir stores, leading up to Kiyomizu-dera.",
-    "access": "12-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
+    "access": "20 to 25-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
     "address": "Kiyomizu area, Higashiyama Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/5745769/pexels-photo-5745769.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -1075,7 +1075,7 @@
       "local-markets"
     ],
     "summary": "Known as \"Kyoto's Kitchen,\" a narrow 390-meter covered arcade of about 130 shops selling pickles, skewered sweets, and knives passed down through generations.",
-    "access": "2-minute walk from Shijo Station (Hankyu Kyoto Line)",
+    "access": "2-minute walk from Karasuma Station (Hankyu Kyoto Line)",
     "address": "Nishikikoji-dori, Nakagyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/4358936/pexels-photo-4358936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -1128,7 +1128,7 @@
     "address": "13 Ryoanji Goryonoshitacho, Ukyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/38496492/pexels-photo-38496492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Kinkaku-ji, Ryoan-ji & Ninna-ji day tour",
@@ -1300,7 +1300,7 @@
     "address": "Fushimi area, Fushimi Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/16412231/pexels-photo-16412231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Fushimi sake brewery tasting tour",
@@ -1325,7 +1325,7 @@
     "address": "Horikawa area, Kamigyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/18000881/pexels-photo-18000881.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Kyoto kimono rental experience",
@@ -1346,11 +1346,11 @@
       "outdoor"
     ],
     "summary": "A mountain shrine dedicated to the god of water, reached via the forested village of Kurama and a hiking trail linking the two — a cooler, quieter escape from central Kyoto in summer.",
-    "access": "5-minute walk from Kibuneguchi Station (Eizan Railway), then a short bus or walk",
+    "access": "5-minute bus ride from Kibuneguchi Station (Eizan Railway) to the Kifune-jinja-mae stop, then a 5-minute walk (or roughly a 30-minute walk from the station along the river for those who skip the bus)",
     "address": "Kurama-Kibune area, Sakyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/24357125/pexels-photo-24357125.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Kurama & Kibune hiking day tour",
@@ -1370,11 +1370,11 @@
       "seasonal-nature"
     ],
     "summary": "A large Zen temple with a valley of roughly 2,000 maple trees crossed by a covered wooden bridge, considered one of Kyoto's best autumn foliage spots with noticeably thinner crowds than Kiyomizu-dera.",
-    "access": "3-minute walk from Tofukuji Station (JR Nara Line / Keihan Main Line)",
+    "access": "10-minute walk from Tofukuji Station (JR Nara Line / Keihan Main Line)",
     "address": "15-778 Honmachi, Higashiyama Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/35076911/pexels-photo-35076911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Kyoto Station",
@@ -1387,14 +1387,14 @@
   },
   {
     "id": "sorano-onsen-osaka-bay-tower",
-    "title": "Sorano Onsen OSAKA BAY TOWER",
+    "title": "Solaniwa Onsen OSAKA BAY TOWER",
     "city": "Osaka",
     "interests": [
       "onsen",
       "family"
     ],
     "summary": "A hot-spring theme park by the bay with nine different baths, including outdoor tubs with harbor views, plus saunas and a food court for a full half-day visit.",
-    "access": "5-minute walk from Bentencho Station (JR Osaka Loop Line)",
+    "access": "1-minute walk from Exit 2A of Bentencho Station (JR Osaka Loop Line / Osaka Metro Chuo Line)",
     "address": "1-2-3 Benten, Minato Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/34171863/pexels-photo-34171863.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -1491,7 +1491,7 @@
       "shopping"
     ],
     "summary": "A working studio and shop for Edo kiriko, a centuries-old style of cut glassware, where visitors can watch craftspeople carve patterns by hand and try a short cutting lesson themselves.",
-    "access": "10-minute walk from Kinshicho Station (JR Sobu Line)",
+    "access": "5-minute walk from Kinshicho Station (JR Sobu Line)",
     "address": "Taihei area, Sumida City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/37920005/pexels-photo-37920005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -1527,7 +1527,7 @@
         "provider": "Booking.com"
       }
     ],
-    "description": "The Edo-Tokyo Museum is built around a bold architectural centerpiece: a life-size replica section of the old Nihonbashi bridge, which visitors walk across to enter a series of galleries tracing the city's transformation from the Edo period through the Meiji era, wartime destruction, and postwar reconstruction. Detailed scale models recreate street scenes, townhouses, and landmarks as they looked at different points in that history, alongside artifacts, woodblock prints, and reconstructed interiors that give a tangible sense of daily life in each era.\n\nThe museum has undergone extended renovation work in recent years, and both its opening schedule and exhibition layout have changed as a result, so it's worth checking current opening status and hours before planning a visit rather than assuming it operates on a normal daily schedule. When open, a thorough visit through the permanent exhibits typically takes a couple of hours, given how much ground the collection covers.\n\nBecause the museum sits right next to the Ryogoku sumo district and the Sumida Hokusai Museum, it fits naturally into a broader day of sightseeing in that part of Sumida ward. English-language panels are generally available for major exhibits. There's no particular seasonal element to a visit here, since it's an entirely indoor museum, making it a reasonable option regardless of weather.",
+    "description": "The Edo-Tokyo Museum is built around a bold architectural centerpiece: a life-size replica section of the old Nihonbashi bridge, which visitors walk across to enter a series of galleries tracing the city's transformation from the Edo period through the Meiji era, wartime destruction, and postwar reconstruction. Detailed scale models recreate street scenes, townhouses, and landmarks as they looked at different points in that history, alongside artifacts, woodblock prints, and reconstructed interiors that give a tangible sense of daily life in each era.\n\nThe museum closed for a major renovation and reopened on March 31, 2026 after roughly four years of work, with architect Kiyonori Kikutake's original building, including its distinctive elevated piloti, preserved and updated. It now operates on a normal daily schedule; when visiting, a thorough walk through the permanent exhibits typically takes a couple of hours, given how much ground the collection covers.\n\nBecause the museum sits right next to the Ryogoku sumo district and the Sumida Hokusai Museum, it fits naturally into a broader day of sightseeing in that part of Sumida ward. English-language panels are generally available for major exhibits. There's no particular seasonal element to a visit here, since it's an entirely indoor museum, making it a reasonable option regardless of weather.",
     "imageSource": "pexels"
   },
   {
@@ -1592,7 +1592,7 @@
     "address": "1-28-9 Nezu, Bunkyo City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/31328588/pexels-photo-31328588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Yanaka & Nezu",
@@ -1637,7 +1637,7 @@
       "history"
     ],
     "summary": "A shrine over 1,000 years old dedicated to a god of sports and strength, popular with athletes before competitions and quieter than the shrines nearer the main tourist routes.",
-    "access": "8-minute walk from Kameido Station (JR Sobu Line)",
+    "access": "10-minute walk from Kameido Station (JR Sobu Line)",
     "address": "Kameido area, Koto City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/31328588/pexels-photo-31328588.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -1788,7 +1788,7 @@
     "address": "Sotokanda area, Chiyoda City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/37954059/pexels-photo-37954059.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Akihabara",
@@ -1847,31 +1847,6 @@
       }
     ],
     "description": "DiverCity Tokyo Plaza is a large shopping mall on the Odaiba waterfront, but its main claim to fame is what stands outside it: a full-scale statue of a Gundam robot from the long-running anime and model franchise, built at a height matching the fictional robot's canonical size. At set intervals, the statue puts on a short show with lighting, sound, and limited movement, drawing a crowd of phones and cameras even from people who have no particular interest in the franchise; show times are posted at the site and change periodically, so it's worth checking the current schedule on arrival rather than assuming a fixed time.\n\nInside, the mall has a dedicated Gundam Base store selling model kits and franchise merchandise across multiple floors, alongside a broader mix of standard mall shops and restaurants that make it a reasonable stop even for visitors who aren't specifically Gundam fans. A separate cafe area themed around the franchise is also on site for anyone who wants to extend the visit.\n\nThe statue is lit and visible at night as well as during the day, and evening visits pair well with the Rainbow Bridge and skyline views elsewhere in Odaiba. Seeing the statue and one of its shows takes well under an hour; browsing the mall and the Gundam store can extend a visit considerably longer depending on interest.",
-    "imageSource": "pexels"
-  },
-  {
-    "id": "immersive-fort-tokyo",
-    "title": "Immersive Fort Tokyo",
-    "city": "Tokyo",
-    "interests": [
-      "family",
-      "pop-culture",
-      "nightlife"
-    ],
-    "summary": "A walk-through entertainment park where actors and set design turn visitors into participants in staged mysteries and samurai battles rather than passive spectators.",
-    "access": "10-minute walk from Aomi Station (Yurikamome Line)",
-    "address": "Aomi area, Koto City, Tokyo",
-    "imageUrl": "https://images.pexels.com/photos/35072451/pexels-photo-35072451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "officialUrl": null,
-    "isLocalPick": false,
-    "affiliateLinks": [
-      {
-        "label": "Book Immersive Fort Tokyo tickets",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "description": "Immersive Fort Tokyo, which opened in 2023 on reclaimed land in Odaiba, is built around a different model of entertainment than a typical theme park: rather than watching a show or riding an attraction, visitors move through detailed indoor sets alongside professional actors and become part of unfolding stories, whether that's a murder mystery investigation, a samurai-era drama, or a more comedic scenario, depending on which \"world\" they choose to enter. Multiple story experiences run throughout the venue at once, so a single visit typically means picking a handful from the full lineup rather than seeing everything.\n\nBecause the appeal depends heavily on immersion, the venue asks visitors to engage with the fiction rather than treat it as a passive backdrop, and some experiences involve close interaction with actors that first-time visitors may not expect. English support varies by experience, so it's worth checking in advance which shows are accessible to non-Japanese speakers if that's a concern.\n\nA full day is generally needed to get a fair sample of what's on offer, since the venue is designed around extended visits rather than a quick pass-through, and tickets are typically sold as all-day admission covering entry to the various worlds inside. Weekends and holidays are busiest, with waiting times for popular experiences extending accordingly; a weekday visit allows more of the lineup to be covered in the same amount of time.",
     "imageSource": "pexels"
   },
   {
@@ -1936,7 +1911,7 @@
     "address": "Tokyo Bay area (departure point varies by operator), Tokyo",
     "imageUrl": "https://images.pexels.com/photos/30982559/pexels-photo-30982559.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Yakatabune dinner cruise",
@@ -1957,7 +1932,7 @@
       "sightseeing"
     ],
     "summary": "Tokyo's relocated central wholesale market, where an elevated public walkway lets early risers watch the famous tuna auction without getting in the way of the trading floor.",
-    "access": "7-minute walk from Shijo-mae Station (Yurikamome Line)",
+    "access": "4-minute walk from Shijo-mae Station (Yurikamome Line)",
     "address": "6-3-1 Toyosu, Koto City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/33061192/pexels-photo-33061192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -1982,7 +1957,7 @@
       "shopping"
     ],
     "summary": "A retro-styled market street built next to Toyosu Market, combining about 70 seafood restaurants and souvenir shops with a hot-spring bathhouse on the upper floor.",
-    "access": "7-minute walk from Shijo-mae Station (Yurikamome Line)",
+    "access": "4-minute walk from Shijo-mae Station (Yurikamome Line)",
     "address": "Toyosu area, Koto City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/33968707/pexels-photo-33968707.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -2031,11 +2006,11 @@
       "photo-spots"
     ],
     "summary": "A miniature-model theme park recreating Tokyo neighborhoods, Kansai International Airport, and anime worlds at 1:80 scale, with tiny trains and cars in constant motion.",
-    "access": "3-minute walk from Kokusai-Tenjijo-Seimon Station (Yurikamome Line)",
-    "address": "1-4-1 Ariake, Koto City, Tokyo",
+    "access": "3-minute walk from Ariake-Tennis-no-Mori Station (Yurikamome Line)",
+    "address": "1-3-33 Ariake, Koto City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/6059792/pexels-photo-6059792.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book Small Worlds Tokyo tickets",
@@ -2059,7 +2034,7 @@
     "address": "Tsukishima area, Chuo City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/35125678/pexels-photo-35125678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Tsukishima monjayaki cooking experience",
@@ -2130,7 +2105,7 @@
       "architecture"
     ],
     "summary": "An orange-and-white 333-meter lattice tower modeled on the Eiffel Tower, with a glass floor panel on the main deck for looking straight down at the streets below.",
-    "access": "5-minute walk from Akabanebashi Station (Tokyo Metro Oedo Line)",
+    "access": "5-minute walk from Akabanebashi Station (Toei Oedo Line)",
     "address": "4-2-8 Shibakoen, Minato City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/31258209/pexels-photo-31258209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -2179,7 +2154,7 @@
       "architecture"
     ],
     "summary": "Japan's largest exhibition space, with no permanent collection of its own — instead a rotating calendar of major touring shows, inside a wavy glass facade designed by Kisho Kurokawa.",
-    "access": "4-minute walk from Nogizaka Station (Tokyo Metro Chiyoda Line)",
+    "access": "1-minute walk from Nogizaka Station (Tokyo Metro Chiyoda Line), directly connected via exit 6",
     "address": "7-22-2 Roppongi, Minato City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/5393177/pexels-photo-5393177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -2257,7 +2232,7 @@
     "address": "1-7-1 Nagatacho, Chiyoda City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/32008335/pexels-photo-32008335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Nagatacho",
@@ -2452,7 +2427,7 @@
       "architecture"
     ],
     "summary": "A free observation deck 202 meters up in Tokyo's city hall towers, offering a view of Mount Fuji on clear winter days without paying for a ticket anywhere else.",
-    "access": "8-minute walk from Shinjuku Station (JR Yamanote Line)",
+    "access": "10-minute walk from the West Exit of Shinjuku Station (JR Yamanote Line)",
     "address": "2-8-1 Nishishinjuku, Shinjuku City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/5135565/pexels-photo-5135565.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -2477,7 +2452,7 @@
       "outdoor"
     ],
     "summary": "A large garden combining French formal, English landscape, and traditional Japanese garden styles in one park, considered one of Tokyo's best cherry blossom spots.",
-    "access": "10-minute walk from Shinjuku-gyoenmae Station (Tokyo Metro Marunouchi Line)",
+    "access": "5-minute walk from Shinjuku-gyoenmae Station (Tokyo Metro Marunouchi Line)",
     "address": "11 Naitomachi, Shinjuku City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/28405153/pexels-photo-28405153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -2502,7 +2477,7 @@
       "photo-spots"
     ],
     "summary": "Tokyo's largest entertainment district, a dense grid of neon signs, bars, and theaters — best explored with a guide who knows which alleys are worth a look and which to skip.",
-    "access": "3-minute walk from Shinjuku Station (JR Yamanote Line)",
+    "access": "About a 5- to 7-minute walk from Shinjuku Station East Exit (JR Yamanote Line); Seibu-Shinjuku Station is about a 1-minute walk",
     "address": "Kabukicho area, Shinjuku City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/19848333/pexels-photo-19848333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -2555,7 +2530,7 @@
     "address": "Hyakunincho area, Shinjuku City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/18326597/pexels-photo-18326597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Shin-Okubo",
@@ -2625,8 +2600,8 @@
       "photo-spots"
     ],
     "summary": "A behind-the-scenes walk through real sets, costumes, and props from the Harry Potter films, built inside a former paper factory in western Tokyo.",
-    "access": "8-minute walk from Toshimaen Station (Seibu Toshima Line)",
-    "address": "1-1 Kasugacho, Nerima City, Tokyo",
+    "access": "2-minute walk from Toshimaen Station (Seibu Toshima Line / Toei Oedo Line)",
+    "address": "1-1-7 Kasugacho, Nerima City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/31729639/pexels-photo-31729639.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
     "isLocalPick": false,
@@ -2637,7 +2612,7 @@
         "provider": "Klook"
       }
     ],
-    "description": "Warner Bros. Studio Tour Tokyo — The Making of Harry Potter occupies a former paper factory in Nerima, converted into a walk-through experience built around real sets, costumes, and props used in the film series rather than a rides-based theme park. Visitors move through recreations of the Great Hall, Dumbledore's office, Diagon Alley, and other familiar locations, with much of the actual filming material on display alongside behind-the-scenes explanations of how effects and sets were built.\n\nBecause it's a self-paced walking tour rather than a ride-based attraction, visits run long: most guests spend three to four hours inside, and fans who stop to read every placard and photograph every set can easily stretch that further. Tickets are timed-entry and need to be booked in advance, as walk-up admission is not generally available and popular dates can sell out weeks ahead, especially around school holidays. Weekday visits and the earliest entry slots of the day tend to be least crowded, giving more room to take photos in the more popular sets like Diagon Alley without waiting behind other groups.\n\nThe studio includes a cafe serving butterbeer and a large gift shop with props and merchandise not available elsewhere in Japan. Because it sits further from central Tokyo than most attractions on this list, it's worth planning a half or full day around the visit rather than combining it with much else.",
+    "description": "Warner Bros. Studio Tour Tokyo — The Making of Harry Potter occupies part of the site of the former Toshimaen amusement park in Nerima, converted into a walk-through experience built around real sets, costumes, and props used in the film series rather than a rides-based theme park. Visitors move through recreations of the Great Hall, Dumbledore's office, Diagon Alley, and other familiar locations, with much of the actual filming material on display alongside behind-the-scenes explanations of how effects and sets were built.\n\nBecause it's a self-paced walking tour rather than a ride-based attraction, visits run long: most guests spend three to four hours inside, and fans who stop to read every placard and photograph every set can easily stretch that further. Tickets are timed-entry and need to be booked in advance, as walk-up admission is not generally available and popular dates can sell out weeks ahead, especially around school holidays. Weekday visits and the earliest entry slots of the day tend to be least crowded, giving more room to take photos in the more popular sets like Diagon Alley without waiting behind other groups.\n\nThe studio includes a cafe serving butterbeer and a large gift shop with props and merchandise not available elsewhere in Japan. Because it sits further from central Tokyo than most attractions on this list, it's worth planning a half or full day around the visit rather than combining it with much else.",
     "imageSource": "pexels"
   },
   {
@@ -2747,7 +2722,7 @@
       "family"
     ],
     "summary": "A whimsical museum designed by Hayao Miyazaki himself, with no set walking route and a rooftop garden guarded by a life-size robot soldier statue from Castle in the Sky.",
-    "access": "5-minute walk from Kichijoji Station (JR Chuo Line), or a short walk through Inokashira Park",
+    "access": "15- to 20-minute walk from Kichijoji Station (JR Chuo Line) through Inokashira Park; alternatively, a 5-minute community bus ride from the South Exit of JR Mitaka Station (JR Chuo Line)",
     "address": "1-1-83 Shimorenjaku, Mitaka, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/28298382/pexels-photo-28298382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -2776,7 +2751,7 @@
     "address": "Gotenyama area, Musashino, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/18645094/pexels-photo-18645094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Kichijoji",
@@ -2846,11 +2821,11 @@
       "seasonal-nature"
     ],
     "summary": "A huge former air base turned public park west of central Tokyo, with a hillside of vivid blue nemophila flowers in spring and one of the region's best ginkgo avenues in autumn.",
-    "access": "10-minute walk from Nishi-Tachikawa Station (JR Ome Line)",
+    "access": "2-minute walk from Nishi-Tachikawa Station (JR Ome Line)",
     "address": "3173 Midoricho, Tachikawa, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/4053647/pexels-photo-4053647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book Showa Kinen Park admission tickets",
@@ -2924,7 +2899,7 @@
     "address": "1-1 Hamarikyuteien, Chuo City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/32655011/pexels-photo-32655011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Shiodome",
@@ -2948,7 +2923,7 @@
     "address": "6-16-3 Honkomagome, Bunkyo City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/35234197/pexels-photo-35234197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Komagome",
@@ -2969,11 +2944,11 @@
       "seasonal-nature"
     ],
     "summary": "One of Tokyo's oldest surviving gardens, dating to the early Edo period, laid out around a large central pond with miniature recreations of famous landscapes from Japan and China.",
-    "access": "3-minute walk from Iidabashi Station (Tokyo Metro Tozai Line)",
+    "access": "3-minute walk from Iidabashi Station (Toei Oedo Line)",
     "address": "1-6-6 Koraku, Bunkyo City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/35606121/pexels-photo-35606121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Korakuen",
@@ -3021,7 +2996,7 @@
     "address": "6-5-1 Minamiaoyama, Minato City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/16201759/pexels-photo-16201759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book Nezu Museum admission tickets",
@@ -3045,7 +3020,7 @@
     "address": "9-7-6 Akasaka, Minato City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/34022262/pexels-photo-34022262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Roppongi",
@@ -3066,7 +3041,7 @@
       "food"
     ],
     "summary": "A street of specialty shops supplying restaurants with knives, tableware, and the famously realistic plastic food models seen in Japanese restaurant windows.",
-    "access": "8-minute walk from Tawaramachi Station (Tokyo Metro Ginza Line)",
+    "access": "5-minute walk from Tawaramachi Station (Tokyo Metro Ginza Line)",
     "address": "Nishiasakusa area, Taito City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/33269326/pexels-photo-33269326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -3120,7 +3095,7 @@
     "address": "2-16-2 Sotokanda, Chiyoda City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/36353191/pexels-photo-36353191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Akihabara",
@@ -3165,11 +3140,11 @@
       "cafes-sweets"
     ],
     "summary": "A book-and-lifestyle complex spread across three connected pavilions, popular for its lounge-style Starbucks and quiet, design-forward atmosphere away from Tokyo's busier shopping streets.",
-    "access": "8-minute walk from Daikanyama Station (Tokyu Toyoko Line)",
+    "access": "5-minute walk from Daikanyama Station (Tokyu Toyoko Line)",
     "address": "16-15 Sarugakucho, Shibuya City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/35632880/pexels-photo-35632880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Daikanyama",
@@ -3241,7 +3216,7 @@
     "address": "2-11-1 Takanawa, Minato City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/19867354/pexels-photo-19867354.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Shinagawa",
@@ -3286,7 +3261,7 @@
       "art-museums"
     ],
     "summary": "A small, free museum tracing the history of Japanese animation with hands-on flipbook and voice-acting booths, in a residential neighborhood long associated with anime studios.",
-    "access": "7-minute walk from Ogikubo Station (JR Chuo Line)",
+    "access": "20-minute walk from Ogikubo Station (JR Chuo Line), or a 5-minute bus ride from the station's north exit plus a 2-minute walk",
     "address": "3-29-5 Kamiogi, Suginami City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/16201759/pexels-photo-16201759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -3315,7 +3290,7 @@
     "address": "Nakameguro area, Meguro City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/36721377/pexels-photo-36721377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Nakameguro",
@@ -3388,7 +3363,7 @@
     "address": "6-4-20 Tenjinbashi, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/38419995/pexels-photo-38419995.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book Osaka Museum of Housing and Living tickets",
@@ -3408,7 +3383,7 @@
       "family"
     ],
     "summary": "A hands-on science museum in Nakanoshima with a dome planetarium and exhibits centered on space exploration and energy, a reliable rainy-day option for families.",
-    "access": "5-minute walk from Yodoyabashi Station (Osaka Metro Midosuji Line)",
+    "access": "5-minute walk from Watanabebashi Station (Keihan Nakanoshima Line), or about a 10-minute walk from Higobashi Station (Osaka Metro Yotsubashi Line)",
     "address": "4-2-1 Nakanoshima, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/6249453/pexels-photo-6249453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -3432,11 +3407,11 @@
       "photo-spots"
     ],
     "summary": "A shrine best known for its enormous lion-head-shaped stage, about 12 meters tall, believed to devour bad luck — one of Osaka's more surreal photo stops.",
-    "access": "3-minute walk from Namba Station (Osaka Metro Midosuji Line)",
+    "access": "6- to 7-minute walk from Namba Station (Osaka Metro Midosuji Line)",
     "address": "2-9-19 Motomachi, Naniwa Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/20704797/pexels-photo-20704797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Namba",
@@ -3460,7 +3435,7 @@
     "address": "1-12-10 Nipponbashi, Chuo Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/161923/osaka-castle-japan-five-osaka-161923.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book National Bunraku Theatre performance tickets",
@@ -3485,7 +3460,7 @@
     "address": "1-1-79 Temma, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/28080200/pexels-photo-28080200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Osaka Castle",
@@ -3505,11 +3480,11 @@
       "photo-spots"
     ],
     "summary": "A working waste incinerator designed by Austrian artist Friedensreich Hundertwasser, with a gold onion dome and no straight lines anywhere — often called the world's most beautiful garbage plant.",
-    "access": "20-minute bus ride from Sakurajima Station (JR Sakurajima Line)",
+    "access": "10 to 20-minute bus ride from Sakurajima Station (JR Sakurajima Line)",
     "address": "Maishima area, Konohana Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/32459954/pexels-photo-32459954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Universal City",
@@ -3553,7 +3528,7 @@
       "history"
     ],
     "summary": "A cultural facility in Sakai dedicated to two of the city's most famous historical residents, tea master Sen no Rikyu and poet Akiko Yosano, with tea ceremony demonstrations.",
-    "access": "1-minute walk from Sakai Station (Nankai Main Line)",
+    "access": "10-minute walk from Sakai Station (Nankai Main Line), or 1-minute walk from Shukuin Station (Hankai Tramway Line)",
     "address": "2-1-1 Shukuin-cho Nishi, Sakai Ward, Sakai",
     "imageUrl": "https://images.pexels.com/photos/18908438/pexels-photo-18908438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -3631,7 +3606,7 @@
     "address": "Ikoma mountain area, Higashiosaka / Nara border, Osaka",
     "imageUrl": "https://images.pexels.com/photos/32543764/pexels-photo-32543764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Ikoma",
@@ -3651,7 +3626,7 @@
       "history"
     ],
     "summary": "A museum dedicated to one of Japan's best-loved historical novelists, built by architect Tadao Ando around the author's actual home and its three-story wall of bookshelves.",
-    "access": "9-minute walk from Yao-Minamiguchi Station (Kintetsu Shigi Line)",
+    "access": "8-minute walk from Yaenosato Station (Kintetsu Nara Line)",
     "address": "3-11-18 Shimokosaka, Higashiosaka, Osaka",
     "imageUrl": "https://images.pexels.com/photos/6249453/pexels-photo-6249453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -3699,7 +3674,7 @@
       "traditional-culture"
     ],
     "summary": "Japan's first and most storied whisky distillery, offering tour-and-tasting sessions that trace how Japanese whisky developed its own distinct style from Scotch traditions.",
-    "access": "5-minute walk from Yamazaki Station (JR Kyoto Line)",
+    "access": "10-minute walk from Yamazaki Station (JR Kyoto Line)",
     "address": "5-2-1 Yamazaki, Shimamoto, Osaka",
     "imageUrl": "https://images.pexels.com/photos/9861606/pexels-photo-9861606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -3723,11 +3698,11 @@
       "photo-spots"
     ],
     "summary": "A mountain temple founded in 727, famous for good-luck victory charms — thousands of small daruma dolls left by visitors are piled across the grounds in every direction.",
-    "access": "Bus ride from Senriyama Station (Hankyu Kyoto Line), in Minoh",
+    "access": "Direct bus from Minoh-Kayano Station (Kita-Osaka Kyuko Line), in Minoh",
     "address": "Katsuoji area, Minoh, Osaka",
     "imageUrl": "https://images.pexels.com/photos/34924715/pexels-photo-34924715.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Minoh",
@@ -3771,8 +3746,8 @@
       "food"
     ],
     "summary": "A free hands-on museum from the company behind Mister Donut in Japan, where visitors can fry and decorate their own doughnut to take home.",
-    "access": "10-minute walk from Ikeda Station (Hankyu Takarazuka Line)",
-    "address": "5-32 Yoshinocho, Ikeda, Osaka",
+    "access": "10-minute walk from Esaka Station (Osaka Metro Midosuji Line / Kita-Osaka Kyuko Line)",
+    "address": "5-32 Yoshinocho, Suita, Osaka",
     "imageUrl": "https://images.pexels.com/photos/6249453/pexels-photo-6249453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
     "isLocalPick": true,
@@ -3824,7 +3799,7 @@
     "address": "1-2-10 Nakanoshima, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/34590797/pexels-photo-34590797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Nakanoshima",
@@ -3849,7 +3824,7 @@
     "address": "Tsurumiryokuchi area, Tsurumi Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/31417067/pexels-photo-31417067.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Tsurumi",
@@ -3870,7 +3845,7 @@
       "photo-spots"
     ],
     "summary": "A lawned garden inside the castle grounds with about 300 cherry trees framing views of the main keep, one of the region's most photographed cherry blossom scenes.",
-    "access": "12-minute walk from Osakajokoen Station (JR Osaka Loop Line)",
+    "access": "10-minute walk from Tanimachi 4-chome Station (Osaka Metro Tanimachi Line)",
     "address": "2 Osakajo, Chuo Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/30326066/pexels-photo-30326066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -3894,11 +3869,11 @@
       "cafes-sweets"
     ],
     "summary": "A riverside dining terrace at the edge of Osaka Castle Park, built around the idea of a modern castle town, with a cluster of well-regarded ramen shops among its restaurants.",
-    "access": "10-minute walk from Osakajokoen Station (JR Osaka Loop Line)",
+    "access": "2-minute walk from Osakajokoen Station (JR Osaka Loop Line)",
     "address": "Osakajo area, Chuo Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/33897207/pexels-photo-33897207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Osaka Castle",
@@ -3944,7 +3919,7 @@
       "nature"
     ],
     "summary": "A hands-on farm park with animal petting areas, seasonal flower fields, and workshops for making butter or picking fruit, a change of pace from the city center.",
-    "access": "Shuttle bus from Izumi-Chuo Station (Semboku Rapid Railway)",
+    "access": "Bus (about 20 minutes) from Izumigaoka Station (Semboku Rapid Railway)",
     "address": "861 Kounoikecho, Naka Ward, Sakai",
     "imageUrl": "https://images.pexels.com/photos/34924765/pexels-photo-34924765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -3994,11 +3969,11 @@
       "architecture"
     ],
     "summary": "A 1931 building at the base of Osaka Castle, once army headquarters, now renovated into restaurants and a rooftop terrace with an unobstructed view of the keep.",
-    "access": "10-minute walk from Osakajokoen Station (JR Osaka Loop Line)",
+    "access": "15-minute walk from Osakajokoen Station (JR Osaka Loop Line)",
     "address": "1-1 Osakajo, Chuo Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/32459954/pexels-photo-32459954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Osaka Castle",
@@ -4071,7 +4046,7 @@
     "address": "4-1-32 Otemae, Chuo Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/37427834/pexels-photo-37427834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book Osaka Museum of History tickets",
@@ -4143,7 +4118,7 @@
     "address": "1-1-27 Nakanoshima, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/9601570/pexels-photo-9601570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Nakanoshima",
@@ -4168,7 +4143,7 @@
     "address": "Nakazakicho area, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/18908438/pexels-photo-18908438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Umeda",
@@ -4192,7 +4167,7 @@
     "address": "Sennichimae area, Chuo Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/31640564/pexels-photo-31640564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Namba",
@@ -4217,7 +4192,7 @@
     "address": "1-23 Nagaikoen, Higashisumiyoshi Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/31135433/pexels-photo-31135433.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book Osaka Museum of Natural History tickets",
@@ -4242,7 +4217,7 @@
     "address": "Nagaikoen area, Higashisumiyoshi Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/33921328/pexels-photo-33921328.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Nagai",
@@ -4262,11 +4237,11 @@
       "seasonal-nature"
     ],
     "summary": "A compact rebuilt castle south of Osaka city, known locally for the Kishiwada Danjiri Festival, when teams pull enormous wooden festival floats through the surrounding streets at speed.",
-    "access": "5-minute walk from Kishiwada Station (Nankai Main Line)",
+    "access": "Approximately 13-minute walk from Kishiwada Station (Nankai Main Line)",
     "address": "9-1 Kishikicho, Kishiwada, Osaka",
     "imageUrl": "https://images.pexels.com/photos/21821256/pexels-photo-21821256.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Kishiwada",
@@ -4278,30 +4253,6 @@
     "imageSource": "pexels"
   },
   {
-    "id": "hankyu-railway-museum",
-    "title": "Hankyu Railway Museum",
-    "city": "Osaka",
-    "interests": [
-      "family",
-      "history"
-    ],
-    "summary": "A small museum built around a retired Hankyu train carriage that visitors can board and explore, popular with young train enthusiasts.",
-    "access": "5-minute walk from Kawanishi-Noseguchi Station (Hankyu Takarazuka Line)",
-    "address": "Kawanishi-Noseguchi area, Kawanishi, Hyogo (near the Osaka border)",
-    "imageUrl": "https://images.pexels.com/photos/30389540/pexels-photo-30389540.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "officialUrl": null,
-    "isLocalPick": true,
-    "affiliateLinks": [
-      {
-        "label": "Find hotels near Kawanishi",
-        "url": "https://www.booking.com/",
-        "provider": "Booking.com"
-      }
-    ],
-    "description": "This small museum near the Osaka–Hyogo border is built quite literally around a piece of railway history: a retired Hankyu train carriage that visitors can walk through and explore, seated in the same rows real passengers once used. It's a modest facility by museum standards, but that scale works in its favor for families with young children, who can spend an unhurried hour or two without the fatigue of a larger institution, and train-obsessed kids in particular tend to linger over the driver's cab and old railway equipment on display.\n\nExhibits cover the history of the Hankyu railway network and its role in developing the towns and suburbs along its lines, with old uniforms, signage, tickets, and photographs supplementing the carriage itself. Admission is modest, and the museum's small size means it rarely feels crowded even on weekends, though school holiday afternoons naturally draw more local families.\n\nBecause it sits a little outside central Osaka, near the Hyogo border, it works best as a dedicated outing for railway enthusiasts or as an add-on for anyone already exploring the Takarazuka area, rather than a stop squeezed into a day built around downtown Osaka sightseeing. A visit in the cooler months is comfortable year-round, since there's little seasonal variation to plan around at an indoor museum like this one.",
-    "imageSource": "pexels"
-  },
-  {
     "id": "legoland-discovery-center-osaka",
     "title": "LEGOLAND Discovery Center Osaka",
     "city": "Osaka",
@@ -4310,8 +4261,8 @@
       "pop-culture"
     ],
     "summary": "An indoor LEGO attraction inside a bayside shopping mall, with build zones, mild rides, and a miniature LEGO model of Osaka's own skyline.",
-    "access": "Inside LaLaport Osakabay Ryunku, a shuttle bus ride from Namba Station",
-    "address": "Nanko area, Suminoe Ward, Osaka",
+    "access": "5-minute walk from Osakako Station (Osaka Metro Chuo Line)",
+    "address": "1-1-10 Kaigandori, Minato Ward, Osaka (Tempozan Marketplace, 3F)",
     "imageUrl": "https://images.pexels.com/photos/6249442/pexels-photo-6249442.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
     "isLocalPick": false,
@@ -4334,7 +4285,7 @@
       "family"
     ],
     "summary": "An anime-focused entertainment complex near Osaka Business Park, home to rotating attractions themed around major Japanese manga and anime franchises.",
-    "access": "5-minute walk from Osakajokitazume Station (JR Tozai Line)",
+    "access": "5-minute walk from Morinomiya Station (JR Osaka Loop Line / Osaka Metro Chuo Line)",
     "address": "Osakajokitazume area, Miyakojima Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/37427834/pexels-photo-37427834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -4408,7 +4359,7 @@
       "outdoor"
     ],
     "summary": "A long, narrow park built on a former wartime airstrip, with a rose garden that peaks in May and October and a quieter atmosphere than the city's larger parks.",
-    "access": "5-minute walk from Awaza Station (Osaka Metro Yotsubashi Line)",
+    "access": "Approximately 8-minute walk from Awaza Station (Osaka Metro Yotsubashi Line)",
     "address": "Utsubo Honmachi area, Nishi Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/32897579/pexels-photo-32897579.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -4433,7 +4384,7 @@
       "photo-spots"
     ],
     "summary": "A riverside promenade lined with around 5,000 cherry trees along the Okawa River, one of the most heavily attended hanami picnic spots in the city each spring.",
-    "access": "1-minute walk from Sakuranomiya Station (JR Osaka Loop Line)",
+    "access": "Approximately 5-minute walk from Sakuranomiya Station (JR Osaka Loop Line)",
     "address": "Sakuranomiya area, Miyakojima Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/36848704/pexels-photo-36848704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -4456,8 +4407,8 @@
       "onsen"
     ],
     "summary": "A neighborhood public bathhouse with an unusually large open-air rock bath and sauna, a low-key local alternative to the bigger, more touristy hot spring theme parks.",
-    "access": "10-minute walk from Tobita Shinchi (Osaka Metro Midosuji Line, Dobutsuen-mae Station)",
-    "address": "Tobita area, Nishinari Ward, Osaka",
+    "access": "8-minute walk from Tenjinbashisuji-rokuchome Station (Osaka Metro Sakaisuji/Tanimachi Lines)",
+    "address": "1-7-31 Nagaranishi, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/5644766/pexels-photo-5644766.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
     "isLocalPick": true,
@@ -4631,7 +4582,7 @@
     "address": "2-1-10 Nanko Kita, Suminoe Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/6249453/pexels-photo-6249453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Nanko",
@@ -4674,7 +4625,7 @@
       "art-museums"
     ],
     "summary": "A museum covering the history of Sakai, once one of Japan's most important trading ports, right next to the Daisen Kofun burial mound it helps put in context.",
-    "access": "8-minute walk from Mozu Station (JR Hanwa Line)",
+    "access": "6-minute walk from Mozu Station (JR Hanwa Line)",
     "address": "2 Daisencho, Sakai Ward, Sakai",
     "imageUrl": "https://images.pexels.com/photos/32897586/pexels-photo-32897586.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
@@ -4702,7 +4653,7 @@
     "address": "1-1-28 Nakanoshima, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/32733152/pexels-photo-32733152.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Nakanoshima",
@@ -4748,11 +4699,11 @@
       "seasonal-nature"
     ],
     "summary": "A central city park holding a Japanese strolling garden once owned by the Sumitomo family, donated to the city in the 1920s and now a quiet break from the busier streets of Shinsekai nearby.",
-    "access": "3-minute walk from Tennoji Station (JR Osaka Loop Line)",
+    "access": "5- to 7-minute walk from Tennoji Station (JR Osaka Loop Line) to Keitakuen Garden within the park",
     "address": "Chausuyamacho area, Tennoji Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/34590834/pexels-photo-34590834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Tennoji",
@@ -4776,7 +4727,7 @@
     "address": "Shitennoji area, Tennoji Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/33163115/pexels-photo-33163115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Tennoji",
@@ -4820,11 +4771,11 @@
       "cafes-sweets"
     ],
     "summary": "A fashion-forward pocket of Umeda anchored by two large department stores aimed at a younger crowd, with a noticeably calmer pace than the station concourses nearby.",
-    "access": "8-minute walk from Osaka-Umeda Station (Hankyu lines)",
+    "access": "3-minute walk from Osaka-Umeda Station (Hankyu lines)",
     "address": "Chayamachi area, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/18908438/pexels-photo-18908438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Umeda",
@@ -4923,7 +4874,7 @@
     "address": "Mount Ikoma summit, Ikoma, Nara (near the Osaka border)",
     "imageUrl": "https://images.pexels.com/photos/38100894/pexels-photo-38100894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Ikoma",
@@ -4947,7 +4898,7 @@
     "address": "Dotonbori area, Chuo Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/37954059/pexels-photo-37954059.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book Osaka Shochikuza performance tickets",
@@ -4956,31 +4907,6 @@
       }
     ],
     "description": "Built in 1923, the Shochikuza sits right in the middle of Dotonbori's neon and crowds, and its Western-influenced facade — closer to a European opera house than the surrounding restaurant signage — makes it stand out sharply from its surroundings even to visitors who have no intention of seeing a show. The theater has survived and been renovated across the decades and today hosts touring kabuki productions alongside other stage performances, making it one of the more accessible places in Osaka to see kabuki without traveling to Tokyo's dedicated theaters.\n\nPerformances typically run a few hours, sometimes with an intermission, and can be booked for a single act rather than a full program at some show runs, which is a useful option for visitors curious about kabuki but wary of committing to a lengthy full performance. English-language programs or audio guides are sometimes available depending on the specific production, so it's worth checking ahead if language support matters to you.\n\nEven without attending a performance, the building's exterior is worth a look while walking through Dotonbori, offering a striking contrast to the giant crab and running-man signage nearby. Evening performances tend to draw fuller houses, particularly on weekends, so matinee or weekday shows generally offer a somewhat easier ticket. Its location makes it simple to combine with a broader evening of dining and sightseeing in Dotonbori.",
-    "imageSource": "pexels"
-  },
-  {
-    "id": "tanimachi-suji-antique-street",
-    "title": "Tanimachi Suji Antique Street",
-    "city": "Osaka",
-    "interests": [
-      "shopping",
-      "backstreets",
-      "traditional-culture"
-    ],
-    "summary": "A stretch of small antique dealers south of Osaka Castle specializing in old ceramics, scrolls, and furniture, popular with collectors rather than casual souvenir shoppers.",
-    "access": "5-minute walk from Tanimachi 6-chome Station (Osaka Metro Tanimachi Line)",
-    "address": "Tanimachi area, Chuo Ward, Osaka",
-    "imageUrl": "https://images.pexels.com/photos/18908438/pexels-photo-18908438.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "officialUrl": null,
-    "isLocalPick": true,
-    "affiliateLinks": [
-      {
-        "label": "Find hotels near Osaka Castle",
-        "url": "https://www.booking.com/",
-        "provider": "Booking.com"
-      }
-    ],
-    "description": "South of Osaka Castle, Tanimachi Suji is lined with a string of small antique dealers specializing in old ceramics, hanging scrolls, lacquerware, and traditional furniture, catering to a clientele of serious collectors rather than casual souvenir shoppers. Shops here tend to be quiet, specialized, and modest in size, often run by a single dealer with deep knowledge of their specific niche, and prices reflect genuine antique value rather than tourist-market markups.\n\nBrowsing is generally welcomed even without buying, though the atmosphere is more reserved than a flea market — items are typically displayed carefully rather than piled for digging through, and conversations with shop owners about a piece's history and provenance are part of the experience for those who take the time. A walk along the full street, stopping into a handful of shops, can take an hour or two depending on how many dealers you engage with.\n\nBecause many of these shops operate on more traditional retail hours and can close for stretches without much notice, weekday afternoons are generally the most reliable time to find shops open, though this varies by dealer. The street pairs naturally with a visit to Osaka Castle Park just to the north, making it an easy stop for anyone interested in traditional crafts and history to add onto a castle visit.",
     "imageSource": "pexels"
   },
   {
@@ -5042,11 +4968,11 @@
       "history"
     ],
     "summary": "Known as the birthplace of Japanese rugby, this stadium in Higashi-Osaka still hosts the country's famous New Year high school rugby tournament every winter.",
-    "access": "5-minute walk from Higashi-Hanazono Station (Kintetsu Nara Line)",
+    "access": "8-minute walk from Higashi-Hanazono Station (Kintetsu Nara Line)",
     "address": "Hanazonocho area, Higashiosaka, Osaka",
     "imageUrl": "https://images.pexels.com/photos/30313133/pexels-photo-30313133.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Higashi-Osaka",
@@ -5065,11 +4991,11 @@
       "family"
     ],
     "summary": "A hands-on children's science and play museum spread across several floors, with a giant slide and simulated construction site that keep younger kids occupied for hours.",
-    "access": "5-minute walk from Osaka Tenmangu Station (JR Tozai Line)",
+    "access": "Near Ogimachi Station (Osaka Metro Sakaisuji Line), or a short walk west from Temma Station (JR Osaka Loop Line)",
     "address": "2-1-7 Ogimachi, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/32459955/pexels-photo-32459955.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book Kids Plaza Osaka admission tickets",
@@ -5089,11 +5015,11 @@
       "traditional-culture"
     ],
     "summary": "A museum built around a full-size festival float, letting visitors see up close the wooden carving and construction behind the danjiri floats raced through Kishiwada's streets each September.",
-    "access": "5-minute walk from Kishiwada Station (Nankai Main Line)",
+    "access": "13-minute walk from Kishiwada Station (Nankai Main Line)",
     "address": "Gobocho area, Kishiwada, Osaka",
     "imageUrl": "https://images.pexels.com/photos/6488232/pexels-photo-6488232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Kishiwada",
@@ -5208,8 +5134,8 @@
       "art-museums"
     ],
     "summary": "A museum built next to an excavated Yayoi-period village site, displaying bronze bells and rice-farming tools from over 2,000 years ago, with reconstructed pit dwellings outside.",
-    "access": "17-minute walk from Izumino Station (Semboku Rapid Railway)",
-    "address": "8-64-1 Toyodacho, Izumi, Osaka",
+    "access": "About 600m (8-minute walk) from Shinodayama Station (JR Hanwa Line), or roughly 1.5km from Matsunohama Station (Nankai Main Line)",
+    "address": "4-8-27 Ikegami-cho, Izumi, Osaka",
     "imageUrl": "https://images.pexels.com/photos/26068812/pexels-photo-26068812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
     "isLocalPick": true,
@@ -5237,7 +5163,7 @@
     "address": "Nishinari Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/32459954/pexels-photo-32459954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Shinsekai & Tobita Shinchi history walking tour",
@@ -5250,17 +5176,17 @@
   },
   {
     "id": "osaka-city-museum-of-modern-art-nakanoshima",
-    "title": "Osaka City Museum of Modern Art",
+    "title": "Nakanoshima Museum of Art, Osaka",
     "city": "Osaka",
     "interests": [
       "art-museums"
     ],
     "summary": "A museum focused on 20th-century Japanese modern art, rotating exhibitions from a permanent collection that includes early Osaka-based avant-garde painters rarely seen outside the region.",
-    "access": "5-minute walk from Yodoyabashi Station (Osaka Metro Midosuji Line)",
+    "access": "15-minute walk from Yodoyabashi Station (Osaka Metro Midosuji Line), or 5-minute walk from Watanabebashi Station (Keihan Nakanoshima Line)",
     "address": "Nakanoshima area, Kita Ward, Osaka",
     "imageUrl": "https://images.pexels.com/photos/28080200/pexels-photo-28080200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Nakanoshima",
@@ -5306,11 +5232,11 @@
       "traditional-culture"
     ],
     "summary": "A small matchmaking shrine on the grounds of Kiyomizu-dera, where visitors try to walk between two \"love stones\" with their eyes closed to test their romantic luck.",
-    "access": "10-minute walk from Kiyomizu-Gojo Station (Keihan Main Line)",
+    "access": "20 to 25-minute uphill walk from Kiyomizu-Gojo Station (Keihan Main Line) to the Kiyomizu-dera complex, plus a short further climb up the steps behind the main hall to Jishu Shrine",
     "address": "Kiyomizu area, Higashiyama Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/31385685/pexels-photo-31385685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Higashiyama",
@@ -5359,7 +5285,7 @@
     "address": "Higashiyama area, Higashiyama Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/37943558/pexels-photo-37943558.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Higashiyama",
@@ -5383,7 +5309,7 @@
     "address": "70 Shimobenten-cho, Higashiyama Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/6249730/pexels-photo-6249730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Gion",
@@ -5408,7 +5334,7 @@
     "address": "584 Komatsucho, Higashiyama Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/35076911/pexels-photo-35076911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Gion",
@@ -5531,7 +5457,7 @@
     "address": "Sanjo-Takakura, Nakagyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/35115268/pexels-photo-35115268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Karasuma",
@@ -5555,7 +5481,7 @@
     "address": "248 Donomaecho, Nakagyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/18000839/pexels-photo-18000839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Karasuma",
@@ -5603,7 +5529,7 @@
     "address": "51 Okazaki Higashitenno-cho, Sakyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/27276216/pexels-photo-27276216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Okazaki",
@@ -5652,7 +5578,7 @@
     "address": "339 Kamigamo Motoyama, Kita Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/31385685/pexels-photo-31385685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Kitaoji",
@@ -5677,7 +5603,7 @@
     "address": "59 Shimogamo Izumigawacho, Sakyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/31385685/pexels-photo-31385685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Demachiyanagi",
@@ -5702,7 +5628,7 @@
     "address": "Bakurocho, Kamigyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/16660223/pexels-photo-16660223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Kinkaku-ji",
@@ -5751,7 +5677,7 @@
     "address": "33 Omuroouchi, Ukyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/35076911/pexels-photo-35076911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Kinkaku-ji",
@@ -5775,7 +5701,7 @@
     "address": "21 Murasakinocho, Kita Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/31385685/pexels-photo-31385685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Kinkaku-ji",
@@ -5824,7 +5750,7 @@
     "address": "Sagano area, Ukyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/31385685/pexels-photo-31385685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Arashiyama",
@@ -5922,7 +5848,7 @@
     "address": "56 Matsuo Jingatanicho, Nishikyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/29416244/pexels-photo-29416244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Saihoji moss temple guided visit",
@@ -6141,7 +6067,7 @@
     "address": "247 Minamihamacho, Fushimi Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/35111002/pexels-photo-35111002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book Gekkeikan Okura Sake Museum tasting tickets",
@@ -6165,7 +6091,7 @@
     "address": "263 Minamihamacho, Fushimi Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/30612368/pexels-photo-30612368.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Fushimi",
@@ -6189,7 +6115,7 @@
     "address": "Uji area, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/32475991/pexels-photo-32475991.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Uji",
@@ -6213,7 +6139,7 @@
     "address": "21 Todo Momoyama, Uji, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/35076911/pexels-photo-35076911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Uji",
@@ -6237,7 +6163,7 @@
     "address": "91 Furoicho, Uji, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/35076911/pexels-photo-35076911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Uji",
@@ -6261,7 +6187,7 @@
     "address": "30 Yawata Takabo, Yawata, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/8285073/pexels-photo-8285073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Yawata",
@@ -6286,7 +6212,7 @@
     "address": "1074 Kuramahonmachi, Sakyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/24357125/pexels-photo-24357125.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Kurama-Kibune hiking day tour",
@@ -6311,7 +6237,7 @@
     "address": "540 Ohararaikoincho, Sakyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/35076911/pexels-photo-35076911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book an Ohara & Sanzen-in day tour",
@@ -6336,7 +6262,7 @@
     "address": "55 Yasecheguracho, Sakyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/35076911/pexels-photo-35076911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Kyoto Station",
@@ -6386,7 +6312,7 @@
     "address": "Monju area, Miyazu, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/18144094/pexels-photo-18144094.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book an Amanohashidate day trip tour",
@@ -6461,7 +6387,7 @@
     "address": "Karasuma-Oike, Nakagyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/32091319/pexels-photo-32091319.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book Kyoto International Manga Museum tickets",
@@ -6486,7 +6412,7 @@
     "address": "Runs through central Kyoto",
     "imageUrl": "https://images.pexels.com/photos/30974583/pexels-photo-30974583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near the Kamo River",
@@ -6511,7 +6437,7 @@
     "address": "22 Daigo Higashiojicho, Fushimi Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/35076911/pexels-photo-35076911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Daigo",
@@ -6535,7 +6461,7 @@
     "address": "17 Adashinocho, Ukyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/29416244/pexels-photo-29416244.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Arashiyama",
@@ -6559,7 +6485,7 @@
     "address": "2-5 Sagatoriimoto Fukatanicho, Ukyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/38151898/pexels-photo-38151898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Arashiyama",
@@ -6634,7 +6560,7 @@
     "address": "Kiyamachi-dori, Nakagyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/5746233/pexels-photo-5746233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Kiyamachi bar-hopping tour",
@@ -6755,7 +6681,7 @@
     "address": "17 Shogoin Entomicho, Sakyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/5746255/pexels-photo-5746255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Okazaki",
@@ -6780,7 +6706,7 @@
     "address": "56-3 Kanbaicho, Shimogyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/31775428/pexels-photo-31775428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Kyoto Station",
@@ -6901,7 +6827,7 @@
     "address": "9-7-4 Akasaka, Minato City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/16201759/pexels-photo-16201759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Roppongi",
@@ -6926,7 +6852,7 @@
     "address": "Kabukicho area, Shinjuku City, Tokyo",
     "imageUrl": "https://images.pexels.com/photos/3800121/pexels-photo-3800121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Golden Gai bar-hopping tour",
@@ -6975,7 +6901,7 @@
     "address": "Katsuramisono, Nishikyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/18257604/pexels-photo-18257604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Katsura Imperial Villa guided tour",
@@ -7000,7 +6926,7 @@
     "address": "Shugakuin Yabusoe, Sakyo Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/18257604/pexels-photo-18257604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Book a Shugakuin Imperial Villa guided tour",
@@ -7049,7 +6975,7 @@
     "address": "69-1 Awataguchi Sanjobocho, Higashiyama Ward, Kyoto",
     "imageUrl": "https://images.pexels.com/photos/35076911/pexels-photo-35076911.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": null,
-    "isLocalPick": true,
+    "isLocalPick": false,
     "affiliateLinks": [
       {
         "label": "Find hotels near Higashiyama",

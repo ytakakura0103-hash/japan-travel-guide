@@ -386,11 +386,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/immersive-fort-tokyo.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/tokyo-joypolis.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -881,11 +876,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/hankyu-railway-museum.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/legoland-discovery-center-osaka.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1017,11 +1007,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/osaka-shochikuza-theatre.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/tanimachi-suji-antique-street.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
