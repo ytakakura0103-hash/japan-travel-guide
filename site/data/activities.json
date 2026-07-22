@@ -12921,7 +12921,7 @@
     "description": "The Temiya Line carried coal to Otaru's port as part of Hokkaido's first railway, the Horonai Railway, from 1880 until the line's closure in 1985. Rather than demolishing the corridor, Otaru converted it into a public promenade that keeps the original tracks, level-crossing gates, and signage in place, so walking it feels closer to tracing a piece of infrastructure history than visiting a manufactured attraction.\n\nThe trail runs from central Otaru out toward the Otaru City General Museum, where the former Temiya Station now displays a preserved railway turntable and old rolling stock, giving the walk a clear endpoint if you want a destination rather than just a stroll. It's free and open at all hours, though the museum itself keeps standard daytime hours and is closed Tuesdays.\n\nBecause it runs a short distance from the Otaru Canal but sees far less foot traffic, it's a reliable way to get a quieter, more local view of the city, especially in the early morning before the canal area fills up with tour groups.\n\nWildflowers and grasses grow up around the tracks in summer, softening the industrial feel, while a light dusting of snow on the old rails in winter is a favorite subject for local photographers.",
     "access": "About 35-40 minutes from Sapporo Station via JR Rapid Airport train to Otaru Station, then about a 10-minute walk to the trail entrance near the canal.",
     "address": "Temiya area, Otaru, Hokkaido",
-    "imageUrl": "https://images.pexels.com/photos/8918022/pexels-photo-8918022.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/38116207/pexels-photo-38116207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -12930,7 +12930,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "shukutsu-nishin-goten",
@@ -12970,7 +12971,7 @@
     "description": "Otaru's glassmaking history began with practical objects, floats and lamps for the herring fishing industry, before evolving into the decorative glassware the city is now known for. Kitaichi Glass, and particularly its No. 3 hall (Sangokan), occupies a converted Meiji-era warehouse originally used to store herring-processing oil, and the building itself, with its heavy timber beams and stone walls, is as much a reason to visit as the glassware inside.\n\nThe main hall's ceiling is strung with hundreds of oil-lamp-style glass chandeliers, all lit rather than displayed under standard lighting, which gives the interior a warm, amber glow that photographs distinctly differently from a typical retail space. Beyond the main shop, a cafe and smaller specialty rooms sell everything from affordable souvenir pieces to higher-end handblown work.\n\nBecause it sits on Sakaimachi Street, one of Otaru's most visited blocks, it does draw real crowds, particularly around midday tour bus arrivals; visiting soon after opening or later in the afternoon noticeably thins the lines.\n\nThe glass itself is a year-round product, but the warehouse's dim, lamp-lit interior is an especially welcome stop on Otaru's colder or wetter days, when the golden lighting feels more like a deliberate escape than a shopping errand.",
     "address": "7-26 Sakaimachi, Otaru, Hokkaido 047-0027",
     "access": "About 45 minutes from Sapporo Station via JR Rapid Airport train to Minami-Otaru Station (35 minutes), then about a 10-minute walk.",
-    "imageUrl": "https://images.pexels.com/photos/35717014/pexels-photo-35717014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/20214362/pexels-photo-20214362.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -12979,7 +12980,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "zerubu-no-oka",
@@ -13118,7 +13120,7 @@
     "description": "When Hakodate opened as one of Japan's first treaty ports in the 1850s, foreign traders and missionaries settled on the sloped Motomachi hillside above the harbor, and the district's churches are the clearest surviving trace of that era. The Orthodox Church traces back to Japan's first Russian Orthodox congregation, founded by the Russian consulate around 1858-1860 as a chapel attached to the consulate; the priest later canonized as St. Nicholas of Japan arrived in 1861 and built it into a center of Orthodox missionary work, though the current Russian-Byzantine building dates to a 1916 reconstruction after fire damage. The nearby Roman Catholic and Anglican churches add further variety within an easy walking loop.\n\nThe streets connecting them are steep and cobbled in places, lined with other Meiji- and Taisho-era buildings including the pale blue-and-yellow Old Public Hall, whose upper floor operates as a small city history museum. None of the churches typically charge for viewing the exteriors, and some allow limited interior access outside of active services.\n\nBecause the district spreads across a genuine hillside neighborhood rather than a single compact block, foot traffic disperses naturally, and even in peak summer it doesn't feel as congested as the harborside morning market area below.\n\nEvening lighting on the church exteriors and the slope's night view over the harbor are a distinct experience from the daytime architecture walk, and snow adds real atmosphere to the same streets in winter.",
     "access": "About 3.5-4 hours from Sapporo via JR Hokkaido Shinkansen to Shin-Hakodate-Hokuto plus a local transfer to Hakodate Station (or direct limited express options), then a Hakodate city tram to Suehirocho stop (about 12 minutes), followed by a 5-minute walk.",
     "address": "Motomachi area, Hakodate, Hokkaido",
-    "imageUrl": "https://images.pexels.com/photos/31415757/pexels-photo-31415757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/31944780/pexels-photo-31944780.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -13127,7 +13129,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "cape-tachimachi",
@@ -13310,7 +13313,7 @@
     "description": "Most Lake Toya visitors stay clustered around Toyako Onsen on the lake's south shore, which leaves the Silo Observatory on the western side considerably less trafficked despite offering one of the more complete views of the lake's caldera geography: Mt. Usu, Showa-shinzan, and the water itself all visible from one spot. The name comes from a silo-shaped observation structure at the site.\n\nBecause the caldera lake and its central islands formed through repeated volcanic activity, the view here works as a fairly legible introduction to the region's geology, especially useful before or after visiting the more hands-on Nishiyama Crater trail or the Usuzan Ropeway closer to the eruption sites themselves.\n\nIt requires either a car or a taxi from Toyako Onsen, since it isn't on the main bus loop that connects the onsen town's core sights, and that extra step keeps visitor numbers low enough that it rarely feels like a managed tourist stop at all.\n\nSunset over the lake from this western vantage point is a genuine local recommendation, since the light hits the water and surrounding peaks differently than from the eastern onsen-town shore, and the observatory is accessible across all four seasons with winter hours trimmed slightly.",
     "access": "About 2.5-3 hours from Sapporo to Toya Station or Toyako Onsen (as above), then about a 15-20 minute drive or taxi ride (roughly 4,000 yen one-way by taxi) around the lake's western shore.",
     "address": "Toyako-cho, Abuta District, Hokkaido",
-    "imageUrl": "https://images.pexels.com/photos/35837226/pexels-photo-35837226.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/35837222/pexels-photo-35837222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -13319,7 +13322,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "showa-shinzan",
@@ -13506,7 +13510,7 @@
     "description": "Before the Otaru Canal became one of Hokkaido's most photographed backdrops, it was a working commercial waterway lined with stone warehouses supporting the city's role as a major financial and trading center in the late 19th and early 20th centuries. The Otaru City General Museum's canal-side building, itself a converted historic warehouse, covers that commercial history with exhibits on shipping, the herring trade, and the banks that once made Otaru's main street a rival to Tokyo's financial district in scale.\n\nThe museum's collection includes model ships, old trading records, and displays on the canal's construction and later near-demolition and preservation fight in the 1980s, a piece of local history that shaped how much of Otaru's historic waterfront looks today. It pairs naturally with a canal walk, since the building sits directly alongside it.\n\nMost canal visitors stop for photos and continue toward Sakaimachi Street without stepping inside any of the surrounding buildings, so the museum itself, despite its prime location, sees a fraction of the foot traffic passing right outside its doors.\n\nIt's a solid indoor stop regardless of season, though pairing a visit with an early morning or evening canal walk, when the tour-group crowds thin out, makes for the most pleasant combination.",
     "access": "About 35-40 minutes from Sapporo Station via JR Rapid Airport train to Otaru Station, then about a 10-minute walk to the canal.",
     "address": "2-1-20 Ironai, Otaru, Hokkaido 047-0031",
-    "imageUrl": "https://images.pexels.com/photos/35717014/pexels-photo-35717014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/31356850/pexels-photo-31356850.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -13515,7 +13519,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "sapporo-tv-tower-back-streets",
@@ -13530,7 +13535,7 @@
     "description": "Susukino's main boulevard, with its illuminated signage and larger restaurant chains, is what most visitors see first, but the actual character of the district lives in the narrow lanes branching off it, tightly packed with tiny bars seating six or eight people, single-counter ramen shops, and izakaya identifiable mostly by a hanging lantern. Ramen Yokocho, a short covered alley of competing ramen counters, is the best-known of these lanes, but similar smaller alleys run throughout the district with far less foot traffic.\n\nMany of these bars operate as regulars-only in practice, if not in policy, so a bit of hesitation at the door is normal for first-time visitors; sticking to shops with visible English menus or picture displays generally signals a more visitor-comfortable spot. Prices in the smaller alleys tend to run lower than the main-street chains, since these businesses rely on repeat local customers rather than one-time tourist traffic.\n\nBecause most visitors stick to Susukino's lit-up main crossing for photos and then head to a known chain restaurant, wandering even one block off that main strip cuts the crowd dramatically while keeping the same neon atmosphere.\n\nLate evening, after the dinner rush but before last call, tends to be when these alleys feel liveliest without being uncomfortably packed, and the experience holds up in any season since it's almost entirely indoor dining.",
     "access": "Directly above or adjacent to Susukino Station on the Namboku Subway Line, about 10 minutes from Sapporo Station.",
     "address": "Susukino area, Chuo-ku, Sapporo, Hokkaido",
-    "imageUrl": "https://images.pexels.com/photos/31367437/pexels-photo-31367437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/20187344/pexels-photo-20187344.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -13539,7 +13544,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "sapporo-salmon-museum",
@@ -13601,7 +13607,7 @@
     "description": "Tochoji is said to have been founded by the monk Kukai on his return from China, and today its main draw is the Great Buddha Hall, where a roughly 11-meter seated wooden Buddha looms over a backdrop of thousands of miniature Buddha statues. The scale is genuinely startling for a temple tucked into an ordinary Hakata side street.\n\nBeneath the statue runs the so-called Hell and Paradise tunnel, a completely dark passage you feel your way through by touch; reaching a carved wheel partway along is said to bring good fortune. Entry to the main grounds and Buddha hall is free, with only a small coin fee for the tunnel walk, so bring some loose change since no change is given inside.\n\nThe temple opens early, and arriving close to opening time means having the courtyard and its five-story pagoda largely to yourself before coach groups start arriving mid-morning. Two to three hours is enough to see the Buddha hall, walk the tunnel, and sit with the pagoda without feeling rushed.",
     "access": "1-minute walk from Gion Station (Kuko Line), or about a 10-minute walk from Hakata Station",
     "address": "2-4 Gokushomachi, Hakata Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/7115326/pexels-photo-7115326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/38104347/pexels-photo-38104347.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -13610,7 +13616,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "shofukuji-temple-hakata",
@@ -13625,7 +13632,7 @@
     "description": "Shofukuji was built with the backing of the shogun Minamoto no Yoritomo after Eisai returned from studying Zen Buddhism in China, and a plaque above its gate, said to bear calligraphy from a retired emperor, still proclaims it Japan's first Zen temple. Eisai is also credited with bringing tea cultivation to Japan and reportedly planted some of the country's first tea trees on these grounds, which makes this an easy-to-miss but genuinely significant stop for anyone interested in where Japanese tea culture actually began.\n\nThe temple buildings themselves are closed to the public, but the grounds are open to walk through, and the atmosphere of working monastery rather than tourist site is part of the appeal. Photography is fine outdoors, though tripods, drones, and photographing monks without permission are all off limits.\n\nBecause there isn't much to \"do\" here beyond walking and reading the information boards, it rarely gets crowded even on weekends, making it a calm contrast after the busier Kushida Shrine or Canal City area nearby. Fifteen or twenty minutes is enough for most visitors.",
     "access": "Short walk from Gion Station (Kuko Line), or about a 15-20 minute walk from Hakata Station",
     "address": "6-1 Gokushomachi, Hakata Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/7115326/pexels-photo-7115326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/634009/pexels-photo-634009.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -13634,7 +13641,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "canal-city-hakata-ramen-stadium",
@@ -13910,7 +13918,7 @@
     "description": "Just south of Tenjin's main shopping blocks, the Imaizumi neighborhood shifts abruptly from department stores to quiet residential streets lined with small, independently owned cafes, many occupying converted houses rather than purpose-built storefronts. It's the kind of area locals treat as a genuine neighborhood rather than a shopping destination, which is exactly what makes it appealing after the intensity of central Tenjin.\n\nExpect specialty coffee roasters, small patisseries, and the occasional bookshop-cafe hybrid, with much of the charm coming from not knowing exactly what's behind each unmarked door until you're inside. Seating is often limited to a handful of tables, so weekend afternoons at popular spots can mean a short wait.\n\nBecause there's no single main street to follow, wandering somewhat aimlessly through the side lanes south of Watanabe-dori is part of the experience rather than a sign you're doing it wrong. Weekday mornings tend to be the calmest time to actually get a seat without waiting.",
     "access": "10-15 minute walk south from Tenjin subway station",
     "address": "Imaizumi, Chuo Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/11947134/pexels-photo-11947134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/7115333/pexels-photo-7115333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -13919,7 +13927,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "motsunabe-daimyo",
@@ -13978,7 +13987,7 @@
     "description": "Ohori Park was built around what was originally the western moat of Fukuoka Castle, later expanded into a full park with a central lake, several small connected islands linked by bridges, and a path that loops the water's edge. It functions as much as a working park for residents, joggers, dog walkers, families, as it does a sightseeing spot, which gives it a relaxed, unpolished feel compared with more curated attractions.\n\nThe islands and bridges make for pleasant, unhurried walking, and benches along the lakeside are a natural rest stop between the adjacent Fukuoka Castle ruins and Fukuoka Art Museum, both within easy walking distance. Rental boats are sometimes available on the lake depending on the season.\n\nEarly morning is when the park feels most local, full of joggers and walkers rather than tourists, while weekend afternoons draw families and groups picnicking on the grass. Cherry blossoms along the paths in early April and vivid autumn foliage in November make those the two standout seasons to visit, though both also bring the largest crowds.",
     "access": "2-minute walk from Ohori-Koen Station (Kuko Line)",
     "address": "1 Ohorikoen, Chuo Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/33075961/pexels-photo-33075961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/29639597/pexels-photo-29639597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://www.ohorikouen.jp/en/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -13988,7 +13997,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "fukuoka-castle-ruins-maizuru-park",
@@ -14050,7 +14060,7 @@
     "description": "Fukuoka Art Museum occupies a lakeside site at the edge of Ohori Park and holds a collection spanning historic Buddhist art and craft objects alongside a modern and contemporary wing that includes well-known 20th-century Western artists as well as Japanese and Asian contemporary work. The split between old and new across the two collection areas gives visitors a fairly broad overview in a single visit.\n\nThe building underwent a significant renovation in recent years, and the surrounding grounds connect directly into Ohori Park's walking paths, making a stop here an easy extension of a park visit rather than a separate trip. A cafe and museum shop are on site for a break between galleries.\n\nWeekday visits tend to be noticeably quieter than weekends, particularly during special touring exhibitions, which can draw larger crowds than the permanent collection alone. Parking near the museum fills up quickly on weekends and holidays, so arriving by subway or bus is generally the smoother option during peak times.",
     "access": "10-minute walk from Ohori-Koen Station, or about 5 minutes from Tenjin by bus",
     "address": "1-6 Ohorikoen, Chuo Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/37861873/pexels-photo-37861873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/38563922/pexels-photo-38563922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://www.fukuoka-art-museum.jp/en/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -14060,7 +14070,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "fukuoka-tower",
@@ -14121,7 +14132,7 @@
     "description": "This all-weather dome is home to the SoftBank Hawks, one of Japan's most successful professional baseball franchises, and its retractable roof was reportedly the first of its kind built in the country. On game days it's a lively, high-energy venue with the kind of coordinated cheering and chanting Japanese baseball crowds are known for, quite different from the more subdued atmosphere at many Western stadiums.\n\nWhen there isn't a game scheduled, guided tours are available that take visitors through areas normally off-limits, including locker rooms, dugouts, and sometimes close-up views of the roof mechanism itself, giving a sense of the stadium even outside the baseball season or on off days. Tour offerings can vary, so checking availability in advance is worth doing if a tour is the main draw.\n\nGame-day tickets are relatively easy for visitors to buy compared with some other Japanese sports, and even without deep baseball knowledge, the atmosphere alone can be worth attending for. The surrounding complex includes restaurants, shops, and a hotel connected directly to the dome.",
     "access": "10-minute walk from Tojinmachi Station (Kuko Line)",
     "address": "2-2-2 Jigyohama, Chuo Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/35196016/pexels-photo-35196016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/37107831/pexels-photo-37107831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14130,7 +14141,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "nagahama-fish-market",
@@ -14195,7 +14207,7 @@
     "description": "Uminonakamichi occupies a long, narrow peninsula across Hakata Bay from central Fukuoka, and its scale sets it apart from the city's smaller downtown parks: flower gardens, a water park, a small zoo, sports fields, and long stretches of open lawn are all spread across the site, with cycling trails connecting the different areas. Roughly 2,000 cherry trees line the lawns and paths, forming blossom tunnels that make it one of the city's better-regarded hanami spots in late March and early April.\n\nSeasonal events run through the year, including spring flower festivals, rose displays in early summer and autumn, and a cosmos festival in autumn, so the specific flowers on show change significantly depending on when you visit. Renting a bicycle is a popular way to cover the park's considerable size rather than walking the whole thing.\n\nMarine World Uminonakamichi, a separate aquarium, sits just across the train tracks from the park and requires its own ticket, worth factoring into planning if visiting both in one day. Weekends and cherry blossom season bring the heaviest crowds; weekday visits outside peak flower periods are considerably calmer.",
     "access": "About 30 minutes from Hakata Station on the JR Kashii Line to Kaizuka, then a short walk, or ferry from Hakata Wharf",
     "address": "18-25 Saitozaki, Higashi Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/7968194/pexels-photo-7968194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/7968193/pexels-photo-7968193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14204,7 +14216,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "marine-world-uminonakamichi",
@@ -14242,7 +14255,7 @@
     "description": "Shikanoshima sits at the mouth of Hakata Bay, linked to the mainland by a sand-and-pebble sandbar known as a tombolo, a geographic feature that lets visitors walk or drive straight across without a boat if approaching from that side. Its main claim to fame is the 1784 discovery of an ancient gold seal, thought to have been a diplomatic gift from a Chinese emperor to an early Japanese ruler; the actual seal is now kept at Fukuoka City Museum, but a small free museum on the island covers the story and the island's maritime history in more depth.\n\nBeyond the history, the island offers coastal scenery and cycling routes along the water, a pleasant contrast to the denser city center, and a handful of small seafood restaurants near the harbor.\n\nGetting there involves a genuine trip, whether by ferry from Hakata Port, a combination of JR train and bus, or driving across the causeway, so it works best as a half-day or full-day excursion rather than a quick add-on. Weekday visits tend to be quiet outside of local fishing and beach activity; the small museum keeps limited hours and is closed on Mondays.",
     "access": "Ferry from Hakata Wharf (about 30 minutes), or Nishitetsu bus via the causeway from JR Saitozaki Station",
     "address": "Shikanoshima, Higashi Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/7968189/pexels-photo-7968189.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/11947131/pexels-photo-11947131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14251,7 +14264,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "dazaifu-tenmangu",
@@ -14266,7 +14280,7 @@
     "description": "Dazaifu Tenmangu was established over the grave of Sugawara no Michizane, a scholar and politician who was exiled here after losing a power struggle with a rival court clan and died in Dazaifu in 903. He was later deified as Tenjin, the god of learning, and this shrine grew into the head shrine of thousands of Tenjin shrines across Japan, making it a major pilgrimage site for students hoping for exam success.\n\nThe approach to the shrine, lined with shops selling the local umegae-mochi rice cake, leads to a vermillion main hall set among some 6,000 plum trees, planted in reference to a poem Michizane is said to have written about a beloved plum tree before his exile. Late February into March, when the plum blossoms bloom, is one of the most popular times to visit, alongside the equally busy New Year period.\n\nThe main hall recently underwent a multi-year renovation, so current photos and descriptions elsewhere may not fully reflect its present appearance. Arriving early on a weekday morning is the most reliable way to see the shrine grounds before tour groups and school trips arrive later in the day.",
     "access": "5-minute walk from Dazaifu Station (change at Nishitetsu Futsukaichi from Nishitetsu Fukuoka/Tenjin Station)",
     "address": "4-7-1 Saifu, Dazaifu, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/28689000/pexels-photo-28689000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/35827106/pexels-photo-35827106.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://www.dazaifutenmangu.or.jp/en/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -14276,7 +14290,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "kyushu-national-museum",
@@ -14290,7 +14305,7 @@
     "description": "Rather than organizing its collection strictly by art movement or period, Kyushu National Museum tells the story of Japanese history through the lens of cultural exchange with the Asian mainland, a natural fit given Dazaifu's historic role as a diplomatic and trade gateway from the 8th to 12th centuries. The fourth-floor Cultural Exchange Exhibition is the permanent centerpiece, covering Japanese prehistory through the late 19th century.\n\nThe building's glass exterior is designed to reflect the surrounding sky and mountains, blending the structure into the landscape rather than dominating it, and it's worth pausing to look at the exterior before heading inside. A covered moving walkway, sometimes called the Rainbow Tunnel, connects the museum directly to the rear of Dazaifu Tenmangu, making it an easy, mostly step-free extension of a shrine visit.\n\nAdmission to the permanent exhibition is separate from any special touring exhibitions, which sometimes carry an additional fee. Because most visitors come primarily for the shrine, the museum itself tends to be markedly less crowded, a good option for anyone wanting a quieter, air-conditioned break during a Dazaifu day trip.",
     "access": "10-minute walk from Dazaifu Station, connected to Dazaifu Tenmangu by a covered moving walkway",
     "address": "4-7-2 Ishizaka, Dazaifu, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/38427620/pexels-photo-38427620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/36920210/pexels-photo-36920210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://www.kyuhaku.jp/en/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -14300,7 +14315,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "starbucks-dazaifu-omotesando",
@@ -14315,7 +14331,7 @@
     "description": "This is a fully functioning Starbucks, but the building itself is the real attraction: architect Kengo Kuma designed the interior around a diagonal lattice of roughly 2,000 cedar sticks, assembled using a traditional joinery technique called kigumi that locks the wood together without nails. The effect is a tunnel-like space that Kuma has described as making customers feel like they're drinking coffee inside a forest.\n\nIt sits directly on Dazaifu's main pedestrian approach to the shrine, wedged between the more traditional shopfronts selling umegae-mochi and souvenirs, which makes the contrast between old and new even more striking. The menu itself is standard Starbucks fare, so the appeal here is purely architectural rather than culinary.\n\nBecause it's a working cafe on a very high-traffic pilgrimage street, expect a line for both ordering and seating, especially on weekends and during plum blossom season. A quick photo of the exterior lattice is possible even without buying anything, useful if you're short on time or the queue looks long.",
     "access": "On the main approach to Dazaifu Tenmangu, 5-minute walk from Dazaifu Station",
     "address": "3-2-43 Saifu, Dazaifu, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/28689000/pexels-photo-28689000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/5918963/pexels-photo-5918963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14324,7 +14340,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "dazaifu-omotesando-umegae-mochi",
@@ -14363,7 +14380,7 @@
     "description": "Yanagawa's network of narrow canals, dug centuries ago for irrigation and moat defenses around the old castle town, is now best experienced from a long, narrow wooden boat poled along by a boatman standing at the stern, not unlike a Venetian gondola or an Oxford punt. The full route covers around four kilometers and takes roughly an hour, passing under low stone bridges and beneath overhanging willows, with boatmen traditionally singing folk songs along the way.\n\nSeveral punting companies operate from docks near Nishitetsu Yanagawa Station, and no advance reservation is strictly required, though waiting ten to twenty minutes between registering and actually boarding is common, especially at busier times. Prices vary somewhat by season and operator.\n\nCombination tickets pairing the train ride from Fukuoka with punting are sold at Nishitetsu stations and can work out cheaper than booking separately. The town itself, sometimes nicknamed the Venice of Kyushu, is worth a slow wander before or after the ride, and pairing the trip with a visit to Ohana, the old Tachibana clan villa nearby, makes for a fuller day out.",
     "access": "About 50 minutes from Nishitetsu Fukuoka (Tenjin) Station to Nishitetsu Yanagawa Station, then a 5-minute walk to the docks",
     "address": "Yanagawa, Fukuoka Prefecture",
-    "imageUrl": "https://images.pexels.com/photos/37283060/pexels-photo-37283060.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/28988854/pexels-photo-28988854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14372,7 +14389,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "mentaiko-fukuya-honten",
@@ -14434,7 +14452,7 @@
     "description": "Tucked into the basement level beneath Hakata Station's modern concourses, this narrow underground arcade has a noticeably older, more worn-in atmosphere than the polished shopping floors above, with small counter-style shops crammed close together and low ceilings that add to the retro feel. Ramen dominates the food options, though a few other quick-eat counters are mixed in.\n\nBecause it's underground and easy to walk past without noticing the entrance, it tends to draw more local office workers and commuters grabbing a fast meal than tourists, which keeps the atmosphere unpretentious and the prices reasonable compared with dining upstairs in the main station building. Most counters seat only a handful of people, so a short wait at peak lunch or dinner hours is common.\n\nIt's an easy stop if you're already moving through Hakata Station, whether killing time before a Shinkansen departure or just looking for a quick, no-frills bowl of ramen away from the busier food floors above ground. Late morning, just before the lunch rush, tends to have the shortest waits.",
     "access": "Basement level of the underground area beneath Hakata Station",
     "address": "Hakata Ekichuogai, Hakata Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/35196016/pexels-photo-35196016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/37920007/pexels-photo-37920007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -14443,7 +14461,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "futsukaichi-onsen",
@@ -14457,7 +14476,7 @@
     "description": "Futsukaichi is one of the older hot spring areas in the region, with a history said to stretch back over a thousand years and long associations with travelers passing through nearby Dazaifu. It's a compact, low-key onsen town rather than a large resort area, built around a cluster of ryokan and public bathhouses rather than flashy tourist infrastructure.\n\nA number of the ryokan here offer day-use bathing, known as higaeri onsen, letting visitors soak in the mineral waters for a few hours without booking a room, which makes it realistic to fit in as a short detour on the way to or from Dazaifu Tenmangu rather than a separate overnight trip. Facilities and prices vary between establishments, so it's worth checking a couple of options if you have a specific one in mind.\n\nBecause it sits just one stop before the Dazaifu transfer on the same rail line, combining a temple visit with a soak afterward is straightforward logistically. Weekday afternoons tend to be quieter than weekends, when day-trippers from Fukuoka city often stop in.",
     "access": "5-minute walk from Nishitetsu Futsukaichi Station, one stop before the Dazaifu Line transfer",
     "address": "Futsukaichi, Chikushino, Fukuoka Prefecture",
-    "imageUrl": "https://images.pexels.com/photos/36937585/pexels-photo-36937585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/31021497/pexels-photo-31021497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14466,7 +14485,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "ropponmatsu-shopping-street",
@@ -14481,7 +14501,7 @@
     "description": "Ropponmatsu is a quiet, mostly residential district just west of Ohori Park, centered on a modest shopping and dining complex that locals treat as a neighborhood hub rather than a destination attraction. The surrounding streets, lined with older trees that give the area its name, are dotted with independent bakeries, small boutiques, and family-run restaurants that see far more regular customers than tourists.\n\nIt's the kind of area that rewards slow, unstructured wandering rather than a checklist of specific stops, since much of the appeal is simply in the relaxed, lived-in atmosphere so different from Tenjin's shopping intensity a few subway stops away. A university nearby adds a bit of youthful energy to an otherwise residential feel.\n\nBecause it barely registers on most visitor itineraries, it's about as calm as central Fukuoka gets on any given day, and it pairs naturally with a walk through Ohori Park or a visit to Fukuoka Art Museum, both within easy reach on the same subway line.",
     "access": "Directly above Ropponmatsu Station on the Nanakuma Line",
     "address": "Ropponmatsu, Chuo Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/7968003/pexels-photo-7968003.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/11947137/pexels-photo-11947137.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -14490,7 +14510,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yakuin-backstreets",
@@ -14505,7 +14526,7 @@
     "description": "South of the Watanabe-dori corridor that separates it from central Tenjin, Yakuin has developed a reputation among Fukuoka residents as a place for small, personal businesses: single-chair hair salons run by one stylist, natural wine bars with only a handful of seats, and design or homeware shops set up in converted houses rather than commercial storefronts. It has none of Tenjin's department-store scale and most of its charm comes from exactly that.\n\nThe pace here is noticeably slower, and because many businesses are appointment-based or deliberately small, it rewards visitors willing to just walk the residential streets rather than following a set shopping route. Cafes tend to be a good default stop if you want to sit somewhere and take in the neighborhood rather than just pass through.\n\nIt draws a fairly local, design-conscious crowd rather than tourists, so don't expect English signage or tourist infrastructure; treat it as a chance to see how younger Fukuoka residents actually spend a weekend rather than a curated attraction.",
     "access": "5-minute walk from Yakuin Station (Nanakuma Line)",
     "address": "Yakuin, Chuo Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/30618753/pexels-photo-30618753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/36684634/pexels-photo-36684634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -14514,7 +14535,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "fukuoka-city-science-museum",
@@ -14529,7 +14551,7 @@
     "description": "This science museum mixes interactive exhibits covering physics, space, and technology with a large planetarium-style dome theater that runs scheduled shows through the day, popular enough that arriving with some buffer before a specific showtime is a good idea. Exhibits are generally designed with hands-on interaction in mind, which makes it a reliable option for families traveling with kids who need a break from walking tours and shrines.\n\nIt sits in the same general Momochi waterfront area as Fukuoka Tower, Momochi Seaside Park, and PayPay Dome, so it fits naturally into a day built around that part of the city rather than requiring a separate trip. Being indoor and air-conditioned also makes it a sensible fallback on days when the summer heat or a rainy spell makes the beach and tower less appealing.\n\nWeekends and school holidays bring noticeably larger crowds, particularly around the dome theater showtimes; a weekday visit gives a much better chance at walking straight into a show without a wait.",
     "access": "Short walk from Nishijin Station, near Fukuoka Tower and Momochi Seaside Park",
     "address": "2-1-1 Momochihama, Sawara Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/37861873/pexels-photo-37861873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/38353235/pexels-photo-38353235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14538,7 +14560,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yanagibashi-rengo-ichiba",
@@ -14553,7 +14576,7 @@
     "description": "Locals call this narrow, unglamorous arcade \"Hakata's kitchen,\" and the nickname is earned rather than marketed. Fishmongers shout prices next to mentaiko specialists, greengrocers, a wine shop, and a bakery, and a large share of the trade is genuinely wholesale, with chefs from ryotei and hotel kitchens filling baskets before the lunch rush. It has none of the polish of a purpose-built tourist market, which is exactly the appeal for anyone who wants to see how the city actually eats.\n\nA handful of counters sell donburi, grilled fish sets, or oyster and sashimi plates at lunchtime, so it works as a meal stop as much as a browsing spot. Prices are posted in yen only and English is limited, so pointing and smiling goes a long way. Most shops close by early evening and some rest on Sundays, so a weekday morning is the safest bet for full activity.\n\nThe market sits a short walk south of Tenjin, tucked between office blocks, so it is easy to combine with a stroll along Watanabe-dori. Because it has never been redeveloped into a food hall, stalls can and do close without notice as owners retire, which only adds to the sense that visitors are seeing a slice of everyday Hakata rather than a preserved attraction.",
     "access": "About 10-12 minutes on foot south from Tenjin Station, or a short walk from Watanabe-dori Station on the Nanakuma subway line.",
     "address": "1-5-1 Haruyoshi, Chuo-ku, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/11986230/pexels-photo-11986230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/30443954/pexels-photo-30443954.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -14562,7 +14585,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "tocho-ji-fukuoka-daibutsu",
@@ -14577,7 +14601,7 @@
     "description": "Tocho-ji is one of the oldest temples in the city, said to have been founded in the early ninth century by the priest Kukai after his return from study in China, but its main draw for most visitors is far more recent. The seated wooden Buddha statue inside the modern hall stands roughly ten meters tall and is described by the temple as the largest of its kind in Japan, carved from Japanese cypress over several years and completed in 1992. Behind the statue, thousands of small Buddha images line the wall.\n\nThe more memorable experience is underneath the statue: visitors descend into a completely unlit corridor representing the path through hell toward paradise, feeling along a handrail in total darkness before emerging near a symbol of enlightenment. It is a simple but genuinely effective piece of religious theater, and it costs only a small entry fee.\n\nBecause the temple sits a few minutes' walk from Canal City and Gion Station, it is easy to fold into a Hakata old-town walk alongside Kushida Shrine and Joten-ji without needing a special trip. It rarely gets crowded even when Canal City is busy, since most shopping-mall visitors never wander this far into the temple district. Photography of the statue itself may be restricted in parts of the hall, so check posted signs before taking photos.",
     "access": "About 5 minutes on foot from Gion Station (Kuko Line), or a short walk from Canal City Hakata.",
     "address": "2-4 Gokushomachi, Hakata-ku, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/36617759/pexels-photo-36617759.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/33701681/pexels-photo-33701681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14586,7 +14610,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "kushida-jinja",
@@ -14601,7 +14626,7 @@
     "description": "Kushida Shrine has watched over the merchants of Hakata for well over a thousand years, and it remains the spiritual anchor of the neighborhood rather than a museum piece. Its most photographed feature is a towering, elaborately decorated float called a kazariyamakasa, kept on permanent display near the entrance so visitors can appreciate the craftsmanship behind Hakata Gion Yamakasa even outside festival season.\n\nThat festival, held every July, culminates in teams racing one-ton floats through the streets at dawn, and the shrine is the finish line. If a trip happens to land in early July, the practice runs and float-building activity around the shrine are worth seeking out; outside that window, the grounds are calm enough for an unhurried look at the old ginkgo tree said to be over a thousand years old and the small shrine buildings tucked around the main hall.\n\nThe shrine sits inside the old Hakata merchant district, a short walk from Canal City and Gion Station, and pairs naturally with a visit to Tocho-ji and the nearby Hakata Machiya Folk Museum. Unlike Dazaifu Tenmangu, it rarely feels overwhelmed by tour groups, making it a comparatively relaxed stop even on weekends. New Year's Eve and the first days of January are the busy exception, when locals queue for hatsumode.",
     "access": "About 5 minutes on foot from Gion Station (Kuko Line), or a short walk from Canal City Hakata and Nakasu-Kawabata Station.",
     "address": "1-41 Kamikawabata-machi, Hakata-ku, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/33531205/pexels-photo-33531205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/30443952/pexels-photo-30443952.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14610,7 +14635,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "joten-ji",
@@ -14648,7 +14674,7 @@
     "description": "Most Canal City visitors never notice that the mall's back exit spills directly into one of the densest concentrations of historic temples in Kyushu. The Reisenmachi and Gokushomachi blocks hold Kushida Shrine, Tocho-ji, Joten-ji, Shofuku-ji (regarded as Japan's first Zen temple, founded in 1195), and a scattering of smaller temples and cemeteries along lanes barely wide enough for a car.\n\nWalking the area without a fixed itinerary is the point: gates open onto small courtyards, incense drifts from side alleys, and stone markers commemorate everything from the origins of udon to the introduction of tea cultivation to Japan, all within a fifteen-minute wander. Most of these temple grounds are free to enter and rarely staffed with ticket booths, so it rewards curiosity over checklist-ticking.\n\nBecause the area sits wedged between the high-traffic Canal City and Nakasu entertainment districts, it is easy to assume there is nothing quiet left nearby, which is exactly why the temple lanes stay peaceful. Early morning, when the temples open but shops have not, is the best window for photographs without other visitors in frame. Comfortable shoes help, as the historic streets are narrow and unevenly paved.",
     "access": "Directly behind Canal City Hakata's south side, about 5-8 minutes on foot from Gion Station.",
     "address": "Reisenmachi and Gokushomachi, Hakata-ku, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/7115326/pexels-photo-7115326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/8085870/pexels-photo-8085870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14657,7 +14683,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "sumiyoshi-jinja-fukuoka",
@@ -14671,7 +14698,7 @@
     "description": "While Osaka's Sumiyoshi Taisha is the most famous shrine in this lineage, local tradition in Fukuoka holds that this smaller shrine, close to the ancient port of Hakata, is the original from which the others descended, making it a point of quiet pride for the city rather than a heavily marketed claim. The current buildings, styled in the ancient Sumiyoshi-zukuri architectural form, sit in a wooded compound that feels noticeably cooler and calmer than the surrounding streets.\n\nThe shrine is dedicated to deities associated with the sea and safe voyages, fitting for a port city, and a sumo ring on the grounds hosts occasional matches and rituals tied to the shrine calendar. Because it sits only a short walk from Hakata Station, it is easy to treat as a fifteen-minute detour before catching a train, yet most Shinkansen travelers rushing between platforms never realize it is there.\n\nVisiting outside major holidays, the grounds are close to empty, offering a genuine sense of calm rarely found this close to one of Japan's busiest stations. The approach path lined with stone lanterns is particularly pleasant in the early evening light.",
     "access": "About 10 minutes on foot from the Hakata-guchi (north) exit of JR Hakata Station.",
     "address": "3-1-51 Sumiyoshi, Hakata-ku, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/33531205/pexels-photo-33531205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/5473049/pexels-photo-5473049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14680,7 +14707,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "kego-jinja",
@@ -14694,7 +14722,7 @@
     "description": "Kego Shrine has stood in what is now Fukuoka's busiest commercial district for over a thousand years, predating the department stores and cafes that now surround it on nearly every side. Its unassuming stone torii gate opens directly onto a Tenjin side street, and stepping through it drops the ambient noise of the shopping district almost immediately, thanks to a small stand of trees around the modest main hall.\n\nBecause it has no famous festival or headline artifact, it rarely appears on standard sightseeing lists, despite sitting closer to central Tenjin than almost any other shrine in the city. Locals stop by for quick prayers before work or between errands, and the shrine's understated presence makes it feel more like a neighborhood fixture than an attraction.\n\nA visit takes only ten or fifteen minutes, which makes it an easy way to break up a day of shopping between Tenjin's malls and Daimyo's boutiques. It is at its best during the New Year period, when queues form for hatsumode despite the shrine's small footprint, and during any of the shopping district's evening hours, when its quiet grounds contrast sharply with the neon outside.",
     "access": "About 2 minutes on foot from Tenjin Station, just off the main shopping streets.",
     "address": "2-2-20 Tenjin, Chuo-ku, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/33531205/pexels-photo-33531205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/35827103/pexels-photo-35827103.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -14703,7 +14731,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "imaizumi-backstreets-cafes",
@@ -14717,7 +14746,7 @@
     "description": "Just south of Tenjin's department stores, the Imaizumi and Yakuin-adjacent side streets thin out into a residential-feeling grid where small cafes, wine bars, and bakeries occupy converted apartments and narrow storefronts. Unlike the chain coffee shops lining the main roads, most of these places seat a dozen people or fewer and are run by a single owner-barista, giving each one a distinct personality rather than a standardized menu.\n\nThe appeal is in wandering rather than following a fixed list, since the scene shifts as shops open and close, but the general character holds: specialty coffee roasters, a few pastry-focused spots, and cafes that double as small galleries or record shops after dark. Many stay open later than typical Japanese cafes, making the area a good option for an evening coffee or dessert after dinner elsewhere in Tenjin.\n\nBecause the area has no single landmark to draw a crowd, it stays comfortably quiet even during Tenjin's busiest shopping hours, which is part of the draw for residents who treat it as a retreat from the main streets. A slow weekday afternoon, when shops are open but not yet full, is the easiest time to cafe-hop without a wait.",
     "access": "About 5-10 minutes on foot south from Tenjin Station.",
     "address": "Imaizumi, Chuo-ku, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/11947134/pexels-photo-11947134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/31109871/pexels-photo-31109871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14726,7 +14755,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "fukuoka-city-museum",
@@ -14740,7 +14770,7 @@
     "description": "Fukuoka City Museum tells the story of the region from prehistory through the modern era, but its centerpiece is a small, extraordinary object: the gold seal inscribed \"King of Na, vassal of Han,\" said to have been given by the Chinese Han court to a local ruler in the first century CE and unearthed by a farmer on Shikanoshima Island in 1784. Displayed under careful lighting, the seal is a National Treasure and one of the earliest physical records of contact between the Japanese archipelago and mainland China.\n\nBeyond the seal, the museum covers the Hakata Gion Yamakasa festival, the city's history as a trading port, and its role in medieval and early modern Japan, with reconstructions and models that help make sense of a coastline that has changed dramatically over the centuries. Signage includes English throughout the permanent exhibits.\n\nThe museum sits in the Momochi seaside district near Fukuoka Tower, so it pairs naturally with a beach or tower visit, though its exhibits deserve unhurried attention rather than a rushed pass-through. It tends to be quieter than the tower and beach outside, making it a good indoor option on a hot or rainy day.",
     "access": "About 15 minutes by bus from Tenjin toward Momochihama, or a short walk from Fukuoka Tower.",
     "address": "3-1-1 Momochihama, Sawara-ku, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/37861873/pexels-photo-37861873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/38212891/pexels-photo-38212891.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14749,7 +14779,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "nishijin-shopping-street",
@@ -14764,7 +14795,7 @@
     "description": "Nishijin grew up around Fukuoka University and other nearby campuses, and its long covered and semi-covered shopping street still reflects that: inexpensive izakaya, bakeries, secondhand shops, and produce stalls aimed squarely at students and long-time residents rather than visitors. The prices and pace are noticeably more relaxed than Tenjin, a few subway stops away.\n\nThe street rewards slow grazing more than a single must-see stop, from small bakeries selling day-old bread at a discount to family-run izakaya that have served the same neighborhood for decades. Because it sits along the route toward the Nishijin beach and Meinohama coastline, it also works as a natural stopover for anyone heading further west toward Itoshima by car or train.\n\nIt is at its liveliest in the early evening, when students and workers stop in on the way home, and comparatively sleepy in the mid-afternoon lull. Few signs are in English here, which is part of what keeps the street feeling unpolished and genuine rather than curated for outside visitors. A rain-or-shine option, since much of the arcade is covered.",
     "access": "About 15 minutes from Tenjin on the Kuko subway line to Nishijin Station.",
     "address": "Nishijin, Sawara-ku, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/30618753/pexels-photo-30618753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/31007831/pexels-photo-31007831.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14773,7 +14804,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "nishinakasu-bar-alley",
@@ -14811,7 +14843,7 @@
     "description": "Ropponmatsu sits between Tenjin and Ohori Park, a residential pocket built around a small shopping street that takes its name (\"six pine trees\") from a set of old pines once planted along the road. Independent bakeries, a long-running bookstore, small restaurants, and a scattering of secondhand and design shops give the street a settled, unhurried character shaped by decades of the same families running the same storefronts.\n\nThere is no single headline attraction here; the appeal is the texture of an ordinary, comfortable Fukuoka neighborhood rather than a curated set of stops. It makes a pleasant walking link between Ohori Park and Tenjin, letting visitors cut across the city at street level instead of taking the subway directly.\n\nBecause it sits just off the main tourist routes, the street rarely feels crowded at any time of day, and shopkeepers are used to a mostly local clientele rather than a tourist rush. A weekday late morning, when bakeries have fresh stock and the street is at its most active without being overrun by rush hour, is a good time to browse. There is no strong seasonal pull, though the pine and street trees add a bit of green shade in summer.",
     "access": "About 5 minutes on foot from Ropponmatsu Station on the Nanakuma subway line, between Tenjin and Ohori Park.",
     "address": "Ropponmatsu, Chuo-ku, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/30618753/pexels-photo-30618753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/5948494/pexels-photo-5948494.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -14820,7 +14852,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "hakata-ori-kaikan",
@@ -14834,7 +14867,7 @@
     "description": "Hakata-ori weaving dates back roughly to the thirteenth century, developed after a Hakata merchant returned from studying textile techniques in Song-dynasty China, and it became prized enough that the Kuroda domain presented it as an annual tribute to the shogunate during the Edo period, giving rise to the traditional \"kenjo\" striped pattern still used today. This modest hall displays finished obi sashes, ties, and small goods made with the technique, alongside explanations of the thick, ridged weave that makes Hakata-ori distinct from other Japanese textiles.\n\nDepending on the day, a weaver may be working at a loom on site, offering a rare chance to see the dense, labor-intensive process up close rather than only the finished product. The attached shop sells smaller, more affordable items like coin purses and neckties for visitors who want a wearable souvenir without committing to a full obi.\n\nIt is a low-key, easily overlooked stop compared to the department stores and craft centers elsewhere in the city, and it rarely sees crowds even on weekends. Hours and whether a weaver will be present can vary, so it is worth calling ahead or checking locally if seeing the loom in action matters to the visit.",
     "access": "In central Hakata, within walking distance of Nakasu-Kawabata or Gion Station; exact route depends on current location, best confirmed locally.",
     "address": "Hakata-ku, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/35196016/pexels-photo-35196016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/18097039/pexels-photo-18097039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14843,7 +14876,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "shikanoshima-kinin-park",
@@ -14857,7 +14891,7 @@
     "description": "Shikanoshima sits at the tip of the sandy Umi-no-Nakamichi spit and is connected to the mainland by land, unlike Nokonoshima's ferry-only access, making it an easy stop by car or bicycle. Its main historical claim is the 1784 discovery of the gold seal inscribed \"King of Na, vassal of Han,\" unearthed by a local farmer and now a National Treasure displayed at Fukuoka City Museum; a small park near the reputed discovery site marks the spot, though the seal itself is not kept on the island.\n\nBeyond the history, the island has a scattering of small shrines, beaches, and hiking paths up Mt. Shika, with views back across Hakata Bay toward the city skyline. It is a working fishing community as much as a sightseeing stop, so much of its charm is in the unhurried coastal scenery rather than a single headline attraction.\n\nBecause most visitors head straight for the more famous Umi-no-Nakamichi Seaside Park nearby, Shikanoshima itself stays relatively quiet, especially on weekdays. Renting a bicycle at Uminonakamichi Station and riding out to the island is a popular way to combine both in a single day, particularly in the cooler months when the coastal ride is most comfortable.",
     "access": "By car or rental bicycle from Uminonakamichi Station (JR Kashii Line) via the Umi-no-Nakamichi spit, or bus from Fukuoka city center.",
     "address": "Shikanoshima, Higashi-ku, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/38197948/pexels-photo-38197948.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/4706839/pexels-photo-4706839.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -14866,7 +14900,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "kashii-gu-shrine",
@@ -14951,7 +14986,7 @@
     "description": "In the early twentieth century, a Sasaguri resident who had completed the arduous 88-temple pilgrimage across Shikoku brought soil from each of those temples back to this valley, allowing a scaled-down version of the same pilgrimage to be walked here in a single day or two instead of over a month. The full route today loops through the hills around Sasaguri, including a detour past Nanzoin's giant reclining Buddha, connecting dozens of small temples, roadside statues, and mountain shrines.\n\nMost visitors will not walk the entire circuit, but sampling even a few kilometers gives a real sense of the pilgrimage atmosphere, with hand-carved stone markers, small votive statues wrapped in red cloth, and the occasional local pilgrim dressed in traditional white walking gear and a conical hat. Trail conditions vary from paved lanes to forest paths, so footwear and a rough map matter more here than at a single-site temple.\n\nBecause the full pilgrimage is a genuine undertaking rather than a tourist loop, foreign visitors are still a rare sight on the trail, and most of the people encountered along the way are local pilgrims or Sasaguri residents. Spring and autumn offer the most comfortable walking weather; the temple town itself is easy to combine with a Nanzoin visit on the same day.",
     "access": "About 25-30 minutes by JR Fukuhoku Yutaka Line from Hakata Station to Sasaguri Station, with trailheads spread around the town.",
     "address": "Sasaguri-machi, Kasuya-gun, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/33701666/pexels-photo-33701666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/8780851/pexels-photo-8780851.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -14960,7 +14995,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "sakurai-futamigaura",
@@ -14997,7 +15033,7 @@
     "description": "At the tip of the Itoshima peninsula, wave action has carved a large sea cave into a headland of hexagonal basalt columns, formed by the same kind of volcanic cooling process seen at sites like Northern Ireland's Giant's Causeway on a different scale. Designated a national natural monument, the cave and surrounding cliffs are the highlight of a short coastal trail that also passes small shrines and lookout points over the Genkai Sea.\n\nMost visitors see the cave from a lookout point above rather than entering it directly, since access to the cave mouth itself depends on tide and sea conditions. During busier seasons, small sightseeing boats sometimes run from the nearby harbor, offering a closer view of the cave from the water, though schedules can be irregular and are worth confirming locally rather than assuming availability.\n\nThe walk from the parking area to the main viewpoint takes only fifteen to twenty minutes each way over a mostly clear path, making this an accessible stop even without serious hiking gear. It gets a fraction of the visitors that Sakurai Futamigaura sees down the coast, so even on a weekend the cliffs rarely feel busy. Sturdy shoes are worth it, since parts of the path are uneven rock.",
     "access": "By car from JR Chikuzen-Maebaru Station (about 30-40 minutes from Hakata by train), roughly 20-25 minutes' drive to the trailhead.",
     "address": "Shima, Itoshima, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/38427620/pexels-photo-38427620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/17308635/pexels-photo-17308635.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -15006,7 +15042,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "sakurai-jinja-itoshima",
@@ -15019,7 +15056,7 @@
     "description": "According to shrine tradition, a violent thunderstorm in 1610 split open a rock face on this hillside, revealing a natural cave from which the shrine's origins are said to trace; the local feudal lord, moved by reports of the event, had the main shrine hall built in 1632. Today the shrine complex includes the main hall partway up a wooded approach and a smaller inner shrine, Amanoiwato, near the cave itself, reached by a further short climb.\n\nSakurai Shrine has become known specifically as a matchmaking and relationship shrine, drawing visitors hoping for good fortune in love, and it enshrines guardian spirits linked to both the inner and outer shrines of Ise. Once a year, in early July, a predawn ritual opens the inner cave shrine to visitors, drawing a notable crowd that contrasts with the shrine's otherwise quiet daily rhythm.\n\nOutside that one ritual date, the wooded grounds and stone steps are peaceful enough for an unhurried visit, and the shrine sits close enough to Sakurai Futamigaura to combine both in one coastal outing. The forest setting keeps the shrine noticeably cooler in summer than the open coastal road nearby.",
     "access": "By car or taxi from JR Chikuzen-Maebaru Station, about 15-20 minutes' drive, close to Sakurai Futamigaura.",
     "address": "3777 Sakurai, Itoshima, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/33531205/pexels-photo-33531205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/34924774/pexels-photo-34924774.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -15028,7 +15065,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "itoshima-sunset-road-cafes",
@@ -15042,7 +15080,7 @@
     "description": "Itoshima's roughly 30-kilometer Sunset Road hugs the coastline past Keya-no-Oto, Sakurai Futamigaura, and a string of surf beaches, and over the past decade or two it has become known almost as much for its cafes as for its scenery. Former farmhouses and beachside plots have been converted into airy, wood-and-glass cafes serving pancakes, specialty coffee, and locally grown produce, many with ocean or rice-field views from the seating area.\n\nThe area's relaxed, slightly bohemian identity has grown alongside its surf culture, and it draws a steady stream of Fukuoka residents on weekend day trips as much as visitors from further afield, meaning popular spots can have a genuine wait around lunchtime on weekends. A car is by far the easiest way to explore, since cafes are spread along kilometers of coastal road rather than clustered in one walkable area.\n\nGoing on a weekday, or timing a visit for a late afternoon coffee rather than peak lunch hours, avoids most of the crowding. Because the specific roster of cafes changes over time as businesses open and close, it's worth checking current recommendations locally rather than chasing one specific name; the drive and the atmosphere are the constant, more than any single shop.",
     "access": "A car is the most practical option; roughly 40-50 minutes' drive from central Fukuoka, or taxi/rental car from JR Chikuzen-Maebaru Station.",
     "address": "Itoshima, Fukuoka (Sunset Road coastal area)",
-    "imageUrl": "https://images.pexels.com/photos/11947134/pexels-photo-11947134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/11947128/pexels-photo-11947128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -15051,7 +15089,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "shiraito-falls-itoshima",
@@ -15089,7 +15128,7 @@
     "description": "Munakata Taisha is actually three linked shrines, honoring three sister deities associated with safe sea travel, with the main Hetsu-miya shrine on the mainland, a second shrine on Oshima Island, and a third on the remote, still largely restricted island of Okinoshima far out in the strait toward Korea. That third island, where centuries of ritual offerings were made by ancient travelers praying for safe passage, is central to the complex's 2017 inscription as a UNESCO World Heritage Site.\n\nMost visitors experience Okinoshima's significance secondhand through the Shinpokan treasure hall at the main shrine, which displays mirrors, jewelry, weapons, and other ritual objects recovered from the island's ancient offering sites; the entire collection, numbering roughly 80,000 items, is designated National Treasure status, giving the hall an unusually high concentration of nationally protected artifacts for a shrine museum.\n\nThe mainland shrine grounds themselves, with a forested approach and a peaceful pond, are worth a slow walk beyond the treasure hall. Because Munakata sits well outside the standard Dazaifu-focused day-trip circuit, it draws a much thinner crowd relative to its historical importance, making a weekday visit close to solitary outside of festival dates.",
     "access": "By car, or JR to Tojinmachi Station then a local bus toward Munakata Taisha; a car is more practical for a full day including Oshima.",
     "address": "2331 Tashima, Munakata, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/33531205/pexels-photo-33531205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/31569902/pexels-photo-31569902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://munakata-taisha.or.jp/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -15099,7 +15138,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "kawachi-fujien",
@@ -15161,7 +15201,7 @@
     "description": "Nicknamed the \"moss temple,\" Komyozenji is a small Rinzai Zen temple founded in the late thirteenth century, tucked down a side street barely a few minutes' walk from the packed approach to Dazaifu Tenmangu, yet visited by only a fraction of the crowd next door. Its front dry landscape garden arranges fifteen stones to form the character for \"light,\" while the rear garden uses moss to represent land and raked white sand to represent the surrounding sea, both designed by the influential twentieth-century garden designer Shigemori Mirei, making this one of only a few Shigemori gardens in Kyushu.\n\nVisitors sit on the wooden veranda to view both gardens at a slow pace, an experience closer to a Kyoto temple visit than anything else in central Fukuoka. Because of the moss, the grounds are especially vivid after rain and through the humid early summer months, and the temple is also a well-regarded, comparatively quiet spot for autumn maple color.\n\nGiven its proximity to Dazaifu Tenmangu, the easiest way to build in a visit is to peel off the main shrine approach for fifteen minutes; the contrast between the crowded shopping street and this hushed garden is itself part of the experience. A small admission fee applies.",
     "access": "About 2-3 minutes on foot from Dazaifu Tenmangu, a short walk from Nishitetsu Dazaifu Station.",
     "address": "2-16-1 Saifu, Dazaifu, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/33701666/pexels-photo-33701666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/33701670/pexels-photo-33701670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -15170,7 +15210,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "kanzeonji-temple",
@@ -15184,7 +15225,7 @@
     "description": "Kanzeonji was established in the seventh century on the order of Emperor Tenji and grew into the leading Buddhist temple of Kyushu during the Nara and Heian periods, serving a role roughly comparable to Todaiji's standing in the historic capital. Fires and the passage of centuries reduced its once-extensive compound considerably, but the grounds still hold a bronze temple bell that scholars regard as among the oldest surviving in Japan, dated to the seventh century, along with a treasure hall containing a notable collection of wooden Buddhist statues.\n\nWhat remains today is modest in scale compared to the temple's historical peak, and that modesty is part of its appeal: quiet gravel paths, old trees, and a treasure hall that rarely has more than a handful of visitors at a time, even though its contents rival far more famous collections. The adjacent Kyushu National Museum, connected by a short escalator tunnel through the hillside, offers useful context on the wider Dazaifu region's history before or after a visit.\n\nBecause it sits a short walk from, but distinctly apart from, the Dazaifu Tenmangu shopping crowds, Kanzeonji stays calm even during the shrine's busiest hours. A separate fee applies for the treasure hall beyond the free temple grounds.",
     "address": "5-6-1 Kanzeonji, Dazaifu, Fukuoka",
     "access": "About 15-20 minutes on foot from Nishitetsu Dazaifu Station, past Dazaifu Tenmangu, or a short walk from Kyushu National Museum.",
-    "imageUrl": "https://images.pexels.com/photos/33701666/pexels-photo-33701666.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/32897580/pexels-photo-32897580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -15193,7 +15234,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "dazaifu-backstreet-cafes",
@@ -15277,7 +15319,7 @@
     "description": "Ohana began as a secondary residence for the Tachibana clan, who governed the Yanagawa domain through the Edo period, and it was substantially expanded in the Meiji era once the family took on the rank of count, adding a Japanese-style great hall, a Western-style building, and the Matsu-Tei-en pond garden that remains the estate's centerpiece today. The garden centers on a pond ringed by roughly 280 pine trees, fed by water circulated from the old castle moat, and wild ducks reliably arrive to winter on the pond, adding a small seasonal spectacle each year.\n\nThe entire roughly 7,000-tsubo estate is designated a National Place of Scenic Beauty, and the grounds now operate partly as a traditional ryokan and restaurant alongside the areas open for general visitors to walk through. Viewing the garden from the veranda of the main hall, tatami mats underfoot and the pond just beyond the eaves, gives a strong sense of how the estate would have looked to its original residents.\n\nOhana pairs naturally with a Yanagawa river cruise, since many boat routes pass near or dock close to the estate, and a full visit combining both takes a comfortable half-day. Autumn maple color around the pond and winter's visiting ducks are the two strongest seasonal draws.",
     "access": "About a 15-20 minute walk, or a short taxi ride, from Nishitetsu-Yanagawa Station; some river cruise routes dock nearby.",
     "address": "1 Shingaimachi, Yanagawa, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/31297142/pexels-photo-31297142.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/5472375/pexels-photo-5472375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://ohana.co.jp/en/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -15287,7 +15329,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yanagawa-sagemon",
@@ -15324,7 +15367,7 @@
     "description": "According to shrine tradition, Suitengu traces its origins to the late twelfth century, when a lady-in-waiting fleeing the aftermath of the Genpei War's naval defeat at Dan-no-ura settled near the Chikugo River and began venerating the deities and figures associated with that tragedy, including the young Emperor Antoku. The shrine later relocated to its current bluff overlooking the river under the patronage of the Kurume domain's ruling Arima clan in the mid-1600s, and it has since become the head shrine for around a hundred branch Suitengu shrines found across Japan, including a well-known one in Tokyo's Nihonbashi district.\n\nGiven its watery origins and legends tying it to protective water spirits, including local kappa folklore, the shrine gradually became associated with maritime safety and, in modern times, with safe childbirth and fertility, drawing visitors specifically for that purpose today. The riverside setting itself, with views over the wide Chikugo River from the shrine grounds, is a quieter reward for visitors with no personal connection to the childbirth tradition.\n\nKurume sits well off the typical Fukuoka-Dazaifu-Yanagawa circuit, so the shrine draws a mostly local and domestic visitor base rather than international tourists, keeping the grounds calm even on weekends outside of specific prayer seasons.",
     "access": "About 35-40 minutes from Fukuoka (Nishitetsu-Fukuoka/Tenjin) via Nishitetsu Tenjin-Omuta Line to Nishitetsu-Kurume Station, then a short walk or taxi.",
     "address": "265 Sejimachi, Kurume, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/33531205/pexels-photo-33531205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/12047177/pexels-photo-12047177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://suitengu.net/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -15334,7 +15377,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yame-fukushima-shirakabe",
@@ -15349,7 +15393,7 @@
     "description": "Yame's old town grew wealthy under Edo-period trade in tea, paper, and other goods, and its main streets still hold around a hundred surviving traditional buildings, largely thick-walled kura-zukuri storehouses with white plastered facades, dating from the Edo period through the early Showa era. Unlike a preserved museum district, most of these buildings remain in daily commercial use, housing tea merchants, miso and soy sauce makers, confectionery shops, and workshops for the local lantern and Buddhist altar trades that put Yame on the map as a craft town.\n\nWalking the main street means passing working shopfronts rather than roped-off exhibits, and several buildings offer a look inside their storehouse architecture, with heavy tiled roofs and small windows designed originally for fire protection. The general atmosphere is unhurried and lived-in, closer to a quiet regional town going about its business than a tourist set piece.\n\nBecause Yame requires a deliberate trip out from Fukuoka rather than sitting on a standard rail line into the city, it remains almost entirely a domestic and local destination, and visitors are likely to have entire stretches of the street to themselves on a weekday. It combines naturally with a stop at the nearby traditional crafts museum for a fuller sense of the town's lantern-making heritage.",
     "access": "By car, or JR Kagoshima Line to Haiki then a transfer, roughly 60-70 minutes total from Hakata; a car is more practical for a full loop of the old town.",
     "address": "Fukushima, Yame, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/38427620/pexels-photo-38427620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/21853394/pexels-photo-21853394.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -15358,7 +15402,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yame-dento-kogeikan",
@@ -15372,7 +15417,7 @@
     "description": "Yame's cluster of traditional crafts, including Yame chochin paper lanterns, ornate Buddhist household altars, hand-drawn washi paper, and stone lanterns, developed together under the patronage of the Kurume domain during the Edo period, and this museum sets out to explain how those individual trades connect as a single regional craft economy rather than treating each in isolation. Lantern displays show the delicate bamboo-and-paper construction technique behind Yame chochin, which remain a major product for Obon and other seasonal lantern displays across Japan.\n\nCraftspeople sometimes work on site, painting lantern designs or assembling altar components, giving visitors a chance to see techniques passed down through generations rather than only reading about them on a placard. A shop attached to the museum sells finished lanterns, paper goods, and smaller craft items, offering a more considered souvenir option than typical tourist trinkets.\n\nBecause it sits within Yame's old town, a stop here fits naturally alongside a walk through the white-walled Fukushima merchant district. The museum draws a modest, mostly domestic audience, and weekday visits in particular tend to be quiet enough to get real one-on-one attention from staff or a demonstrating craftsperson, if one happens to be working that day.",
     "access": "Within Yame's old town, roughly 60-70 minutes from Hakata by car or a JR/local transfer combination; a car is more practical.",
     "address": "Fukushima, Yame, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/8085872/pexels-photo-8085872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/37252633/pexels-photo-37252633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -15381,7 +15426,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "akizuki-castle-town",
@@ -15514,7 +15560,7 @@
     "description": "The Ishibashi Cultural Center brings together an art museum and a spacious Japanese-and-Western landscaped garden on one site in Kurume, both established through the philanthropy of Shojiro Ishibashi, the Kurume-born businessman who founded a major Japanese tire manufacturer, whose company name is a straightforward English rendering of his own surname, which means \"stone bridge.\" The museum's collection has historically included Japanese modern paintings and Western art, with the collection and gallery arrangements having evolved over the years, so it's worth checking current holdings and any special exhibitions before a visit.\n\nThe attached garden is the more consistently rewarding stop for a casual visitor, combining a traditional Japanese strolling garden with pruned pines and a pond alongside an open Western-style lawn area, giving it a layered, unhurried feel across a fairly compact space. Benches throughout make it an easy spot to slow down for half an hour between other Kurume stops.\n\nKurume itself sees relatively few international visitors compared to Fukuoka city or Dazaifu, and this cultural center in particular tends to draw a local, often older crowd out for a quiet garden walk rather than a specific exhibition. It pairs naturally with a visit to Suitengu Shrine on the same Kurume day trip, given their relatively close proximity within the city.",
     "access": "About 35-40 minutes from Fukuoka (Nishitetsu-Fukuoka/Tenjin) via Nishitetsu Tenjin-Omuta Line to Nishitetsu-Kurume Station, then a short walk or bus.",
     "address": "Kurume, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/28689000/pexels-photo-28689000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/30978499/pexels-photo-30978499.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -15523,7 +15569,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "landmark-tower-sky-garden",
@@ -15538,7 +15585,7 @@
     "description": "For decades this was Japan's tallest building, and the view from its Sky Garden observation floor still makes the case: the whole Minato Mirai waterfront unfolds below, from the Cosmo Clock 21 ferris wheel to the curve of the bay, and on a clear winter morning Mount Fuji is visible in the distance. The ride up is part of the appeal, since the elevators were engineered for speed and cover the climb in well under a minute.\n\nPractically speaking, ticket counters are on the 69th floor itself and lines build up quickly around sunset, when locals come specifically to watch the lights switch on across the bay. Arriving an hour or so before dusk lets you see the skyline in both daylight and lit-up form without fighting the golden-hour crowd. The observation floor has closed for renovation stretches in the past, so it is worth a quick check that it is open before making the trip up.\n\nBelow the observation floor, the tower's lower levels hold a shopping mall and restaurants, making it easy to combine the view with a meal. Because the building sits right between Sakuragicho and Minatomirai stations, it works well as a first or last stop on a Minato Mirai walking route, bookending time spent at the Red Brick Warehouse or Cosmo World nearby.",
     "access": "1-minute walk from Sakuragicho Station, or 5-minute walk from Minatomirai Station",
     "address": "2-2-1 Minatomirai, Nishi-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/29185661/pexels-photo-29185661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/36261944/pexels-photo-36261944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://www.yokohama-landmark.jp/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -15548,7 +15595,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yokohama-cosmo-world",
@@ -15563,7 +15611,7 @@
     "description": "Cosmo World is unusual for an amusement park in that there is no admission fee at the gate; visitors pay per ride instead, which makes it easy to wander in just to look at the Cosmo Clock 21 wheel and its enormous digital clock face, then decide whether to actually ride it. At around 100 meters tall it was once among the largest Ferris wheels anywhere, and it remains one of the most recognizable landmarks in the bay, especially once its LED rim lights up after dark.\n\nThe park is split into two sections connected by a bridge over the old shipping canal, with a mix of family-friendly rides, a roller coaster that dips toward the water, and games stalls. Weekday afternoons are noticeably quieter than weekends, when the park fills with families and couples on Minato Mirai dates.\n\nBecause it sits between the Cup Noodles Museum, World Porters mall, and the Red Brick Warehouse, Cosmo World works well as a midpoint stop on a longer Minato Mirai walk rather than a destination in itself, unless you are traveling with kids who want the rides. The illuminated wheel is at its best on clear evenings, and it is also visible from Yokohama Air Cabin gondolas passing overhead.",
     "access": "3-minute walk from Minatomirai Station, or 8-minute walk from Sakuragicho Station",
     "address": "2-8-1 Shinko, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/34167743/pexels-photo-34167743.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/2389157/pexels-photo-2389157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://cosmoworld.jp/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -15573,7 +15621,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yokohama-red-brick-warehouse",
@@ -15778,7 +15827,7 @@
     "description": "The museum's collection spans Japanese and Western modern and contemporary art, including works connected to Yokohama's own history as a port city open to foreign influence earlier than most of Japan. After closing for a lengthy renovation, it reopened with a brighter, more open entrance hall and an expanded free-to-enter Grand Gallery area, so even visitors who skip the paid exhibitions can experience part of the building.\n\nExhibition lineups change through the year and can include major touring shows alongside the permanent collection, so it is worth checking what is currently on before planning a visit, since ticket prices and crowd levels vary a lot depending on the show. The permanent collection galleries tend to be calmer than special exhibitions, especially on weekday mornings.\n\nSituated at the far end of Grand Mall Park from Minatomirai Station, the museum works well as a slower final stop on a Minato Mirai day, after the busier attractions like Cosmo World or the Landmark Tower. The building's severe, symmetrical stone facade is itself a notable piece of 1980s architecture worth a look even from outside.",
     "access": "3-minute walk from Minatomirai Station, 10-minute walk from Sakuragicho Station",
     "address": "3-4-1 Minatomirai, Nishi-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/23023921/pexels-photo-23023921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://yokohama.art.museum/eng/",
     "isLocalPick": false,
     "affiliateLinks": [
@@ -15788,7 +15837,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yokohama-chinatown-district",
@@ -15874,7 +15924,7 @@
     "description": "Compared to Kanteibyo's centuries of rebuilding, this temple is a relatively recent addition, constructed in the mid-2000s to give Yokohama's Chinese community a dedicated shrine to Mazu, the goddess of the sea widely worshipped along the Chinese and Taiwanese coasts and a natural fit for a temple in a historic port city. The result is a building whose paintwork and carvings are notably crisper and less weathered than the older temples nearby, since it has not yet had to be rebuilt after disaster.\n\nInside, the ornate ceiling painted with dragons is a highlight, along with side altars to other deities associated with protection and good fortune. Because it sits a short walk off Chinatown's busiest restaurant streets, it draws a fraction of the visitors that pass through Kanteibyo, making it one of the easier places in the district to actually stand and look without a crowd behind you.\n\nIt is a natural add-on to a Kanteibyo visit rather than a separate destination, taking only a few extra minutes to reach, and its relative quiet makes it a good stop for anyone who wants a slower, less touristy pause in the middle of Chinatown's otherwise fast-paced main streets.",
     "access": "Short walk from Motomachi-Chukagai Station, within Chinatown",
     "address": "Chinatown, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23024259/pexels-photo-23024259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/19990443/pexels-photo-19990443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -15883,7 +15933,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yokohama-daisekai",
@@ -15898,7 +15949,7 @@
     "description": "Daisekai leans fully into a retro, theatrical version of old Shanghai, with several floors built around that theme rather than a single attraction. The ground floors are largely food courts and souvenir stalls selling Chinatown staples like steamed buns and sweets, while upper floors house a trick-art or optical-illusion exhibit and a costume photo studio where visitors can rent qipao or other period clothing for portraits against elaborate sets.\n\nIt is a more curated, indoor experience than wandering Chinatown's open streets, which makes it a useful option on a hot or rainy day, or for families with kids who want a slower, air-conditioned break from the crowds outside. The costume photo studio in particular draws a steady stream of visitors looking for a souvenir portrait, and booking or arriving earlier in the day tends to mean a shorter wait for a session.\n\nBecause it sits within Chinatown's main grid, it is easy to combine with temple visits and food stops nearby, though it is worth noting that some of the upper-floor attractions charge separate admission on top of any general entry, so budgeting for the specific activities you want in advance avoids surprises.",
     "access": "Short walk from Motomachi-Chukagai Station, within Chinatown",
     "address": "Chinatown, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/23023922/pexels-photo-23023922.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -15907,7 +15958,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yamashita-park-yokohama",
@@ -15946,7 +15998,7 @@
     "description": "Sandwiched between two much more famous attractions, this compact park rarely appears on first-time visitor itineraries, which is exactly what makes it worth a short detour. Its sloped lawn faces the harbor entrance directly, giving an open view across the water toward the Marine Tower and passing ships without the benches and paths of Yamashita Park being nearly as full.\n\nIt works well as a quiet place to sit with a coffee or a snack picked up from the Red Brick Warehouse, especially at lunchtime when nearby attractions are at their busiest. The park has no facilities of its own beyond basic seating and paths, so it functions purely as a rest stop rather than a destination with things to do.\n\nBecause it sits directly on the walking route between the Red Brick Warehouse and Osanbashi Pier, most visitors pass along its edge without ever stepping onto the grass, so simply taking the extra minute to walk into the park itself, rather than along the paved path skirting it, is usually enough to find a quieter spot with a good harbor view, particularly around sunset.",
     "access": "Short walk between the Red Brick Warehouse and Osanbashi Pier",
     "address": "Shinko, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/2389155/pexels-photo-2389155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/7867803/pexels-photo-7867803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -15955,7 +16007,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "hikawa-maru-museum-ship",
@@ -15970,7 +16023,7 @@
     "description": "Launched in 1930 for the Yokohama to Seattle and Vancouver route, the Hikawa Maru carried passengers across the Pacific for decades, including a young Charlie Chaplin on one crossing, before later serving as a hospital ship during the war and eventually settling into permanent retirement at Yamashita Park. Its art deco interiors, particularly the first-class lounge and cabins, have been kept largely as they were, giving a tangible sense of what transpacific travel looked like in the 1930s rather than a purely modern museum reconstruction.\n\nVisitors can walk through several decks including the bridge, engine room, and passenger cabins, with information panels in Japanese and English explaining the ship's service history. It typically closes one weekday, commonly Monday, so it is worth checking the current closing day before planning around it.\n\nBecause it sits directly in Yamashita Park, it is easy to combine with a harbor walk, and its moored silhouette is itself a landmark visible from much of the park and from the nearby Marine Tower observation deck. Crowds are generally manageable except around midday on weekends, when tour groups tend to arrive in clusters.",
     "access": "5-minute walk from Motomachi-Chukagai Station",
     "address": "Yamashita Park, Yamashita-cho, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/36195936/pexels-photo-36195936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/20643789/pexels-photo-20643789.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -15979,7 +16032,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yokohama-marine-tower",
@@ -16088,7 +16142,7 @@
     "description": "Built on the site of the former British Consulate, which served the foreign community here from the late 19th century until the early 1970s, this museum focuses on the diplomatic and commercial history that reshaped Yokohama after Commodore Perry's ships arrived in the 1850s. Its collection includes period newspapers, maps, and personal papers from foreign residents, giving a documentary rather than purely visual account of the city's opening to the outside world.\n\nIt is a smaller, more text-heavy museum than the nearby Red Brick Warehouse or Cup Noodles Museum, so it appeals more to visitors specifically interested in the period than to those looking for a highly visual or interactive stop. Its location on the plaza near Nihon-odori Station keeps it convenient even for a brief visit between other Kannai-area sights.\n\nBecause its subject matter overlaps closely with the Kanagawa Prefectural Museum of Cultural History and the nearby Three Towers, pairing this stop with one or two of those makes for a coherent half-day walk through the diplomatic and commercial heart of old Yokohama, and the relatively low visitor numbers here mean it rarely requires any wait.",
     "access": "3-minute walk from Nihon-odori Station",
     "address": "Nihon-odori area, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/36195936/pexels-photo-36195936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/7948604/pexels-photo-7948604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -16097,7 +16151,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "kanagawa-prefectural-government-kings-tower",
@@ -16181,7 +16236,7 @@
     "description": "The name Bashamichi translates roughly to horse carriage road, a reference to the foreign merchants who once traveled this route between the old foreign settlement and the port, and the street holds the distinction of being among the earliest in Japan fitted with gas streetlights, back when such lighting was still a novelty nationwide. Replica gas lamps and brick paving along the sidewalk today are a nod to that history, even though the street itself has long since modernized into a mix of banks, galleries, cafes, and boutiques.\n\nUnlike the dense crowds of nearby Chinatown, Bashamichi has a calmer, more workaday atmosphere, closer to a pleasant urban shopping street than a tourist destination, which makes it a good place to browse without the jostling found elsewhere in central Yokohama. A scattering of preserved early 20th-century bank and office buildings along the route rewards visitors who look up rather than just at shop windows.\n\nIt connects conveniently to both the Red Brick Warehouse and the Kannai government district, so it works best as a walking route between those two areas rather than a dedicated stop, and its station, sharing the street's name, makes it easy to start or end a Minato Mirai day here.",
     "access": "Runs alongside Bashamichi Station",
     "address": "Bashamichi, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/31416994/pexels-photo-31416994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -16190,7 +16245,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yamate-italian-garden",
@@ -16275,7 +16331,7 @@
     "description": "Named simply for its old lot number in the former foreign settlement, this house dates from the mid-1920s and shares some of the Spanish-influenced styling seen at Berrick Hall nearby, with white stucco walls and a red tile roof set behind a small, well-kept rose garden. Its scale is more modest than the grandest Yamate mansions, giving it a more approachable, lived-in feel.\n\nA tearoom inside serves scones and tea, a detail that has made it a modest destination in its own right for visitors doing a slower loop of the bluff rather than rushing between photo stops. Because it sits slightly off the busiest stretch of the Yamate walking route, it tends to be calmer than the marquee houses, even during the rose garden's blooming season in late spring and autumn.\n\nIt is an easy add-on for anyone already visiting Berrick Hall or the Italian Garden, close enough to reach on foot within a few minutes, and its tearoom offers one of the more pleasant, unhurried break spots on a bluff walking route that otherwise involves a fair amount of uphill walking between houses.",
     "access": "7-minute walk from Ishikawacho Station",
     "address": "Yamate-cho, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/37438098/pexels-photo-37438098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -16284,7 +16340,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "motomachi-shopping-street",
@@ -16323,7 +16380,7 @@
     "description": "Noge developed a reputation as a black-market and entertainment district in the years right after the Second World War, when land seizures reshaped much of the surrounding area but left this pocket largely alone, and something of that improvised, unpolished character has persisted even as the neighborhood has modernized around the edges. Narrow alleys hold hundreds of tiny bars and eateries, many seating only a handful of people at a counter, catering to regulars as much as newcomers.\n\nIt sits a short walk from Sakuragicho Station, close enough to Minato Mirai's glass towers that the contrast between the two areas is part of the appeal, a reminder that not all of central Yokohama has been rebuilt to a single polished standard. Evenings after work hours are when the district really comes alive, with many of the smallest bars only opening once the sun goes down.\n\nBecause many establishments are tiny, standing-room, or cash-only, it helps to have a rough plan or a guided bar-hopping route rather than wandering in cold, particularly for visitors without much Japanese. Weeknights tend to have a more local crowd than weekends, when younger visitors and a handful of newer, trendier bars draw a livelier scene.",
     "access": "3-minute walk from Sakuragicho Station",
     "address": "Noge-cho, Nishi-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/23023919/pexels-photo-23023919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -16332,7 +16389,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "sankeien-garden",
@@ -16444,7 +16502,7 @@
     "description": "Anpanman is one of the most enduringly popular children's characters in Japan, and this museum, part of a small national chain, gives young fans a chance to meet costumed characters, play on themed structures, and shop for merchandise not easily found outside Japan. It is split into a paid museum and play area and a free ground-floor mall of Anpanman-themed shops and a bakery, so even families not wanting to pay full admission can browse the shops and grab a snack.\n\nThe museum area is designed almost entirely for small children, roughly toddler to early elementary age, so it is less rewarding for visitors without kids in that range, and ticket prices are the same for adults and children over a certain age, which is worth budgeting for. Character greeting events happen on a set schedule through the day, and arriving in time for a favorite character's appearance takes some planning.\n\nWeekends and Japanese school holidays bring the heaviest crowds by a wide margin, so a weekday visit, ideally right at opening, gives noticeably shorter lines for the popular play areas and photo opportunities with costumed characters.",
     "access": "8-minute walk from Minatomirai Station",
     "address": "Shinko, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/26550413/pexels-photo-26550413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/23024120/pexels-photo-23024120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -16453,7 +16511,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "world-porters-yokohama",
@@ -16607,7 +16666,7 @@
     "description": "Koganecho, just one stop from Yokohama Station on the Keikyu Line, had a rough reputation for illegal establishments packed under the elevated railway until a city-backed cleanup began in the mid-2000s. Rather than simply demolishing the strip, organizers invited artists to take over the small studio spaces, and the result is a slightly surreal walk beneath the tracks past glass-fronted galleries, a secondhand art-book shop, and rotating installations.\n\nThe area hosts the Koganecho Bazaar, a citywide art festival held over several weeks each autumn, when the studios open up with exhibitions and events. Outside festival dates, only some spaces are staffed, so the experience is more about the atmosphere of the repurposed underpass than a guaranteed gallery visit.\n\nThis is very much a locals'-pace neighborhood rather than a polished museum district, and that unfinished, still-transitioning feel is part of the appeal for visitors curious about how Japanese cities handle urban renewal. It pairs naturally with a walk along the Ooka River toward Noge. Weekday afternoons are quiet enough to wander without crowds; check the area management center's site beforehand if you want to catch a specific studio open.",
     "access": "1 minute on foot from Keikyu Line Koganecho Station, or about 15 minutes on foot from JR Kannai Station.",
     "address": "Koganecho / Hinodecho area, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/1191376/pexels-photo-1191376.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "officialUrl": "https://koganecho.net/",
     "isLocalPick": true,
     "affiliateLinks": [
@@ -16617,7 +16676,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "miyakobashi-yokocho",
@@ -16656,7 +16716,7 @@
     "description": "Chigusa traces its roots back to the 1930s, making it one of the pioneering jazz kissa, a distinctly Japanese institution where the point is not conversation but silent, devoted listening to vinyl through a carefully tuned speaker setup. The current shop is a later incarnation of the original after wartime disruption and later closures, run by devotees determined to keep the format alive rather than let it fade into nostalgia pieces.\n\nUnlike a bar, the etiquette here leans quiet: you sip your coffee or a drink, and you listen, rather than chat over background music. It rewards visitors with some patience and curiosity about Japan's postwar jazz-cafe culture, which once numbered in the hundreds across the country and has now dwindled to a small, dedicated circle of holdouts.\n\nIt sits in the Noge district, so it pairs naturally with an evening covering the Miyakobashi bar alley nearby, letting you contrast the hushed reverence of the jazz kissa with Noge's louder drinking scene just a few minutes' walk away. Seating is limited, so this is not a place to bring a large group, and mobile phone calls or loud talk will draw quiet disapproval from regulars.",
     "access": "About 5-8 minutes on foot from JR/Yokohama Municipal Subway Sakuragicho Station.",
     "address": "Noge area, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/23024068/pexels-photo-23024068.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -16665,7 +16725,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yokohama-nigiwaiza",
@@ -16679,7 +16740,7 @@
     "description": "Opened in the early 2000s specifically to give Yokohama a home-grown venue for rakugo, the seated storytelling art where a single performer conjures an entire cast of characters through voice and gesture alone, Nigiwaiza fills a niche that most first-time Japan visitors do not know exists in Yokohama at all. The main hall follows a traditional layout, and the building also houses smaller rooms used for other stage arts like manzai comic duos and taiko performances.\n\nPerformances are almost entirely in Japanese, so the experience rewards visitors who either have some language ability or are happy to enjoy the rhythm, comic timing, and physical performance even without following every word, much like watching a skilled mime. Programs rotate regularly, and tickets for popular performers can sell out, so checking the schedule ahead of a visit is worthwhile.\n\nSitting right in the Noge neighborhood, it is an easy stop to combine with the Miyakobashi bar alley or Nogeyama Zoo for an afternoon-into-evening loop through one of Yokohama's most lived-in districts, well away from the souvenir shops of Chinatown or the Red Brick Warehouse. Matinee shows tend to be less crowded and often cheaper than evening slots.",
     "access": "About 5 minutes on foot from JR/Yokohama Municipal Subway Sakuragicho Station.",
     "address": "2-40 Miyagawa-cho, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/23023732/pexels-photo-23023732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -16688,7 +16749,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "harbor-view-park",
@@ -16703,7 +16765,7 @@
     "description": "Perched on the Yamate bluff above the old foreign settlement, this park is split into a few distinct zones, a French-influenced hillside garden, an English-style rose garden, and an open observation terrace that lines up almost perfectly with Yokohama Bay Bridge in the distance. It has been a favored viewpoint since the area was home to foreign consulates in the late nineteenth century, and the elevation still gives it one of the better free harbor views in the city.\n\nThe rose garden peaks twice a year, mid-May to mid-June and again in October to November, and photographers show up early on clear mornings to catch the blooms with the bay in the background. Outside those windows the park is simply a pleasant green space, quieter and less photographed but still worth the walk up from Motomachi or Ishikawacho Station.\n\nBecause several of Yamate's Western-style heritage houses sit within a short walk, this park works best as an anchor point for a longer stroll through the old foreign quarter rather than a standalone stop. Evenings bring soft lighting over the bay that is worth timing a visit around, and the park stays open well after dark, unlike most of the heritage buildings nearby.",
     "access": "About 5 minutes on foot from Minatomirai Line Motomachi-Chukagai Station (exit 6), or 20 minutes on foot from JR Ishikawacho Station.",
     "address": "114 Yamate-cho, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/2389155/pexels-photo-2389155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/33673005/pexels-photo-33673005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -16712,7 +16774,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "france-yama-ruins",
@@ -16727,7 +16790,7 @@
     "description": "Long before it became a rose garden, this section of the Yamate bluff housed a French army barracks stationed to protect the foreign settlement, followed later by the French consulate itself, which stood here until fire destroyed it in the 1960s. What remains today are scattered stone foundations, old drainage channels, and a noticeably different, more subtropical planting scheme than the rest of Harbor View Park, all shaded under a dense stand of trees.\n\nThere are no reconstructed buildings and only modest signage, so this is a spot for visitors who enjoy piecing together history from fragments rather than reading a full museum display. The contrast with the manicured rose beds just uphill makes for an interesting five-minute detour, and the shade makes it a welcome break on a hot summer walk through Yamate.\n\nMost tourists walking through Harbor View Park head straight for the bay-view terrace and miss this quieter, wooded section entirely, which keeps it peaceful even when the main park is busy with rose-season crowds. It is best appreciated as part of a longer loop through Yamate rather than a dedicated destination on its own.",
     "access": "Within Harbor View Park, about 5 minutes on foot from Minatomirai Line Motomachi-Chukagai Station (exit 6).",
     "address": "114 Yamate-cho, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/32228023/pexels-photo-32228023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -16736,7 +16799,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "ehrismann-residence",
@@ -16775,7 +16839,7 @@
     "description": "Unlike the grand single-family villas nearby, Yamate 234 Bankan was originally built as multi-unit rental housing for foreign residents, a reminder that not every Westerner in prewar Yokohama lived in a mansion. Four separate households once shared this Spanish-tile-roofed building, and the layout, smaller rooms, shared stairwells, feels distinctly more domestic and less showcase-like than Berrick Hall or the Ehrismann Residence.\n\nToday the ground floor hosts small community exhibitions, sometimes local art or historical photo displays that rotate periodically, while the general structure and some furnished rooms give a sense of everyday foreign-resident life in interwar Yokohama rather than diplomatic grandeur. Admission is free.\n\nIt sits at the edge of the main Yamate heritage-house cluster, which means it gets a fraction of the foot traffic that Harbor View Park and Berrick Hall attract, even though it is only a short walk from both. If your interest runs more toward social history than architectural showpieces, this is the house to prioritize, and you will likely have entire rooms to yourself on a weekday visit.",
     "access": "About 7 minutes on foot from Minatomirai Line Motomachi-Chukagai Station (exit 6).",
     "address": "234 Yamate-cho, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/23023923/pexels-photo-23023923.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -16784,7 +16848,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yokohama-christ-church",
@@ -16798,7 +16863,7 @@
     "description": "This Anglican-Episcopal congregation dates back to the earliest years of Yokohama's foreign settlement, though the building you see today is a later reconstruction, the original was leveled by the Great Kanto Earthquake of 1923, and its successor was destroyed again in the air raids of 1945, before the current stone structure went up in the postwar decades. That double rebuilding gives the church a quietly resilient character among Yamate's heritage sites.\n\nUnlike the nearby Western-style residences, this is a working parish rather than a museum, holding regular services, so visiting works best as a respectful glimpse from the grounds or a service rather than a self-guided tour through furnished rooms. The stone facade and modest bell tower are worth a look even from outside for anyone tracing the district's religious and architectural history.\n\nBecause it sits along the natural walking route between the Yamate heritage houses and Motomachi's shopping street, it is easy to fold in as a two-minute stop rather than a dedicated destination. Photography is generally fine from the exterior, but be mindful during active services and any private events on the grounds.",
     "access": "About 7 minutes on foot from Minatomirai Line Motomachi-Chukagai Station (exit 5).",
     "address": "235 Yamate-cho, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/23023784/pexels-photo-23023784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -16807,7 +16872,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yamate-shiryokan-museum",
@@ -16894,7 +16960,7 @@
     "description": "Sojiji relocated to Tsurumi from the Noto Peninsula after a fire in the early twentieth century, but its lineage as one of Soto Zen Buddhism's two head temples, alongside Eiheiji in Fukui, stretches back roughly seven centuries. The current complex spreads across a genuinely large wooded site, several structures within it are registered cultural properties, and the scale alone sets it apart from the smaller neighborhood temples scattered around central Yokohama.\n\nWhat makes it particularly worth the trip out to Tsurumi is that it is an active training monastery, and it runs regular zazen seated-meditation sessions that welcome outside visitors, including beginners, rather than restricting practice to resident monks. Sessions are usually held on a set schedule; checking ahead for the current calendar and any English guidance is worthwhile before showing up.\n\nBecause Tsurumi sits north of Yokohama Station and off most sightseeing routes through the city center, Sojiji sees a fraction of the visitors that Kamakura's temples pull in, despite its comparable historical rank. Go on a weekday morning for the quietest grounds, and allow extra time to walk the full complex, it is considerably larger than it first appears from the main gate.",
     "access": "About 5 minutes on foot from JR Keihin-Tohoku Line / JR Tsurumi Line Tsurumi Station.",
     "address": "2-1-1 Tsurumi, Tsurumi-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23024259/pexels-photo-23024259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/32988332/pexels-photo-32988332.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -16903,7 +16969,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "kirin-yokohama-factory",
@@ -17037,7 +17104,7 @@
     "description": "Completed in the early 1920s to commemorate the sixtieth anniversary of Yokohama's port opening, this red-brick hall with its square clock tower is one of three landmark towers that locals nicknamed after playing cards decades ago, King for the Kanagawa prefectural government building, Queen for the Customs House, and Jack for this one. Inside, stained-glass windows depicting the port's history and a grand assembly hall are still used for civic ceremonies, weddings, and public events, which is part of why it feels less like a museum and more like a functioning piece of the city.\n\nPublic access varies depending on whether the hall is booked for an event on a given day, so it is worth checking ahead if you want to see the interior stained glass rather than just the exterior. The building survived the 1945 air raids largely intact, giving it a rarer continuity with prewar Yokohama than many of the city's other historic structures.\n\nIt sits within easy walking distance of Yokohama Park and the Kanagawa Prefectural Museum, making it simple to fold into a downtown architecture walk. Photographing the three towers together in one outing, spread across a short walk through Kannai, has become a small tradition among Yokohama history buffs.",
     "access": "About 3 minutes on foot from JR Kannai Station.",
     "address": "1-6 Honcho, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023918/pexels-photo-23023918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/5745083/pexels-photo-5745083.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -17046,7 +17113,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yokohama-customs-museum",
@@ -17060,7 +17128,7 @@
     "description": "Housed inside the Yokohama Customs building, whose green-domed tower is the Queen of the local trio of nicknamed landmark towers, this small museum is free to enter and covers a topic most visitors never think to ask about: how customs enforcement actually works at one of Japan's busiest ports. Displays include real seized items, from disguised drug smuggling containers to counterfeit goods, along with the history of Yokohama Customs since the port's 1859 opening.\n\nIt is a quick visit, generally well under an hour, and skews toward a slightly quirky, procedural kind of interesting rather than grand historical narrative, more true-crime museum than art gallery. An observation area near the top of the building offers a decent harbor view as a bonus, since the tower itself is one of the taller structures in this older part of the port district.\n\nBecause it operates inside an active government building, opening hours are more limited than at typical museums and it closes on weekends and public holidays, so plan a weekday visit. It pairs naturally with a walk past the Port Opening Memorial Hall and Zou no Hana Park, both a short distance away, for a loop through Yokohama's historic customs and harbor district.",
     "access": "About 5 minutes on foot from Minatomirai Line Nihon-odori Station.",
     "address": "1-1 Kaigan-dori, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023918/pexels-photo-23023918.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/11284772/pexels-photo-11284772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -17069,7 +17137,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "nyk-maritime-museum",
@@ -17083,7 +17152,7 @@
     "description": "Nippon Yusen Kaisha, or NYK, grew into one of Japan's dominant shipping companies from the Meiji era onward, and this museum occupies its former Yokohama branch building, a solid stone-faced structure from the 1930s that survives as a good example of the port district's prewar commercial architecture in its own right. Inside, detailed ship models trace the evolution from early steamships to postwar ocean liners, alongside route maps, uniforms, and printed ephemera like menus and passenger tickets from the golden age of transpacific travel.\n\nIt appeals most to visitors with some interest in maritime or transport history, and the scale is modest enough to see thoroughly in under an hour, making it an easy secondary stop rather than a full outing on its own. Signage includes English in most sections, which is not guaranteed at every smaller Yokohama museum.\n\nSitting just a short walk from the Red Brick Warehouse and Osanbashi Pier, it gets bypassed by most visitors heading straight for those bigger attractions, keeping the galleries pleasantly uncrowded. It rewards anyone curious about how central shipping was to Yokohama's identity as Japan's premier international port.",
     "access": "About 3 minutes on foot from Minatomirai Line Nihon-odori Station, near the Red Brick Warehouse.",
     "address": "3-9 Kaigan-dori, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/36195936/pexels-photo-36195936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/23023920/pexels-photo-23023920.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -17092,7 +17161,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yokohama-doll-museum",
@@ -17107,7 +17177,7 @@
     "description": "The collection here runs well beyond the classic Japanese hina and gogatsu festival dolls most visitors expect, extending into folk dolls, fashion dolls, and traditional dress dolls contributed from countries around the world, giving the museum a genuinely international scope across its several floors. Traditional Japanese doll-making techniques are also explained in enough detail to interest adults, not just the families with young children who make up a large share of visitors.\n\nBecause dolls carry different cultural weight in Japan than in much of the West, tied to specific festivals, family rites, and craft traditions, the museum works well as an entry point into aspects of Japanese culture that the bigger art museums downtown do not really cover. Rotating special exhibitions occasionally bring in contemporary doll artists alongside the permanent historical collection.\n\nSitting on the street just behind Yamashita Park, it is an easy add-on to a harbor walk, and it tends to be treated as optional by visitors focused on bigger attractions, which keeps the galleries comfortably uncrowded. A small shop sells doll-related crafts and traditional items that make distinctive gifts.",
     "access": "About 3 minutes on foot from Minatomirai Line Motomachi-Chukagai Station, facing Yamashita Park.",
     "address": "18 Yamashita-cho, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/36195936/pexels-photo-36195936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/11040322/pexels-photo-11040322.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -17116,7 +17186,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "yokohama-park-roses",
@@ -17179,7 +17250,7 @@
     "description": "Sitting just off the busier Isezakicho shopping mall, Yoshidamachi has a long-standing identity as an artists' and collectors' street, home to secondhand bookshops, print and art-supply dealers, and a cluster of antique and curio shops that draw a very different crowd than the mainstream retail nearby. Many of the shops have operated for decades under the same families, and browsing here feels more like flipping through someone's specialized collection than shopping a curated tourist market.\n\nBecause the merchandise skews toward used goods, antique ceramics, old prints, secondhand cameras, vintage kimono fabric, prices and quality vary shop to shop, and there is real reward in taking time to actually look rather than rushing through. Cash is the safer bet at smaller, older stores that may not take cards.\n\nAlmost no English signage exists along this street, which keeps it firmly a locals' shopping district rather than a tourist stop, and that is precisely the appeal for visitors who enjoy browsing over being sold to. It pairs naturally with a walk through Isezakicho, letting you contrast Yoshidamachi's specialist, slow-browse character with the busier main shopping mall a block or two away.",
     "access": "About 7 minutes on foot from Keikyu Hinodecho Station.",
     "address": "Yoshidamachi, Naka-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/4329824/pexels-photo-4329824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -17188,7 +17259,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "iseyama-kotaijingu-shrine",
@@ -17251,7 +17323,7 @@
     "description": "Before Yokohama's waterfront settlement was built up, Kanagawa-juku was already an established post station on the Tokaido, the great highway linking Edo and Kyoto, and it briefly became the initial base for several foreign consulates in the years right after the 1859 port opening, before diplomats and merchants shifted to the newer settlement across the bay. A scattering of temples along this stretch, including some that briefly served as consulate buildings, still stand as physical traces of that transitional period.\n\nThe city has marked a walking route through the area with signage explaining the old post-town layout, former inn sites, and the temples' consular history, though the trail is understated compared to a formal museum experience, more a set of historical markers woven into an ordinary residential and commercial neighborhood than a curated attraction. Patience and a willingness to read plaques carefully pay off here.\n\nFew visitors make the connection that Yokohama's diplomatic history technically started in this quieter district before moving to the port, which keeps the trail almost entirely free of tourist foot traffic. It suits history-minded travelers more than casual sightseers, and works well as a slower, half-day alternative to the busier central Yokohama sites.",
     "access": "About 10-15 minutes on foot from JR Kanagawa Station or Keikyu Kanagawa Station.",
     "address": "Kanagawa-cho / Higashi-Kanagawa area, Kanagawa-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/2389155/pexels-photo-2389155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/23023734/pexels-photo-23023734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": true,
     "affiliateLinks": [
       {
@@ -17260,7 +17332,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "negishi-forest-park",
@@ -17444,7 +17517,7 @@
     "description": "Founded in the thirteenth century by Hojo Sanetoki, a regional lord and dedicated scholar who also established the adjacent Kanazawa Bunko library, Shomyoji has anchored the Kanazawa-Hakkei district for over seven centuries, its Jodo-sect halls set behind a pond crossed by a distinctive curved vermillion bridge that has become one of the more photographed quiet spots in eastern Yokohama. The garden layout, with the pond and bridge as its centerpiece, follows a classical Pure Land Buddhist design meant to evoke a paradise garden.\n\nSeasonal plantings give the grounds a changing character across the year, irises and lotus flowers through the summer months, plum and cherry blossoms in late winter and spring, each drawing a modest but devoted following of local photographers rather than tour groups. The temple remains an active place of worship, so visits should stay respectful of that ongoing use rather than treating it purely as a photo backdrop.\n\nKanazawa-Hakkei, the surrounding neighborhood, takes its name from a historical set of eight scenic views once celebrated in poetry, of which the temple and its pond were traditionally counted among the finest, a reminder that this quiet corner of the city was considered scenic long before Minato Mirai existed.",
     "access": "About 12 minutes on foot from Keikyu Line Kanazawa-Bunko Station.",
     "address": "212 Kanazawa-cho, Kanazawa-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23024259/pexels-photo-23024259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/12221617/pexels-photo-12221617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -17453,7 +17526,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "kanazawa-bunko-museum",
@@ -17492,7 +17566,7 @@
     "description": "Built on reclaimed land in Kanazawa Ward, Umi no Koen gave Yokohama something the city's industrial harbor otherwise lacks: an actual sandy beach open to the public, backed by lawns and pine trees rather than concrete piers. Shellfish digging at low tide, particularly for asari clams, is a popular family activity here in the warmer months, and windsurfers and small sailboats regularly use the sheltered bay on breezier days.\n\nThe view across the water toward the Hakkeijima bridge and Sea Paradise amusement park gives the beach a distinctive skyline, especially at sunset, when the sky over the bay turns a deep orange that photographers favor. Swimming areas are seasonal and clearly marked, so it is worth checking current safety and swimming-season notices before planning to get in the water rather than just walk the sand.\n\nUnlike Japan's famous natural beaches further along the coast, this is a deliberately engineered urban beach, and it draws mostly Yokohama and Kanagawa families rather than international beach tourists, giving it a relaxed, unpretentious local character. It pairs naturally with a visit to neighboring Nojima Park for a fuller half-day along this stretch of Kanazawa Ward's coastline.",
     "access": "About 5 minutes on foot from Seaside Line Umi-no-koen-minami Station or Umi-no-koen-shibaguchi Station.",
     "address": "6 Namiki, Kanazawa-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/2389155/pexels-photo-2389155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/23023917/pexels-photo-23023917.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -17501,7 +17575,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "nojima-park-kanazawa",
@@ -17586,7 +17661,7 @@
     "description": "Tucked into the slopes near Nogeyama Park, this modest temple is dedicated to Fudo Myoo, the fierce, flame-wreathed guardian deity commonly petitioned in Japan for protection, discipline, and success in difficult undertakings, which locally translates into a steady stream of students visiting before exams and travelers stopping for safe-journey prayers. Its small scale and unassuming entrance mean it is easy to walk past without registering it as a temple at all if you are not specifically looking for it.\n\nThere is no admission fee and no elaborate visitor infrastructure, just a compact worship hall, incense burners, and the kind of quiet, functional religious space that exists to serve a neighborhood rather than draw sightseers. Steps and a short uphill approach add a small physical element to the visit that some worshippers treat as part of the ritual itself.\n\nBecause it sits so close to the far more visited Nogeyama Zoo, it makes an easy five-minute detour for visitors already in the area, offering a glimpse of everyday, functional Buddhist practice in contrast to the grander, more monument-like temples found elsewhere in the Yokohama and Kamakura area.",
     "access": "About 12 minutes on foot from JR/Yokohama Municipal Subway Sakuragicho Station, near Nogeyama Park.",
     "address": "Nogeyama, Nishi-ku, Yokohama",
-    "imageUrl": "https://images.pexels.com/photos/23023655/pexels-photo-23023655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/23024251/pexels-photo-23024251.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -17595,7 +17670,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "kobe-port-tower",
@@ -18707,7 +18783,7 @@
     "description": "Rising from the hills just behind Suma Beach, this ropeway carries visitors up to Sumaura-yama Park in only a few minutes, delivering a view that stretches along the coast toward Akashi Kaikyo Bridge and Awaji Island on a clear day. From the ropeway's upper station, a connecting chairlift continues even higher to an observation platform, and on the way back down there is an option to ride a long slide built into the hillside instead of taking the lift back, a small but popular novelty for kids and adults alike.\n\nCombining the ropeway, chairlift, and slide into a single loop generally takes a bit over an hour, making it an easy half-outing to pair with time at Suma Beach or the aquarium below. The hilltop area also has a small observation deck and modest facilities for a short break.\n\nAs a secondary attraction to the beach and aquarium rather than a headline destination, the ropeway tends to see manageable crowds even in summer, though clear-weather weekends bring more visitors up for the view than hazy or overcast days.",
     "access": "About a 10-minute walk from Sumaura-koen Station on the Sanyo Electric Railway.",
     "address": "Sumaurakoen, Suma-ku, Kobe",
-    "imageUrl": "https://images.pexels.com/photos/36695871/pexels-photo-36695871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/9164058/pexels-photo-9164058.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -18716,7 +18792,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "kitano-tenman-shrine",
@@ -18926,7 +19003,7 @@
     "description": "Arima Onsen is one of Japan's oldest hot spring towns, with a history stretching back over a thousand years and mentions in some of the earliest Japanese literary records. Its distinctive \"kinsen\" (gold water) gets its deep amber-brown color from high concentrations of iron and salt, which oxidize on contact with air, and Kin-no-yu is the municipal bathhouse built specifically to let day visitors experience it without a ryokan reservation.\n\nThe facility is simple and functional rather than luxurious, more community bathhouse than resort spa, which keeps the entry fee low compared to staying at one of the surrounding inns. There's also a free public foot bath just outside for anyone who doesn't want to commit to a full soak.\n\nArima's narrow streets get busy with day-trippers and coach tours, especially on weekends, so visiting Kin-no-yu on a weekday morning or combining it with an early trip up before the crowds arrive makes for a more relaxed soak. Bring your own small towel or buy one on-site, as is standard at Japanese public baths, and note the water's iron content can discolor light-colored fabrics if you're not careful.",
     "access": "From Sannomiya, take the Kobe Municipal Subway to Tanigami, then the Shintetsu line to Arima-Onsen Station (roughly 30-40 minutes total); the bathhouse is a short walk from the station through the town's main street.",
     "address": "Arima-cho, Kita Ward, Kobe",
-    "imageUrl": "https://images.pexels.com/photos/36937585/pexels-photo-36937585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/36352757/pexels-photo-36352757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -18935,7 +19012,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "arima-onsen-gin-no-yu",
@@ -21258,7 +21336,7 @@
     "description": "In 1867, the Iroha Maru, a steamship operated by the trading and paramilitary company of samurai reformer Sakamoto Ryoma, collided with a much larger vessel from the Kishu domain near Tomonoura and sank, triggering a tense negotiation over compensation that became one of the more dramatic episodes in the years leading up to the Meiji Restoration. Ryoma himself came to Tomonoura to negotiate the settlement, staying in the port town during the dispute.\n\nThis small museum, set inside an atmospheric old warehouse near the harbor, displays artifacts recovered from underwater surveys of the wreck alongside documents and models explaining the incident and its political stakes.\n\nIt's a minor footnote in most general histories of the Meiji Restoration but a significant local story in Tomonoura, and the museum's compact, unpolished setting — creaky floors, dim lighting, genuine salvaged objects — gives it more atmosphere than its small size would suggest. Easy to fit in alongside the port town walk and Taichoro.",
     "access": "Within Tomonoura's harbor district, about a 5-minute walk from the central bus stop.",
     "address": "Tomocho Tomo, Fukuyama, Hiroshima",
-    "imageUrl": "https://images.pexels.com/photos/36195936/pexels-photo-36195936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "imageUrl": "https://images.pexels.com/photos/30952226/pexels-photo-30952226.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
     "affiliateLinks": [
       {
@@ -21267,7 +21345,8 @@
         "provider": "Klook"
       }
     ],
-    "imageSource": "pexels"
+    "imageSource": "pexels",
+    "dedupeResolved": true
   },
   {
     "id": "saijo-sake-brewery-street",
