@@ -2696,11 +2696,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/asahikawa-snow-crystal-museum.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/niseko-milk-kobo.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
