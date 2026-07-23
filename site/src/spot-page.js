@@ -31,7 +31,6 @@ export function renderSpotPageHtml(activity, { siteUrl = 'https://REPLACE_WITH_Y
     description: activity.summary,
     address: activity.address,
     url: canonicalUrl,
-    author: { '@type': 'Person', name: 'Yusuke', url: `${siteUrl}/about.html` },
   }).replace(/</g, '\\u003C');
 
   return `<!doctype html>
@@ -81,7 +80,6 @@ export function renderSpotPageHtml(activity, { siteUrl = 'https://REPLACE_WITH_Y
       <p class="activity-access">${escapeHtml(activity.access)}</p>
       <div class="activity-tags">${renderTagsHtml(activity.interests)}</div>
       <div class="activity-links">${affiliateLinksHtml}${officialLinkHtml}</div>
-      <p class="spot-byline">Written by <a href="../about.html">Yusuke</a></p>
     </div>
   </main>
 </body>
