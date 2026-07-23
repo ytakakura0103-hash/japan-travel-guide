@@ -3861,16 +3861,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kobe-kitano-museum-yamate-hachibankan.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kobe-municipal-arboretum.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/futatabi-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3922,11 +3912,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kawasaki-good-times-world.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/suma-aqualife-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4452,11 +4437,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/hiroshima-ninoshima-island.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kanawajima-oyster-rafts.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
