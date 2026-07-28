@@ -26,7 +26,17 @@ const JAPAN_CITY_NAMES = [
   'Kanazawa', 'Shinjuku', 'Shibuya', 'Asakusa', 'Ginza', 'Takatsuki',
   'Hachioji', 'Ikeda', 'Kamakura', 'Nagano', 'Aomori', 'Gamag',
   'Toyohashi', 'Koya', 'Gokoku', 'Inuyama', 'Hofu', 'Hōfu', 'Yamaguchi',
-  'Takayama', 'Tofukuji', 'Tofuku-ji', 'Kinkaku',
+  'Takayama', 'Tofukuji', 'Tofuku-ji', 'Kinkaku', 'Kitakyushu', 'Fujisawa',
+  'Date,', 'Fujiyoshida', 'Hachioji',
+];
+
+// Non-Japan places / totally unrelated subjects that show up when a query is too
+// generic for Pexels to have a specific match.
+const OFF_TOPIC_BLACKLIST = [
+  'brest', 'nepal', 'pokhara', 'hawaii', 'hawaiian', 'honolulu', 'azerbaijan',
+  'ireland', 'irish', 'ghibli', 'earphone', 'earphones', 'train', 'station',
+  'railway', 'traffic sign', 'traffic light', 'atomic bomb', 'cosmo clock',
+  'ferris wheel',
 ];
 
 // Named landmarks/places that, if mentioned in a photo's alt text, indicate the
@@ -68,7 +78,9 @@ function isGoodCandidate(photo, activity, usedIds) {
   });
   if (otherCityMentioned) return false;
   const hitsBlacklist = LANDMARK_BLACKLIST.some((b) => alt.includes(b));
-  return !hitsBlacklist;
+  if (hitsBlacklist) return false;
+  const hitsOffTopic = OFF_TOPIC_BLACKLIST.some((b) => alt.includes(b));
+  return !hitsOffTopic;
 }
 
 async function searchCandidates(query, retries = 3) {
