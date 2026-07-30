@@ -44,8 +44,9 @@ export function renderPhotoHtml(activity) {
   if (activity.imageUrl) {
     const img = `<img class="activity-photo" src="${escapeHtml(activity.imageUrl)}" alt="${escapeHtml(activity.title)}" loading="lazy" />`;
     if (activity.imageCredit) {
-      const { photographerName, photographerUrl, unsplashUrl } = activity.imageCredit;
-      const credit = `<span class="photo-credit">Photo by <a href="${escapeHtml(photographerUrl)}" target="_blank" rel="noopener">${escapeHtml(photographerName)}</a> on <a href="${escapeHtml(unsplashUrl)}" target="_blank" rel="noopener">Unsplash</a></span>`;
+      const { author, licenseName, fileUrl } = activity.imageCredit;
+      const authorHtml = author ? `<a href="${escapeHtml(fileUrl)}" target="_blank" rel="noopener">${escapeHtml(author)}</a>` : `<a href="${escapeHtml(fileUrl)}" target="_blank" rel="noopener">Wikimedia Commons</a>`;
+      const credit = `<span class="photo-credit">Photo: ${authorHtml}${licenseName ? ` (${escapeHtml(licenseName)})` : ''}</span>`;
       return `<div class="activity-photo-wrap">${img}${credit}</div>`;
     }
     return img;

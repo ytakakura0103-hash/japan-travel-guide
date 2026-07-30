@@ -91,7 +91,7 @@ describe('renderActivityResults', () => {
     expect(cards[1].querySelector('.activity-photo-placeholder')).toBeNull();
   });
 
-  it('shows an Unsplash photo credit when imageCredit is present', () => {
+  it('shows a Wikimedia Commons photo credit when imageCredit is present', () => {
     const container = document.createElement('div');
     renderActivityResults(container, [
       {
@@ -102,19 +102,18 @@ describe('renderActivityResults', () => {
         interests: [],
         imageUrl: 'https://example.com/photo.jpg',
         imageCredit: {
-          photographerName: 'Jane Doe',
-          photographerUrl: 'https://unsplash.com/@jane',
-          unsplashUrl: 'https://unsplash.com/photos/abc123',
+          author: 'Jane Doe',
+          licenseName: 'CC BY-SA 4.0',
+          fileUrl: 'https://commons.wikimedia.org/wiki/File:Example.jpg',
         },
         affiliateLinks: [],
       },
     ]);
     const credit = container.querySelector('.photo-credit');
     expect(credit).not.toBeNull();
-    expect(credit.textContent).toBe('Photo by Jane Doe on Unsplash');
-    const links = credit.querySelectorAll('a');
-    expect(links[0].getAttribute('href')).toBe('https://unsplash.com/@jane');
-    expect(links[1].getAttribute('href')).toBe('https://unsplash.com/photos/abc123');
+    expect(credit.textContent).toBe('Photo: Jane Doe (CC BY-SA 4.0)');
+    const link = credit.querySelector('a');
+    expect(link.getAttribute('href')).toBe('https://commons.wikimedia.org/wiki/File:Example.jpg');
   });
 
   it('shows a Local Pick badge only when isLocalPick is true', () => {
