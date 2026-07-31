@@ -1596,11 +1596,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/akiu-winery.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/akiu-craft-park.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2037,31 +2032,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/toyokuni-shrine-nakamura-park.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/komeda-coffee-honten.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/atsuta-horaiken-unagi.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/yabaton-misokatsu.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/furaibo-tebasaki.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/misen-taiwan-ramen.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2897,11 +2867,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kyushu-national-museum.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/starbucks-dazaifu-omotesando.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3772,21 +3737,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kikumasamune-sake-museum.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/steakland-kobe.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/mouriya-kobe-beef.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/starbucks-kitano-ijinkan.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
