@@ -206,9 +206,10 @@
     "interests": [
       "shopping",
       "architecture",
-      "cafes-sweets"
+      "cafes-sweets",
+      "nightlife"
     ],
-    "summary": "Tokyo's most polished shopping district, lined with flagship department stores and architect-designed boutiques; on weekend afternoons the main avenue closes to cars entirely.",
+    "summary": "Tokyo's most polished shopping district, lined with flagship department stores and architect-designed boutiques; on weekend afternoons the main avenue closes to cars entirely, and after dark it becomes home to some of the city's most refined bars.",
     "access": "1-minute walk from Ginza Station (Tokyo Metro Ginza/Marunouchi/Hibiya Lines)",
     "address": "Ginza area, Chuo City, Tokyo",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ginza_area_at_dusk_from_Tokyo_Tower.jpg/960px-Ginza_area_at_dusk_from_Tokyo_Tower.jpg",
@@ -221,7 +222,7 @@
         "provider": "Booking.com"
       }
     ],
-    "description": "Ginza has been Tokyo's premier shopping district since the late 19th century, and it still carries that reputation today, with flagship department stores, architect-designed boutiques for international luxury brands, and long-established Japanese retailers lining its main avenue and side streets. Beyond shopping, the district is worth a look simply for its architecture: many global fashion houses have commissioned striking standalone buildings here, making a walk down the main street as much an architecture tour as a shopping trip. The clock tower atop the Wako building, at the district's central intersection, is one of Ginza's most photographed landmarks.\n\nOn Saturday and Sunday afternoons, the main avenue, Chuo-dori, closes entirely to vehicle traffic and becomes a pedestrian zone, with cafe tables set up in the street and a noticeably more relaxed atmosphere than the weekday rush. This is generally the most pleasant time to visit if the goal is strolling rather than serious shopping, since weekday crowds tend to be office workers passing through rather than browsers.\n\nGinza isn't only about high-end brands; side streets and basement food halls (depachika) inside the department stores offer more affordable options, from beautifully packaged sweets to prepared food stalls worth a visit on their own. A couple of hours covers the main avenue comfortably, though gallery-hoppers and dedicated shoppers can easily spend a full day. The district also has a concentration of small art galleries tucked into upper floors of ordinary-looking buildings, open to browse for free.",
+    "description": "Ginza has been Tokyo's premier shopping district since the late 19th century, and it still carries that reputation today, with flagship department stores, architect-designed boutiques for international luxury brands, and long-established Japanese retailers lining its main avenue and side streets. Beyond shopping, the district is worth a look simply for its architecture: many global fashion houses have commissioned striking standalone buildings here, making a walk down the main street as much an architecture tour as a shopping trip. The clock tower atop the Wako building, at the district's central intersection, is one of Ginza's most photographed landmarks.\n\nOn Saturday and Sunday afternoons, the main avenue, Chuo-dori, closes entirely to vehicle traffic and becomes a pedestrian zone, with cafe tables set up in the street and a noticeably more relaxed atmosphere than the weekday rush. This is generally the most pleasant time to visit if the goal is strolling rather than serious shopping, since weekday crowds tend to be office workers passing through rather than browsers.\n\nGinza isn't only about high-end brands; side streets and basement food halls (depachika) inside the department stores offer more affordable options, from beautifully packaged sweets to prepared food stalls worth a visit on their own. A couple of hours covers the main avenue comfortably, though gallery-hoppers and dedicated shoppers can easily spend a full day. The district also has a concentration of small art galleries tucked into upper floors of ordinary-looking buildings, open to browse for free.\n\nAfter dark, Ginza's character shifts again: the district holds one of Tokyo's densest concentrations of upscale, often reservation-preferred bars, small cocktail lounges and whisky bars tucked into the upper floors of the same buildings that house boutiques by day. These spots trade the casual bar-hopping of Shinjuku's alleys for quiet, formal service and some of the city's most technically accomplished drinks, making Ginza's evening scene a polished, grown-up counterpoint to Tokyo's louder nightlife districts.",
     "imageSource": "wikimedia",
     "imageCredit": {
       "author": null,
@@ -24215,5 +24216,253 @@
       }
     ],
     "imageSource": "pexels"
+  },
+  {
+    "id": "roppongi-nightlife-district",
+    "title": "Roppongi Nightlife District",
+    "city": "Tokyo",
+    "interests": [
+      "nightlife"
+    ],
+    "summary": "Tokyo's most international nightlife district, a dense grid of English-friendly clubs and late-night bars around Roppongi Crossing, distinct from the Roppongi Hills museum complex nearby.",
+    "access": "About 1-3 minutes on foot from Roppongi Station (Tokyo Metro Hibiya Line or Toei Oedo Line), exits 4B or 7 put you directly at Roppongi Crossing.",
+    "address": "Roppongi area, Minato City, Tokyo",
+    "imageUrl": "https://images.pexels.com/photos/16781778/pexels-photo-16781778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Roppongi",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Roppongi's bar and club strip runs along Roppongi-dori and the side streets between Roppongi Crossing and Nishi-Azabu, a separate precinct from the Mori Tower observation deck and museum complex a 15 to 20-minute walk away. What sets it apart from Tokyo's other nightlife districts is how international it feels: staff and clientele skew heavily foreign, English is the default language in most venues, and it's often the easiest entry point into Tokyo nightlife for visitors who don't speak Japanese, a sharp contrast to Kabukicho's more locally-oriented host and hostess club scene.\n\nThe district leans toward a conventional Western-style club feel, with hip-hop clubs, EDM venues, sports bars, and late-night lounges packed into a compact grid, open later than almost anywhere else in the city (2 to 3am on weekdays, often until dawn on weekends). For a quieter alternative, sophisticated rooftop and lounge bars inside Roppongi Hills and Tokyo Midtown offer view-driven drinking within easy walking distance of the street-level scene.\n\nOne caution worth knowing before a night out: Roppongi has a well-documented problem with street touts offering cheap drinks or club entry, some of whom lead customers into bars that pad the bill dramatically once you're seated. The standard advice from both official and independent guides is the same, never follow a tout, stick to venues researched in advance, and ask to see a price list before ordering. It's a genuine, frequently-cited pattern rather than a rare exception, so treat any unsolicited approach on the street with skepticism.",
+    "imageSource": "pexels"
+  },
+  {
+    "id": "shinjuku-sanchome-izakaya-district",
+    "title": "Shinjuku Sanchome",
+    "city": "Tokyo",
+    "interests": [
+      "nightlife",
+      "backstreets"
+    ],
+    "summary": "A dense, unpretentious izakaya and bar-hopping neighborhood next to Shinjuku Station, the calmer, more local counterpart to the crowded stools of Golden Gai and the neon sprawl of Kabukicho.",
+    "access": "Directly above Shinjuku-sanchome Station (Tokyo Metro Marunouchi and Fukutoshin Lines, Toei Shinjuku Line); about 5-7 minutes on foot from JR Shinjuku Station's east side.",
+    "address": "Shinjuku 3-chome area, Shinjuku City, Tokyo",
+    "imageUrl": "https://images.pexels.com/photos/32689296/pexels-photo-32689296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Shinjuku",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Suehiro-dori, named for the Suehirotei rakugo theater at its heart, anchors this dense grid of small izakaya, standing bars, and late-night eateries just southeast of Shinjuku Station. It has functioned as an after-work drinking zone for local office workers for decades, and while it sits only a few minutes from both Golden Gai and Kabukicho, it reads as noticeably more grown-up and unpretentious than either, with fewer tourists and none of Golden Gai's cover-charge tiny bars or Kabukicho's touts.\n\nA newer addition worth knowing about is Shinjuku Yokocho, a multi-vendor food hall that opened in 2022 about two minutes from the station, gathering sushi, gyutan, yakitori, and gyoza counters under one roof for visitors who want a lower-commitment first taste of the area's food culture before venturing into individual izakaya.\n\nBecause Kabukicho is so close by, some tout activity and occasional overcharging bars can bleed into Sanchome's edges after dark, so the same basic caution applies here as elsewhere in Shinjuku: check prices posted outside before sitting down, and be wary of anyone approaching you on the street. During the day the area is unremarkable and easy to walk through; it only really comes alive after the sun goes down.",
+    "imageSource": "pexels",
+    "imageCredit": {
+      "author": "Rsa",
+      "licenseName": "CC BY-SA 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Toei_Shinjuku-sanchome_Station_Platform_20121101.jpg"
+    }
+  },
+  {
+    "id": "shinjuku-nichome-lgbtq-district",
+    "title": "Shinjuku Ni-chome",
+    "city": "Tokyo",
+    "interests": [
+      "nightlife"
+    ],
+    "summary": "Asia's largest LGBTQ+ nightlife district, several hundred tiny bars packed into a few blocks next to Shinjuku Sanchome, genuinely welcoming to first-time visitors and allies.",
+    "access": "About 1-2 minutes on foot from Shinjuku-sanchome Station, exit C8, which opens directly onto Naka-dori, the district's main strip.",
+    "address": "Shinjuku 2-chome, Shinjuku City, Tokyo",
+    "imageUrl": "https://images.pexels.com/photos/1633791/pexels-photo-1633791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Shinjuku",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Ni-chome holds the world's densest concentration of LGBTQ+ bars, several hundred venues packed into roughly a 300 by 300 meter grid centered on Naka-dori. Most bars are tiny, some seating fewer than ten people, and lean toward a regulars-and-conversation atmosphere rather than large dance clubs, though bigger venues with dance floors exist too. It's widely described as Asia's largest gay district, and today it's genuinely mixed: straight allies and curious first-time visitors are common, especially at the larger, more foreigner-friendly bars, and the area doesn't require insider knowledge to enjoy.\n\nA handful of well-established venues are known for being especially welcoming to newcomers and non-Japanese speakers, including Advocates Bar, an open-air corner spot with no cover charge that functions as an informal community hub, and Arty Farty, a larger club with a dance floor. Smaller, quieter options like Campy!, known for its drag-hosted nights, and GB, a compact and friendly standing bar, are good entry points for a calmer first visit.\n\nA few etiquette notes are worth knowing before a visit: ask before photographing people, since privacy matters more here than in most nightlife districts, and keep in mind that some of the smallest bars are community or identity-specific spaces rather than general tourist venues, so it's worth reading the room, or simply asking, before walking in. There's no particular dress code, and cover charges where they exist are modest, typically a few hundred to around a thousand yen, often bundled with a first drink.",
+    "imageSource": "pexels",
+    "imageCredit": {
+      "author": "Tdk at Japanese Wikipedia",
+      "licenseName": "CC BY-SA 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Naito-shinjyuku_relief.jpg"
+    }
+  },
+  {
+    "id": "nakameguro-bar-scene",
+    "title": "Nakameguro Bar Scene",
+    "city": "Tokyo",
+    "interests": [
+      "nightlife",
+      "photo-spots"
+    ],
+    "summary": "Small, owner-run cocktail and natural wine bars strung along the Meguro River canal, Tokyo's closest thing to a craft-cocktail neighborhood, at a fraction of Ginza's prices.",
+    "access": "About 1-3 minutes on foot from Nakameguro Station (Tokyu Toyoko Line, Tokyo Metro Hibiya Line).",
+    "address": "Nakameguro area, Meguro City, Tokyo",
+    "imageUrl": "https://images.pexels.com/photos/18358469/pexels-photo-18358469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Nakameguro",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Nakameguro's evening character centers on small, independently-run cocktail bars and natural wine spots tucked into the buildings lining the Meguro River canal, many with only a handful of seats and a single bartender who built the menu themselves. The drinks here are frequently as technically accomplished as anything in Ginza's formal bars, but the setting and prices are entirely different, casual, unpretentious rooms rather than hushed hotel lounges, with cocktails typically running well under what a comparable pour would cost in Ginza or Roppongi.\n\nBar-hopping is the normal way to experience the area: locals typically have one drink at a spot before moving to the next, treating the whole canal-side stretch as a loose circuit rather than committing to a single bar for the night. This makes it easy to sample several very different rooms in an evening without a big time or money commitment to any one of them.\n\nThe area is at its most attractive in the evening when string lights and bar signage reflect off the canal water, and it draws a mixed crowd of neighborhood regulars, young professionals, and design-industry types rather than tour groups, giving it a noticeably local feel for a district this well known. Cherry blossom season along the same canal draws much bigger, more daytime-oriented crowds, so the bar scene described here is best experienced after dark, outside of peak sakura weekends if a quieter visit is the goal.",
+    "imageSource": "pexels"
+  },
+  {
+    "id": "ikebukuro-nightlife-district",
+    "title": "Ikebukuro Nightlife",
+    "city": "Tokyo",
+    "interests": [
+      "nightlife"
+    ],
+    "summary": "A cheaper, rougher-edged nightlife area where Tokyo residents actually go drinking, running at roughly half Roppongi's prices with far less tourist polish.",
+    "access": "Ikebukuro Station (JR Yamanote Line and multiple private/subway lines); the nightlife strips fan out from both the east and west exits.",
+    "address": "Ikebukuro area, Toshima City, Tokyo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ikebukuro%2C_Tokyo_-_Flickr_-_Yoshimai.jpg/960px-Ikebukuro%2C_Tokyo_-_Flickr_-_Yoshimai.jpg",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Ikebukuro",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Ikebukuro's two station exits have distinctly different characters after dark. The east side is flashier, dense with hostess clubs, girls' bars, and glowing signage, while the west side runs to quieter snack bars, standing bars, and lounges with a more low-key, adult atmosphere. Neither side is particularly geared toward tourists, which is exactly the appeal for visitors who've already done Roppongi or Kabukicho and want a sense of where Tokyo residents actually go drinking on an ordinary weeknight.\n\nPrices reflect that lack of tourist optimization: drinks and cover charges here commonly run at roughly half what a comparable night in Roppongi would cost, without much sacrifice in quality, since the crowd is largely local regulars rather than one-time visitors. The area is also one of Tokyo's three major secondary hubs alongside Shinjuku and Shibuya, so it has real depth and variety once you start exploring beyond the main station-facing strips.\n\nAs with any dense nightlife district, exercising the same basic caution around street touts and unfamiliar venues applies here too, though Ikebukuro doesn't have Roppongi's particular reputation for aggressive tout activity. It rewards wandering a few blocks back from the station rather than settling for the first bar in sight.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "James Jin from North Yorkshire, UK",
+      "licenseName": "CC BY-SA 2.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Ikebukuro,_Tokyo_-_Flickr_-_Yoshimai.jpg"
+    }
+  },
+  {
+    "id": "ebisu-yokocho",
+    "title": "Ebisu Yokocho",
+    "city": "Tokyo",
+    "interests": [
+      "nightlife",
+      "food",
+      "backstreets"
+    ],
+    "summary": "A covered alley of roughly 20 tiny food-and-drink stalls built into a former shopping arcade, food-forward and mixed-crowd, with several stalls staying open into the small hours.",
+    "access": "About 2 minutes on foot from Ebisu Station, east exit (JR Yamanote, Saikyo, and Shonan-Shinjuku Lines, or Tokyo Metro Hibiya Line).",
+    "address": "1-7-4 Ebisu, Shibuya City, Tokyo 150-0013",
+    "imageUrl": "https://images.pexels.com/photos/37920005/pexels-photo-37920005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "officialUrl": "https://ebisu-yokocho.com/top.html",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Ebisu",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Ebisu Yokocho occupies the site of a former shopping arcade, the Yamashita Shopping Center, repurposed into a covered alley lined with roughly 20 stalls, each only a few square meters, serving everything from yakitori and oden to sushi and curry alongside drinks. It grew out of what used to be a fairly ordinary salaryman drinking spot into a younger, more mixed crowd today, though the cramped, communal-table layout still forces the kind of conversation with strangers that made the format popular in the first place.\n\nCompared to similar alley formats elsewhere in Tokyo, Ebisu Yokocho leans noticeably more toward food than pure drinking, with a wider variety of small kitchens than a typical izakaya alley, which makes it a reasonable option for a full casual dinner rather than only a stop for drinks. Several stalls stay open very late, and it has become a common last stop for people who started their night elsewhere and want food before heading home.\n\nThe alley is compact enough to see in full within a few minutes of walking through, though finding a seat at a specific stall on a busy night can take some patience. Weeknights tend to be calmer and easier to get a seat than weekends, when the narrow aisles fill up quickly with both regulars and visitors drawn by the atmosphere alone.",
+    "imageSource": "pexels",
+    "imageCredit": {
+      "author": "pommes king from Go and shogi center Sankei Club in Ebisu-higashi, Naniwa, Osaka",
+      "licenseName": "CC BY 2.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Go_and_shogi_center_by_pommes_king_in_Osaka.jpg"
+    }
+  },
+  {
+    "id": "shinjuku-chuo-koen",
+    "title": "Shinjuku Central Park",
+    "city": "Tokyo",
+    "interests": [
+      "nature",
+      "sightseeing",
+      "family"
+    ],
+    "summary": "A large, unfussy park directly in front of the Tokyo Metropolitan Government Building, with a waterfall, open lawns, and a noticeably calmer pace than the skyscraper district surrounding it.",
+    "access": "About 1 minute on foot from Tochomae Station (Toei Oedo Line); about 5 minutes from Nishi-Shinjuku Station (Tokyo Metro Marunouchi Line); about 10 minutes from JR Shinjuku Station.",
+    "address": "2-11 Nishi-Shinjuku, Shinjuku City, Tokyo 160-0023",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tokyo%2C_Shinjuku._Central_park_-_panoramio.jpg/960px-Tokyo%2C_Shinjuku._Central_park_-_panoramio.jpg",
+    "officialUrl": "https://shinjukuchuo-park.jp/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Shinjuku",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Shinjuku Central Park sits directly in front of the Tokyo Metropolitan Government Building, surrounded by some of the tallest buildings in the Nishi-Shinjuku skyscraper district, including the Hyatt Regency and Park Hyatt Tokyo. Despite that setting, the park itself feels deliberately low-key: open lawns, mature trees, and a small artificial waterfall called Jusho-no-Taki give it a quieter, more residential feel than the office towers around it would suggest.\n\nIt works well as a short break between skyscraper-district sightseeing, close enough to the Metropolitan Government Building's free observation decks to combine into the same outing, but with none of the crowds. Office workers use it for lunch breaks on weekdays, and it hosts occasional food events and markets on weekends, so its atmosphere shifts noticeably depending on when you visit.\n\nIt isn't a destination park in the way Shinjuku Gyoen or Yoyogi Park are, and most visitors treat it as a convenient stopover rather than a planned outing, but for anyone already in the area for the Metropolitan Government Building or a hotel nearby, it's a pleasant, unhurried green space that most itineraries otherwise skip entirely.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Eugenio,77",
+      "licenseName": "CC BY-SA 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Tokyo,_Shinjuku._Central_park_-_panoramio.jpg"
+    }
+  },
+  {
+    "id": "mon-takanawa-museum-of-narratives",
+    "title": "MoN Takanawa: The Museum of Narratives",
+    "city": "Tokyo",
+    "interests": [
+      "art-museums",
+      "architecture",
+      "family",
+      "photo-spots"
+    ],
+    "summary": "A spiral-shaped, Kengo Kuma-designed museum inside Takanawa Gateway City that opened in March 2026, built around immersive digital storytelling exhibits including an Osamu Tezuka installation.",
+    "access": "Directly connected to JR Takanawa Gateway Station, about a 5-minute walk within the complex; about 3 minutes on foot from Sengakuji Station (Toei Asakusa Line).",
+    "address": "Takanawa Gateway City, Minato City, Tokyo",
+    "imageUrl": "https://images.pexels.com/photos/5845506/pexels-photo-5845506.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "officialUrl": "https://montakanawa.jp/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Book a related tour/ticket/activity",
+        "url": "https://www.klook.com/",
+        "provider": "Klook"
+      }
+    ],
+    "description": "MoN, short for the Museum of Narratives, opened in March 2026 as the cultural centerpiece of Takanawa Gateway City, the large mixed-use development built around Tokyo's newest JR station. The building itself, designed by Kengo Kuma, spirals upward around a green, planted core, and is as much a piece of the exhibit as anything inside it, wrapping visitors through a route rather than a conventional room-by-room floor plan.\n\nThe museum's identity centers on immersive, technology-driven storytelling rather than a fixed permanent collection. Its best-known feature so far is a large-scale installation built around Osamu Tezuka's Phoenix (Hinotori), using LED theater staging to put visitors inside the story rather than displaying it as static art, alongside other rotating narrative-based exhibits that change more like theater programming than a traditional museum schedule.\n\nBecause it opened so recently, exhibits and hours are still evolving, and it's worth checking current programming before a visit, especially if a specific installation is the draw. It pairs naturally with a walk through the rest of Takanawa Gateway City's new public spaces, and its station-direct access makes it an easy add-on for anyone passing through Shinagawa or Tamachi rather than a destination requiring a special trip.",
+    "imageSource": "pexels"
+  },
+  {
+    "id": "the-jojo-world-shibuya-parco",
+    "title": "THE JOJO WORLD",
+    "city": "Tokyo",
+    "interests": [
+      "pop-culture",
+      "shopping",
+      "photo-spots"
+    ],
+    "summary": "The first permanent official JoJo's Bizarre Adventure experience, a compact interactive shop on the 6th floor of Shibuya PARCO with mini-games, themed food, and exclusive merchandise.",
+    "access": "About 5 minutes on foot from Shibuya Station.",
+    "address": "Shibuya PARCO 6F, 15-1 Udagawacho, Shibuya City, Tokyo",
+    "imageUrl": "https://images.pexels.com/photos/14382468/pexels-photo-14382468.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Shibuya",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "THE JOJO WORLD opened in July 2025 on the sixth floor of Shibuya PARCO as the first permanent, officially licensed experiential shop dedicated to Hirohiko Araki's long-running manga and anime series JoJo's Bizarre Adventure. Rather than functioning purely as a merchandise store, it's built around small interactive elements, mini-games and photo-friendly set pieces themed around the series' distinctive art style and characters, alongside a food and drink menu that leans into the show's visual language.\n\nAdmission is free, and the space is compact at around 264 square meters, so a visit doesn't require a long time commitment even for non-fans passing through PARCO for other reasons. For dedicated fans, the appeal is largely in store-exclusive merchandise not available elsewhere, making it as much a specialty shopping stop as an attraction.\n\nBecause it sits inside Shibuya PARCO, a fashion and culture department store that's a worthwhile stop on its own, it combines easily with the rest of the building rather than requiring a dedicated trip. Given its niche appeal, it's a better fit for visitors who already know and follow the series than a general pop-culture attraction for casual tourists.",
+    "imageSource": "pexels",
+    "imageCredit": {
+      "author": "Jeremy Thompson",
+      "licenseName": "CC BY 2.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Mojo%27s_Robot_Rampage_at_IMG_Worlds_of_Adventure.jpg"
+    }
   }
 ]
