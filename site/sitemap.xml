@@ -1711,11 +1711,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/tashirojima-cat-island.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/onagawa-seapal-pier.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1776,17 +1771,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/oshima-island-matsushima.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/saigyo-modoshi-no-matsu-park.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/urato-islands.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1872,11 +1857,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/taga-castle-ruins.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kinkasan-island.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2806,11 +2786,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/ichiran-original-shop-nakasu.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/naka-river-cruise.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2937,11 +2912,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/yanagawa-river-punting.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/mentaiko-fukuya-honten.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3171,11 +3141,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/munakata-oshima-island.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/meinohama-beach.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3307,16 +3272,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kanagawa-prefectural-government-kings-tower.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/yokohama-customs-queens-tower.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/yokohama-port-opening-memorial-hall.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4216,11 +4171,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/innoshima-suigun-castle.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/tatara-bridge.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4302,11 +4252,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/onomichi-u2.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/innoshima-citrus-terraces.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4432,11 +4377,6 @@
   </url>
   <url>
     <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/hiroshima-nagarekawa-nightlife-district.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/hiroshima-ninoshima-island.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

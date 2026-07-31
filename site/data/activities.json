@@ -9818,35 +9818,6 @@
     "imageSource": "pexels"
   },
   {
-    "id": "tashirojima-cat-island",
-    "title": "Tashirojima (Cat Island)",
-    "city": "Sendai",
-    "interests": [
-      "nature",
-      "family",
-      "photo-spots"
-    ],
-    "summary": "A small fishing island where free-roaming cats, historically kept to protect the local silkworm trade from mice, now outnumber the aging human population.",
-    "description": "Tashirojima earned its 'Cat Island' nickname honestly: fishermen here traditionally kept cats to protect silkworm cocoons and fishing nets from rodents, came to see them as bringers of good luck and weather warnings, and over generations the cat population grew to far outnumber the island's small, aging community of full-time residents. Dogs are not allowed on the island, a rule maintained specifically to keep the cats comfortable and free-roaming.\n\nA small shrine partway across the island, Neko Jinja (Cat Shrine), is dedicated to the animals and marks something like the spiritual center of the island's identity. Beyond the cats themselves, Tashirojima has a handful of cat-shaped guesthouses and a slow, low-key fishing-village pace that makes it feel a world away from Sendai, despite being reachable in a single day.\n\nThe ferry from Ishinomaki takes roughly forty-five minutes to an hour each way and runs only a few times a day, so planning around the return schedule matters; ferries are also sometimes cancelled in rough weather, so building in flexibility helps. There are very few restaurants on the island, so bringing food and water is wise. It's a genuinely uncrowded destination outside of the busiest holiday weekends, and any weekday visit is likely to feel close to having the island to yourself.",
-    "access": "Ferry from a pier near Ishinomaki Station (about a 10 to 15 minute walk or short taxi ride), taking roughly 45 to 60 minutes each way, with only a few sailings per day.",
-    "address": "Tashirojima, Ishinomaki, Miyagi",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Nekotarou%28a_cat_of_Tashirojima_island%29.JPG/960px-Nekotarou%28a_cat_of_Tashirojima_island%29.JPG",
-    "isLocalPick": false,
-    "affiliateLinks": [
-      {
-        "label": "Book a related tour/ticket/activity",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "imageSource": "wikimedia",
-    "imageCredit": {
-      "author": "暇・カキコ",
-      "licenseName": "CC BY-SA 4.0",
-      "fileUrl": "https://commons.wikimedia.org/wiki/File:Nekotarou(a_cat_of_Tashirojima_island).JPG"
-    }
-  },
-  {
     "id": "onagawa-seapal-pier",
     "title": "Onagawa Seapal Pier",
     "city": "Sendai",
@@ -10163,35 +10134,6 @@
     }
   },
   {
-    "id": "oshima-island-matsushima",
-    "title": "Oshima Island",
-    "city": "Sendai",
-    "interests": [
-      "temples-shrines",
-      "nature",
-      "backstreets"
-    ],
-    "summary": "A free red-lacquered bridge across from Zuiganji leads to a tiny island honeycombed with monks' meditation caves carved directly into the cliffs, one of Matsushima's least-visited corners.",
-    "description": "For centuries, ascetic Buddhist monks used this small island as a retreat for meditation and religious training, and its cliffs are still pocked with hand-carved caves and dotted with stone monuments and small Buddhist statues left behind by generations of practitioners. It sits just across a short bridge from the Matsushima waterfront, close enough to see from the main temple complex but far enough to feel separate from it.\n\nUnlike Fukuurajima, the bridge here is free to cross, and the island itself is small enough to explore fully in fifteen to twenty minutes.\n\nBecause it's overshadowed by the much larger and more famous Zuiganji temple complex just across the water, Oshima tends to get overlooked entirely, even by visitors standing right next to it. It's a quiet, slightly eerie spot at any time of day, but especially atmospheric near sunset when the bay's light turns golden.",
-    "access": "About a 10-minute walk from Matsushima-Kaigan Station, near Zuiganji Temple.",
-    "address": "Matsushima, Matsushima-machi, Miyagi-gun, Miyagi",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oshima_island_in_Fukui_pref.jpg/960px-Oshima_island_in_Fukui_pref.jpg",
-    "isLocalPick": true,
-    "affiliateLinks": [
-      {
-        "label": "Book a related tour/ticket/activity",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "imageSource": "wikimedia",
-    "imageCredit": {
-      "author": "Motokoka",
-      "licenseName": "CC BY-SA 4.0",
-      "fileUrl": "https://commons.wikimedia.org/wiki/File:Oshima_island_in_Fukui_pref.jpg"
-    }
-  },
-  {
     "id": "saigyo-modoshi-no-matsu-park",
     "title": "Saigyo Modoshi no Matsu Park",
     "city": "Sendai",
@@ -10218,35 +10160,6 @@
       "author": "663highland",
       "licenseName": "CC BY-SA 4.0",
       "fileUrl": "https://commons.wikimedia.org/wiki/File:211030_Saigyo_Modoshi_no_Matsu_Park_Matsushima_Miyagi_pref_Japan01n.jpg"
-    }
-  },
-  {
-    "id": "urato-islands",
-    "title": "Urato Islands",
-    "city": "Sendai",
-    "interests": [
-      "nature",
-      "outdoor",
-      "backstreets"
-    ],
-    "summary": "A city-run ferry from Shiogama loops around five small islands with no bridges, no convenience stores, and barely any tourists, just quiet trails and a beach locals keep mostly to themselves.",
-    "description": "Departing from the Marine Gate ferry terminal in Shiogama, a municipal ferry loops daily around the Urato Islands, a scattering of small, mostly car-free islands at the mouth of Matsushima Bay. Katsurashima has a small public beach that opens for swimming during a brief calm stretch each summer, Nonoshima is known for a camellia tunnel and seasonal lavender fields, and Sabusawa, the largest of the group, holds historical sites including unusual rope-tied jizo statues.\n\nA one-way ferry ticket costs a modest, fixed amount depending on destination, and because the ferry runs on a set loop schedule, it's worth checking timetables in advance so you're not stranded on an island longer than planned.\n\nThe islands function primarily as a commuter ferry route for the small resident population, which means visitors are a genuine rarity outside of hiking groups following the Michinoku Coastal Trail. Spring brings flowering nanohana and camellias, while the brief July swimming window at Katsurashima is a distinctly local secret.",
-    "access": "Ferry from Marine Gate Shiogama, about a 10-minute walk from JR Hon-Shiogama Station.",
-    "address": "Urato Islands, Shiogama, Miyagi",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%E6%B5%A6%E6%88%B8%E8%AB%B8%E5%B3%B6_Urato_Islands_-_panoramio.jpg/960px-%E6%B5%A6%E6%88%B8%E8%AB%B8%E5%B3%B6_Urato_Islands_-_panoramio.jpg",
-    "isLocalPick": true,
-    "affiliateLinks": [
-      {
-        "label": "Book a related tour/ticket/activity",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "imageSource": "wikimedia",
-    "imageCredit": {
-      "author": "Tomofumi Sato",
-      "licenseName": "CC BY-SA 3.0",
-      "fileUrl": "https://commons.wikimedia.org/wiki/File:%E6%B5%A6%E6%88%B8%E8%AB%B8%E5%B3%B6_Urato_Islands_-_panoramio.jpg"
     }
   },
   {
@@ -10689,35 +10602,6 @@
       "author": "Kumamushi",
       "licenseName": "CC BY-SA 3.0",
       "fileUrl": "https://commons.wikimedia.org/wiki/File:Tagajo.jpg"
-    }
-  },
-  {
-    "id": "kinkasan-island",
-    "title": "Kinkasan Island",
-    "city": "Sendai",
-    "interests": [
-      "temples-shrines",
-      "nature",
-      "outdoor"
-    ],
-    "summary": "A sacred island off Ishinomaki reachable only by boat, roamed by hundreds of wild deer that Shinto tradition treats as divine messengers, with monkeys in the forest making the whole hike feel a little untamed.",
-    "description": "Kinkasan is considered one of the holiest sites in the Tohoku region, centered on Koganeyama Shrine, said to have been established around 1,250 years ago following Japan's first recorded gold mining, which gave the island its lasting association with wealth and good fortune. The island's deer, numbering in the hundreds, roam freely in and out of the shrine grounds and are regarded by Shinto tradition as messengers of the gods, while wild monkeys add an extra layer of untamed atmosphere to the forested trails.\n\nThe island is only reachable by boat, generally departing from Ayukawa Port or Onagawa, and because sailings are limited, a day trip is possible but requires careful timing around the ferry schedule; an overnight stay is often recommended for a more relaxed visit. Costs cover the round-trip boat fare plus any lodging if staying overnight.\n\nBecause reaching the island takes real planning compared to a straightforward train ride, Kinkasan sees a fraction of the visitors that Matsushima or Sendai attract, keeping its trails and shrine grounds genuinely peaceful. An antler-cutting ritual held on the first Sunday of October is a distinctive seasonal event worth timing a visit around if the dates align.",
-    "access": "Ferry from Ayukawa Port (near Ishinomaki) or from Onagawa; check current sailing schedules in advance.",
-    "address": "Kinkasan Island, Ishinomaki, Miyagi",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kinkazan.jpg/960px-Kinkazan.jpg",
-    "isLocalPick": false,
-    "affiliateLinks": [
-      {
-        "label": "Book a related tour/ticket/activity",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "imageSource": "wikimedia",
-    "imageCredit": {
-      "author": "Kumamushi",
-      "licenseName": "CC BY 3.0",
-      "fileUrl": "https://commons.wikimedia.org/wiki/File:Kinkazan.jpg"
     }
   },
   {
@@ -15928,33 +15812,6 @@
     "imageSource": "pexels"
   },
   {
-    "id": "ichiran-original-shop-nakasu",
-    "title": "Ichiran Ramen Original Shop",
-    "city": "Fukuoka",
-    "interests": [
-      "food"
-    ],
-    "summary": "The headquarters of the solo-booth tonkotsu ramen chain that went global, serving a Fukuoka-only menu item found nowhere else in the world.",
-    "description": "Ichiran's private-booth ramen format, where diners order through a form and eat facing a wooden partition rather than a shared counter, started here in Fukuoka and this Nakasu location functions as both a working shop and the company's headquarters. It's larger and busier than a typical branch, with multiple floors of the individual booths the chain is famous for.\n\nThe draw for ramen fans specifically is that this is Ichiran's original shop, serving the brand's classic Natural Tonkotsu Ramen recipe that has remained unchanged since the company's founding here. (Note: the limited-edition Gokaku Ramen, with its extra-long noodles, is exclusive to Ichiran's Dazaifu Sando branch, not this Nakasu headquarters.) Beyond that, the ordering process is the same as any Ichiran: a paper form lets you customize noodle firmness, broth richness, and spice level before your bowl arrives.\n\nBecause this is a flagship location rather than a hidden gem, expect a queue, especially in the evening; a vending-machine ticket system out front manages the line. Late morning or mid-afternoon, outside the standard lunch and dinner rushes, tends to move faster. It sits close enough to the Nakasu yatai stalls that the two make an easy combined food outing.",
-    "access": "Short walk from Nakasu-Kawabata Station or Tenjin, on the Nakasu riverside",
-    "address": "5-3-2 Nakasu, Hakata Ward, Fukuoka",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ichiran_Ramen.JPG/960px-Ichiran_Ramen.JPG",
-    "isLocalPick": false,
-    "affiliateLinks": [
-      {
-        "label": "Book a related tour/ticket/activity",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "imageSource": "wikimedia",
-    "imageCredit": {
-      "author": "User: (WT-shared) Jpatokal at  wts wikivoyage",
-      "licenseName": "CC BY-SA 4.0",
-      "fileUrl": "https://commons.wikimedia.org/wiki/File:Ichiran_Ramen.JPG"
-    }
-  },
-  {
     "id": "naka-river-cruise",
     "title": "Naka River Night Cruise",
     "city": "Fukuoka",
@@ -16662,29 +16519,6 @@
     "address": "Yanagawa, Fukuoka Prefecture",
     "imageUrl": "https://images.pexels.com/photos/28988854/pexels-photo-28988854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     "isLocalPick": false,
-    "affiliateLinks": [
-      {
-        "label": "Book a related tour/ticket/activity",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "imageSource": "pexels"
-  },
-  {
-    "id": "mentaiko-fukuya-honten",
-    "title": "Fukuya Mentaiko Main Store",
-    "city": "Fukuoka",
-    "interests": [
-      "food",
-      "shopping"
-    ],
-    "summary": "The Fukuoka shop widely credited with commercializing spicy marinated pollock roe in the mid-20th century, now sold vacuum-packed as one of the city's defining souvenirs.",
-    "description": "Mentaiko, seasoned and marinated pollock roe, is inseparable from Fukuoka's food identity, and Fukuya is generally recognized as the company that first developed and commercialized the modern version of the product in the years after World War II, adapting a Korean-influenced recipe into what's now sold across Japan. Visiting the main store gives a chance to buy it close to the source, often with a wider range of grades and spice levels than you'll find at an airport gift shop.\n\nMentaiko is sold vacuum-packed and chilled or frozen, which travels reasonably well for a day or two, making it a realistic souvenir for visitors heading home rather than something that has to be eaten immediately. Staff can usually advise on which grade or packaging suits a longer trip home versus quick local eating.\n\nBranches and mentaiko counters from various producers, including Fukuya, are also found inside Hakata Station and major Tenjin department stores, which is a simpler option if the main store's exact location doesn't fit your route. Either way, comparing a couple of shops' offerings is worth it, since spice level and saltiness vary noticeably between producers.",
-    "access": "Main store in the Nakasu area of Hakata Ward, near Kushida Shrine and Canal City Hakata; branches also found inside Hakata Station and Tenjin department stores.",
-    "address": "Nakasu, Hakata Ward, Fukuoka",
-    "imageUrl": "https://images.pexels.com/photos/3708747/pexels-photo-3708747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "isLocalPick": true,
     "affiliateLinks": [
       {
         "label": "Book a related tour/ticket/activity",
@@ -17877,35 +17711,6 @@
     }
   },
   {
-    "id": "munakata-oshima-island",
-    "title": "Oshima Island, Munakata",
-    "city": "Fukuoka",
-    "interests": [
-      "nature",
-      "outdoor",
-      "temples-shrines"
-    ],
-    "summary": "A small ferry-only island holding the second of Munakata Taisha's three linked shrines, with a windswept lookout facing the still-restricted sacred island of Okinoshima.",
-    "description": "Oshima sits offshore from the Munakata coast and is reached by a short ferry crossing, making it a natural extension for anyone who has already visited the mainland Munakata Taisha shrine, since Oshima holds the Nakatsu-miya shrine, the second of the three linked shrines that together form the UNESCO-listed Munakata Taisha complex. The island itself is small enough to explore substantially on foot or rented bicycle in a few hours, with a scattering of fishing houses, a lighthouse, and coastal lookout points.\n\nThe island's most distinctive spot is a clifftop lookout facing Okinoshima, the remote, still tightly restricted third shrine island roughly 50 kilometers further out to sea, where ancient offerings gave rise to the treasures now displayed at the Shinpokan hall on the mainland. Standing at this lookout, with nothing but open water toward the horizon, is as close as most visitors will ever get to Okinoshima itself, since the island bars general public access.\n\nBecause reaching Oshima requires a deliberate ferry trip on top of an already out-of-the-way visit to Munakata, it remains a genuinely quiet destination, visited mostly by pilgrims completing the full three-shrine circuit and by a handful of hikers and cyclists. Ferry schedules are limited, so checking current departure times before planning the day is essential.",
-    "access": "By car or bus to the Munakata coast, then a ferry (roughly 25 minutes) from Konominato Port to Oshima; ferries run on a limited daily schedule.",
-    "address": "Oshima, Munakata, Fukuoka",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Oshima_Fishing_Port_and_Jinoshima_Island_20150502.JPG/960px-Oshima_Fishing_Port_and_Jinoshima_Island_20150502.JPG",
-    "isLocalPick": false,
-    "affiliateLinks": [
-      {
-        "label": "Book a Munakata and Oshima Island day tour",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "imageSource": "wikimedia",
-    "imageCredit": {
-      "author": "そらみみ (Soramimi)",
-      "licenseName": "CC BY-SA 4.0",
-      "fileUrl": "https://commons.wikimedia.org/wiki/File:Oshima_Fishing_Port_and_Jinoshima_Island_20150502.JPG"
-    }
-  },
-  {
     "id": "meinohama-beach",
     "title": "Meinohama Beach",
     "city": "Fukuoka",
@@ -18662,62 +18467,6 @@
       }
     ],
     "imageSource": "pexels"
-  },
-  {
-    "id": "yokohama-customs-queens-tower",
-    "title": "Yokohama Customs Headquarters (Queen's Tower)",
-    "city": "Yokohama",
-    "interests": [
-      "architecture",
-      "history"
-    ],
-    "summary": "The tallest of Yokohama's Three Towers, an early Showa-era customs building topped with a green dome inspired by Islamic architecture.",
-    "description": "Completed in the early 1930s, the Yokohama Customs building stands out from its neighbors thanks to a dome styled after Islamic architecture rather than the more European or Japanese references used elsewhere in the district, an unusual design choice that has made it the most visually distinct of the Three Towers. At roughly 51 meters, its tower is the tallest of the trio, which is how it earned the nickname Queen among the King, Queen, and Jack towers scattered nearby.\n\nAs an active customs facility, general public access to the interior is limited, so like its counterpart the King's Tower, it is best appreciated from outside as part of an architecture-focused walk through the Kannai and harbor district. Its position close to the waterfront also means it is visible from Osanbashi Pier and parts of Yamashita Park, making it a recognizable reference point even from a distance.\n\nPairing a look at this building with the nearby King's and Jack's towers, ideally seeking out a spot where all three line up, follows a small local tradition said to grant good luck to anyone who manages the sightline, giving an otherwise simple architecture walk a bit of a game to it.",
-    "access": "3-minute walk from Nihon-odori Station",
-    "address": "Kaigan-dori area, Naka-ku, Yokohama",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ken_H._Yokohama_Three_towers_%22Queen%22_-_Yokohama_Customs%281%29_%285578924979%29.jpg/960px-Ken_H._Yokohama_Three_towers_%22Queen%22_-_Yokohama_Customs%281%29_%285578924979%29.jpg",
-    "isLocalPick": false,
-    "affiliateLinks": [
-      {
-        "label": "Book a Yokohama Three Towers architecture tour",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "imageSource": "wikimedia",
-    "imageCredit": {
-      "author": "ken H from Yokohama, Kanagawa-ken, Japan",
-      "licenseName": "CC BY-SA 2.0",
-      "fileUrl": "https://commons.wikimedia.org/wiki/File:Ken_H._Yokohama_Three_towers_%22Queen%22_-_Yokohama_Customs(1)_(5578924979).jpg"
-    }
-  },
-  {
-    "id": "yokohama-port-opening-memorial-hall",
-    "title": "Yokohama Port Opening Memorial Hall (Jack's Tower)",
-    "city": "Yokohama",
-    "interests": [
-      "architecture",
-      "history"
-    ],
-    "summary": "A brick assembly hall completed in 1917 with public donations to mark fifty years since the port opened, its clock tower nicknamed Jack by generations of sailors.",
-    "description": "Funded largely through citizen donations to commemorate the 50th anniversary of Yokohama's 1859 port opening, this building combines a red-brick and granite exterior with a roughly 36-meter clock tower that sailors coming into port long ago nicknamed Jack, rounding out the King, Queen, and Jack trio of towers found within a short walk of each other in central Yokohama. Unlike the still-functioning King's and Queen's towers, this hall has a more public-facing role and occasionally hosts civic events, so it is sometimes possible to see more of the interior than at the other two.\n\nThe building survived both the 1923 earthquake and wartime bombing with damage but was restored rather than replaced, giving it a slightly different character from its two rebuilt neighbors, more patched-together history than clean reconstruction. Its clock tower remains a working timepiece and a recognizable silhouette against the Kannai skyline.\n\nBecause it sits closest to Kannai Station of the three towers, it works well as either the starting or ending point of a Three Towers walk, and checking whether any public event is scheduled inside before visiting can occasionally turn a quick photo stop into a chance to see the hall's interior as well.",
-    "access": "10-minute walk from Kannai Station (about 700m), or 1-minute walk from Nihon-odori Station",
-    "address": "Honcho-dori area, Naka-ku, Yokohama",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ken_H._Yokohama_Three_towers_%22Jack%22_-_Kanagawa_Pref._office%281%29_%285560526005%29.jpg/960px-Ken_H._Yokohama_Three_towers_%22Jack%22_-_Kanagawa_Pref._office%281%29_%285560526005%29.jpg",
-    "isLocalPick": false,
-    "affiliateLinks": [
-      {
-        "label": "Book a Yokohama Three Towers architecture tour",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "imageSource": "wikimedia",
-    "imageCredit": {
-      "author": "ken H from Yokohama, Kanagawa-ken, Japan",
-      "licenseName": "CC BY-SA 2.0",
-      "fileUrl": "https://commons.wikimedia.org/wiki/File:Ken_H._Yokohama_Three_towers_%22Jack%22_-_Kanagawa_Pref._office(1)_(5560526005).jpg"
-    }
   },
   {
     "id": "bashamichi-street-yokohama",
@@ -23694,33 +23443,6 @@
     "imageSource": "pexels"
   },
   {
-    "id": "innoshima-suigun-castle",
-    "title": "Innoshima Suigun Castle",
-    "city": "Hiroshima",
-    "interests": [
-      "history"
-    ],
-    "summary": "A small hilltop museum on Innoshima built in 1983 to house artifacts of the Murakami Suigun, the seafaring clan that controlled shipping through this stretch of the Seto Inland Sea for centuries.",
-    "description": "The Murakami Suigun were a maritime clan active in the Seto Inland Sea from roughly the 14th through 16th centuries, often described in English as pirates but functioning more as toll-collecting naval escorts and shipping guides who used their deep knowledge of the region's dangerous tidal currents to pilot vessels safely through the narrow straits between islands. Innoshima, one of the Shimanami Kaido's chain of islands, was one of the clan's main bases of operation, and some form of fortification is believed to have stood at this hilltop site historically.\n\nThe present castle-form building was constructed in 1983, not as a reconstruction of a specific historical structure but as a museum designed in castle style to display weapons, armor, documents, and other artifacts connected to the Murakami Suigun and their role in regional maritime history. Its turret houses a small exhibition space, and the surrounding hilltop grounds offer views over Innoshima's coastline and the bridges of the Shimanami Kaido nearby.\n\nBecause it is a modest, purpose-built museum rather than an original castle, it tends to appeal most to visitors specifically interested in the Murakami Suigun story or in Seto Inland Sea maritime history, and it makes a manageable stop for those cycling or driving the Shimanami Kaido through Innoshima.",
-    "access": "About 15 minutes by taxi or local bus from Innoshima's ferry terminals; reachable via the Shimanami Kaido cycling and driving route.",
-    "address": "3228-2 Innoshima Nakasujicho, Onomichi, Hiroshima Prefecture",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/%E5%B0%BE%E9%81%93%E5%B8%82_%E5%9B%A0%E5%B3%B6%E6%9D%91%E4%B8%8A%E6%B0%B4%E8%BB%8D%E5%9F%8E_-_panoramio.jpg/960px-%E5%B0%BE%E9%81%93%E5%B8%82_%E5%9B%A0%E5%B3%B6%E6%9D%91%E4%B8%8A%E6%B0%B4%E8%BB%8D%E5%9F%8E_-_panoramio.jpg",
-    "isLocalPick": true,
-    "affiliateLinks": [
-      {
-        "label": "Book a Shimanami Kaido islands tour",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "imageSource": "wikimedia",
-    "imageCredit": {
-      "author": "Yoshio Kohara",
-      "licenseName": "CC BY 3.0",
-      "fileUrl": "https://commons.wikimedia.org/wiki/File:%E5%B0%BE%E9%81%93%E5%B8%82_%E5%9B%A0%E5%B3%B6%E6%9D%91%E4%B8%8A%E6%B0%B4%E8%BB%8D%E5%9F%8E_-_panoramio.jpg"
-    }
-  },
-  {
     "id": "tatara-bridge",
     "title": "Tatara Bridge",
     "city": "Hiroshima",
@@ -24161,29 +23883,6 @@
       "licenseName": "CC BY-SA 4.0",
       "fileUrl": "https://commons.wikimedia.org/wiki/File:Onomichi_u2_03.jpg"
     }
-  },
-  {
-    "id": "innoshima-citrus-terraces",
-    "title": "Innoshima Citrus Terraces",
-    "city": "Hiroshima",
-    "interests": [
-      "seasonal-nature",
-      "photo-spots"
-    ],
-    "summary": "Steep hillside orchards of hassaku citrus, the tart grapefruit-like fruit that Innoshima claims as its own invention, best seen in late-winter blossom or autumn harvest.",
-    "description": "Hassaku, a citrus variety that's tart and slightly bitter compared to sweeter mandarins, was first cultivated on Innoshima in the 19th century, and the island still grows it on terraced slopes that climb steeply from the coastline. There's no single ticketed attraction here — the appeal is driving or cycling the back roads above the ferry ports, where the hillsides are laid out in these terraces and the Inland Sea appears between the rows.\n\nThe most striking time to visit is late autumn into early winter when the fruit ripens to a pale yellow-green against dark green leaves, though the terraces are quietly photogenic year-round for their sheer geometry. A few farm stands along the coastal road sell hassaku products, from raw fruit in season to marmalade and citrus sweets.\n\nThis is a spot for slow exploring rather than a checklist stop, and it rewards anyone taking the Shimanami Kaido at a relaxed pace rather than racing straight through Innoshima toward Ikuchijima.",
-    "access": "Best explored by rental car or bicycle from Innoshima's ferry terminals; roughly 30–40 minutes by car from central Onomichi.",
-    "address": "Innoshima area, Onomichi, Hiroshima",
-    "imageUrl": "https://images.pexels.com/photos/8193018/pexels-photo-8193018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    "isLocalPick": true,
-    "affiliateLinks": [
-      {
-        "label": "Book a Shimanami Kaido cycling tour",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "imageSource": "pexels"
   },
   {
     "id": "setoda-sunset-beach",
@@ -24787,33 +24486,5 @@
       }
     ],
     "imageSource": "pexels"
-  },
-  {
-    "id": "hiroshima-ninoshima-island",
-    "title": "Ninoshima Island",
-    "city": "Hiroshima",
-    "interests": [
-      "outdoor",
-      "history"
-    ],
-    "summary": "A half-hour ferry ride from Hiroshima Port, this quiet island mixes a sandy sunset beach with the somber remains of a wartime quarantine and casualty station.",
-    "description": "Ninoshima sits close enough to Hiroshima Port that it functions as a genuine local getaway rather than a tourist destination, with a laid-back beach where residents come to swim and watch the sunset over the Inland Sea, well away from the crowds of Miyajima.\n\nThe island's more difficult history sits alongside that leisure use: from 1895 it operated as a military quarantine station for the Imperial Army and Navy, and in August 1945, after the bombing of Hiroshima, it became one of the sites where thousands of injured and dying victims were brought for treatment, many of whom did not survive. Ruins of the old quarantine facilities, including an ammunition depot and lookout post, remain on the island, and a memorial marks the mass burial site of bombing victims.\n\nMost visitors come either for the beach and a quiet walk in the hills, or specifically to see the historical remains, and few combine both in one short visit — but either way, Ninoshima offers a side of Hiroshima's story, and a version of its coastline, that the busier tourist circuit doesn't show.",
-    "access": "About a 20-minute ferry ride from Hiroshima Port (Ujina), reachable from central Hiroshima by streetcar and ferry.",
-    "address": "Ninoshima, Minami-ku, Hiroshima",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ninoshima_eventpark_-_panoramio.jpg/960px-Ninoshima_eventpark_-_panoramio.jpg",
-    "isLocalPick": true,
-    "affiliateLinks": [
-      {
-        "label": "Book a Hiroshima Port island ferry tour",
-        "url": "https://www.klook.com/",
-        "provider": "Klook"
-      }
-    ],
-    "imageSource": "wikimedia",
-    "imageCredit": {
-      "author": "Max Nossin",
-      "licenseName": "CC BY 3.0",
-      "fileUrl": "https://commons.wikimedia.org/wiki/File:Ninoshima_eventpark_-_panoramio.jpg"
-    }
   }
 ]
