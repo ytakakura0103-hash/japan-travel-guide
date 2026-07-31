@@ -15639,7 +15639,7 @@
       "backstreets"
     ],
     "summary": "The riverside strip of pull-cart food stalls that makes Fukuoka the only Japanese city where open-air yatai culture still survives at real scale.",
-    "description": "Along the west bank of the Naka River, dozens of small mobile food carts set up each evening, each seating maybe eight to a dozen people shoulder to shoulder along a narrow counter. Nakasu has the highest concentration of yatai in the city, known especially for ramen, yakitori skewers, and oden hot pot, and the neon-lit riverside setting makes it feel distinct from the more neighborhood-oriented Tenjin stalls.\n\nMost stalls set up around 5:30pm and start serving by 6pm, running until around 1am, later on weekends. Cash is essentially mandatory; very few stalls take cards or mobile payment, so carrying enough yen matters more here than almost anywhere else in the city. A realistic budget is a few thousand yen per stall visited, and stall-hopping between two or three is a normal way to spend an evening.\n\nArriving right at opening, around 6 to 7pm, gets the shortest waits and a seat at the counter rather than standing behind someone eating. Etiquette matters at these tight counters: keep bags on your lap or under the stool rather than on an empty seat, which is reserved for the next customer, and don't bring in outside food or drink.",
+    "description": "Along the west bank of the Naka River, dozens of small mobile food carts set up each evening, each seating maybe eight to a dozen people shoulder to shoulder along a narrow counter. Nakasu has the highest concentration of yatai in the city, known especially for ramen, yakitori skewers, and oden hot pot, and the neon-lit riverside setting makes it feel distinct from the more neighborhood-oriented Tenjin stalls.\n\nMost stalls set up around 5:30pm and start serving by 6pm, running until around 1am, later on weekends. Cash is essentially mandatory; very few stalls take cards or mobile payment, so carrying enough yen matters more here than almost anywhere else in the city. A realistic budget is a few thousand yen per stall visited, and stall-hopping between two or three is a normal way to spend an evening.\n\nArriving right at opening, around 6 to 7pm, gets the shortest waits and a seat at the counter rather than standing behind someone eating. Etiquette matters at these tight counters: keep bags on your lap or under the stool rather than on an empty seat, which is reserved for the next customer, and don't bring in outside food or drink.\n\nFukuoka City runs its yatai stalls through a public recruitment system that periodically opens new stalls to a new generation of operators; the fifth round, which onboarded new stalls from April 2025, brought fresh energy to Nakasu and Tenjin alongside a broader modernization push, including LINE-based ordering at some stalls, a combination recognized with a 2025 Good Design Award. Newer stalls sit alongside decades-old ones, so it's worth trying both an established favorite and whatever's newly opened on a given visit.",
     "access": "5-minute walk from Nakasu-Kawabata Station (Kuko Line), Exit 3, along the west bank of the Naka River",
     "address": "Nakasu, Hakata Ward, Fukuoka",
     "imageUrl": "https://images.pexels.com/photos/8640765/pexels-photo-8640765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -16452,10 +16452,11 @@
     "interests": [
       "backstreets",
       "cafes-sweets",
-      "shopping"
+      "shopping",
+      "nightlife"
     ],
     "summary": "A quiet residential district south of Tenjin where old houses have been converted into single-chair salons, natural wine bars, and design shops, drawing a distinctly local crowd.",
-    "description": "South of the Watanabe-dori corridor that separates it from central Tenjin, Yakuin has developed a reputation among Fukuoka residents as a place for small, personal businesses: single-chair hair salons run by one stylist, natural wine bars with only a handful of seats, and design or homeware shops set up in converted houses rather than commercial storefronts. It has none of Tenjin's department-store scale and most of its charm comes from exactly that.\n\nThe pace here is noticeably slower, and because many businesses are appointment-based or deliberately small, it rewards visitors willing to just walk the residential streets rather than following a set shopping route. Cafes tend to be a good default stop if you want to sit somewhere and take in the neighborhood rather than just pass through.\n\nIt draws a fairly local, design-conscious crowd rather than tourists, so don't expect English signage or tourist infrastructure; treat it as a chance to see how younger Fukuoka residents actually spend a weekend rather than a curated attraction.",
+    "description": "South of the Watanabe-dori corridor that separates it from central Tenjin, Yakuin has developed a reputation among Fukuoka residents as a place for small, personal businesses: single-chair hair salons run by one stylist, natural wine bars with only a handful of seats, and design or homeware shops set up in converted houses rather than commercial storefronts. It has none of Tenjin's department-store scale and most of its charm comes from exactly that.\n\nThe pace here is noticeably slower, and because many businesses are appointment-based or deliberately small, it rewards visitors willing to just walk the residential streets rather than following a set shopping route. Cafes tend to be a good default stop if you want to sit somewhere and take in the neighborhood rather than just pass through.\n\nIt draws a fairly local, design-conscious crowd rather than tourists, so don't expect English signage or tourist infrastructure; treat it as a chance to see how younger Fukuoka residents actually spend a weekend rather than a curated attraction.\n\nAs evening sets in, Yakuin's backstreets take on a quieter, more sophisticated nightlife character than nearby Tenjin or Nakasu, with a scattering of serious craft beer bars, whisky and single-malt specialists, and small jazz spots that reward slow exploration over bar-hopping. It's a good fit for visitors who want a considered drink in a low-key setting rather than the density and noise of central Fukuoka's larger nightlife districts.",
     "access": "5-minute walk from Yakuin Station (Nanakuma Line)",
     "address": "Yakuin, Chuo Ward, Fukuoka",
     "imageUrl": "https://images.pexels.com/photos/34991537/pexels-photo-34991537.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
@@ -27019,6 +27020,536 @@
       "author": "Yasu (talk)",
       "licenseName": "CC BY-SA 3.0",
       "fileUrl": "https://commons.wikimedia.org/wiki/File:Chunks_of_Jewelry_Ice_on_the_Otsu_Coast_in_Toyokoro,_Hokkaido,_Japan.jpg"
+    }
+  },
+  {
+    "id": "imaizumi-nightlife-fukuoka",
+    "title": "Imaizumi (evening)",
+    "city": "Fukuoka",
+    "interests": [
+      "nightlife",
+      "food"
+    ],
+    "summary": "A stylish \"second bar\" district next to Daimyo, popular for moving on to after an initial round elsewhere, and home to evoL, a hybrid livehouse and club that hosts everything from touring bands to K-pop nights.",
+    "access": "Adjacent to Daimyo and Yakuin, a short walk from Tenjin Station or Yakuin Station (Nishitetsu Tenjin Omuta Line).",
+    "address": "Imaizumi, Chuo Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Imaizumi_Park.jpg/960px-Imaizumi_Park.jpg",
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Tenjin",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Imaizumi sits just beside Daimyo, already covered elsewhere in this guide for its dense backstreet bar scene, but has carved out its own identity as something of a \"second bar\" district, the kind of place locals move on to after starting an evening elsewhere. Its bars tend to be a notch more stylish and design-conscious than Daimyo's more casual backstreet spots, without tipping into the exclusivity of Fukuoka's more upscale nightlife pockets.\n\nThe district's standout venue is evoL, a hybrid livehouse and club with a capacity of around 460 that hosts a genuinely wide range of programming, from touring bands to dedicated club nights, including a recurring K-pop-focused event that's built a loyal following. That range gives Imaizumi more of a live-music dimension than most of central Fukuoka's nightlife areas, which lean more toward bars and yatai than live venues.\n\nIts location between Daimyo, Yakuin, and Tenjin makes it easy to fold into a broader night out across several districts, moving from dinner in one area to drinks in Imaizumi and on to Tenjin's larger clubs if the night calls for it. It rewards a bit of wandering rather than a fixed plan, in keeping with its role as a stop along the way rather than a single destination.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "STA3816",
+      "licenseName": "CC BY-SA 4.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Imaizumi_Park.jpg"
+    }
+  },
+  {
+    "id": "haruyoshi-fukuoka",
+    "title": "Haruyoshi",
+    "city": "Fukuoka",
+    "interests": [
+      "nightlife"
+    ],
+    "summary": "An upscale riverside pocket across from Nakasu, known for speakeasy-style bars and wine lounges that offer a quieter, more considered alternative to Nakasu's yatai and hostess-bar density.",
+    "access": "Across the Naka River from Nakasu, a short walk from Watanabe-dori Station (Nishitetsu Tenjin Omuta Line) or Nakasu-Kawabata Station.",
+    "address": "Haruyoshi, Chuo Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Haruyoshi_Bridge_West_Crossroads_20170725.jpg/960px-Haruyoshi_Bridge_West_Crossroads_20170725.jpg",
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Nakasu",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Haruyoshi is sometimes described as the quieter, more upscale third point of a nightlife triangle alongside Nakasu and Tenjin, sitting on the opposite riverbank from Nakasu's dense concentration of yatai stalls and hostess bars. Rather than competing on volume or spectacle, Haruyoshi's bars lean toward a considered, speakeasy-style atmosphere, with wine lounges and cocktail bars that reward seeking out rather than stumbling into.\n\nThat lower-key character makes it a good fit for visitors who want a proper sit-down drink and conversation rather than the bar-hopping energy of Nakasu just across the river, or the club-dense stretches of Oyafuko-dori a bit further north in Tenjin. Many of its best spots are small enough that reservations, or at least checking ahead, are worth considering, particularly on weekend evenings.\n\nIts riverside location makes for a pleasant approach on foot, especially in the evening when Nakasu's neon starts to reflect on the water across the way. Combining a visit here with a walk along the Naka River, or a stop at Nakasu itself, makes for a fuller sense of how the river divides Fukuoka's nightlife into genuinely distinct characters within a short walk of each other.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "そらみみ",
+      "licenseName": "CC BY-SA 4.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Haruyoshi_Bridge_West_Crossroads_20170725.jpg"
+    }
+  },
+  {
+    "id": "cats-fukuoka-nightclub",
+    "title": "Cat's FUKUOKA",
+    "city": "Fukuoka",
+    "interests": [
+      "nightlife"
+    ],
+    "summary": "A multi-floor Tenjin nightclub on Oyafuko-dori that bills itself as Fukuoka's top club, renovated in 2018 with an all-genre booking policy.",
+    "access": "On Oyafuko-dori, Tenjin, a short walk from Tenjin Station.",
+    "address": "Oyafuko-dori, Chuo Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Oyafuk%C5%8D_D%C5%8Dri_the_NNW_view_from_Maizuru_1-ch%C5%8Dme_INT_Ch%C5%AB%C5%8D-ku_Fukuoka_20250113_164740.jpg/960px-Oyafuk%C5%8D_D%C5%8Dri_the_NNW_view_from_Maizuru_1-ch%C5%8Dme_INT_Ch%C5%AB%C5%8D-ku_Fukuoka_20250113_164740.jpg",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Tenjin",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Cat's FUKUOKA occupies several floors of a building on Oyafuko-dori, Tenjin's main nightlife strip, and markets itself as the city's top nightclub, a claim it backs up with a 2018 renovation and a booking policy that spans multiple genres rather than committing to one narrow lane. That range makes it a reasonably safe bet for a group with mixed music tastes, since different floors or nights can lean toward EDM, hip-hop, or other current sounds.\n\nIts Oyafuko-dori location puts it directly in the middle of Tenjin's most concentrated nightlife stretch, already covered elsewhere in this guide for its density of bars and clubs, making it an easy anchor point for a night that also takes in the surrounding backstreets. The multi-floor layout gives it more capacity than most of Fukuoka's smaller club spaces, useful on weekend nights when the area gets busy.\n\nAs Fukuoka's self-described leading club, it draws a broad mix of locals, students, and visitors rather than a niche scene, making it one of the more approachable options for anyone new to the city's nightlife. Checking the current event calendar before visiting is worthwhile, since specific nights can carry different genre focuses and cover charges.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Hirho",
+      "licenseName": "CC BY-SA 4.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Oyafuk%C5%8D_D%C5%8Dri_the_NNW_view_from_Maizuru_1-ch%C5%8Dme_INT_Ch%C5%AB%C5%8D-ku_Fukuoka_20250113_164740.jpg"
+    }
+  },
+  {
+    "id": "happy-cock-fukuoka",
+    "title": "Happy Cock",
+    "city": "Fukuoka",
+    "interests": [
+      "nightlife"
+    ],
+    "summary": "A long-running Tenjin nightclub open since 1995, giving it a rare multi-decade history in a nightlife scene where venues typically turn over much faster.",
+    "access": "Tenjin/Daimyo, near Oyafuko-dori, a short walk from Tenjin Station.",
+    "address": "Daimyo, Chuo Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Oyafuk%C5%8D_D%C5%8Dri_the_S_view_from_around_Tenjin_Yokoch%C5%8D_Maizuru_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250613.jpg/960px-Oyafuk%C5%8D_D%C5%8Dri_the_S_view_from_around_Tenjin_Yokoch%C5%8D_Maizuru_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250613.jpg",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Tenjin",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Happy Cock has operated in Tenjin since 1995, giving it more than three decades of continuous history in a nightlife scene where clubs typically last only a few years before closing or rebranding. That longevity has made it something of an institution among Fukuoka's nightlife regulars, a reliable fixture that's outlasted countless newer venues that came and went around it.\n\nIts location near Oyafuko-dori and Daimyo puts it in easy reach of Tenjin's densest concentration of bars and clubs, and its established reputation means it draws a loyal following alongside newer visitors curious about one of the area's oldest surviving clubs. The exact programming has evolved over its history, as is typical for a venue that's stayed open this long, so current genre focus is worth checking directly.\n\nFor visitors interested in Fukuoka's nightlife history as much as a night out itself, Happy Cock offers a rare chance to experience a club that predates most of what's currently operating around it. As with any long-running venue, current hours and event details are best confirmed close to a planned visit.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Hirho",
+      "licenseName": "CC BY-SA 4.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Oyafuk%C5%8D_D%C5%8Dri_the_S_view_from_around_Tenjin_Yokoch%C5%8D_Maizuru_1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250613.jpg"
+    }
+  },
+  {
+    "id": "gekko-nakasu-nightclub",
+    "title": "Gekko NAKASU",
+    "city": "Fukuoka",
+    "interests": [
+      "nightlife"
+    ],
+    "summary": "A newer hip-hop-focused nightclub in Nakasu, running weekends into the early morning, with a notable LED lighting installation.",
+    "access": "Within Nakasu, a short walk from Nakasu-Kawabata Station (Fukuoka City Subway Kuko Line).",
+    "address": "Nakasu, Hakata Ward, Fukuoka",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Nakasu",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Gekko NAKASU brings a genuine dance-club presence to Nakasu, a district otherwise better known for its dense concentration of yatai food stalls and hostess bars than for nightclubs in the conventional sense. Its hip-hop-focused booking policy and notable LED lighting installation, covered in Japanese trade press when the club opened, give it a distinct visual identity among Nakasu's more traditional nightlife venues.\n\nRunning from 9pm to 5am on weekends, it's built for a genuine late-night out rather than an early-evening stop, positioning it alongside Tenjin's larger clubs as an option for visitors who want to dance rather than eat their way through Nakasu's yatai row. Its presence in Nakasu specifically, rather than the more club-dense Tenjin area, makes it a convenient option for anyone already spending an evening among the yatai stalls who wants to extend the night into something more music-focused.\n\nGiven that it's a newer addition to Nakasu's nightlife scene, checking current hours and event programming before visiting is a reasonable precaution, as with most of Fukuoka's smaller, independent clubs."
+  },
+  {
+    "id": "fukuoka-daimyo-garden-city",
+    "title": "Fukuoka Daimyo Garden City",
+    "city": "Fukuoka",
+    "interests": [
+      "architecture",
+      "shopping",
+      "art-museums"
+    ],
+    "summary": "A mixed-use redevelopment on the site of a former elementary school in Daimyo, combining a Ritz-Carlton hotel, retail space, and a public art plaza with rotating installations.",
+    "access": "Within Daimyo, a short walk from Tenjin Station.",
+    "address": "Daimyo, Chuo Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Fukuoka_Daimy%C5%8D_Garden_City_the_NW_side_Daimyo_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250113.jpg/960px-Fukuoka_Daimy%C5%8D_Garden_City_the_NW_side_Daimyo_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250113.jpg",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Tenjin",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Fukuoka Daimyo Garden City transformed the site of a former elementary school in the heart of Daimyo into a mixed-use development combining the Ritz-Carlton Fukuoka, retail space, and a public plaza that's become a genuine cultural venue in its own right. Rather than treating the plaza as leftover space between buildings, the development has run it as an ongoing showcase for public art, with rotating installations under the broader \"Fukuoka Art Next\" initiative that's positioned the city as a growing contemporary art destination.\n\nThat combination of luxury hospitality, retail, and genuinely engaging public art sets it apart from a typical shopping-and-hotel complex, giving visitors a reason to walk through even without shopping or hotel plans. The surrounding development has also drawn a cluster of new, design-conscious cafes and sweets shops that lean into the area's aesthetic, adding to Daimyo's growing reputation as one of Fukuoka's more visually distinctive shopping districts.\n\nIts location directly within Daimyo makes it easy to combine with the district's existing backstreet bar scene and Imaizumi nearby, letting a single visit cover shopping, art, and nightlife across a fairly compact area. Checking what installation is currently on display in the plaza is worth doing before visiting, since the rotating art program means the specific experience changes over time.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Hirho",
+      "licenseName": "CC BY-SA 4.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Fukuoka_Daimy%C5%8D_Garden_City_the_NW_side_Daimyo_2-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_20250113.jpg"
+    }
+  },
+  {
+    "id": "lalaport-fukuoka-gundam",
+    "title": "LaLaport Fukuoka & Gundam Park",
+    "city": "Fukuoka",
+    "interests": [
+      "shopping",
+      "pop-culture",
+      "family"
+    ],
+    "summary": "A large shopping mall near Hakata Station, home to a Gundam Park built around a nearly 25-meter, fully articulated standing Gundam statue that lights up and moves.",
+    "access": "A short distance from Hakata Station, Fukuoka.",
+    "address": "Hakata Ward, Fukuoka",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Hakata Station",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "LaLaport Fukuoka opened in April 2023 as a large-format shopping mall near Hakata Station, but its standout feature isn't a store at all: Gundam Park, built around a nearly 25-meter-tall standing Gundam statue with functioning lights and moving joints, one of only a handful of full-scale Gundam statues anywhere in Japan. The sheer scale of the figure, roughly the height of an eight-story building, makes it visible well beyond the mall itself and has turned it into one of Fukuoka's most photographed pieces of public art.\n\nBeyond the statue, the mall itself offers a standard large-format retail mix, including a substantial Uniqlo and a broad range of fashion, lifestyle, and dining options, making it a practical stop for everyday shopping needs alongside the Gundam spectacle. Periodic light shows and movement sequences run on the statue at scheduled times, worth timing a visit around if seeing it in action rather than static is the priority.\n\nGiven its proximity to Hakata Station, it's an easy add-on to a day built around the station's other shopping and dining options, whether before catching a train or as a dedicated stop for Gundam fans specifically. Checking the current light-show schedule on-site is worthwhile if the animated display is the main draw."
+  },
+  {
+    "id": "kokurawer-mural-kitakyushu",
+    "title": "Kokurawer",
+    "city": "Fukuoka",
+    "interests": [
+      "art-museums",
+      "photo-spots"
+    ],
+    "summary": "A giant mural unveiled in 2025 inside Kitakyushu's Uomachi Ginten-gai shopping arcade, created as a symbol of hope after a fire destroyed part of the historic arcade the previous year.",
+    "access": "Within the Uomachi Ginten-gai shopping arcade, Kokura, Kitakyushu.",
+    "address": "Uomachi Ginten-gai, Kokurakita Ward, Kitakyushu",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Kokura Station",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Kokurawer is a giant mural, roughly seven meters tall and twenty meters wide, unveiled in June 2025 inside Kitakyushu's Uomachi Ginten-gai shopping arcade, one of the city's oldest covered shopping streets. It was created specifically as a symbol of recovery after a fire tore through part of the arcade the previous year, destroying a section of a shopping street with deep roots in the local community, and the mural's scale and placement were deliberately chosen to give the rebuilding arcade a new visual landmark.\n\nThat backstory gives the mural a weight beyond its size alone: it functions as a community rallying point as much as a piece of public art, and visiting it doubles as a way to see how the arcade has continued operating and rebuilding in the aftermath of the fire. The mural has quickly become a meeting point and photo spot within the arcade, drawing both locals checking on the area's recovery and visitors specifically seeking out the artwork.\n\nBecause it sits within a working shopping arcade rather than a standalone gallery or plaza, visiting is naturally combined with browsing the surrounding shops and getting a sense of Kokura's everyday shopping street life, distinct from the more polished retail experiences at Kitakyushu's larger malls."
+  },
+  {
+    "id": "sarakurayama-kitakyushu",
+    "title": "Mount Sarakura",
+    "city": "Fukuoka",
+    "interests": [
+      "nature",
+      "photo-spots",
+      "sightseeing"
+    ],
+    "summary": "A mountain above Kitakyushu with a ropeway-accessible summit ranked among Japan's top night views, recently updated with a giant swing and a 30-meter skeleton-frame slide.",
+    "access": "Ropeway access from Kamisasase Station (Kitakyushu Monorail), a short bus or taxi ride from Kokura Station.",
+    "address": "Kitakyushu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/View_from_Mt._Sarakura.jpg",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Kokura Station",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Mount Sarakura's summit has long been recognized as one of Japan's \"new top three\" night views, a designation that puts Kitakyushu's cityscape and the surrounding bay in the same conversation as Japan's most celebrated nighttime panoramas. A ropeway and slope car combination carries visitors most of the way up, avoiding a long hike while still delivering the full payoff of the view from the top.\n\nA 2025 addition to the summit's lawn area brought a giant swing and a thirty-meter skeleton-frame slide, giving the mountain a family-friendly, playground dimension it didn't previously have and a fresh reason to revisit a spot that's been on Kitakyushu's sightseeing map for years. The combination of a serious, ranked night view and a genuinely fun play structure is an unusual pairing that's helped renew interest in the mountain among both first-time and repeat visitors.\n\nTiming a visit around sunset lets visitors catch both the daytime views and the transition into the night panorama that's made the mountain famous, though the ropeway's operating hours should be checked in advance since they vary seasonally and don't always run late enough to catch the full night view in winter.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "JKT-c",
+      "licenseName": "CC BY 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:View_from_Mt._Sarakura.jpg"
+    }
+  },
+  {
+    "id": "kagami-no-umi-fukutsu",
+    "title": "Kagami no Umi (Mirror Sea)",
+    "city": "Fukuoka",
+    "interests": [
+      "nature",
+      "photo-spots"
+    ],
+    "summary": "A roughly three-kilometer stretch of coastline near Fukutsu that turns into a near-perfect mirror at low tide, nicknamed Fukuoka's answer to Bolivia's Uyuni Salt Flat.",
+    "access": "Along the coast near Fukuma, Miyajihama, and Tsuyazaki, Fukutsu; a car is the practical way to reach the specific viewing points.",
+    "address": "Fukutsu, Fukuoka Prefecture",
+    "imageUrl": null,
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Fukuoka",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Kagami no Umi refers to a roughly three-kilometer stretch of shallow coastline near Fukutsu, spanning the Fukuma, Miyajihama, and Tsuyazaki areas, where a thin, still layer of water left behind at low tide turns the sand into a near-perfect mirror. Under the right conditions, calm water and clear skies, the reflection is sharp enough to have earned the beach a nickname referencing Bolivia's famous Uyuni Salt Flat, a comparison that's driven a steady stream of social media attention as photographers chase the reflective effect at sunset.\n\nUnlike a fixed attraction, the mirror effect depends entirely on tide timing, weather, and how much water remains on the sand, meaning the same stretch of coast can look completely ordinary on one visit and produce a striking reflection on another. Checking tide tables and weather forecasts before heading out is essential, and even then, results vary; this is a spot for visitors willing to accept some unpredictability in exchange for the chance at a genuinely striking photo.\n\nBecause the effect spans a fairly long stretch of coastline rather than one fixed viewpoint, there's some flexibility in where to set up, and arriving with enough time to walk along the shore and find the calmest water improves the odds of a good shot. It's a straightforward drive from central Fukuoka, making it a feasible half-day trip for anyone specifically chasing this kind of photography."
+  },
+  {
+    "id": "hikari-no-michi-miyajidake-shrine",
+    "title": "Hikari no Michi (Miyajidake Shrine)",
+    "city": "Fukuoka",
+    "interests": [
+      "temples-shrines",
+      "photo-spots",
+      "seasonal-nature"
+    ],
+    "summary": "A twice-yearly sunset phenomenon at Miyajidake Shrine, where the setting sun aligns directly with the approach road down to the sea, creating a glowing path of light through the shrine's massive torii gates.",
+    "access": "A short walk from JR Fukuma Station, Fukutsu.",
+    "address": "Miyajidake, Fukutsu, Fukuoka Prefecture",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sunset_and_sando_of_Miyajidake_Shrine_3.jpg/960px-Sunset_and_sando_of_Miyajidake_Shrine_3.jpg",
+    "officialUrl": null,
+    "isLocalPick": true,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Fukuoka",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Miyajidake Shrine sits atop a rise with a long approach road running straight down to the sea, and twice a year, in February and October, the setting sun aligns directly with that road, framed by the shrine's massive torii gates, in a phenomenon known as Hikari no Michi, the road of light. For the roughly two weeks around each alignment, the shrine holds a dedicated festival, drawing large crowds specifically for the chance to see and photograph the sun setting directly along the approach.\n\nThe shrine itself, known for one of Japan's largest shimenawa sacred ropes and a genuinely striking hilltop setting, is worth visiting outside the alignment window too, but the Hikari no Michi period is when it draws its heaviest crowds and its widest social media attention. Because the phenomenon depends on precise timing and clear weather, arriving well before sunset and checking the shrine's published festival dates for the current year is essential.\n\nGiven how popular the alignment period has become, visiting outside the two annual windows offers a calmer, less crowded experience of the shrine and its approach, worth considering for visitors who'd rather skip the crowds even if it means missing the specific light effect.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "そらみみ",
+      "licenseName": "CC BY-SA 4.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Sunset_and_sando_of_Miyajidake_Shrine_3.jpg"
+    }
+  },
+  {
+    "id": "iwataya-fukuoka",
+    "title": "Iwataya",
+    "city": "Fukuoka",
+    "interests": [
+      "shopping",
+      "food"
+    ],
+    "summary": "Fukuoka's flagship department store, tracing back to a 1754 kimono shop and Kyushu's first true terminal department store, known for paper bags designed since 1959 around local culture motifs.",
+    "access": "Tenjin, a short walk from Tenjin Station.",
+    "address": "Tenjin, Chuo Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/View_of_Iwataya_at_night_20131228.jpg/960px-View_of_Iwataya_at_night_20131228.jpg",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Tenjin",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Iwataya's roots trace back to 1754, when it began as a kimono shop, and it grew into Kyushu's first true terminal department store when it opened its main Tenjin location in 1936, a milestone that helped establish Tenjin as the region's premier shopping and business district. Today it remains Kyushu's top-selling department store, spread across roughly 48,500 square meters and covering the full range of fashion, cosmetics, and gourmet food expected of a major flagship.\n\nOne detail that sets Iwataya apart from other department stores is its shopping bags: since 1959, the store has commissioned bag designs from painter Kenzo Okada, drawing on regional culture and motifs specific to Kyushu, turning a simple carrier bag into something closer to a small piece of design history that regular customers recognize instantly. Now part of Iwataya Mitsukoshi Ltd. under the Isetan Mitsukoshi Holdings group, it sits alongside its sister store Mitsukoshi Fukuoka nearby, though it retains its own distinct identity and clientele.\n\nIts central Tenjin location puts it within easy walking distance of Daimaru Fukuoka, Mitsukoshi Fukuoka, and the rest of Tenjin's dense shopping district, making it simple to combine with a broader day of department store browsing. As the region's top-selling store, it's a reasonable benchmark for what a major Kyushu department store experience looks like.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "そらみみ",
+      "licenseName": "CC BY-SA 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:View_of_Iwataya_at_night_20131228.jpg"
+    }
+  },
+  {
+    "id": "daimaru-fukuoka-tenjin",
+    "title": "Daimaru Fukuoka",
+    "city": "Fukuoka",
+    "interests": [
+      "shopping",
+      "food",
+      "architecture"
+    ],
+    "summary": "A Tenjin department store open since 1952, known for \"Passage Field,\" an indoor connector between its main and east wings styled after an 18th-century French shopping street.",
+    "access": "Tenjin, a short walk from Tenjin Station.",
+    "address": "Tenjin, Chuo Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Daimaru_Fukuoka-Tenjin_Department_Store_20171111.jpg/960px-Daimaru_Fukuoka-Tenjin_Department_Store_20171111.jpg",
+    "officialUrl": "https://www.daimaru.co.jp/fukuoka/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Tenjin",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Daimaru Fukuoka has operated in Tenjin since 1952, spreading across roughly 48,000 square meters split between a main building and an east wing. What sets it apart architecturally is Passage Field, an indoor connector between the two buildings designed to evoke an 18th-century French shopping street, complete with the kind of ornamental detailing that turns a simple walkway between department store wings into a small destination of its own.\n\nBeyond that architectural flourish, the store carries a strong depachika basement food hall, a highlight typical of Japan's major department stores and a reliable stop for prepared foods, sweets, and regional specialties. Its fashion, cosmetics, and lifestyle floors round out a fairly standard but well-executed department store offering across the two connected buildings.\n\nIts central Tenjin location places it within easy reach of Iwataya, Mitsukoshi Fukuoka, and Fukuoka PARCO, all within a short walk, making it simple to combine with a broader shopping day across several of the district's major stores. Passage Field alone is worth a walk-through even for visitors not planning to shop, given how distinctive it is compared to a typical connecting corridor.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "そらみみ",
+      "licenseName": "CC BY-SA 4.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Daimaru_Fukuoka-Tenjin_Department_Store_20171111.jpg"
+    }
+  },
+  {
+    "id": "mitsukoshi-fukuoka",
+    "title": "Mitsukoshi Fukuoka",
+    "city": "Fukuoka",
+    "interests": [
+      "shopping",
+      "food"
+    ],
+    "summary": "A Tenjin department store home to the well-known Lion Square meeting spot, currently mid-transition as its upper floors convert to specialty retail ahead of a planned full remodel.",
+    "access": "Tenjin, a short walk from Tenjin Station.",
+    "address": "Tenjin, Chuo Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fukuoka_City_-_Watanabe-dori_Avenue_-_01.JPG/960px-Fukuoka_City_-_Watanabe-dori_Avenue_-_01.JPG",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Tenjin",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Mitsukoshi Fukuoka opened in 1997 and quickly became a Tenjin landmark for a detail as much as for its shopping floors: Lion Square, a bronze lion statue at the store's entrance that's served as one of central Fukuoka's most recognizable meeting points for decades, the kind of \"meet me at the lion\" spot locals default to without needing further explanation. Now part of the Iwataya Mitsukoshi group under Isetan Mitsukoshi Holdings, the store sits a short walk from its sister store Iwataya.\n\nAs of 2026, the store is mid-transition: floors five through nine are converting from standard department store space into specialty retail under the Lashic brand, part of a broader remodel plan with a full reopening targeted for autumn 2027. The store continues operating normally throughout this process on its remaining floors, so it remains a functioning shopping destination rather than a closed or inaccessible building, though visitors should expect some floors to look different from a typical department store layout during the transition.\n\nLion Square out front remains a reliable, easy-to-describe meeting point regardless of what's happening with the store's internal floor plan, useful for anyone coordinating a group meetup in central Tenjin. Checking current floor offerings before a specific shopping trip is worth doing given the ongoing changes.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "JKT-c",
+      "licenseName": "CC BY 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Fukuoka_City_-_Watanabe-dori_Avenue_-_01.JPG"
+    }
+  },
+  {
+    "id": "jr-hakata-city-hankyu",
+    "title": "JR Hakata City & Hakata Hankyu",
+    "city": "Fukuoka",
+    "interests": [
+      "shopping",
+      "food"
+    ],
+    "summary": "The department store built into Hakata Station's JR Hakata City complex, with a basement food hall specializing in Kyushu regional goods, directly connected to AMU Plaza Hakata.",
+    "access": "Directly connected to Hakata Station.",
+    "address": "Hakata Station, Hakata Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/JR_Hakata_City_Hankyu_entrance.jpg/960px-JR_Hakata_City_Hankyu_entrance.jpg",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Hakata Station",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Hakata Hankyu occupies roughly 42,000 square meters across nine floors of the JR Hakata City complex, which rebuilt and reopened around Hakata Station in March 2011. As the department store anchor of the station complex, it puts a full Hankyu-branded shopping experience directly at one of Kyushu's busiest transit hubs, convenient for anyone passing through the station regardless of their final destination.\n\nIts ground floor covers cosmetics and accessories, typical of a department store's most heavily trafficked level, while the basement food hall leans specifically into Kyushu regional specialty goods, a useful one-stop option for gift shopping before catching a train out of the city. That regional focus distinguishes it somewhat from the more broadly national offerings at Tenjin's department stores across town.\n\nIts direct connection to AMU Plaza Hakata, already covered elsewhere in this guide, means the two complexes function almost as one continuous shopping experience, letting visitors move between department store shopping and AMU Plaza's own retail and dining without leaving the station building. Given its station location, expect heavier foot traffic during commuter rush hours than at Tenjin's standalone department stores.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Lc055a",
+      "licenseName": "CC BY-SA 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:JR_Hakata_City_Hankyu_entrance.jpg"
+    }
+  },
+  {
+    "id": "fukuoka-parco",
+    "title": "Fukuoka PARCO",
+    "city": "Fukuoka",
+    "interests": [
+      "shopping",
+      "pop-culture"
+    ],
+    "summary": "A two-building Tenjin fashion complex with a strong pop-culture presence, including a large official One Piece store and a dedicated arts and culture floor.",
+    "access": "Direct access from Tenjin Station.",
+    "address": "Tenjin, Chuo Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Fukuoka_PARCO2011.jpg/960px-Fukuoka_PARCO2011.jpg",
+    "officialUrl": "https://fukuoka.parco.jp/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Tenjin",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Fukuoka PARCO spans a Main Building, basement to eighth floor, and a newer New Building, basement two to sixth floor, with direct access from Tenjin Station making it one of the most convenient shopping stops in central Fukuoka. Its tenant mix follows the PARCO brand's typical fashion-forward, youth-oriented approach, but its pop-culture offering stands out even by PARCO's usual standards.\n\nA large official One Piece store draws fans of the globally popular manga and anime series, one of the more substantial dedicated pop-culture retail spaces in Kyushu, while the sixth floor \"Tamariba\" space functions as a combined arts, culture, and bookshop area rather than standard retail, giving the building a cultural dimension beyond shopping. A Hands Be outlet and attached cafe round out the lifestyle offering.\n\nIts direct station access makes it an easy first or last stop on a Tenjin shopping trip, and its proximity to Iwataya, Daimaru Fukuoka, and Mitsukoshi Fukuoka means it's simple to combine with the district's other major department stores for a fuller day of browsing.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "ぱちょぴ（pacyopi）",
+      "licenseName": "CC BY-SA 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Fukuoka_PARCO2011.jpg"
+    }
+  },
+  {
+    "id": "vioro-fukuoka",
+    "title": "VIORO",
+    "city": "Fukuoka",
+    "interests": [
+      "shopping",
+      "food"
+    ],
+    "summary": "A Tenjin fashion building targeting shoppers in their late 20s and 30s, with a seventh-floor restaurant and bar offering skyline views over the district.",
+    "access": "Tenjin, a short walk from Tenjin Station.",
+    "address": "Tenjin, Chuo Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vioro_hukuoka_01.jpg/960px-Vioro_hukuoka_01.jpg",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Tenjin",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "VIORO takes its name from a blend of the Italian words for flower and truth, and positions itself as a fashion and lifestyle building aimed specifically at shoppers in their late twenties and thirties, a slightly older, more established customer than the youth-focused crowd at nearby Fukuoka PARCO. Spread across basement two to the seventh floor, it holds roughly sixty shops and nine restaurants, with anchor tenants like United Arrows and Repetto reflecting its more considered, adult fashion positioning.\n\nIts seventh floor is worth knowing about specifically: a restaurant and bar space there offers views over the Tenjin skyline, giving the building a rooftop-adjacent dining option that most fashion buildings in the district don't offer. It's a reasonable stop for a meal with a view without needing to seek out a dedicated rooftop bar elsewhere in the city.\n\nIts central Tenjin location puts it within easy reach of the district's other major shopping stops, and its more mature fashion positioning makes it a useful alternative for visitors who find PARCO's younger-skewing lineup less relevant to their own style.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "asacyan",
+      "licenseName": "CC BY-SA 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Vioro_hukuoka_01.jpg"
+    }
+  },
+  {
+    "id": "hakata-riverain-mall",
+    "title": "Hakata Riverain Mall",
+    "city": "Fukuoka",
+    "interests": [
+      "shopping",
+      "art-museums",
+      "traditional-culture"
+    ],
+    "summary": "A Nakasu-area complex combining shopping with the Fukuoka Asian Art Museum, the world's only museum dedicated to modern and contemporary Asian art, alongside a hotel and traditional theater.",
+    "access": "Above Nakasu-Kawabata Station (Fukuoka City Subway Kuko Line).",
+    "address": "Nakasu-Kawabata, Hakata Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eenymeenyminymo01.jpg/960px-Eenymeenyminymo01.jpg",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Nakasu",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Hakata Riverain Mall sits directly above Nakasu-Kawabata Station and combines retail with a genuinely notable cultural anchor: the Fukuoka Asian Art Museum, the only museum in the world dedicated specifically to modern and contemporary Asian art. That pairing gives the complex a cultural weight beyond its roughly seventy stores spread across basement two to the sixth floor, making it worth a visit even for travelers whose primary interest is the museum rather than shopping.\n\nThe complex also houses Hotel Okura Fukuoka and the Hakataza Theater, a venue for traditional Japanese performing arts, rounding out a mix of shopping, art, hospitality, and performance under one roof. Retail positioning has shifted over the years from an initial luxury-mall concept toward a more family-friendly tenant mix, reflecting broader changes in how the complex serves its Nakasu-area customer base.\n\nThe Fukuoka Asian Art Museum has periods of temporary closure for refurbishment, so checking its current status before planning a visit specifically around it is worthwhile. Its location directly by Nakasu-Kawabata Station makes it an easy stop when crossing between Nakasu's nightlife and Kawabata's shopping arcade, both covered elsewhere in this guide.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Pontafon",
+      "licenseName": "CC BY-SA 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Eenymeenyminymo01.jpg"
+    }
+  },
+  {
+    "id": "mark-is-fukuoka-momochi",
+    "title": "MARK IS Fukuoka Momochi",
+    "city": "Fukuoka",
+    "interests": [
+      "shopping",
+      "family",
+      "food"
+    ],
+    "summary": "A large seaside mall attached directly to PayPay Dome, with roughly 160 stores, a cinema, and amusement facilities alongside the Fukuoka SoftBank Hawks' home stadium.",
+    "access": "Attached to MIZUHO PayPay Dome, Momochi, a bus ride from Tenjin or Hakata.",
+    "address": "Momochihama, Sawara Ward, Fukuoka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%A4%E3%82%BA%E7%A6%8F%E5%B2%A1%E3%82%82%E3%82%82%E3%81%A1_%E5%A4%96%E8%A6%B3.jpg/960px-%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%A4%E3%82%BA%E7%A6%8F%E5%B2%A1%E3%82%82%E3%82%82%E3%81%A1_%E5%A4%96%E8%A6%B3.jpg",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Momochi",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "MARK IS Fukuoka Momochi opened in 2018 attached directly to MIZUHO PayPay Dome, home stadium of the Fukuoka SoftBank Hawks, giving the mall a natural tie-in with game days and baseball culture that most Fukuoka shopping centers don't share. Its roughly 160 stores cover a broad range of fashion, lifestyle, and dining options, and a cinema and amusement facilities round out the offering for a full day out rather than a quick shopping trip.\n\nThe mall's connection to the dome means it can get considerably busier around game days, when Hawks fans pass through on their way in or out of a match, adding a distinctly local, sports-fan energy that shifts the atmosphere from a standard shopping center to something closer to a stadium district on those days. Outside of game days, it functions as a more conventional large-format mall serving the Momochi and Sawara area.\n\nIts location beside the seaside Momochi district, already covered elsewhere in this guide for its parks and Fukuoka Tower, makes it easy to combine a mall visit with a walk along the waterfront or a stop at the tower, rounding out a full day in this part of the city beyond just shopping.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Osatsuki",
+      "licenseName": "CC BY-SA 4.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:%E3%83%9E%E3%83%BC%E3%82%AF%E3%82%A4%E3%82%BA%E7%A6%8F%E5%B2%A1%E3%82%82%E3%82%82%E3%81%A1_%E5%A4%96%E8%A6%B3.jpg"
     }
   }
 ]
