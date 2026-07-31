@@ -24757,5 +24757,145 @@
       "licenseName": "CC BY-SA 3.0",
       "fileUrl": "https://commons.wikimedia.org/wiki/File:Takashimaya_Times_Square_-01.jpg"
     }
+  },
+  {
+    "id": "womb-shibuya-nightclub",
+    "title": "WOMB",
+    "city": "Tokyo",
+    "interests": [
+      "nightlife"
+    ],
+    "summary": "One of Tokyo's longest-running electronic music clubs, open in Shibuya's Maruyama-cho district since 2000, known for Asia's largest mirror ball and a serious house, techno, and trance booking policy.",
+    "access": "About 10 minutes on foot from Shibuya Station's Hachiko exit, or 5 minutes from Shingen Station (Keio Inokashira Line).",
+    "address": "2-16 Maruyamacho, Shibuya City, Tokyo, 1F",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/WOMB.jpg/960px-WOMB.jpg",
+    "officialUrl": "https://www.womb.co.jp/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Shibuya",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "WOMB opened in 2000 in Maruyama-cho, the hillside district behind Shibuya's love hotels that has long doubled as the neighborhood's club district, and it has stayed open long enough to celebrate its 25th anniversary in 2025, a genuine rarity in a scene where venues routinely close within a few years. It was built with input from people involved in New York's influential Twilo club, and that lineage shows in its booking policy, house, techno, and trance events with a consistently more serious, dance-floor-focused crowd than Tokyo's more mainstream hip-hop and EDM clubs.\n\nThe main floor is built around what's often billed as Asia's largest mirror ball, paired with a sound system and lighting rig that regularly draws comparisons to Europe's bigger techno clubs rather than a typical Tokyo nightspot. Multiple floors and bar areas give it more room to spread out than most Shibuya clubs, useful on busy nights when the main floor gets packed.\n\nBecause WOMB leans toward serious electronic music programming rather than a general night-out crowd, it suits visitors specifically interested in club culture more than casual bar-hoppers; check the event calendar before going, since the lineup and door price vary significantly by night. It's tucked a few minutes' walk past Dogenzaka into Maruyama-cho, worth knowing since the walk there passes through a fairly quiet, love-hotel-lined stretch that can feel like the wrong direction if you don't know the area.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Connie",
+      "licenseName": "CC BY 2.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:WOMB.jpg"
+    }
+  },
+  {
+    "id": "v2-tokyo-roppongi-nightclub",
+    "title": "V2 TOKYO",
+    "city": "Tokyo",
+    "interests": [
+      "nightlife"
+    ],
+    "summary": "Roppongi's largest nightclub, open since 2013 inside the Tower of Vabel building, built for big-production nights with international touring DJs and elaborate stage effects.",
+    "access": "About 3 minutes on foot from Roppongi Station (Tokyo Metro Hibiya Line), or 5 minutes from the Toei Oedo Line exit.",
+    "address": "Tower of Vabel 1F/B1F, 7-13-7 Roppongi, Minato City, Tokyo 106-0032",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/V2_Roppongi.jpg/960px-V2_Roppongi.jpg",
+    "officialUrl": "https://www.v2tokyo.com/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Roppongi",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "V2 TOKYO opened in 2013 and has since positioned itself as Roppongi's largest and most production-heavy nightclub, built around a large main floor with an elaborate lighting and stage setup designed for big-name touring DJs and hip-hop and EDM-focused events. It fits the general character of Roppongi's nightlife district described elsewhere in this guide, international, English-friendly, and unapologetically club-scaled, but at a level of scale and production value that sets it apart from the smaller bars and lounges nearby.\n\nDoors open late, from 9pm, and the club runs until 5am, so it functions as a genuine late-night destination rather than an early-evening stop; most of the real activity picks up well after midnight. Table and VIP bottle service is a significant part of the business model here, common at Tokyo's larger clubs, so budget-conscious visitors should expect general admission and standing areas to be the more affordable way to experience it.\n\nAs with Roppongi's nightlife district generally, the same caution about street touts applies on the walk there: V2 TOKYO doesn't need or use touts itself, so anyone approaching you on the street claiming to represent the club or offering a shortcut in is not affiliated with it.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Syced",
+      "licenseName": "CC BY-SA 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:V2_Roppongi.jpg"
+    }
+  },
+  {
+    "id": "warp-shinjuku-nightclub",
+    "title": "WARP Shinjuku",
+    "city": "Tokyo",
+    "interests": [
+      "nightlife"
+    ],
+    "summary": "A multi-floor Kabukicho nightclub where the main room's concept and music genre changes at midnight, effectively giving visitors two different clubs in one night for a single cover charge.",
+    "access": "About 2 minutes on foot from Seibu-Shinjuku Station's south exit.",
+    "address": "Dai-ni Toa Kaikan Building B1/B2, 1-21-1 Kabukicho, Shinjuku City, Tokyo 160-0021",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Colorful_neon_street_signs_in_Kabukich%C5%8D%2C_Shinjuku%2C_Tokyo.jpg/960px-Colorful_neon_street_signs_in_Kabukich%C5%8D%2C_Shinjuku%2C_Tokyo.jpg",
+    "officialUrl": "https://warp-shinjuku.jp/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Shinjuku",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "WARP Shinjuku sits in the basement levels of a Kabukicho building and runs on a distinctive format: the main floor's music genre and overall concept switches at midnight, so a night that starts on one style of event effectively \"warps\" into a different one partway through, without requiring a new cover charge or a walk to another venue. Multiple floors beyond the main room let different genres run simultaneously for anyone who wants to move between rooms rather than commit to one sound for the night.\n\nBeing inside Kabukicho puts it in the middle of Tokyo's most famous (and most touristed) nightlife district, so it draws a mixed crowd of Tokyo clubgoers, students, and visiting tourists rather than skewing toward one scene in particular. That also means the walk there passes through Kabukicho's dense signage and touting activity, worth being aware of using the same general caution as elsewhere in the district: ignore unsolicited offers from people on the street and go straight to the venue.\n\nHours run late into the morning, typical for Tokyo clubs, and the specific genre lineup for both the pre- and post-midnight slots is posted on the club's own site and social media in advance, worth checking if a particular sound is the reason for the visit.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Basile Morin",
+      "licenseName": "CC BY-SA 4.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Colorful_neon_street_signs_in_Kabukich%C5%8D,_Shinjuku,_Tokyo.jpg"
+    }
+  },
+  {
+    "id": "atom-shinjuku-nightclub",
+    "title": "ATOM Shinjuku",
+    "city": "Tokyo",
+    "interests": [
+      "nightlife"
+    ],
+    "summary": "A 2024-opened nightclub carrying the name of a well-known Shibuya club into Shinjuku Ni-chome's edge, focused on EDM alongside hip-hop and R&B nights.",
+    "access": "About 3 minutes on foot from Shinjuku-sanchome Station (Tokyo Metro Marunouchi and Fukutoshin Lines); about 9 minutes from JR Shinjuku Station.",
+    "address": "5-17-1, 3F, Shinjuku, Shinjuku City, Tokyo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nightlife_Shinjuku_%2844048442570%29.jpg/960px-Nightlife_Shinjuku_%2844048442570%29.jpg",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Shinjuku",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "ATOM Shinjuku opened in October 2024, extending a club name already established in Shibuya's nightlife scene into a new Shinjuku location near the edge of Ni-chome. It's built primarily around EDM, with hip-hop and R&B nights mixed into the weekly schedule, aiming at a mainstream dance-and-drink crowd rather than the more niche electronic music programming found at older venues like WOMB.\n\nBeing one of the newer additions to Shinjuku's club scene, it's picked up momentum quickly among the current generation of Tokyo clubgoers, and its location gives it easy walking access to both Shinjuku Sanchome's izakaya strip and Ni-chome's bar district, useful if a night out involves more than one stop.\n\nAs with any newer venue, checking current event listings and hours directly (the club posts updates via its official Instagram account) is worth doing before a visit, since program details can shift more than at a longer-established club.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Benh LIEU SONG",
+      "licenseName": "CC BY-SA 2.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Nightlife_Shinjuku_(44048442570).jpg"
+    }
+  },
+  {
+    "id": "zero-tokyo-shinjuku-nightclub",
+    "title": "ZERO TOKYO",
+    "city": "Tokyo",
+    "interests": [
+      "nightlife"
+    ],
+    "summary": "A nightclub inside the Tokyu Kabukicho Tower that shares its building and stage with Zepp Shinjuku, spanning three basement floors and five distinct areas for a big-venue clubbing experience.",
+    "access": "About 7 minutes on foot from JR Shinjuku Station's east exit, or 2 minutes from Seibu-Shinjuku Station's main exit.",
+    "address": "Tokyu Kabukicho Tower B1-B4F, 1-29-1 Kabukicho, Shinjuku City, Tokyo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tokyu_Kabukicho_Tower_%2853134319583%29.jpg/960px-Tokyu_Kabukicho_Tower_%2853134319583%29.jpg",
+    "officialUrl": null,
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Shinjuku",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "ZERO TOKYO occupies three basement levels, B2 through B4, of the Tokyu Kabukicho Tower, split across five distinct areas rather than a single dance floor, giving it more range than most Kabukicho clubs in terms of moving between different music and atmosphere without leaving the building. The same space doubles as Zepp Shinjuku by day, a proper concert venue, so the room itself is built to full live-music production standards rather than a converted bar.\n\nThat dual identity, live house by day, nightclub after dark, means the sound system and stage setup are a notch above what a typical club room offers, something audiophile-minded visitors will likely notice. Its location inside one of Kabukicho's newest landmark buildings also puts it in the middle of the district's densest concentration of entertainment and dining under one roof, useful for combining a club night with dinner or other Kabukicho Tower attractions beforehand.\n\nAs with the rest of Kabukicho, the walk in from either station exit passes through heavy signage and tout activity, so the same standard advice applies: go straight to the venue and ignore unsolicited approaches from people on the street claiming to offer a better deal elsewhere.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Dick Thomas Johnson",
+      "licenseName": "CC BY 2.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Tokyu_Kabukicho_Tower_(53134319583).jpg"
+    }
   }
 ]

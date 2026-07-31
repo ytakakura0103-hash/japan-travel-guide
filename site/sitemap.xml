@@ -4425,4 +4425,29 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/womb-shibuya-nightclub.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/v2-tokyo-roppongi-nightclub.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/warp-shinjuku-nightclub.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/atom-shinjuku-nightclub.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/zero-tokyo-shinjuku-nightclub.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
