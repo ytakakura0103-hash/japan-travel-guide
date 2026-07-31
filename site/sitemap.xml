@@ -4490,4 +4490,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/kitte-osaka-barchica.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/teamlab-botanical-garden-osaka.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/teamlab-field-of-wind-rain-and-sun.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
