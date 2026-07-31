@@ -24464,5 +24464,298 @@
       "licenseName": "CC BY 2.0",
       "fileUrl": "https://commons.wikimedia.org/wiki/File:Mojo%27s_Robot_Rampage_at_IMG_Worlds_of_Adventure.jpg"
     }
+  },
+  {
+    "id": "mitsukoshi-nihombashi-main-store",
+    "title": "Nihombashi Mitsukoshi Main Store",
+    "city": "Tokyo",
+    "interests": [
+      "shopping",
+      "architecture",
+      "history"
+    ],
+    "summary": "Japan's oldest department store, a 1935 Western classical-style building designated an Important Cultural Property, famous for the bronze lion statues flanking its entrance and a soaring pipe-organ atrium inside.",
+    "access": "Directly connected to Mitsukoshimae Station (Tokyo Metro Ginza and Hanzomon Lines).",
+    "address": "1-4-1 Nihombashi Muromachi, Chuo City, Tokyo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mitsukoshi02_1024.jpg/960px-Mitsukoshi02_1024.jpg",
+    "officialUrl": "https://mitsukoshi.mistore.jp/store/nihombashi.html",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Nihombashi",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Mitsukoshi traces its roots to a kimono shop founded in 1673, and its Nihombashi flagship is generally credited as Japan's first Western-style department store, a title it has held since the early 20th century. The current main building was completed in 1935, a Western classical-style structure so large for its time that it was surpassed in scale only by the National Diet Building and the Marunouchi Building; it was designated a national Important Cultural Property in 2016, one of the few working department stores anywhere with that status.\n\nThe building's most photographed feature is the pair of bronze lion statues flanking the main entrance, popularly known as the store's guardians and a long-standing meeting spot for Tokyo locals (\"let's meet at the lions\" is a genuinely common phrase). Inside, the central atrium is dominated by the Tenjo, a large wooden sculpture of a celestial maiden (Magokoro, meaning \"sincerity\") that rises through multiple floors, along with a working pipe organ used for occasional recitals.\n\nBeyond the architecture, the store functions as a full department store with the basement food hall (depachika) worth a stop on its own, alongside high-end fashion, traditional crafts, and art galleries on the upper floors. Even visitors with no interest in shopping can walk through the ground floor and main atrium for free to see the building itself, which is really the main draw for most first-time visitors.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "663highland",
+      "licenseName": "CC BY 2.5",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Mitsukoshi02_1024.jpg"
+    }
+  },
+  {
+    "id": "mitsukoshi-ginza-store",
+    "title": "Ginza Mitsukoshi",
+    "city": "Tokyo",
+    "interests": [
+      "shopping",
+      "architecture"
+    ],
+    "summary": "Mitsukoshi's Ginza flagship, occupying a full corner of the famous Ginza 4-chome crossing since 1930, with a rooftop garden and its own smaller pair of lion statues.",
+    "access": "About 1 minute on foot from Ginza Station (Tokyo Metro Ginza, Marunouchi, and Hibiya Lines), directly at the Ginza 4-chome crossing exit.",
+    "address": "4-6-16 Ginza, Chuo City, Tokyo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ginza_Mitsukoshi_2012.JPG/960px-Ginza_Mitsukoshi_2012.JPG",
+    "officialUrl": "https://mitsukoshi.mistore.jp/store/ginza.html",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Ginza",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Ginza Mitsukoshi opened in 1930 and occupies one full corner of the Ginza 4-chome crossing, the intersection most people picture when they think of Ginza, alongside the Wako building's clock tower diagonally across the street. Like the Nihombashi flagship, it has its own smaller bronze lion statues at street level, a Mitsukoshi trademark repeated across its stores, though this pair sees far less fanfare than the Nihombashi originals.\n\nA major expansion completed in 2010 roughly doubled the store's floor space, adding an annex connected to the original building and modernizing much of the interior, so while the exterior corner presence still reads as classic Ginza, most of the shopping floors inside are contemporary rather than historic. The rooftop garden is a quieter, less-visited spot worth knowing about, offering a break from the crowds at street level with views over the surrounding district.\n\nAs with most of Ginza's department stores, the basement food hall is a strong reason to visit even without a shopping list, and the store's central position makes it a natural stop while exploring the rest of Ginza's boutiques and architecture on foot.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Kakidai",
+      "licenseName": "CC BY-SA 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Ginza_Mitsukoshi_2012.JPG"
+    }
+  },
+  {
+    "id": "isetan-shinjuku-main-store",
+    "title": "Isetan Shinjuku Main Store",
+    "city": "Tokyo",
+    "interests": [
+      "shopping",
+      "architecture",
+      "cafes-sweets"
+    ],
+    "summary": "One of Tokyo's most fashion-forward department stores, an Art Deco building from 1933 near Shinjuku Sanchome, known for its cutting-edge womenswear floors and a popular rooftop garden.",
+    "access": "Directly connected to Shinjuku-sanchome Station; about 5 minutes on foot from JR Shinjuku Station.",
+    "address": "3-14-1 Shinjuku, Shinjuku City, Tokyo 160-0022",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Isetan_Department_Store_Shinjuku_Store_%282019-05-01%29.jpg/960px-Isetan_Department_Store_Shinjuku_Store_%282019-05-01%29.jpg",
+    "officialUrl": "https://www.mistore.jp/store/shinjuku.html",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Shinjuku",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Isetan traces back to a kimono shop founded in 1886, and its Shinjuku flagship, opened at the current site in 1933, is the company's main store. The building itself is a well-preserved example of Art Deco department store architecture, recognized as a Tokyo Selected Historical Building, distinct from the glass-and-steel towers that dominate most of Shinjuku's skyline today.\n\nWithin Japanese fashion circles, Isetan Shinjuku has a reputation as one of the country's trend-setting stores, particularly for womenswear, regularly credited with shaping what becomes popular elsewhere in Tokyo rather than simply following trends. The main building is supplemented by a separate Men's Building and the Isetan Kaikan annex nearby, together spanning nine floors from basement to roof in the main building alone.\n\nThe basement food floor draws a dedicated following for its dessert selection in particular, and the rooftop garden offers a family-friendly, unhurried space to rest that's easy to miss if you don't specifically seek it out. Even for visitors not planning to shop, the building's Art Deco details are worth a slow look on the way in or out.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": null,
+      "licenseName": "CC BY-SA 4.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Isetan_Department_Store_Shinjuku_Store_(2019-05-01).jpg"
+    }
+  },
+  {
+    "id": "takashimaya-nihombashi-store",
+    "title": "Nihombashi Takashimaya",
+    "city": "Tokyo",
+    "interests": [
+      "shopping",
+      "architecture",
+      "history"
+    ],
+    "summary": "The first department store building in Japan to be designated an Important Cultural Property, a 1933 structure with hand-operated elevators and heavy period fittings still in daily use.",
+    "access": "Directly connected to Nihombashi Station (Tokyo Metro Ginza and Tozai Lines, Toei Asakusa Line).",
+    "address": "2-4-1 Nihombashi, Chuo City, Tokyo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Nihonbashi_takashimaya_4.jpg",
+    "officialUrl": "https://www.takashimaya.co.jp/nihombashi/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Nihombashi",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Takashimaya opened its Tokyo Nihombashi store on the current site in 1933, and in 2009 it became the first department store building in Japan to be designated a national Important Cultural Property, recognized as the largest and best-preserved store of its era still standing largely as originally built. Both the exterior and much of the interior retain their early Showa-period character, a rarity among Japanese department stores, most of which have been rebuilt or heavily renovated since.\n\nDetails worth looking for include the heavy iron doors at the main entrance and, on certain floors, elevators still operated manually by uniformed attendants rather than automated buttons, small touches that give the store a noticeably different feel from the more modern annexes surrounding it. The complex has since expanded into a larger shopping center incorporating newer buildings, but the original 1933 structure remains the centerpiece and the reason architecture-minded visitors make a point of stopping in.\n\nAs with the other historic department stores in this guide, a visit doesn't require any intention to shop; walking the original building's ground floor and stairwells is free and gives a sense of pre-war Japanese commercial architecture that's increasingly hard to find intact elsewhere in central Tokyo.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "No machine-readable author provided. Volfgang assumed (based on copyright claims).",
+      "licenseName": "CC BY-SA 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Nihonbashi_takashimaya_4.jpg"
+    }
+  },
+  {
+    "id": "daimaru-tokyo-store",
+    "title": "Daimaru Tokyo",
+    "city": "Tokyo",
+    "interests": [
+      "shopping",
+      "food"
+    ],
+    "summary": "A department store built directly into Tokyo Station's Yaesu side, useful as a last-minute souvenir and gift stop for travelers passing through rather than a destination in its own right.",
+    "access": "Directly connected to Tokyo Station's Yaesu North exit; about 5 minutes on foot from Nihombashi Station.",
+    "address": "1-9-1 Marunouchi, Chiyoda City, Tokyo 100-6701",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Daimaru_tokyo_%2849750080667%29.jpg/960px-Daimaru_tokyo_%2849750080667%29.jpg",
+    "officialUrl": "https://www.daimaru.co.jp/tokyo/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Tokyo Station",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Daimaru Tokyo is built directly into the Yaesu side of Tokyo Station, close enough that it functions less like a standalone shopping trip and more like an extension of the station concourse itself. That location makes it genuinely useful in a way that's easy to overlook: it's a practical stop for last-minute souvenirs, boxed gifts (omiyage), or a final proper meal before catching a shinkansen, without adding any real detour to a day already centered on the station.\n\nThe basement food hall follows the same depachika format found at Tokyo's other major department stores, extensive prepared food, bakeries, and confectionery counters, and it's particularly well suited to picking up beautifully packaged sweets or bento to take on a train. Upper floors cover the usual range of fashion, cosmetics, and household goods, though the store doesn't have the historic architecture or trend-setting reputation of Nihombashi's older department stores.\n\nGiven its function, most visitors treat Daimaru Tokyo as a convenient stop bookending a Tokyo Station visit rather than a planned destination, useful to know about specifically for the window right before departure when a dedicated shopping trip elsewhere isn't practical.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "nakashi from Chofu, Tokyo, JAPAN",
+      "licenseName": "CC BY-SA 2.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Daimaru_tokyo_(49750080667).jpg"
+    }
+  },
+  {
+    "id": "tokyo-solamachi",
+    "title": "Tokyo Solamachi",
+    "city": "Tokyo",
+    "interests": [
+      "shopping",
+      "family",
+      "food"
+    ],
+    "summary": "A sprawling, 300-plus-store mall built into the base of Tokyo Skytree, spanning 13 floors including a food hall with skyline-view dining directly beneath the tower.",
+    "access": "Directly connected to Tokyo Skytree Station (Tobu Skytree Line) and Oshiage Station (Tobu Skytree Line, Tokyo Metro Hanzomon Line, Toei Asakusa Line, Keisei Oshiage Line).",
+    "address": "1-1-2 Oshiage, Sumida City, Tokyo 131-0045",
+    "imageUrl": "https://images.pexels.com/photos/19242073/pexels-photo-19242073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "officialUrl": "https://www.tokyo-solamachi.jp/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Book a Tokyo Skytree ticket",
+        "url": "https://www.klook.com/",
+        "provider": "Klook"
+      }
+    ],
+    "description": "Tokyo Solamachi is the shopping and dining complex built around the base of Tokyo Skytree, spread across 13 floors, from three basement levels up to the 30th and 31st floors, and holding more than 300 stores. It's organized into loosely themed zones rather than one undifferentiated mall floor: a shotengai-style \"Solamachi Shopping Street\" section for a more traditional market feel, dedicated souvenir and character-goods floors, and a food marché alongside standard fashion and lifestyle retail.\n\nThe standout dining option is Solamachi Dining Sky Tree View, seated around 150 meters up, which pairs restaurant meals with close-up views of the tower itself and the surrounding cityscape, different from the observation deck experience higher up in the tower proper. Because the complex sits directly beneath Skytree and shares its station access, it works naturally as a combined visit: tower observation deck for the view, Solamachi afterward (or before) for food and shopping without needing to relocate.\n\nGiven its size, treat a visit as requiring genuine time rather than a quick pass-through if the goal is to see much of it, and expect it to be busy on weekends and around Skytree's own peak visiting hours. It's also one of the more family-friendly large malls in Tokyo, with enough variety in food and shopping to occupy a full afternoon on its own even without going up the tower.",
+    "imageSource": "pexels"
+  },
+  {
+    "id": "ginza-six",
+    "title": "GINZA SIX",
+    "city": "Tokyo",
+    "interests": [
+      "shopping",
+      "architecture",
+      "art-museums"
+    ],
+    "summary": "Ginza's largest and newest luxury complex, opened in 2017, combining high-end flagship boutiques with a rooftop garden, an art space, and a distinctive latticed facade.",
+    "access": "Directly connected to Ginza Station via underground passage (Tokyo Metro Ginza, Marunouchi, and Hibiya Lines).",
+    "address": "6-10-1 Ginza, Chuo City, Tokyo 104-0061",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/%E8%8A%9D%E7%94%9F%E9%A4%8A%E7%94%9F%E4%B8%AD_%E7%AB%8B%E5%85%A5%E7%A6%81%E6%AD%A2_Ginza_Six_2017-11-10.jpg/960px-%E8%8A%9D%E7%94%9F%E9%A4%8A%E7%94%9F%E4%B8%AD_%E7%AB%8B%E5%85%A5%E7%A6%81%E6%AD%A2_Ginza_Six_2017-11-10.jpg",
+    "officialUrl": "https://ginza6.tokyo/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Ginza",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "GINZA SIX opened in 2017 on the former site of several older buildings along Ginza's main avenue, and at roughly 240,000 square meters it's the largest commercial complex in the district, built specifically to compete with Omotesando and international luxury retail hubs. The exterior's latticed aluminum facade, designed to echo traditional Japanese textile weaving patterns at a monumental scale, is one of the more distinctive pieces of contemporary architecture along Chuo-dori.\n\nInside, the store leans heavily toward flagship-level luxury and designer boutiques rather than mid-range retail, and it supplements shopping with cultural programming: a dedicated art space on the lower level hosts rotating exhibitions and installations, and large-scale art pieces, including a recurring giant sculptural installation in the atrium, are part of the building's identity rather than an afterthought.\n\nThe rooftop garden, one of the largest in central Ginza, is open to the public and offers a genuinely quiet break from the shopping floors below, with views across the district's rooftops. Between the architecture, the art programming, and the rooftop, GINZA SIX rewards a walk-through even for visitors who have no intention of buying anything at its boutiques.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "whity",
+      "licenseName": "CC BY 2.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:%E8%8A%9D%E7%94%9F%E9%A4%8A%E7%94%9F%E4%B8%AD_%E7%AB%8B%E5%85%A5%E7%A6%81%E6%AD%A2_Ginza_Six_2017-11-10.jpg"
+    }
+  },
+  {
+    "id": "newoman-shinjuku",
+    "title": "NEWoMan Shinjuku",
+    "city": "Tokyo",
+    "interests": [
+      "shopping",
+      "cafes-sweets",
+      "food"
+    ],
+    "summary": "A lifestyle-focused mall built into Shinjuku Station's newer south side, aimed at a slightly older, design-conscious crowd than the station's more youth-oriented shopping options.",
+    "access": "About 5 minutes on foot from Shinjuku Station (via the Miraina Tower, Koshu Kaido, or Shinminami gates); about 3 minutes from Shinjuku-sanchome Station, with a direct underground connection to the B1 level.",
+    "address": "4-1-6 Shinjuku, Shinjuku City, Tokyo 160-0022",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/JR_Shinjuku_Miraina_Tower3.JPG/960px-JR_Shinjuku_Miraina_Tower3.JPG",
+    "officialUrl": "https://www.newoman.jp/shinjuku/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Shinjuku",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "NEWoMan sits in the newer south side of Shinjuku Station, built as part of the Miraina Tower development and positioned deliberately differently from the station's other big retail draws: rather than youth fashion or electronics, it's curated around lifestyle, beauty, and design brands aimed at working adults, with a noticeably calmer, more polished atmosphere than the crowds around the east side exits.\n\nThe roughly 100 stores mix Japanese and international brands across fashion, homeware, and beauty, but the food and cafe floors are what draw the most consistent foot traffic, including a well-regarded selection of bakeries and dessert counters that regularly appear on Tokyo food-recommendation lists independent of the mall itself. It's a practical stop for a coffee or light meal while catching a train, given its direct station access, rather than requiring a special trip.\n\nBecause it connects straight into both JR Shinjuku Station and Shinjuku-sanchome Station underground, NEWoMan works well as a weatherproof shortcut between the two areas as much as a shopping destination, useful to know about on a rainy day or when connecting to Shinjuku Sanchome or Ni-chome without wanting to walk the street-level route.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "江戸村のとくぞう (Edomura no Tokuzo)",
+      "licenseName": "CC BY-SA 4.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:JR_Shinjuku_Miraina_Tower3.JPG"
+    }
+  },
+  {
+    "id": "futako-tamagawa-rise",
+    "title": "Futako-Tamagawa Rise",
+    "city": "Tokyo",
+    "interests": [
+      "shopping",
+      "cafes-sweets",
+      "architecture"
+    ],
+    "summary": "A large riverside complex in a quieter, upscale residential part of Tokyo, built around a well-known Tsutaya bookstore-and-electronics concept shop alongside standard mall retail.",
+    "access": "Directly connected to Futako-Tamagawa Station (Tokyu Denentoshi and Oimachi Lines).",
+    "address": "1-14-1 Tamagawa, Setagaya City, Tokyo 158-0094",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Futako-Tamagawa_Rise_Tower_East_%26_Tower_Central.jpg/960px-Futako-Tamagawa_Rise_Tower_East_%26_Tower_Central.jpg",
+    "officialUrl": "https://www.rise.sc/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Futako-Tamagawa",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Futako-Tamagawa Rise sits beside the Tama River in Setagaya, one of Tokyo's more affluent residential wards, and the complex reflects that setting: offices, apartment towers, and a shopping center built together rather than a standalone retail box, with a noticeably calmer, more local pace than the station-front malls closer to central Tokyo.\n\nThe best-known single feature is Futako-Tamagawa Tsutaya Denki, a large lifestyle store combining books, cafes, and consumer electronics in the same browsing-friendly format that made the original Daikanyama T-Site well known, but scaled up and paired here with a more mainstream shopping mall built around it. Beyond that anchor, the mall covers fairly standard fashion, homeware, and dining, with the riverside setting itself, easy walking access to the Tamagawa embankment, as much a reason to visit as any individual store.\n\nBecause it's a residential-area mall rather than a central tourist hub, it's a reasonable stop for visitors wanting to see a version of Tokyo shopping culture built for locals rather than tour groups, and it pairs naturally with a walk along the river if the weather cooperates.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "掬茶",
+      "licenseName": "CC BY-SA 4.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Futako-Tamagawa_Rise_Tower_East_%26_Tower_Central.jpg"
+    }
+  },
+  {
+    "id": "takashimaya-times-square-shinjuku",
+    "title": "Takashimaya Times Square",
+    "city": "Tokyo",
+    "interests": [
+      "shopping",
+      "family",
+      "food"
+    ],
+    "summary": "Takashimaya's Shinjuku flagship, a large complex on the station's south side combining the department store with a dedicated home goods tower, a Kinokuniya bookstore, and an IMAX cinema.",
+    "access": "About 2 minutes on foot from Shinjuku Station's South Gate (Shinminami) or Miraina Tower exits; about 5 minutes from the station's other exits; connects directly to the subway concourse from B1.",
+    "address": "5-24-2 Sendagaya, Shibuya City, Tokyo 151-8580",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Takashimaya_Times_Square_-01.jpg/960px-Takashimaya_Times_Square_-01.jpg",
+    "officialUrl": "https://www.takashimaya.co.jp/shinjuku/",
+    "isLocalPick": false,
+    "affiliateLinks": [
+      {
+        "label": "Find hotels near Shinjuku",
+        "url": "https://www.booking.com/",
+        "provider": "Booking.com"
+      }
+    ],
+    "description": "Takashimaya's Shinjuku store, branded Times Square, opened in 1996 on the station's then-underdeveloped south side and has since anchored the growth of that whole area into a major retail district in its own right. Unlike the historic Nihombashi flagship, this is a fully modern complex, built as a cluster of connected buildings rather than a single historic structure, with the main department store as the core.\n\nA distinguishing feature is the adjacent Times Square building, home to a large Kinokuniya bookstore (one of the biggest in Tokyo), a dedicated home and interior goods tower, and an IMAX movie theater, giving the complex a broader range of things to do than a typical department store visit. The scale makes it a practical stop for a half-day rather than a quick pass-through, especially with dining options spread across multiple floors and buildings.\n\nBecause it sits right at Shinjuku Station's south side, it connects naturally with NEWoMan and the rest of the newer south-exit development, making this stretch of Shinjuku a reasonable full-afternoon shopping circuit distinct from the more famous east-side Kabukicho-adjacent shopping streets.",
+    "imageSource": "wikimedia",
+    "imageCredit": {
+      "author": "Aimaimyi",
+      "licenseName": "CC BY-SA 3.0",
+      "fileUrl": "https://commons.wikimedia.org/wiki/File:Takashimaya_Times_Square_-01.jpg"
+    }
   }
 ]
