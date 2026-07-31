@@ -4450,4 +4450,44 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/higashi-shinsaibashi-bar-alleys.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/tenma-tachinomi-district.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/nipponbashi-den-den-town.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/gala-resort-osaka-nightclub.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/owl-osaka-nightclub.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/club-joule-osaka-nightclub.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/pure-osaka-nightclub.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://REPLACE_WITH_YOUR_DOMAIN/spots/maharaja-osaka-nightclub.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
