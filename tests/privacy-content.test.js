@@ -9,6 +9,11 @@ describe('privacy.html', () => {
     expect(html).toMatch(/no advertising or tracking cookies/i);
   });
 
+  it('discloses the contact form and its Formspree processor', () => {
+    expect(html).toMatch(/contact form/i);
+    expect(html).toMatch(/formspree/i);
+  });
+
   it('provides a contact method', () => {
     expect(html).toMatch(/mailto:/);
   });
