@@ -4,7 +4,7 @@ import path from 'node:path';
 import { renderSpotPageHtml, buildSpotPath } from '../site/src/spot-page.js';
 import { buildSitemapXml } from '../site/src/sitemap.js';
 
-const SITE_URL = 'https://REPLACE_WITH_YOUR_DOMAIN';
+const SITE_URL = 'https://ytakakura0103-hash.github.io/japan-travel-guide';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const siteDir = path.join(__dirname, '..', 'site');

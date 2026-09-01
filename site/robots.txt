@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://REPLACE_WITH_YOUR_DOMAIN/sitemap.xml
+Sitemap: https://ytakakura0103-hash.github.io/japan-travel-guide/sitemap.xml

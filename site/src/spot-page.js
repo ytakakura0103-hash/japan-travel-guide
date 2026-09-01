@@ -12,7 +12,7 @@ function renderDescriptionHtml(activity) {
     .join('');
 }
 
-export function renderSpotPageHtml(activity, { siteUrl = 'https://REPLACE_WITH_YOUR_DOMAIN' } = {}) {
+export function renderSpotPageHtml(activity, { siteUrl = 'https://ytakakura0103-hash.github.io/japan-travel-guide' } = {}) {
   const canonicalUrl = `${siteUrl}/${buildSpotPath(activity.id)}`;
   const officialLinkHtml = activity.officialUrl
     ? `<a class="official-link" href="${escapeHtml(activity.officialUrl)}" target="_blank" rel="noopener">Official site</a>`

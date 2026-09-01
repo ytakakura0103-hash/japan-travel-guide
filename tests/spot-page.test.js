@@ -61,9 +61,9 @@ describe('renderSpotPageHtml', () => {
     expect(html).not.toContain('<script> in it');
   });
 
-  it('defaults to the placeholder domain when no siteUrl is given', () => {
+  it('defaults to the live site domain when no siteUrl is given', () => {
     const html = renderSpotPageHtml(baseActivity);
-    expect(html).toContain('https://REPLACE_WITH_YOUR_DOMAIN/spots/senso-ji-temple.html');
+    expect(html).toContain('https://ytakakura0103-hash.github.io/japan-travel-guide/spots/senso-ji-temple.html');
   });
 
   it('renders the long-form description as separate paragraphs when present', () => {
