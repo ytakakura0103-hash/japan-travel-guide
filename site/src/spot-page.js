@@ -1,5 +1,4 @@
 import { escapeHtml, buildGoogleMapsUrl, renderTagsHtml, renderPhotoHtml } from './activities-ui.js';
-import { renderAffiliateLinkHtml } from './affiliate.js';
 
 export function buildSpotPath(id) {
   return `spots/${id}.html`;
@@ -15,7 +14,6 @@ function renderDescriptionHtml(activity) {
 
 export function renderSpotPageHtml(activity, { siteUrl = 'https://REPLACE_WITH_YOUR_DOMAIN' } = {}) {
   const canonicalUrl = `${siteUrl}/${buildSpotPath(activity.id)}`;
-  const affiliateLinksHtml = (activity.affiliateLinks || []).map(renderAffiliateLinkHtml).join('');
   const officialLinkHtml = activity.officialUrl
     ? `<a class="official-link" href="${escapeHtml(activity.officialUrl)}" target="_blank" rel="noopener">Official site</a>`
     : '';
@@ -79,7 +77,7 @@ export function renderSpotPageHtml(activity, { siteUrl = 'https://REPLACE_WITH_Y
       <p class="activity-maps">${mapsLinkHtml}</p>
       <p class="activity-access">${escapeHtml(activity.access)}</p>
       <div class="activity-tags">${renderTagsHtml(activity.interests)}</div>
-      <div class="activity-links">${affiliateLinksHtml}${officialLinkHtml}</div>
+      <div class="activity-links">${officialLinkHtml}</div>
     </div>
   </main>
 </body>

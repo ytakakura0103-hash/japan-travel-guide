@@ -26,9 +26,10 @@ describe('about.html', () => {
     expect(html).toMatch(/how listings are chosen and updated/i);
   });
 
-  it('discloses how the site makes money', () => {
-    expect(html).toMatch(/how this site makes money/i);
-    expect(html).toMatch(/affiliate links/i);
+  it('explains how this site was built', () => {
+    expect(html).toMatch(/how this site was built/i);
+    expect(html).toMatch(/claude code/i);
+    expect(html).toMatch(/no ads or affiliate links/i);
   });
 
   it('embeds Person structured data linked to the About page', () => {
@@ -37,7 +38,7 @@ describe('about.html', () => {
     const jsonLd = JSON.parse(match[1]);
     expect(jsonLd['@type']).toBe('AboutPage');
     expect(jsonLd.mainEntity['@type']).toBe('Person');
-    expect(jsonLd.mainEntity.name).toBe('Yusuke');
+    expect(jsonLd.mainEntity.name).toBe('Yusuke Takakura');
   });
 
   it('uses the cat photo avatar (not the AI-generated portrait)', () => {

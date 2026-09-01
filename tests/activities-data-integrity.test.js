@@ -10,7 +10,7 @@ const ALLOWED_INTERESTS = new Set([
   'pop-culture', 'traditional-culture', 'art-museums', 'local-markets', 'cafes-sweets',
   'onsen', 'festivals', 'architecture', 'photo-spots', 'family', 'outdoor', 'backstreets', 'seasonal-nature',
 ]);
-const REQUIRED_FIELDS = ['id', 'title', 'city', 'interests', 'summary', 'description', 'access', 'address', 'affiliateLinks'];
+const REQUIRED_FIELDS = ['id', 'title', 'city', 'interests', 'summary', 'description', 'access', 'address'];
 const TEXT_FIELDS = ['title', 'summary', 'description', 'access', 'address'];
 
 // A literal backslash character immediately followed by 'n' in decoded string
@@ -50,11 +50,6 @@ describe('activities.json data integrity', () => {
       }
     }
     expect(bad).toEqual([]);
-  });
-
-  it('has exactly one affiliate link per entry', () => {
-    const bad = activities.filter((a) => !Array.isArray(a.affiliateLinks) || a.affiliateLinks.length !== 1);
-    expect(bad.map((a) => a.id)).toEqual([]);
   });
 
   it('never contains a literal backslash-n where a real line break was intended', () => {

@@ -11,7 +11,6 @@ const baseActivity = {
   interests: ['temples-shrines'],
   officialUrl: 'https://www.senso-ji.jp/',
   isLocalPick: true,
-  affiliateLinks: [{ label: 'Book a guided tour', url: 'https://www.klook.com/', provider: 'Klook' }],
 };
 
 describe('buildSpotPath', () => {
@@ -44,10 +43,9 @@ describe('renderSpotPageHtml', () => {
     expect(jsonLd.url).toBe('https://example.com/spots/senso-ji-temple.html');
   });
 
-  it('renders the Google Maps link, affiliate link, official link, and Local Pick badge', () => {
+  it('renders the Google Maps link, official link, and Local Pick badge', () => {
     const html = renderSpotPageHtml(baseActivity, { siteUrl: 'https://example.com' });
     expect(html).toContain('Open in Google Maps');
-    expect(html).toContain('affiliate-link');
     expect(html).toContain('official-link');
     expect(html).toContain('local-pick-badge');
   });

@@ -4,13 +4,9 @@ import { readFileSync } from 'node:fs';
 const html = readFileSync(new URL('../site/privacy.html', import.meta.url), 'utf-8');
 
 describe('privacy.html', () => {
-  it('discloses the use of cookies and advertising', () => {
-    expect(html).toMatch(/cookies/i);
-    expect(html).toMatch(/Google AdSense|advertising/i);
-  });
-
-  it('discloses the use of affiliate links', () => {
-    expect(html).toMatch(/affiliate/i);
+  it('discloses that no ads, affiliate links, or tracking cookies are used', () => {
+    expect(html).toMatch(/doesn't run ads or affiliate links/i);
+    expect(html).toMatch(/no advertising or tracking cookies/i);
   });
 
   it('provides a contact method', () => {

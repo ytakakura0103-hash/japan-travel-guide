@@ -1,5 +1,3 @@
-import { renderAffiliateLinkHtml } from './affiliate.js';
-
 export function escapeHtml(value) {
   if (typeof value !== 'string') {
     return value;
