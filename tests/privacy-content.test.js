@@ -14,7 +14,7 @@ describe('privacy.html', () => {
     expect(html).toMatch(/formspree/i);
   });
 
-  it('provides a contact method', () => {
-    expect(html).toMatch(/mailto:/);
+  it('links to the contact page', () => {
+    expect(html).toContain('href="contact.html"');
   });
 });
