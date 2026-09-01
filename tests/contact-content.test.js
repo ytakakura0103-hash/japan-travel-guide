@@ -10,7 +10,7 @@ describe('contact.html', () => {
 
   it('collects name, email, and message', () => {
     expect(html).toMatch(/name="name"/);
-    expect(html).toMatch(/name="_replyto"/);
+    expect(html).toMatch(/name="email"/);
     expect(html).toMatch(/name="message"/);
   });
 
