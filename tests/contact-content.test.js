@@ -18,6 +18,10 @@ describe('contact.html', () => {
     expect(html).toMatch(/name="_gotcha"/);
   });
 
+  it('forces the Formspree confirmation page to English', () => {
+    expect(html).toMatch(/name="_language"\s+value="en"/);
+  });
+
   it('provides a mailto fallback', () => {
     expect(html).toMatch(/mailto:/);
   });
