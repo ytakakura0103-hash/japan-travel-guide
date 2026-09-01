@@ -16,7 +16,7 @@ Curious City（`japan-travel-guide`）は当初、広告・アフィリエイト
 - 未公開（デプロイ先未設定）
 - サイト内の複数箇所（canonical URL、og:url、JSON-LD、`sitemap.xml`、`robots.txt`）に `REPLACE_WITH_YOUR_DOMAIN` のプレースホルダーが残っている
 - リポジトリ直下に `README.md` が存在しない
-- Gitコミットの作者メールが本名（`REDACTED_EMAIL`）のまま
+- Gitコミットの作者メールが本名の個人アドレスのまま
 
 ## 決定事項
 
