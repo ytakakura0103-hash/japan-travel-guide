@@ -62,6 +62,7 @@ export function renderSpotPageHtml(activity, { siteUrl = 'https://REPLACE_WITH_Y
     <div class="nav-links">
       <a href="../index.html">Home</a>
       <a href="../about.html">About</a>
+      <a href="../contact.html">Contact</a>
       <a href="../privacy.html">Privacy</a>
     </div>
   </nav>

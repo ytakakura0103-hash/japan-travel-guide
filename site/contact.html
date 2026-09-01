@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contact | Curious City</title>
+  <meta
+    name="description"
+    content="Get in touch with Yusuke Takakura about Curious City — corrections, local tips, or roles where an AI-directed build like this one might be a fit."
+  />
+  <link rel="canonical" href="https://REPLACE_WITH_YOUR_DOMAIN/contact.html" />
+  <meta name="robots" content="noindex" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Karla:wght@400;500;700&family=IBM+Plex+Mono:wght@500&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="styles/main.css" />
+  <!--
+    FORM SETUP: This form posts to Formspree (https://formspree.io), a free
+    service that forwards static-site form submissions to an inbox — no
+    backend server needed. To activate it:
+      1. Sign up free at https://formspree.io with curiouscity0103@gmail.com
+      2. Create a new form and copy its form ID (e.g. "xzznjqm")
+      3. Replace REPLACE_WITH_FORMSPREE_ID in the form action below with it
+      4. Submit the form once yourself — Formspree sends a confirmation
+         email you have to click before it starts forwarding submissions
+  -->
+</head>
+<body>
+  <nav>
+    <a href="index.html" class="site-brand">Curious City</a>
+    <div class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="privacy.html">Privacy</a>
+    </div>
+  </nav>
+  <main>
+    <h1>Contact</h1>
+    <p>
+      Corrections, local tips, general questions, or a role where an AI-directed build like this one might be
+      a fit — send a message and I'll get back to you. See the <a href="about.html">About page</a> for more on
+      who's behind this site and how it was built.
+    </p>
+    <hr class="divider" />
+    <form class="contact-form" action="https://formspree.io/f/REPLACE_WITH_FORMSPREE_ID" method="POST">
+      <label for="contact-name">Name
+        <input type="text" id="contact-name" name="name" required />
+      </label>
+      <label for="contact-email">Email
+        <input type="email" id="contact-email" name="_replyto" required />
+      </label>
+      <label for="contact-message">Message
+        <textarea id="contact-message" name="message" rows="6" required></textarea>
+      </label>
+      <input type="hidden" name="_subject" value="New message from Curious City contact form" />
+      <label class="contact-form-honeypot" aria-hidden="true">
+        Leave this field blank
+        <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" />
+      </label>
+      <button type="submit" class="search-submit">Send message</button>
+    </form>
+    <p>
+      Prefer email? Reach me directly at
+      <a href="mailto:curiouscity0103@gmail.com">curiouscity0103@gmail.com</a>.
+    </p>
+  </main>
+</body>
+</html>
